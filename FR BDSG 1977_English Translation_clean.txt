@@ -1,0 +1,391 @@
+
+
+Law on protection against misuse of personal data in data processing (Bundesdatenschutzgesetz - BDSG)
+From 27 January 1977
+
+
+First Section
+General Rules
+
+Section 1 Task and subject of data protection
+
+(1) The task of data protection is to ensure the protection of personal data against misues in 
+the course of their storage, transmission, modification
+and deletion (data processing). 
+
+(2) This law pertains to personal data proccessed: 
+1. by authorities or other public bodies (§7), '
+2. by natural or legal persons, companies or other associations of persons under private law for their own purposes (§ 22),
+3. natural or legal persons, companies or other associations of persons
+of private law on a commercial basis for third parties
+Purposes (§ 31)
+
+Section 2 Definitions
+(1) For the purposes of this law, personal data is
+individual information about the personal or factual
+circumstances of a specific or identifiable natural
+person (data subject).
+
+(2) For the purposes of this Act
+
+1. storage (storage) means the collection, recording or storage of 
+data on a data carrier for the purpose of their further use,
+
+2.Transfer (transmission) means the publication of stored data or data obtained directly through data processing to third parties in the
+such a way that the data is stored by the body that receives the data or 
+for inspection, are kept available for retrieval by name,
+
+3. Modify (modify) means change the content of stored data,
+
+4.Erasure (deletion) means the rendering unrecognizable of
+stored data, regardless of the procedures used in the process.
+
+(3) For the purposes of this Act
+1. storing entity means any of the persons or entities
+named in the first sentence of Section 1 (2) that
+stores data for itself or has it stored by others,
+
+2. Third party any person or entity outside the storing
+entity, except the data subject or those
+persons and entities involved in
+the cases of number l within the scope of
+this Act,it shall act on behalf of,
+
+3. A data file is a collection of data with a
+similar structure, which is recorded and
+sorted according to certain characteristics,
+and rearranged and evaluated according to
+other certain characteristics regardless of the procedures used;
+it does not include files and collections of files, unless they can 
+be rearranged and evaluted by automated means. 
+
+Section 3 Legality of Data Processing
+
+The processing of personal data that are protected by this law, is in every of its 
+phases referred to in § 1 para. 1 only permissible, if: 
+
+1. this Act or any other legal provision permits, or 
+2. in order to rectify data stored about the data subject if they are incorrect
+3. in order to recover data stored about the data subject if neither their correctness or incorrectness can be ascertained
+or after the originally fulfilled conditions have ceased to apply to the stored data 
+4. in order to delete data stored, if storage was not permissible or optionally after the originally fulfilled requirements for storage
+have ceased to apply 
+
+Section 4 Rights of the Data Subject
+Everyone shall have the right, in accordance with the provisions of this Act
+to:
+1. information about the data stored about his person,
+2. correction of the personal data stored about him or her
+data, if they are incorrect,
+3. blocking of personal data stored about him or her if neither its accuracy nor its inaccuracy can be ascertained or after the original conditions for 
+its storage have ceased to be met,
+4. deletion of personal data stored about him/her, if its storage was inadmissible, or
+- optionally, in addition to the right to blocking - after the lapse of the originally fulfilled prerequisites for storage.
+
+Section 5 Data Secrecy
+(1) The persons employed for data processing within the scope of Section 1 paragraph 2 or on behalf of the persons or bodies 
+mentioned therein shall be prohibited from using protected personal data in an unauthorized manner for any purpose other than
+that which is specified or another lawful purpose, or to fulfill legal requirements to process, disclose, make accessible, or 
+otherwise use data in a lawful fashion. 
+
+(2) Upon commencement of their activities, these persons shall be bound in accordance with paragraph 1. 
+Their obligations shall continue to exist after the end of their activity.
+
+Section 6 Organizational and Technical Measures
+(1) Any person who, within the scope of section 1(2) or on behalf of the persons or bodies referred to therein shall 
+take the technical and organizational measures necessary to ensure the implementation of the provisions of this Act,
+in particular the requirements specified in the Annex to this Act. Measures shall only be necessary
+if their costs is in reasonable proportion to the intended protective purpose. 
+
+(2) The Federal Government is authorized, by ordinance, with the consent of the Bundesrat to implement the requirements specified in the Annex
+in accordance with the state of the art.
+
+For purposes of this Act, the state of the art in technology and organization means
+the state of development of advanced processes, equipment or methods of operation
+which demonstrate the practical suitability of an implementation measure. Reference shall be made, in determining the state of the art, 
+to comparable processes, facilities, or methods of operation, which have been successfully tested. 
+
+Second Section
+Data Processing by Public Authorities and Other Public Bodies
+
+Section 7 Scope
+
+(1) The provisions of this Section shall apply to public authorities and other public bodies of the Federation, of public corporations, institutions and foundations under federal directives as well as to associations of such corporations, institutions and foundations. However, only Sections 15 to 21 of the provisions of this Section shall apply to public-law enterprises participating in competition.
+
+(2) To the extent that data protection is not regulated by state law, the provisions of this section, with the exception of sections 15 to 21, shall also apply to
+
+1. authorities and other public bodies of the Länder, of the municipalities and associations of municipalities and of other legal persons under public law subject to the supervision of the Land and for their associations, insofar as they implement federal law,
+2. authorities and other public bodies of the Länder, insofar as they act as organs of the administration of justice, except in administrative matters
+The provisions of this section shall not apply to public-law enterprises participating in the competition and insofar as they meet the requirements of sentence 1 No. 1. 
+(3) By way of derogation from subsections (1) and (2), sections 23 to 27 shall apply mutatis mutandis in place of sections 9 to 14 insofar as the data processing relates to previous, existing or future legal relationships under service or employment law.
+
+Section 8 Processing of Personal Data on Behalf of the Subject
+(1) The provisions of this Section shall also apply to the bodies referred to in Section 7 (1) and (2) to the extent that personal data are processed on their behalf by other persons or bodies. In such cases, the contractor shall be carefully selected with particular regard to the suitability of the technical and organizational measures taken by it (Section 6 (1)). 
+(2) With the exception of Sections 15 to 21, the provisions of this Section shall not apply to the bodies referred to in Section 7 (1) and (2) insofar as they process personal data on behalf of a client. In such cases, the processing of personal data in each of its phases referred to in Section 1 (1) shall be permitted only within the scope of the client's instructions. 
+(3) Sections 15 to 21 shall apply mutatis mutandis to legal entities, companies and other associations of persons under private law in which the Federation or a federally independent corporation, institution or foundation under public law holds the majority of the shares or is entitled to the majority of the votes, insofar as these persons or associations of persons act on behalf of the Federation in the cases referred to in subsection 1 sentence 1.
+
+Section 9 Data Storage and Modification
+1) The storage and modification of personal data is permissible if it is necessary for the lawful fulfillment of the tasks within the competence of the storing agency. 
+(2) If data is collected from the data subject on the basis of a legal provision, the data subject shall be informed of it, otherwise of the voluntary nature of the data.
+
+Section 10 Data Transmission within the Public Domain
+(1) The transmission of personal data to public authorities and other public bodies shall be permissible if it is necessary for the lawful performance of tasks for which the transmitting body or the recipient is responsible. If the personal data are subject to professional or special official secrecy (Section 45 sentence 2 no. 1, sentence 3) and if they have been transmitted to the transmitting agency by the person bound to secrecy in the exercise of his professional or official duty, it shall also be necessary for the permissibility of the transmission that the recipient requires the data to fulfill the same purpose for which the transmitting agency received them. 
+(2) The transmission of personal data to bodies of public religious societies shall be permissible by analogous application of the provisions governing the transmission of data to public authorities and other public bodies, provided that it is ensured that sufficient data protection measures have been taken at the recipient's premises.
+
+Section 11 Data Transfer outside the Public Domain
+The transmission of personal data to persons and bodies other than those specified in Section 10 shall be permissible if it is necessary for the lawful performance of the tasks for which the transmitting body is responsible or if the recipient can credibly demonstrate a legitimate interest in knowing the data to be transmitted and if this does not adversely affect the interests of the person concerned which are worthy of protection. If the personal data is subject to professional or special official secrecy (Section 45 sentence 2 no. 1, sentence 3) and if it has been transmitted to the transmitting agency by the person bound to secrecy in the exercise of his or her professional or official duty, it shall also be necessary for the permissibility of the transmission that the same conditions exist under which the person bound to secrecy would be permitted to transmit the data. For the transmission to authorities and other bodies outside the scope of this Act as well as to supranational and intergovernmental bodies, sentences 1 and 2 shall apply in accordance with the laws and agreements applicable to such transmission. .
+
+Section 12 Publication of Stored Data
+(1) Authorities and other public bodies shall provide 
+1. the nature of the personal data stored by them or on their behalf, 
+2. the tasks for the fulfillment of which knowledge of this data is required, 
+3. the group of persons concerned, 
+4. the entities to which they regularly transmit personal data, and
+ 5. the type of data to be transmitted 
+immediately after first being stored in the publication journal for official notices existing for its area. Upon request, the previous announcements shall be made available to the party concerned. 
+(2) Paragraph 1 shall not apply 
+1. for the authorities for the protection of the constitution, the Federal Intelligence Service, the Military Counter-Intelligence Service as well as other authorities of the Federal Minister of Defense, insofar as the security of the Federation is affected, the Federal Criminal Police Office, the authorities of the public prosecutor's office and the police as well as for federal and state financial authorities, insofar as they store personal data in files for the purpose of monitoring and auditing in the performance of their statutory duties within the scope of application of the Fiscal Code,
+2. for the personal data which are therefore blocked in accordance with § 14 para. 2 sentence 2 because they may not be deleted in accordance with § 14 para. 3 sentence 1 on the basis of statutory storage regulations.
+3. for registers required by law or other data management bodies required by law or published administrative regulations, insofar as the type of personal data stored in them, the tasks for the fulfillment of which knowledge of these data is required, the group of persons concerned, the bodies to which personal data are regularly transmitted and the type of data to be transmitted are specified in law or published administrative regulations.
+(3) The Federal Government shall be authorized to determine by ordinance, which shall not require the consent of the Bundesrat, the gazette and the publication procedure for the authorities and other public bodies referred to in Section 7 (1) sentence 1. The Land governments shall be authorized to determine the gazette and the publication procedure for the authorities and other public bodies referred to in the first sentence of Section 7(2) by ordinance.
+
+Section 13 Information owed to the Data Subject
+(1) Upon request, the data subject shall be provided with information about the data stored about him or her. . The request shall specify the type of personal data about which the information is to be provided. The storing agency shall determine the procedure, in particular the form in which the information is to be provided, at its due discretion. 
+(2) Paragraph 1 shall not apply in the cases of Section 12 (2) Nos. 1 and 2. 
+(3) The provision of information shall be omitted insofar as 
+1. the disclosure would jeopardize the lawful performance of the tasks for which the storing agency is responsible , 
+2. the information would jeopardize public safety or order or otherwise be detrimental to the welfare of the Federation or a Land, 
+3. the personal data or the fact of their storage must be kept secret in accordance with a legal provision or by their nature, namely because of the overriding legitimate interests of a third party, 
+4. the information relates to the transmission of personal data to the authorities specified in Section 12 (2) No. 1. 
+(4) The provision of information shall be subject to a fee. The Federal Government shall be authorized, by ordinance and with the consent of the Bundesrat, to specify in more detail the matters for which a fee is payable and the amount of the fee, and to permit exemptions from the obligation to pay fees. The fees may only be levied to cover the administrative expenses directly attributable to official acts of this kind. Exceptions to the obligation to pay fees shall be permitted in particular in cases where special circumstances justify the assumption that personal data are stored incorrectly or inadmissibly, or where the information has led to the correction or deletion of stored personal data. . In all other cases, the Administrative Costs Act shall apply.
+
+Section 14 Correction, Blocking and Deletion of Data
+(1) Personal data shall be corrected if they are inaccurate.
+(2) Personal data shall be blocked if their accuracy is disputed by the data subject and neither their accuracy nor their inaccuracy can be determined. It shall also be blocked if knowledge of it is no longer required by the storing agency for the lawful fulfillment of the tasks for which it is responsible. Blocked data shall be marked accordingly; it may no longer be processed, in particular transmitted, or used in any other way, unless its use is indispensable for scientific purposes, to remedy an existing need for evidence or for other reasons that are in the overriding interest of the storing agency or a third party, or the data subject has consented to its use.
+(3) Personal data may be deleted if knowledge thereof is no longer necessary for the storing agency to lawfully perform the tasks for which it is responsible and there is no reason to assume that the deletion would adversely affect the interests of the data subject which are worthy of protection. They shall be deleted if their storage was inadmissible or if, in the cases of paragraph 2 sentence 2, the data subject so requests.
+
+Section 15 Implementation of Data Protection in the Federal Administration 
+The supreme federal authorities, the Board of Management of Deutsche Bundesbahn, and the federal corporations, institutions and foundations under public law over which only legal supervision is exercised by a supreme federal authority shall each ensure the implementation of this Act and other legal provisions on data protection for their respective areas of responsibility. In particular, they shall ensure that
+1. an overview of the type of personal data stored and of the tasks for the fulfillment of which knowledge of these data is required, as well as of their regular recipients is maintained and
+2. the proper application of the data processing programs with the help of which personal related data are to be processed is monitored. .
+
+Section 16 General Administrative Provisions
+The supreme federal authorities and the Board of Management of Deutsche Bundesbahn shall each issue general administrative regulations for their respective areas of business governing the implementation of this Act with regard to the particular circumstances in their respective areas of business and the special requirements for data protection arising therefrom.
+
+Section 17 Appointment of a Federal Commissioner for Data Protection
+(1) A Federal Commissioner for Data Protection shall be appointed. The Federal Commissioner shall be appointed by the Federal President on the proposal of the Federal Government. He must have reached the age of 35 at the time of his appointment.
+(2) The Federal Commissioner shall take the following oath before the Bun minster of the Interior: 
+"I swear that I will devote my strength to the welfare of the German people, increase its benefit, avert harm from it, uphold and defend the Basic Law and the laws of the Federation, fulfill my duties conscientiously and practice justice against everyone. So help me God." 
+The oath may also be taken without religious affirmation .
+(3) The term of office of the Federal Commissioner shall be five years. One-time reappointment is permissible. 
+(4) The Federal Commissioner shall have an official relationship under public law with the Federation in accordance with the provisions of this Act. In the exercise of his office, he shall be independent and subject only to the law. He shall be subject to the legal supervision of the Federal Government. 
+(5) The Federal Commissioner shall be established at the Federal Minister of the Interior. He shall be subject to the official supervision of the Federal Minister of the Interior. The Federal Commissioner shall be provided with the personnel and material resources necessary for the performance of his duties; they shall be shown in a separate chapter in the sectional budget of the Federal Minister of the Interior. 
+(6) If the Federal Commissioner is temporarily prevented from exercising his office, the Federal Minister of the Interior may commission a representative to perform the duties. The Federal Commissioner shall be heard on this matter.
+
+Section 18 Legal Statuts of the Federal Commissioner for Data Protection 
+The official relationship of the Federal Commissioner for Data Protection shall commence upon delivery of the certificate of appointment. It ends 
+1. with the expiry of the term of office, 
+2. with the dismissal.
+The Federal President shall dismiss the Federal Commissioner if the latter so requests or, on the proposal of the Federal Government, if there are grounds justifying dismissal from office in the case of a judge for life. In the event of termination of office, the Federal Commissioner shall receive a certificate executed by the Federal President. A dismissal shall become effective upon delivery of the Ur certificate. At the request of the Federal Minister of the Interior, the Federal Commissioner is obliged to continue in office until his successor is appointed. 
+(2) The Federal Commissioner may not hold any other salaried office, trade or profession in addition to his office, and may not be a member of the management or supervisory board or administrative board of a profit-making enterprise or of a government or legislative body of the Federation or of a Land. He may not give extrajudicial opinions for a fee . 
+(3) The Federal Commissioner shall notify the Federal Minister of the Interior of any gifts he receives in connection with his office. The Federal Minister of the Interior shall decide on the use of the gifts. 
+(4) The Federal Commissioner shall be obliged, even after termination of his office, to maintain secrecy about matters of which he has become officially aware. This shall not apply to communications in the course of official business or to facts which are obvious or which, in view of their importance, do not require secrecy. Even when no longer in office, the Federal Commissioner for the Interior may not testify or make statements about such matters in or out of court without the approval of the Federal Minister of the Interior. This shall be without prejudice to the statutory obligation to report criminal offenses and, in the event of a threat to the free democratic order, to intervene to preserve it.
+ (5) Permission to testify as a witness shall be refused only if the testimony would be detrimental to the welfare of the Federation or of a German Land or would seriously jeopardize or considerably impede the performance of public duties. Permission to give an expert opinion may be refused if giving it would be detrimental to the interests of the service. § Section 28 of the Federal Constitutional Court Act (Gesetz über das Bundesverfassungsge richt) in the version promulgated on 3 February 1971 (Federal Law Gazette I p. 105), as amended by the Introductory Act to the Criminal Code of 2 March 1974 (Federal Law Gazette I p. 469), shall remain unaffected. 
+(6) The Federal Commissioner shall receive, from the beginning of the calendar month in which the term of office commences until the end of the calendar month in which the term of office ends, in the case of subsection 1 sentence 6 until the end of the month in which the term of office ends, official emoluments in the amount of the remuneration due to a federal civil servant in grade B 9. The Federal Travel Expenses Act and the Federal Relocation Expenses Act shall apply mutatis mutandis. In all other respects, sections 13 to 20 of the Federal Ministers Act in the version promulgated on July 27, 1971 (Federal Law Gazette I p. 1166), as last amended by the Seventh Act Amending Civil Service Law and Remuneration Regulations of December 20, 1974 (Federal Law Gazette I p. 3716), shall apply with the proviso that the two-year term of office in section 15(1) of the Federal Ministers Act shall be replaced by a term of lunl years.
+
+Section 19 Tasks of the Federal Commissioner for Data Protection 
+(1) The Federal Commissioner for Data Protection shall monitor compliance with the provisions of this Act and other provisions on data protection by the authorities and other public bodies of the Federation referred to in Section 7 (1), except the courts, insofar as they do not act in administrative matters. To this end, it may make recommendations for improving data protection; in particular, it may advise the Federal Government and individual ministers as well as the other authorities and other public bodies referred to in Section 7(1) on data protection issues.
+(2) At the request of the German Bundestag or the Federal Government, the Federal Commissioner shall prepare expert opinions and submit reports. In addition, he shall submit an activity report to the German Bundestag on a regular annual basis, for the first time on January 1, 1979. At the request of the German Bundestag, the Petitions Committee of the German Bundestag, or the Federal Government, the Federal Commissioner may also investigate matters and events directly affecting his area of responsibility. The Commissioner may contact the German Bundestag at any time.
+(3) The authorities and other bodies referred to in the first sentence of paragraph 1 shall be obliged to support the Federal Commissioner and his agents in the performance of their duties. In particular, they shall 
+1. to provide information on their questions and to grant access to all documents and files relating to the processing of personal data, in particular to the stored data and data processing programs, 
+2. to grant access to all service rooms at any time.
+Sentences 1 and 2 shall apply to the federal authorities referred to in Section 12 (2) No. 1, subject to the proviso that assistance shall be granted only to the Federal Commissioner himself/herself and to the agents specially entrusted with this task by him/her in writing. Sentence 2 shall not apply to the federal authorities referred to in Section 12 (2) No. 1 insofar as the supreme federal authority responsible in each individual case determines that the inspection of documents and files jeopardizes the security of the Federation or of a Land.
+(4) The Federal Commissioner shall maintain a register of automatically operated files in which personal data are stored. The re gister may be inspected by anyone. The authorities and other bodies referred to in paragraph 1, first sentence, shall be obliged to notify the Federal Commissioner of the files they operate automatically to . The Federal Office for the Protection of the Constitution, the Federal Intelligence Service and the Military Counter-Intelligence Service shall be exempt from the obligation to notify . A special register shall be kept of the files of the other federal authorities mentioned in Section 12(2)(1). It shall be limited to an overview of the type and purpose of use. Sentence 2 shall not apply to this register. The Federal Minister of the Interior shall regulate the details by statutory order.
+(5) The Federal Commissioner shall work towards cooperation with the authorities and other public bodies responsible for monitoring compliance with the provisions on data protection in the Länder and with the supervisory authorities pursuant to Section 30.
+
+Section 20 Investigations by the Federal Commissioner for Data Protection
+(1) If the Federal Commissioner for Data Protection discovers violations of the provisions of this Act or of other data protection provisions or other deficiencies in the processing of personal data, he or she shall complain to 
+1. in the case of the federal administration, vis-à-vis the competent supreme federal authority,
+ 2. in the case of the Federal Railway, to the Board of Management, 
+3. in the case of corporations, institutions and foundations under public law which are indirectly owned by the Federal Government and in the case of associations of such corporations, institutions and foundations, to the Board of Management or to the body otherwise authorized to represent them and shall invite them to submit their comments within a period to be determined by the Federal Commissioner. In the cases referred to in sentence 1 no. 3, the Federal Commissioner shall also inform the competent supervisory authority at the same time. 
+(2) The Federal Commissioner may refrain from submitting a complaint or waive the right to a statement from the agency concerned if the deficiencies are not significant. 
+(3) Together with the complaint, the Federal Commissioner may make proposals for remedying the deficiencies and otherwise improving data protection. . 
+(4) The statement to be submitted pursuant to paragraph 1 sentence 1 shall also contain a description of the measures taken on the basis of the objection raised by the Federal Commissioner. The bodies referred to in subsection 1 sentence 1 no. 3 shall forward a copy of their statement to the Federal Commissioner to the competent supervisory authority.
+
+Section 21 Appeals to the Federal Commissioner for Data Protection
+Anyone may contact the Federal Commissioner for Data Protection if he or she is of the opinion that his or her rights have been violated in the processing of his or her personal data by the authorities or other public bodies of the Federation referred to in Section 7 (1), or by the courts, unless they are involved in administrative matters.
+
+Third Section
+Data Processing by Non-Pubic Bodies for Internal Purposes
+
+Section 22 Scope 
+(1) The provisions of this section shall apply to natural and legal persons, companies and other associations of persons under private law insofar as they process protected personal data as a means of fulfilling their business purposes or objectives. With the exception of §§28 to 30, they shall also apply, in accordance with sentence 1, to public-law enterprises participating in competition, insofar as they meet the requirements of § 7 (1) sentence 1 or § 7 (2) sentence 1 no. 1.
+(2) The provisions of this section shall also apply to the persons, companies and other associations of persons referred to in subsection 1 to the extent that personal data are processed on their behalf by other persons or entities. In such cases, the contractor shall be selected with particular attention to the suitability of the technical and organizational measures taken by it (Section 6 (1)).
+(3) The provisions of this Section shall not apply to the persons, entities and other associations of persons referred to in subsection (1), which perform public administration tasks 
+
+Section 23 Information Storage 
+Personal data may be stored at within the scope of the purpose of a contractual or quasi-contractual relationship with the data subject or to the extent that it is necessary to protect the legitimate interests of the agency storing the data and there is no reason to assume that the data subject's legitimate interests will be impaired. In derogation of sentence 1, storage in non-auto mated procedures is permissible if the data is taken un indirectly from generally accessible sources .
+
+Section 24 Data Transfer 
+(1) The transmission of personal data shall be permissible within the scope of the purpose of a contractual relationship or a relationship of trust similar to a contract with the data subject or to the extent necessary to protect the legitimate interests of the transmitting agency or a third party or of the general public and provided that the interests of the data subject worthy of protection are not thereby impaired. . Personal data which is subject to professional or special official secrecy (Section 45 sentence 2 no. 1, sentence 3) and which has been transmitted by the person obliged to maintain secrecy in the exercise of his professional or official duty may no longer be disclosed by the recipient. 
+(2) By way of derogation from paragraph (1), the transmission of data on members of a group of persons, summarized in lists or otherwise, shall be permitted if it relates to 
+1. names, 
+2. titles, academic degrees, 
+3. date of birth, 
+4. profession, industry or business name, 
+5th address, 
+6. call number 
+and there is no reason to assume that this would adversely affect the interests of the data subject that are worthy of protection. Data other than that specified in the preceding sentence may not be transmitted to indicate the data subject's membership of a group of persons.
+
+Section 25 Data Modification
+The alteration of personal data is permitted at within the scope of the purpose of a contractual or quasi-contractual relationship with the data subject or as far as it is necessary to protect the legitimate interests of the storing agency and there is no reason to assume that the data subject's interests worthy of protection will be impaired.
+
+Section 26 Information owed to the Data Subject
+(1) If data relating to the data subject is stored for the first time, the data subject shall be notified thereof, unless the data subject has become aware of the storage in some other way.
+(2) The data subject may request information about the data stored about him or her. If the data is processed automatically, the data subject may also request information about the persons and offices to which his or her data is regularly communicated. He/she shall specify the type of personal data about which information is to be provided. The information shall be provided in writing, unless another form of information is appropriate due to special circumstances. 
+(3) A fee may be charged for the provision of information, which may not exceed the direct costs incurred in providing the information. A fee may not be charged in cases where special circumstances justify the assumption that personal data are stored incorrectly or inadmissibly, or in which the information has to give that the personal data are to be correct or deleted under the condition of § 27 paragraph 3 sentence 2 first llalbsatz.
+(4) Paragraphs 1 and 2 shall not apply insofar as 
+1. the disclosure of personal data would significantly jeopardize the business purposes or objectives of the storing entity and legitimate interests of the Bcirotfencn are not opposed, 
+2. the competent public authority has determined vis-à-vis the storing authority that the disclosure of the personal data would jeopardize public security or order or otherwise be detrimental to the welfare of the Federation or a Land, 
+3. the personal data must be kept secret in accordance with a legal provision or by its nature, namely because of the overriding legitimate interests of a third party,
+4. the personal data are taken directly from generally accessible sources,
+5. the personal data is blocked in accordance with Section 27 (2) sentence 2 because it may not be deleted in accordance with Section 27 (3) sentence 1 due to legal, statutory or contractual retention requirements.
+
+Section 27 Correction, Blocking and Deletion of Data
+(1) Personal data shall be corrected if they are inaccurate. 
+(2) Personal data shall be blocked if its correctness is disputed by the data subject and neither its correctness nor its un correctness can be determined. They shall also be blocked if knowledge of them is no longer required to fulfill the purpose for which they were stored. The provisions on the procedure and the legal consequences of blocking in Section 14 (2) sentence 3 shall apply accordingly. 
+(3) Personal data may be deleted if knowledge of it is no longer required to fulfill the purpose for which it was stored and there is no reason to assume that the deletion will adversely affect the interests of the data subject which are worthy of protection. It shall be deleted if its storage was inadmissible or if the data subject so requests in the cases referred to in paragraph 2 sentence 2. Data on health conditions, criminal offences, misdemeanors and religious or political views must be deleted if their accuracy cannot be proven by the agency storing the data.
+
+Section 28 Appointment of a Data Protection Officer
+(1) The persons, companies and other associations of persons referred to in Section 22 (1) and (2) which automatically process personal data and which, as a rule, employ at least five employees on a permanent basis shall appoint a data protection officer in writing no later than one month after commencing their activities. The same shall apply if personal data is processed in any other way and if at least twenty employees are generally employed on a permanent basis. 
+(2) Only persons with the expertise and reliability required to perform their duties may be appointed as data protection officers. 
+(3) The Data Protection Officer shall be directly subordinate to the owner, the Board of Management, the Managing Director or any other legally or constitutionally appointed manager. He shall not be subject to instructions when applying his expertise in the field of data protection. He or she may not be disadvantaged in the performance of his or her duties. 
+(4) The Data Protection Officer shall be supported in the performance of his/her duties by the persons, companies or other associations of persons obliged to appoint him/her in accordance with paragraph 1.
+
+Section 29 Tasks of the Data Protection Officer
+The Data Protection Officer shall ensure that this Act and other data protection regulations are implemented. To this end, he may contact the supervisory authority (Section 30) in cases of doubt. He shall in particular 
+1. to keep an overview of the type of personal data stored and of the business purposes and objectives for the fulfillment of which knowledge of these data is required, of their regular recipients as well as of the type of automated data processing systems used , 
+2. to monitor the proper application of the data processing programs with the help of which personal related data are to be processed, 
+3. to take appropriate measures to familiarize persons involved in the processing of personal data with the provisions of this Act and other provisions on data protection, with regard to the special circumstances in this business area and the resulting special requirements for data protection. 
+4. assist in an advisory capacity in the selection of the persons involved in the processing of personal data.
+
+Section 30 Supervisory Authority
+1) The supervisory authority responsible under state law shall review the implementation of this Act and other provisions on data protection within the scope of this Section in individual cases if a data subject substantiates that his or her rights have been violated in the processing of his or her personal data by one of the persons, companies or other associations of persons specified in Section 22 (1) and (2). It shall support the data protection officer when he approaches it (Section 29 (1) sentence 2). 
+(2) The persons, companies and other associations of persons referred to in Section 22 (1) and (2) and the persons entrusted with their management shall, upon request, provide the supervisory authority without delay with the information required for the performance of its duties. The party required to provide information may refuse to provide information on questions the answering of which would expose him or one of the relatives referred to in Section 383 (1) Nos. 1 to 3 of the Code of Civil Procedure to the risk of criminal prosecution or proceedings under the Code of Administrative Offences.
+(3) The persons entrusted by the supervisory authority with monitoring shall be authorized, to the extent necessary to perform the tasks assigned to the supervisory authority, to enter the premises and business premises of the body, to conduct tests and inspections there and to inspect the business records, in particular the overview to be maintained by data protection officers pursuant to Section 29 sentence 3 no. 1, the stored personal data and the data processing programs. The party required to provide information must tolerate these measures. The fundamental right of inviolability of the home (Article 13 of the Basic Law) is restricted in this respect. 
+(4) The application of the Trade, Commerce and Industry Code to commercial enterprises subject to the provisions of this section shall remain unaffected. 
+(5) The state governments or the bodies authorized by them shall designate the supervisory authorities responsible for supervising the implementation of data protection in the application of this Section.
+
+Fourth Section
+Commercial, Non-public Data Processing for Third-Party Purposes
+
+Section 31 Scope
+(1) The following shall apply to natural and legal persons, companies and other associations of persons under private law as well as to public-law companies participating in the competition, provided they meet the requirements of Section 7 (1) sentence 1 or Section 7 (2) sentence 1 No. 1 
+1. Sections 32 to 35, insofar as these bodies store and transmit business protected personal data for the purpose of transmission; in this context, it is irrelevant whether the data are modified prior to transmission, 
+2. § 36, insofar as these bodies store protected personal data on a business basis for the purpose of changing it, change it in such a way that this data neither refers to a specific person nor allows such a person to be identified (anonymization), and communicate it in this form via , 
+3. section 37, insofar as these bodies process protected personal data on a businesslike basis on behalf of a service provider. 
+In addition, §§38 to 40 shall apply to natural and legal persons, companies and other associations of persons under private law. Sentence 2 shall not apply to legal persons, companies and other associations of persons under private law in which the public fland owns the majority of the shares or is entitled to the majority of the votes, insofar as these persons or associations of persons process commercially protected personal data on behalf of public authorities or other public bodies as service providers; § 8 (3) shall remain unaffected. 
+(2) The provisions referred to in paragraph 1 shall also apply to the persons, companies and other associations of persons referred to therein to the extent that the processing of personal data is carried out on their behalf by other persons or bodies. In such cases, the commissioned party shall be carefully selected with particular regard to the suitability of the technical and organizational measures taken by it (Section 6 (1)).
+
+Section 32 Data Storage and Modification 
+(1) The storage of personal data shall be permissible insofar as there is no reason to assume that the interests of the data subject which are worthy of protection will be impaired thereby. By way of derogation from sentence 1, storage shall be permitted if the data is taken directly from generally accessible sources. 
+(2) The transmission of personal data is permissible if the recipient has credibly demonstrated a legitimate interest in knowing them. The reasons for the existence of a justified interest and the means for their credible demonstration shall be recorded. 
+(3) By way of derogation from the first sentence of paragraph 2, the transmission of data relating to members of a group of persons, compiled in lists or otherwise, shall be permissible if it is limited to the name, title, academic degrees, address and an indication of the membership of the person concerned in this group of persons and there is no reason to assume that the interests of the person concerned which are worthy of protection will be adversely affected.
+
+Section 33 Data Modification 
+The modification of personal data is permissible insofar as this does not impair the interests of the person concerned that are worthy of protection.
+
+Section 34 Information owed to the Data Subject 
+(1) If data relating to the data subject are transmitted for the first time, the data subject shall be notified of the storage unless the data subject has become aware of the storage in some other way. Sentence 1 shall not apply to transfers pursuant to Section 32 (3). 
+(2) The data subject may request information about the data stored about him or her. If the data is processed automatically, the data subject may also request information about the persons and offices to which his or her data is regularly communicated. The information will be provided in writing, unless a different form of information is appropriate due to special circumstances. 
+(3) A fee may be charged for the provision of information, which may not exceed the directly attributable costs incurred in providing the information. A fee may not be charged in cases where special circumstances justify the assumption that personal data are stored incorrectly or inadmissibly, or where the information has shown that the personal data are to be corrected or deleted under the condition of Section 35 (3) sentence 2 first half-sentence. 
+(4) Paragraphs 1 and 2 shall not apply if the disclosure of the personal data would harm the overriding legitimate interests of a third party or, as determined by the competent public authority vis-à-vis the storing authority, would jeopardize public safety or order or otherwise be detrimental to the welfare of the Federation or a Land.
+
+Section 35 Correction, Blocking and Deletion of Data 
+(1) Personal data shall be corrected if they are inaccurate.
+(2) Personal data shall be blocked if its correctness is disputed by the data subject and neither its correctness nor its un correctness can be determined. It shall also be blocked at the end of the fifth calendar year after it has been stored. The provisions on the procedure and the legal consequences of blocking in Section 14 (2) sentence 3 shall apply mutatis mutandis. 
+(3) Personal data may be deleted insofar as there is no reason to assume that this will adversely affect the interests of the data subject which are worthy of protection. They shall be deleted if their storage was inadmissible or if, in the cases of paragraph 2 sentence 2, the data subject so requests . Data on health conditions, criminal offences, administrative offences and religious or political opinions shall be deleted if their accuracy cannot be proven by the agency storing the data.
+
+Section 36 Processing of Personal Data for the Purpose of Transmission in Anonymized Form 
+(1) The persons, companies and other associations of persons referred to in Section 31 (1) sentence 1 no. 2 shall be obliged to make the stored personal data anonymous. The characteristics with the aid of which anonymized data can be changed in such a way that they relate to a specific person or allow such a person to be identified shall be stored separately. These characteristics may no longer be combined with the anonymized data, unless the use of the data made possible by this is still necessary to fulfill the purpose of the storage or for scientific purposes. 
+(2) Sections 33 and 35 (3) sentence 1 and sentence 2 first half-sentence shall apply mutatis mutandis to the modification and deletion of personal data. 
+(3) In the case of automatic data processing, the implementation of the measures provided for in paragraph 1 shall be ensured by appropriate precautions.
+
+Section 37 Processing of Personal Data by Order 
+The persons, companies and other associations of persons referred to in Section 31 (1) Sentence 1 No. 3 shall be permitted to process personal data in each of the phases referred to in Section 1 (1) only within the scope of the Principal's instructions.
+
+Section 38 Data Protection Officer 
+The persons, companies and other associations of persons referred to in Section 31 shall appoint a data protection officer. The provisions on the data protection officer in sections 28 and 29 shall apply mutatis mutandis.
+
+Section 39 Reporting Obligations 
+(1) The persons, companies and other associations of persons referred to in § 31, as well as their branches and dependent branches shall register the commencement of their activities with the competent supervisory authority within one month. 
+(2) The application shall include the following information on the register kept by the supervisory authority:
+1 Name or company of the job, 
+2 Owners, directors, managers or other legally or constitutionally appointed managers and the persons entrusted with the management of data processing, 
+3 Address, 
+4 business purposes or objectives of the body and data processing, 
+5 Type of automated data processing equipment used ,
+6 Name of the data protection officer, 
+7 Nature of the personal data stored by it or on its behalf , 
+8 In case of regular transmission of personal data Recipient and type of the transmitted data 
+(3) Paragraph 1 shall apply to the termination of activity and to the change of the information communicated to in accordance with paragraph 2.
+
+Section 40 Supervisory Authority 
+(1) The competent supervisory authority under state law shall supervise the implementation of this Act and other provisions on data protection within the scope of this section; it shall in particular also perform the tasks specified in Section 30 (1) of this Act It shall keep the register of the bodies subject to notification under Section 39 (1); the register may be inspected by anyone 
+(2) The other provisions on the supervisory authority in § 30 paras. 2 to 5 shall apply mutatis mutandis
+
+Fifth Section
+Penalties and Fines
+
+Section 41 Criminal Penalties
+(1) Any person who unauthorizedly 1 transmits or alters personal data protected by this Act that are not in the public domain or 2 retrieves or obtains from files locked in containers shall be punished by imprisonment for not more than one year or by a fine of 
+(2) If the offender acts for remuneration or with the intention to enrich himself or another or to harm another, the punishment shall be imprisonment for a term of up to two years or a fine of 
+(3) The offense shall be prosecuted only upon request. 
+
+Section 42 Administrative Offenses 
+(1) It is an administrative offense to intentionally or negligently
+1 contrary to § 26 para 1, § 34 para 1 does not notify the person concerned, 
+2 contrary to § 28 (1), § 38 in conjunction with § 28 (1), fails to appoint a data protection officer or fails to do so in good time 
+3 contrary to § 32 Para. 2 Sentence 2 does not record the reasons or means specified therein, 
+4 fails to submit a report or fails to submit a report in good time in contravention of section 39(1) or (3) or fails to provide the required information, or does so incorrectly or incompletely, in the case of a report of this kind, 
+5 in contravention of § 30 para 2 sentence 1, § 40 para 2 in conjunction with § 30 para 2 sentence 1, does not provide information, does not provide it correctly, does not provide it in full or does not provide it in good time or, in contravention of § 30 para 3 sentence 2, § 40 para 2 in conjunction with § 30 para 3 sentence 2, does not permit access to the properties or business premises or the performance of tests or inspections or the inspection of business documents 
+(2) The administrative offense may be punished by a fine of up to fifty thousand German marks.
+
+Sixth Section
+Transitional and Final Elements
+
+Section 43 Transitional Provisions 
+(1) The publication about personal data (§ 12), which were already stored at the time of the entry into force of the Act, shall be made within one year after the entry into force of the Act 
+(2) The obligations referred to in Section 28(1), Section 38 in conjunction with Section 28(1) and in Section 39(1) shall come into effect for the persons, companies and other associations of persons processing personal data at the time the Act enters into force, upon the entry into force of the Act. 
+(3) If data relating to the data subject were already stored prior to the entry into force of the Act, the data subject shall be notified thereof in accordance with Section 26 (1) if the data were transmitted for the first time after the entry into force of the Act. 
+(4) If the data stored on the data subject was already transmitted prior to the entry into force of the Act, the data subject shall be notified of the storage pursuant to Section 34 (1) if the data was transmitted for the first time after the entry into force of the Act.
+
+Section 44 Application of the Administrative Procedure Act
+The Administrative Procedure Act shall also apply to the implementation of this Act to the extent that it is 
+incumbent on the Länder.
+
+Section 45 Continued Application of Rules
+In so far as special legal provisions of the Confederation
+are applicable to personal data stored in files, they comply with the rules
+of this Act. The priority provisions include, in particular:
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Section 46 Berlin Clause
+This Act shall apply in accordance with Section 13 (1) of the Third Transitional Act of 4 January 1952 (Federal Law Gazette I p. 1) also in the state of Berlin. Ordinances issued on the basis of this Act
+shall apply in the State of Berlin in accordance with § 14 of the Third Party Transitional Act.
+
+Section 47 Entry into Force
+This Act shall enter into force on 1 January 1978. By way of derogation, the following
+shall enter into force:
+1. Section 12(3), section 13(4), sections 16 and 19(4) sentence 8 on the day following the
+promulgation of the law,
+2. Sections 17, 18, 28 and 38 on 1 July 1977, 
+3. Section 6 and the annex to 6.1 sentence 1 on 1 January 1979.
+
+

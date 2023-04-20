@@ -1,0 +1,453 @@
+
+
+PUBLIC AUTHORITIES' REGISTERS ACT, 1978
+
+WE MARGRETHE THE SECOND by the grace of God Queen of
+Denmark do hereby make known:
+The Folketing have passed and WE have given Our
+Royal Assent to the following Act:
+
+
+Part 1
+Scope of the Act
+1.1 This Act shall apply to EDP registers that are
+operated on behalf of the public administration and contain
+personal data.
+
+1.2 By EDP registers shall be understood registers or
+other systematic records for which electronic processing
+of data is used.
+
+1.3 For the purpose of this Act "personal data" shall
+mean data that are referable to any identifiable individual
+even if such referral presupposes knowledge of the personal
+number, registration number or any like particular means
+of identification of such individual.
+
+2.
+The minister concerned may after consultation with
+the Data Surveillance Authority (in this Act referred to
+as the "DSA") order that this Act shall apply to registers
+kept for specified companies, institutions, associations
+and the like that cannot be classified as part of the
+public administration, provided that the greater part of
+the operational expenses of such companies etc are covered
+out of central or local government funds.
+3.1 The minister concerned may after consultation with
+the DSA order that this Act shall apply to other registers
+containing personal data and kept for the authorities and
+companies etc referred to in subsection (1) of Section 1
+and in Section 2 of this Act.
+3.2 The minister concerned may after consultation with
+the DSA order that the whole or part of this Act shall
+apply correspondingly to EDP registers kept for the
+authorities and companies etc referred to in subsection (1)
+of Section 1 and in Section 2 of this Act* and which contain
+data on business enterprises.
+
+
+Part 2
+
+Establishing of registers
+
+4.1 Establishing of registers to be kept for a central
+government authority shall be subject to approval given
+by the minister concerned in consultation with the
+Minister of Finance.
+4.2 Prior to a register becoming operative, directions on
+the structure and operation of the register in question
+conforming with the provisions laid down thereon in Parts 3
+to 6 of this Act shall be given by the minister concerned
+or by any party authorised by him to give such directions.
+4.3 The provisions of subsections (1) and (2) hereof
+shall apply correspondingly to linking of registers compiled
+for different purposes, except where such linking is
+effected solely for extraction for statistical or scientific
+purposes.
+
+5.1 Prior to approval or directions being given as referred
+to in Section 4 of this Act, the DSA shall be heard.
+5.2 Where a subordinate authority has been authorised to
+give directions as referred to in subsection (2) of Section 4
+and the DSA has not seen fit to accede to draft directions
+submitted, the matter shall be referred to the minister
+concerned, who shall make the final administrative decision.
+6.1 Establishing of registers to be kept for a local
+government authority including the Metropolitan Council,
+shall be subject to decision made at a meeting of the local
+council concerned.
+6.2 Prior to a register becoming operative, directions on
+the structure and operation of the register in questionconforming with the provisions laid down thereon in Parts 3
+to 6 of this Act shall be given by the local council or by
+the local government authority concerned.
+6.3 Prior to decision or directions being made or given
+as referred to in subsections (1) and (2) hereof, the
+DSA shall be heard. Where the DSA does not see fit to
+accede to a proposal submitted, the matter shall be
+referred to the Minister of Finance, who shall make the
+final administrative decision.
+
+6.4 The provisions of subsections (1) to (3) hereof shall
+apply correspondingly to linking of registers compiled for
+different purposes, except where such linking is effected
+solely for extraction for statistical or scientific purposes.
+7.1 Participation in a register or a system of registers
+established to serve local government authorities of more
+than one local district shall be subject to the register
+or system of registers being approved by the Minister of
+Finance and to directions on the structure and operation
+of the register or system of registers in question con­
+forming with the provisions laid down thereon in Parts 3
+to 6 of this Act being given by the Minister of Finance or
+by another minister as decided by the Minister of Finance.
+7.2 Prior to approval or directions being given as referred
+to in subsection (1) hereof, the DSA shall be heard.
+7.3 The provisions of subsections (1) and (2) hereof shall
+apply correspondingly to linking of registers established
+for different purposes, except where such linking is
+effected solely for extraction for statistical or scientific
+purposes.
+7.4 Participation in a register or a system of registers
+as referred to in subsection (1) hereof by a local government
+authority shall be subject to decision made at a meeting
+of the local council concerned. Any such decision by a local council shall forthwith be reported to the DSA, stating
+any special terms and conditions governing such participation.
+8.1 Any direction given pursuant to subsection (2) of
+Section 4, subsection (2) of Section 6, or subsection (1)
+of Section J of this Act, and any amendment made thereto,
+shall without delay be submitted to the DSA.
+8.2 Any direction given in respect of a register or a
+system of registers shall be accessible to members of the
+general public on application at the offices of the
+authority or authorities responsible for registers and of
+the DSA, except where secrecy shall be required for reasons
+of implementation of prescribed checking, control, and
+safeguarding measures or where other public interest is the
+over-riding consideration.
+
+Part 3
+Storage of data and safe custody
+
+9.1 Only such data shall be registered as are clearly
+relevant to the purposes of the authority concerned. Other
+data relevant to the purposes of another authority may- be
+registered provided the register is blocked in such a manner
+that these other data can be used only by that'other
+authority.
+
+9.2. Data on political matters, not accessible to members of
+the general public shall not be registered. Other data on
+purely personal matters, including data on race, religious
+belief, or colour of skin; on sexual or criminal matters;
+and on health or excessive use of intoxicants and the like,shal,l not be registered except where required for the
+purposes of the register in question.
+9.3 Any data registered that because of obsolescence or otherwise has lost its relevancy for the purposes of the register in question, shall be deleted. Continually operated
+registers, shall be adapted for updating of data as required.
+9.4 The Minister of Justice may after consultation with
+the DSA permit copies of registers to be deposited for
+safe custody in archives subject to specific conditions
+laid down by the minister.
+
+10. Directions applying to a register may lay down that a
+party registered shall be advised o.f his registration.
+Such notification shall advise the party registered of his
+right to obtain information from the register by virtue of
+the provisions of Sections 13 to 15 of this Act.
+11.
+Checking and control shall be implemented as required
+to ensure that incorrect or misleading data are not
+registered.
+Data that prove to be incorrect or misleading
+shall be deleted or corrected as soon as possible.
+
+12.1 Safeguards shall be implemented as required to ensure
+that no data registered be wrongfully used or brought to
+the notice of an unauthorised party.
+
+12.2 Such safeguards shall, where required,- apply also to
+copies and transcripts (extracts) of the register; including
+such copies and transcripts (extracts) as have been handed
+over to other authorities
+
+12.3 In the case of registers containing data of special
+interest to foreign powers, measures shall be taken to
+ensure that such registers can be removed or destroyed in
+the event of war or warlike circumstances.
+
+
+Part 4
+A registered party’s freedom of access
+to data on himself
+
+13.l Upon application made by a party registered, the
+authority responsible for the register in question shall as
+soon as possible inform him of the data registered on him.
+13.2 Directions applying to a register may lay down that
+the party registered shall, at specified intervals, be
+sent transcripts (extracts) of the data registered on him,
+or that the party registered shall be entitled to make
+request to that effect.
+Rules may be laid down on fees
+payable for such transcripts (extracts).
+13.3 In the event that a party registered in a hospital
+register or other register of patients or of' ill-health or
+diseases, wants to be apprised of the data registered on
+him, he shall file application to that effect with his
+physician, who shall as soon as possible after receipt of
+the application apply to the authority responsible for the
+register in question.
+The authority concerned shall as
+soon as possible advise the physician of the data registered
+on the patient, so that the physician can pass on the data
+to him.
+13.4 The provision of subsection (l) hereof shall not
+apply if it is found that the registered party's interest
+in knowing the data in question ought to be overridden by
+public or private interests.
+Where such considerations
+apply to only part of the data in question, the party
+registered shall be apprised of the remaining data.
+13.5 The provisions of subsections (1) to (3) hereof shall
+not apply to registers that are compiled solely for extraction
+for statistical purposes.
+In the case of other registers,
+provision for exemption from .the freedom of access to data
+by virtue of subsection (l) hereof may be laid down if the
+provision of subsection (4) hereof may be assumed to result
+in applications as referred to in subsections (1) to (3)
+hereof being generally rejected.
+13.6 Where a party registered has been apprised of data by
+virtue of the provisions of subsections (1) to (3) hereof,
+he shall not be entitled to apply again for a period of
+twelve months from the most recent date of giving of
+information, except where he can prove any special interest
+in such renewed application.
+
+14.1 Information given pursuant to subsection (1) of
+Section 13, cf subsection (4) of Section 13 of this Act,
+shall on demand be given in writing, always provided that
+where the circumstances of the party registered so indicate,
+it may be given in the form of oral information on the
+contents of the data.
+14.2 Information on data as provided for in subsection (3)
+of Section 13, shall always be given the party registered by
+the physician concerned and may be given in the form of oral
+information.
+The provision of subsection (4) of Section 13
+shall apply correspondingly.
+15. Any dispute arising as to the right to obtain information
+by virtue of subsections (1), (3), (4), and (6) of Section 13,
+of Section 14, and under directions laid down pursuant to sub­
+sections (2) and (5) of Section 13, may be submitted to the
+DSA.
+Decision made by the DSA cannot be submitted for review
+to other administrative authority.
+
+Part 5
+Passing-on of data
+to private individuals, enterprises, etc
+16.1 No data referable to an identifiable individual shall
+be passed on to any private individual or enterprise etc,
+except where such passing-on is permitted under the pro­
+visions of Sections 17 to 19 of this Act or where the data
+in question arc already accessible to members of the general
+public or where the party registered or any other party
+authorised to act on his behalf has consented to such
+passing-on.
+16.2 Consent as above referred to shall be given in writing
+and shall specify:
+1. the types of data that may be passed on,
+2. to whom the data may be passed on, and 
+3. how the data may be applied by the recipient specified. 
+
+16.3 Consent given as above shall lapse at the latest upon
+the expiration of a twelve month period.
+17. Data on an identifiable individual may be passed on to
+any private enterprise etc that pursuant to statutory pro­
+vision or under agreement made assists in pursuing the
+purpose of the authority concerned, always provided that
+only such data shall be passed on as are necessary for the
+work undertaken by the recipient enterprise on behalf of the
+public authority.
+The data passed on shall not be applied
+to purposes other than those stipulated by the authority
+responsible for the register in question.
+
+18.1 Data on an identifiable individual registered in a
+hospital register or other register of patients or of illhealth or diseases, may be passed on to a physician or a
+dentist by whom the individual concerned is being treated.
+The data passed on to a physician may comprise also data on
+persons other than the individual concerned, including data
+on dependants, provided such data may be of relevancy to the
+treatment given the party registered.
+18.2 Also identification data and information on diagnoses etc
+may be passed on from the registers mentioned to physicians
+for use on particular research projects.
+Subsequent inquiries shall be made with the parties registered only to
+the extent that permission is obtained from the physicians
+by whom the party concerned has been treated.
+18.3 In addition, data for use in research or planning
+projects may be passed on from the register mentioned subject
+to approval and conditions given and stipulated by the
+Medical and Health Board. Passing-on of data for the
+purpose of linking with registers to which this Act does not
+apply, shall be approved only after prior consultation with
+the DSA.
+
+19.1 For use in any specific legal matter, isolated data may be passed on to private Individuals or enterprises etc
+who can prove that their legal interest in obtaining the
+data in question clearly overrides the considerations of
+secrecy otherwise applicable to such data, always provided
+that data that are subject to specific statutory rules on
+secrecy shall not be passed on.
+19.2 Data may be passed on for use in research subject to
+terms and conditions as specified.
+The provision of clause 2 of subsection (3) of Section 18 of this Act shall apply
+correspondingly.
+20. The minister concerned may lay down rules on fees payable
+for handing over of data.
+
+Part 6
+Passing-on of data to public authorities
+
+21.l Registered data may be passed on to public authorities
+to the extent mentioned in Part 5 and also in cases where
+pursuant to statutory provisions the authorities concerned
+have freedom of access to the data in question.
+
+21.2 Otherwise, passing-on to other public authority shall
+be effected only where the data in question are of material
+importance to the activity of the authority concerned or are
+of material importance to the making of a decision by that
+authority, cf however clause 2 of subsection (1) of
+Section 9 of this Act, always provided that data shall not .
+be passed on in contravention of specific statutory rules on
+secrecy.
+
+21.3 Data referable to an identifiable individual shall not
+without.special authority be passed on from registers compiled
+solely for extraction for statistical purposes or as part of
+a scientific investigation, always provided that the DSA upon
+application made in each particular instance may permit such
+data.to be passed on to registers compiled solely for
+statistical or scientific purposes.
+Decision by the DSA on
+passing-on as herein referred to shall not be submitted for
+review to other administrative authority.
+
+Part 7
+Data Surveillance Authority
+
+22.1 The Data Surveillance Authority (in this Act referred
+to as the "DSA”), which consists of a council and a
+secretariat, shall exercise surveillance over any register
+to which this Act applies.
+The DSA shall further exercise
+the functions assigned to it by the provisions of the
+Private Registers' (etc) Act.
+22.2 The DSA shall of its own motion or upon complaint made
+by a party registered, ensure that any register as referred
+to in subsection (l) hereof has been established and is
+operated in conformity with the provisions of this Act and of
+the directions given pursuant to this Act.
+23. The council, which shall be established by the Minister
+of Justice, shall consist of a chairman who shall have the
+qualifications required for appointment as judge, and of six
+other members.
+Members and alternates for these shall be
+appointed to hold office for periods of four years at a time.
+24. The day-to-day business of the DSA shall be attended to
+by the Secretariat, which shall be headed by a manager.
+25. The Minister of Justice shall lay down rules of procedure
+for the council and detailed rules on distribution of work for
+council and secretariat.
+26.1 The authority or authorities responsible for any register
+falling under this Act and the keeper of such register shall upon demand furnish the DSA with all particulars of importance
+to the DSA.
+
+26.2 Members and staff of the DSA shall at all times against
+production of proper identification papers and without court
+warrant be admitted to any and all premises from which the
+register in question is administered or can be used and to
+premises where the register in question or the technical
+facilities for its use are installed, stored, or used.
+26.3 The DSA shall report to the authority or authorities
+responsible for a register falling under this Act and to
+the minister concerned on any contravention of this Act or
+of the directions given, and generally on any defect found. .
+The DSA shall be informed of any measure taken by the
+authority concerned as a consequence of the report made oy
+the DSA.
+
+27. -The DSA shall be entitled at all times to submit to the
+authority by whom directions have been given, proposals for
+The provisions of sub­
+amendments to existing directions.
+section (2) of Section 5, and clause 2 of subsection (3)
+of Section 6 of this Act shall apply correspondingly.
+28.1 The DSA shall submit an annual report on its activities
+to the Polketing.
+The report shall be publicised.
+28.2 .The DSA shall further be entitled to publicise any opinion, given by the DSA pursuant to subsection (l) of
+Section 5, subsection (3) of Section 6, subsection (2) of Section 7, subsection (3) of Section 18, and subsection
+(2) of Section 19; any report made by virtue of subsection
+(3) of Section 26; and any proposal submitted by virtue of
+Section 27The provision of clause 2 of subsection (,2) ' '
+of Section 8 shall apply correspondingly.
+
+Part 8
+Offence and Penalty Provisions
+29.I Where other enactment does not prescribe more severe
+punishment, any person who commits an offence as stated in
+the list set out below'shall be liable"on conviction to a
+fine or to lenient imprisonment:
+
+1. disregard of terms and conditions stipulated in any consent given pursuant to s.16(2)
+2. infringement of s.17 clause 2 or s.18(2) clause 2,
+3. disregard of conditions stipulated by virtue of s.18(3) or s.19. 
+
+29.2 Any direction given by virtue of Part 2 of this Act
+may provide that infringement of any provision of such
+direction shall be punishable by a fine.
+290 Where an offence as hereinbefore listed is committed
+by a limited liability company, a co-operative society or
+the like liability to a fine may be imposed on the company
+etc as such.
+
+Part 9
+Commencement and transitional provisions
+30.1
+
+This Act shall come into force on 1 January 1979.
+
+30.2 In the case of registers and systems of registers the
+operation of which dates from before the commencement of this
+Act, the provisions of this Act shall not apply until twelve
+months after the commencement of this Act.
+At the latest
+six months after the commencement of this Act, draft directions
+on the structure and operation of any register as hereinbefore
+referred to, conforming with the provisions of Parts 3 to 6
+of this Act, shall be submitted to the DSA.
+The provisions
+of subsection (2) of Section 5, 'and of clause 2 of sub­
+section (3) of Section 6 of this Act shall apply correspond­
+ingly.
+The Minister of Justice may extend the above time­
+limits for specified registers.
+30.3 In the case of any register which is operative or in the
+process of being compiled at the commencement of this Act and
+from which it is not possible without substantial alteration
+to technical systems to provide transcrips (extracts) of
+registered data, the provisions of subsections (1) and (3)
+of Section 13 of this Act shall not have effect until three
+years after the commencement of this Act.
+31. This Act shall not apply to registers kept for intelligence
+agencies of the police and the military defence.
+32, This Act shall not apply to registers kept for local Authorities
+or for National Government Authorities in the Faeroe Islands.
+
+This Act may by Royal Decree be made to
+apply to registers kept for the National Government Authorities
+in the Faeroe Islands, subject to such variations as circum­
+stances peculiar to the Faeroe Islands may require.

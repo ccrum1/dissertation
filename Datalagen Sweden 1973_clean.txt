@@ -1,0 +1,252 @@
+SWEDEN DATA ACT OF 1 MAY 1973
+
+INTRODUCTORY PROVISIONS
+
+Section 1
+For the purpose of this Act
+Personal information means information concerning an individual,
+Personal register means any register or any other notes made by auto­
+matic data processing (ADP) and containing personal information
+that can be assigned to the individual concerned,
+Individual registered means an individual in respect of whom personal
+information occurs in a personal register,
+Responsible keeper of a register means anyone for whose activity ADP
+is being carried out, if the register is at his disposal.
+
+PERMISSION ETC.
+
+Section 2
+A personal register may not be started or kept without permission
+by the Data Inspection Board.
+The first paragraph of this Section does not apply to personal
+registers established according to a decision by King or Parliament.
+Before such a decision is taken the Data Inspection Board shall be
+heard.
+
+Section 3
+The Data Inspection Board shall grant permission to start and
+keep a personal register, if there is no reason to assume that, with
+due observance of the regulations laid down pursuant to sections 5
+and 6, undue encroachment on the privacy of individuals will arise.
+At the appraisal whether undue encroachment may arise special
+attention should be given to the kind and quantity of personal
+information meant to be included in the register and to the attitude
+towards the register shown or expected from the individuals meant
+to be registered.
+
+Section 4
+Permission to start and keep a personal register containing
+information that anyone is suspected of or convicted for a crime or
+has served a sentence or paid other consequences of a crime or has
+been subjected to coercive action under the Child Welfare Act, the
+Temperance Act, the Act on Provision of Psychiatric Treatment in
+Detention in Certain Cases, the Act on Care of Certain Mentally
+Retarded Persons, the Act on Measures in Cases of Asociality or
+Danger to the Public or the Foreigners Act may not be granted to a
+person other than an authority which is by law or statute responsible
+for keeping a record of such information, unless there are extra­
+ordinary reasons for this.
+Permission to start and keep a personal register otherwise con­
+taining information about anybody’s illness or state of health or
+information that anybody has received social assistance, treatment
+for alcoholism or the like, or has been the subject of proceedings
+under the Child Welfare Act or the Foreigners Act, may not be
+granted to a person other than an authority which is by law or
+statute responsible for keeping a record of such information, unless
+there are special reasons for this.
+Permission to start and keep a personal register containing infor­
+mation about anybody’s political or religious views may be granted
+only where there are special reasons. This shall not, however, apply
+to a personal register that an association wants to keep of its own
+members.
+
+Section 5
+When granting a permission to start and keep a personal register
+the Data Inspection Board shall issue regulations as to the purpose
+of the register and the personal information that may be included.
+If there are special reasons the permission may be limited to certain
+time.
+
+Section 6
+If permission is granted to start and keep a personal register, the
+Data Inspection Board shall, insofar as is needed to prevent danger
+for undue encroachment on privacy, issue regulations concerning
+1. the obtaining of information to the personal register,
+2. the carrying out of the ADP,
+3. the technical equipment,
+4. the adaptation of personal information that may be made
+through ADP,
+5. information to the persons affected,
+6. what personal information may be made accessible,
+7. the issuance of personal information to others and other use
+thereof,
+8. the keeping and selection of information,
+9. control and security.
+Regulations regarding issuance of personal information may not
+restrict the duties of authorities under the Freedom of the Press Act.
+Section 7
+What has been stated in sections 5 and 6 about the duty of the
+Data Inspection Board to issue regulations also applies to personal
+registers referred to in section 2, second paragraph, if regulations
+have not been given by King or Parliament.
+
+THE DUTIES OF THE RESPONSIBLE KEEPER OF THE REGISTER
+
+Section 8
+If there is reason to suspect that personal information in a per­
+sonal register is incorrect, the responsible keeper of the register shall,
+without delay, take the necessary steps to ascertain the correctness
+of the information and, if needed, to correct it or exclude it from the
+register.
+If a piece of information, that is corrected or excluded, has been
+handed over to a person other than the individual registered, the
+responsible keeper of the register shall, at the request of the indivi­
+dual registered, notify the receiver concerning the correction or the
+exclusion. If there are special reasons the Data Inspection Board
+may exempt the responsible keeper of the register from his duty to
+notify.
+
+Section 9
+If in a personal register there is personal information which must,
+with regard to the purpose of the register, be regarded as incom­
+plete, or if a personal register which constitutes a record of persons
+lacks information of a person who with regard to the purpose of the
+register must be expected to be included in it, the responsible keeper
+of the register ought to supplement what is needed. Such supple­
+mentary addition shall always be made, if the incompleteness may
+cause undue encroachment on privacy or risk of loss of rights.
+
+Section 10
+At the request of an individual registered the responsible keeper
+of the register shall as soon as possible inform him of the personal
+information concerning him in the register. When an individual
+registered has been thus informed, new information need not be
+given to him until twelve months later.
+Information according to the first paragraph of this section shall
+be given free of charge. If there are special reasons the Data Inspec­
+tion Board may, concerning a certain kind of personal information,
+permit a fee.
+The provision of the first paragraph does not apply to information
+which, pursuant to law or statute or the decision of an authority,
+may not be delivered to the individual registered.
+
+Section 11
+Personal information in a personal register may not be issued if
+there is reason to assume that the information will be used for ADP
+contrary to this Act. If there is reason to believe that personal
+information will be used for ADP abroad the information may be
+issued only after permission by the Data Inspection Board. Such
+permission may be given only if there is ground to believe that the
+issuance will not cause undue encroachment on privacy. Concerning
+prohibition of issuance from authorities of personal information
+regulations are given in the Act on Restrictions of the Right to
+obtain Public Documents.
+
+Section 12
+Should a responsible keeper of a register cease to keep a personal
+register the Data Inspection Board must be notified. The Data
+Inspection Board shall prescribe how the register should be dealt
+with.
+
+Section 13
+The responsible keeper of a personal register and any other person
+who has concerned himself with it may not without authorisation
+reveal what he has learnt from it about the personal circumstances
+of an individual.
+If personal information has been issued in accordance with such
+regulations given pursuant to section 6 or 18 that limit the right of
+the receiver to pass it on, the receiver or any person who in his
+activity has dealt with the information may not without authorisa­
+tion reveal what he has learnt about the personal circumstances of an
+individual.
+
+Section 14
+Information from an ADP recording, that is used by an authority
+for the purpose of judicial or administrative proceedings, shall be
+added to the relevant file in readable form, if special reasons do not
+speak in favour of an exception.
+
+SUPERVISION ETC.
+
+Section 15
+The Data Inspection Board supervises that ADP does not cause
+undue encroachment on privacy.
+The supervision shall be executed in such a way that it does not
+cause greater costs or inconvenience than is necessary.
+
+Section 16
+For the purpose of its supervision the Data Inspection Board shall
+be granted admission to premises where ADP is carried out or
+where computers or equipment or recordings for ADP are kept.
+Moreover, the Data Inspection Board shall have access to docu­
+ments relating to ADP and may make arrangements for operating
+the computers.
+
+Section 17
+The responsible keeper of a register shall deliver to the Data
+Inspection Board the information and particulars concerning the
+ADP which the Board requires for its supervision. What is now said
+also applies to anyone who handles a personal register on behalf of
+the responsible keeper of the register.
+
+Section 18
+If the keeping of a personal register has caused undue encroach­
+ment on privacy or if there is reason to believe that such encroach­
+ment will appear the Data Inspection Board may, insofar as needed,
+alter regulations given before or issue new regulations of the kind
+referred to in sections 5 or 6. With regard to registers referred to in
+section 2, second paragraph, the Data Inspection Board may take
+those steps only if they are not contrary to decisions taken by King
+or Parliament. If protection against undue encroachment on privacy
+cannot be attained by other means, the Board may cancel a given
+permit.
+
+Section 19
+Any person who has dealt with matters concerning permission or
+supervision under this Act at the Data Inspection Board may not
+without authorisation reveal what he has learnt about the personal
+circumstances of an individual or about professional or business
+secrets.
+
+PENALTIES AND DAMAGES ETC.
+
+Section 20
+Any person who wilfully or by negligence
+1. starts or keeps a personal register without permission under
+this Act, when such permission is required,
+2. offends against a regulation issued pursuant to sections 5, 6
+or 18,
+3. issues personal information in violation of section 11,
+4. offends against the provisions of sections 12 or 13,
+5. gives incorrect information when fulfilling an obligation to
+inform as stated in section 10,
+6. gives incorrect information in a case referred to in section 17,
+or
+7. offends against the provisions of section 19,
+shall be sentenced to a fine or to a term of imprisonment not exceed­
+ing one year.
+Public prosecution for an offence against sections 13 or 19 may be
+instituted only if the person aggrieved requests this or prosecution is
+called for from a public point of view.
+Section 21
+Any person who, without authorisation, effects access to record­
+ings for ADP or unduly alters or obliterates such information or
+includes it in a register will be sentenced for data trespass to pay a
+fine or a term of imprisonment not exceeding two years, if the
+perpetration is not punishable by the Penal Code.
+Attempt or preparation of a crime referred to in the first para­
+graph of this section will be punished according to 23rd Chapter of
+the Penal Code. When the offence, if completed, would have been
+considered trivial, nobody may be convicted under this paragraph.
+Section 22
+If a personal register has been started or kept without permission,
+though such a permission is needed, the register will be forfeit, if
+that is not manifestly unreasonable.
+
+Section 23
+If an individual registered suffers damage because a personal
+register contains incorrect information about him the responsible
+keeper of the register shall pay compensation to him. When judging
+if damage has been caused and assessing the compensation the
+suffering inflicted and other circumstances of other than a purely
+pecuniary significance shall be taken into consideration.

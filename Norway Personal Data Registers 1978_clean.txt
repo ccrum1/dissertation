@@ -1,0 +1,764 @@
+
+Norwegian Act relating to personal data registers of 9 June 1978
+
+
+Chapter 1 - Scope of the Act
+
+paragraph 1
+
+     The Act is applicable to personal data registers and to
+other facilities whereby personal information is utilised
+in certain types of activities.
+     The term "personal information'' shall mean information
+and assessments which are directly or indirectly, traceable
+to identifiable individuals, associations or foundations.
+The term "personal data registers" shall mean registration
+files, records etc where personal information is systematically
+stored so that information concerning an individual person may
+be retrieved.
+     The Act is applicable to personal data registers in
+central or local government institutions as well as in
+private enterprise, societies or foundations.
+     The King may determine that the Act shall not apply to
+certain types of personal data registers.
+
+Chapter 2 - Data Surveillance Service
+
+paragraph 2
+
+     There shall be established a data surveillance service.
+The Data Surveillance Service shall be a separate institution
+subordinate to the King and the Ministry designated by the King.
+
+     The Data Surveillance Service shall be under the direction
+of a Board; which shall consist of seven members. The members
+shall be appointed by the King, who shall also nominate the
+chairman and vice-chairman of the Board.
+paragraph 3
+
+     The opinion of the Data Surveillance Service shall be
+obtained before decisions are adopted; which under the terms
+of this Act are delegated to the King. The foregoing however
+shall not apply to decisions rendered in pursuance of          
+paragraph 2.                             
+
+1 Otherwise the Data Surveillance Service shall
+keep itself informed of general developments with regard
+to the utilisation of personal data registers and to the
+problems connected with such registers, as well as providing
+information in this respect            
+
+
+2 provide advice and guidance on questions relating to the
+protection of the individual and data safeguards to those
+who are planning to establish personal data registers.
+
+3 ensure that the statutes, rules and regulations applicable
+to personal data registers are observed, and that errors
+or deficiencies are rectified
+
+4 upon request or on its own initiative, give its opinion
+on questions relating to the use of personal data registers
+or on questions of a general nature relating to the
+utilisation of personal information.
+
+The King may assign additional duties to the Data
+Surveillance Service concerning the use etc of personal data
+registers or the utilisation of personal information otherwise,
+
+paragraph 4
+         The Data Surveillance Service shall keep a systematic
+    record of personal data registers for which a government
+    concession is required in pursuance of paragraph 9. The record
+    shall show who is responsible for the register, what kind of
+    information the register may contain and to what uses it may be
+    put. The record shall refer to the rules which are otherwise
+    laid down in pursuance of paragraph 11. A copy of the rules
+    shall be kept with the Data Surveillance Service.
+
+         The record and the rules shall be available to the
+    general public.
+
+         The King may issue specific rules concerning the record
+    and may make such exceptions to the provisions of the first
+    paragraph as are necessary for reasons of emergency preparedness
+    or the security of the realm.
+
+ paragraph 5
+         The Data Surveillance Service may demand such information
+    as is needed to enable it to cairy nut its duties. The
+    Service may request admittance to sucn places where personal
+    data registers and technical aids are located, as well as to
+    undertake such tests or control checks as It a^ems necessa^'-
+         The Data Surveillance Service's right to demana information
+    shall not be limited by any statutory provisions concerning
+    pledge of secrecy.
+         The King may make such exceptions to the provisions of
+    the first and second paragraphs as are necessary in consideration
+    of the security of the realm. The King may also issue
+    regulations concerning the reimbursement of expenses incurred
+    in connection with such supervision.
+
+Chapter 2 - General Provisions
+
+paragraph 6
+     The registration of personal information must be justified
+on objective grounds, having due regard to the administrative
+and operational activities of the institution or enterprise
+undertaking such registration.
+
+     Unless necessary, registration may not be undertaken in
+respect of
+
+1.   information referring to race or political or religious
+     beliefs
+
+2.   information on whether a person has been a suspect, indicted
+     or convicted in a penal case,
+
+3.   information referring to the state of health or abuse of
+     intoxicants,
+4.   information concernig sexual life
+
+5.   other information concerning family affairs than those
+     referring to family relationships or family status,
+     property arrangements between spouses and bread-winner
+     status.
+
+paragraph 7
+
+      Everyone shall have the right to be informed of the
+information concerning himself which are stored or processed
+by means of electronic aids. This right to be informed shall
+nevertheless not apply to registers which are only used for
+statistical research or general planning purposes. Nor does
+  ie right to be informed apply to such information which it is
+considered inadvisable to bring to the knowledge of the
+person concerned out of regard for his health or his relations
+with persons close to him.
+
+     As regards personal data registers in central or local
+government institutions, the right to be informed, as defined
+in the first paragraph, shall also apply to information which
+is not stored or processed by means of electronic aids,
+The person so registered may not, however, demand access to
+documents which are deemed to be internal documents by virtue
+of paragraph 18 of the Administrative Procedures Act.
+
+     Furthermore, as regards personal data registers in
+central or local government institutions, everyone shall have
+the right to be informed of the types of information which are
+included in the register.
+
+     The King may prescribe by regulation that the rules
+laid down in the second and third paragraphs shall also apply
+to personal data registers in private enterprise, societies
+or foundations, or for certain such registers.
+
+     The King may, by regulation or in respect of an individual
+register, make additional exceptions to the right to be informed
+and lay down specific rules or set conditions for the use of
+such a right.                                   .
+
+paragraph 8
+
+      If a personal data register contains erroneous or
+incomplete information, information which it is not permitted
+to enter into the register, or information which is no longer
+relevant, such information shall be corrected, deleted or
+s pplemented if the faulty information may be of significance
+for the person so registered.   If the fault has resulted in
+erroneous or incomplete Information having been issued, all
+possible steps shall be taken to ensure that the error does
+not adversely affect the person registered.
+
+     When there are errors as described in the first para­
+graph, the Data Surveillance Service may order corrections,
+deletions and supplements to be make to the register as well
+as order such steps as are mentioned in the final sentence
+of the first paragraph.
+
+Chapter 4 - Duty to obtain permission for the establishment of personal data registers 
+
+paragraph 9
+
+     Permission of the King (government concession) is
+retired for the establishment of personal data registers
+which are to utilise electronic aids. Such permission is
+also required for the establishment of other personal data
+registers if they are to include
+
+1.   information referring to race or political or religious
+     beliefs,
+
+2.   information on whether a person has been a suspect,
+     indicted or convicted in a penal case
+
+     information referring to the state of health or abuse
+     of intoxicants
+
+4.   information concerning sexual life
+
+5.   other information concerning family affairs than those
+     referring to family relationships or family status,
+     property settlements between spouses and bread-winner
+     status.
+
+     The King may decide that certain types of personal
+data registers shall be excepted from the government concession
+requirement pursuant to the first paragraph. In respect of
+such registers, regulations may be prescribed concerning such
+circumstances as are described in paragraph 11. Other regulations
+may also be prescribed in order to minimise the problems which
+the register could otherwise give rise to in respect of an
+individual person, inter alia rules prescribing that the
+register shall be subject to control by the Data Surveillance
+Service and be included in the record kept in pursuance of
+paragraph 4.
+
+     The King's powers under the first and second paragraphs
+may only be delegated to the Ministry or to the Data Surveillance
+Service.
+
+     The King may issue regulations concerning security
+measures for installations operating personal data registers
+as referred to in the first paragraph.
+
+paragraph 10
+
+      When deciding whether permission shall be granted, an
+assessment shall be made - within the framework laid down in
+paragraph 6 - as to whether the establishment and utilisation of
+the personal data register in question may cause problems for
+the individual person, which cannot be solved satisfactorily
+by rules prescribed under paragraph 11. If such problems are
+liable to arise, due consideration shall be given as to whether
+these problems are outweighed by such considerations as favour the establishment of the register.
+
+paragraph 11
+
+     When permission is granted in pursuance of paragraph 9,
+rules shall be prescribed for the personal data register indicating
+what types of information the register may contain and for
+what purposes the register may be used.
+
+      In addition, the rules shall prescribe such terms and
+conditions as are relevant for the utilisation of the register
+or which can minimise the disadvantages the establishment and
+utilisation of the register could otherwise give rise to.
+In particular consideration should be given to prescribing
+rules on
+
+1.   the collection and control of such Information as the
+     register may contain
+
+2.    the handling and storage of such information
+
+3.   Whether sharing with another personal data register should
+      be permitted
+
+4.    use of national registration number
+
+5.    the release of information* including the question
+      whether data may be transferred to other registers
+
+6.    the scope and content of the information to be given by
+      notification or other forms of communication to the person
+      registered
+
+7.    the right of the individual person to demand information
+      in accordance with paragraph 7
+8.    rectifying data or routine procedures in the register
+9.    keeping the system currently up-to-date              .   -
+
+10.   the deletion or non-use of data after a certain lapse of
+      time, and whether the register should be transferred to
+      the general archive system
+
+11.   security measures and destruction of data material.
+
+     In addition the rules shall designate the institution
+or enterprise or the person responsible for ensuring the proper
+implementation of the rules.
+
+paragraph 12
+
+     The rules prescribed in paragraph 11 may not be dispensed
+with except by permission of the institution prescribing the
+ ules or - if the rules so prescribe - of the Ministry or the
+Data Surveillance Service.
+
+Chapter 5 - Credit and personal information services
+
+      The term "credit information services" shall, in this
+Chapter, mean activities which consist in providing information
+which throws light on credit-worthiness or financial reliability
+(credit information). This Chapter shall not apply to the
+utilisation of information within an enterprise or in relation
+to enterprises within the same corporate group. Nor does it
+apply to providing information to another credit information
+enterprise to which this Act applies, provided that the                  
+information shall be utilised in connection with this enterprise's
+own credit information service.
+
+     The King may issue supplementary regulations on what is
+to be understood by the term "credit information services".
+For certain types of enterprises the King may* by regulation
+or by individual decision* make exceptions to the individual
+provisions in this Chapter.
+
+ Enterprises operating credit information services may
+not, save by permission of the King* operate other forms of
+personal information services.
+
+paragraph 14
+
+     An enterprise may not start a credit information service
+before the King has granted permission thereto.
+
+     When deciding whether permission shall be granted, due
+regard shall be paid to the question whether the activities
+concerned may be expected to be operated in an honest and sound
+manner. Within the framework of the provisions laid down in       
+this Act* such terms and conditions may be prescribed in
+respect of the government concession as are appropriate and
+promote these aims, inter alia concerning surety in respect
+of liability. As regards enterprises under the control of
+foreign interests, terms and conditions may be prescribed
+concerning the form of establishment and the composition of
+the company's management.
+
+paragraph 15
+     The credit information enterprise shall ensure that
+the information utilised for credit information purposes shall,
+as far as possible, be complete and that information shall not
+be used which may give grounds for unjustified or an unreason­
+ably negative attitude in respect of the person to whom the
+information applies.
+
+     Information, which at the end of a calendar year will         
+be 5 years old or more* may only be utilised if it is abundantly
+clear that such information continues to be of substantial
+significance for the proper assessment of the person to whom
+the information applies.
+
+paragraph 16
+
+     The enterprise may not as part of its credit information
+service utilise
+
+1.   information referring to race   or political or religious
+     beliefs
+
+2.   information on whether a person has been a suspect,
+     indicted or convicted in a penal case
+
+3. information referring to the state of health or abuse of intoxicants 
+
+4. information concerning sexual life
+
+5. other information concerning family affairs than those referring to family relationships or family status, property arrangements
+between spouses and bread-winner status. 
+
+However, the King may permit information, mentioned in sub-paragraphs 2 and 3 of the first paragraph, to be collected and notified
+in certain cases. 
+
+paragraph 17
+
+No credit information may be provided when it is evident
+from the facts of the case that the applicatn requesting such information lacks justification
+for such a request. 
+
+the King may, by regulation or in respect of the individual enterprise, issue rules
+concerning the safeguarding against misue of information collected. 
+
+paragraph 18
+
+Credit information shall nomrally be notified in writing. It may be given verbally, provided it does not
+contain any information which can be charged against the person to whom
+the information applies, or if the credit information for practical reasons,
+must be provided without delay. If credit information is given verbally,
+the content of the information together wtih the applicant's name and address
+shall be recorded and kept on file for at least 6 months. If it contains anything which can 
+be charged against a person to whom the information applies, such information shall be 
+confirmed in writing. 
+  
+Credit information may be supplied by circulation of publications or lists,
+provided that the publication or list only contains information concerning
+entrepreneurs, and that the information is given in summary form. Such publications
+may only be sent to members and subscribers. 
+
+Applications for credit information indicating that the
+applicant shall be kept informed of any information which comes
+to the knowledge of the credit information enterprises in
+future or during a certain period of time, may only contain
+information on entrepreneurs.
+
+paragraph 19
+     When credit information is provided or confirmed in
+writing concerning someone who is not an entrepreneur, the
+credit information enterprise shall send a copy or other
+notification concerning the content free of charge to the
+one about whom information has been requested. The enterprise
+shall not be bound to disclose who has requested the informa­
+tion or from whom it has received such information.
+
+paragraph 20
+      Everyone has a right to be informed of what information
+the enterprise has stored about himself for use for
+credit information purposes, and to be informed of what
+ '"edit information has been provided about him during the
+*ast 6 months.   Replies shall be given in writing unless the
+person concerned has consented to its being given in another
+manner.   If the information on what the register contains
+is given in summary form or if the enterprise has stored
+information which is not fully repeated, this shall be stated
+in the reply. The person to whom the information applies
+may request to examine all documents etc upon application to
+the enterprise.
+     The enterprise shall not be obliged to disclose who has
+requested the information or from whom it has received such
+information.
+     The enterprise may charge a reasonable remuneration in
+cases where information under the first paragraph is provided
+in writing.
+paragraph 21
+
+     The King may prescribe by regulation that paragraph 14
+concerning the government concession requirement, shall also
+apply to other enterprises operating personal information
+services.  In the concession permit, terms and conditions
+may be prescribed for the collection, storage and use of such
+information, as well as for supervision, for the right of the
+person to which the information applies to be informed and for
+the right to have his name deleted from the register.
+
+Chapter 6 - Data processing enterprises 
+
+paragraph 22
+
+     Activities which consist in processing personal informa­
+tion for third parties by means of electronic aids may not be
+initiated before the King has given permission thereto.
+Paragraph 14, second paragraph, shall apply correspondingly.
+
+
+
+         The provisions in the first paragraph shall not apply
+    if such processing takes place exclusively for other enter­
+    prises within the same corporate group.
+
+         The King nay issue supplementary regulations on what
+    is to be considered as a data processing enterprise for the
+    purpose of applying the provisions of the first paragraph*
+    and may* by regulation or by individual decision make excep­
+    tions to the individual provisions in this Chapter.
+
+paragraph 23
+
+         Enterprises which are required to obtain a government
+    concessioft under paragraph 22, first paragraph, may not, save by
+    agreement with the client, utilise the information for other
+    purposes than those covered by the assignment. Nor may the
+   information, save through such an agreement, be entrusted to
+    anyone else for storage or processing purposes.
+
+paragraph 24
+         The enterprise shall adopt such security measures as
+    are needed.
+
+         The King may, by regulation or in respect of the
+    individual enterprise, issue rules concerning the security-
+    measures which shall be implemented.
+    
+Chapter 7 - Addressing and distribution services
+
+paragraph 25
+        Services which consist in selling or in other ways
+    offer addresses of groups of people, or in executing assign­
+    ments involving the dispatch of advertising and other noti­
+    fications to such groups, may not be commenced before the
+    King has given permission thereto. Paragraph 14, second paragraph,
+    shall apply correspondingly.
+
+         The King may issue supplementary regulations as to which
+    enterprises shall be subject to the government concession
+    requirement in pursuance of the first paragraph, and may, by
+    regulation or by individual decision, make exceptions to the
+    provisions in this Chapter.
+
+paragraph 26
+
+         A register utilised for such activities as mentioned
+    in paragraph 25, first paragraph* may not contain
+
+1.   information referring to race or political or religious
+         beliefs
+
+2.   Information on whether a person has been a suspect,
+     indicted or convicted in a penal case
+
+3.   information referring to the state of health or abuse
+     of intoxicants
+
+4.   information concerning sexual life
+
+5.   other information concerning family affairs than those
+     referring to family relationships or family status,
+     property arrangements between spouses and bread-winner
+     status.
+
+     The King may, by regulation or by individual decision,
+further restrict the right of the enterprise to register
+personal information, and regulate the use of registered
+information.                                                            
+                                                                        
+paragraph 27
+
+     Notwithstanding the provisions in paragraph 26, the
+enterprise may dispatch notifications based on customer and
+membership registers which are placed at its disposal by the
+client. Such registers may only be used fcr the dispatch of
+notifications concerning the client's goods and services etc
+and they may not be entrusted to others.                            
+
+paragraph 28
+
+     The enterprise shall in its registers delete the name
+of anyone who so requests. Anyone so registered may demand
+information on who is the enterprise's source in respect of
+the registration.
+
+     If the demand for deletion applies to such registers
+as are mentioned in paragraph 27, such a demand shall be forwarded       
+to the client, who shall be responsible for ensuring that the           
+person concerned is deleted as addressee under any subsequent
+use of the register. The person who has made such a demand,
+shall be informed of the forwarding of the demand and the name
+of the client.
+
+paragraph 29
+
+     The King may, by regulation or in respect of the indivi­
+dual enterprise, lay down provisions with a view to preventing
+personal information being used in violation of paragraphs 26 and
+27 and to ensure the implementation of the rules in paragraph 28.
+
+
+paragraph 30
+     The King may prescribe by regulation
+
+1.   that paragraphs 26 to 28 shall apply correspondingly in respect
+     of enterprises which, in individual cases, undertake such
+     assignments as are mentioned in paragraph 25* first paragraph,
+
+2.   that certain types of information may not be utilised
+     for the choice of addressees in the dispatch of notifica­
+     tions on the enterprise's own goods and services etc,
+     and that paragraph 28 shall apply correspondingly to such
+     address lists.
+
+Chapter 8 - Opinion polls and market investigations
+
+paragraph 31
+     
+Services which consist in conducting opinion polls or
+undertaking market investigations for third parties, may not
+be commenced before the King has given permission thereto.
+Paragraph 14, second paragraph, shall apply correspondingly.
+
+      The King may issue supplementary regulations as to which
+enterprises shall be subject to the government concession
+requirement in pursuance of the first paragraph, and may,
+by regulation or by individual decision, make exceptions to
+the provisions in this Chapter.
+
+     Personal information provided by someone conducting
+opinion polls or undertaking market investigations may not be
+disseminated further in such a way that the information can be
+traced to an individual person.
+
+     Information received for the purpose of opinion polls
+and market investigations, may not be utilised for other
+purposes.
+
+paragraph 33
+
+     Without the consent of the person to whom the informa­
+tion applies, information concerning name, date of birth,
+birth registration number, or the like, may not be entered
+into a register which is processed by means of electronic
+aids. Nor shall such information be entered into any other
+register which is specially designed to make the information
+easily accessible and capable of easy application.
+
+     Without the consent of the person to whom the information
+applies, the information collected shall not be stored for
+more than 6 months in such a form that it can be traced to
+an individual person.
+
+paragraph 34
+
+     The King may Issue specific regulations concerning such
+services as are referred to in paragraph 31* The regulations
+may inter alia contain provisions on the collection of information,
+on the storage of information collected and other provisions to
+ensure that personal information so collected is not utilised
+wrongfully or falls into the wrong hands.
+
+paragraph 35
+     The King may prescribe by regulation that paragraphs 32 to
+34 shall also apply to enterprises which, in individual cases,
+undertake such assignments as mentioned in paragraph 31, first
+paragraph, and to such enterprises which initiate such investiga­
+tions for the benefit of its own administration and activities.
+
+Chapter 9 - Transferal abroad etc
+
+paragraph 36
+     Registers governed by paragraph 9, first paragraph, must not
+be transferred abroad without the permission of the King.
+
+     Personal information collected in this realm, may not
+be transferred abroad without the permission of the King, if
+the purpose is to enter the information into a register as
+referred to in paragraph 9? first paragraph.
+     The King may, by regulation, make exceptions to the
+first and second paragraphs.  It may be prescribed that these
+provisions shall not apply in relation to certain other
+countries.
+paragraph 37
+     The King may issue regulations concerning co-operation           
+between the Data Surveillance Service and surveillance authori­
+ties in other countries.  In such regulations special provi­
+sions may be prescribed concerning notification requirements
+in respect of registers and concerning supervision or
+destruction of registers.
+
+Chapter 10 - Penalties and compensation
+
+paragraph 38
+     Anyone who wilfully or negligently
+
+1.   omits to obtain permission in accordance with paragraph 9,
+     paragraph 13* third paragraph, paragraph 14, paragraph 22,
+     paragraph 25, paragraph 31 or paragraph 36
+
+2.   violates the rules or terms and conditions laid down in
+     pursuance of paragraph 11, paragraph 14, paragraph 22,
+     paragraph 25, paragraph 31 or paragraph J>6
+
+3.   utilises information in violation of the rules in
+     paragraph 16, paragraph 13, paragraph 23, paragraph 26,
+     paragraph 27, paragraph 32 or paragraph 33
+
+4.   omits to comply with requirements from the Data Surveillance
+     Service in pursuance of paragraph 5 or paragraph 8
+
+5.   omits to comply with requests for information in accordance
+     with paragraph 7 or paragraph 20 or requests for deletion
+     in accordance with paragraph 23
+
+6.   omits to provide notification in accordance with
+     paragraph 19 to the person to whom the information applies
+
+shall be punished by fines or by imprisonment up to one year
+or both.
+
+     Aiding and abetting therein shall be punished in a
+similar manner.
+
+     In regulations issued in pursuance of this Act, it may
+be prescribed that violations of such regulations shall be
+punished by fines or by imprisonment up to one year or both.
+
+paragraph 39
+
+     If a violation, referred to in paragraph 33, is committed
+by anyone acting on behalf of an enterprise, fines may be
+imposed on the enterprise itself, even though no one is punishable
+under the provisions of paragraph 33.
+
+      When imposing sentence in pursuance of this section,
+aue weight shall be given to the question whether the viola­
+tion has been committed to promote the interests of the enter­
+prise and whether the enterprise has derived any benefit from
+the said violation.
+
+     Paragraph 28 of the General Civil Penal Code shall not
+apply to fines imposed in pursuance of this section.
+
+paragraph 40
+
+     If an enterprise, operating a service as referred to
+in paragraph 13, has provided information in violation of the
+provisions prescribed in, or Issued in pursuance of, this Act,
+or has provided information which proves to be erroneous or
+obviously misleading, the said enterprise shall compensate
+
+any losses incurred by the person to whom the information applies.
+This applies irrespective of whether anyone, acting on behalf
+of or in the service of the enterprise, has been guilty of
+negligence.
+
+Chapter 11 - Relationship to other statutes. Entry into force. Transitional rules. 
+
+paragraph 41
+
+      The government concession requirement under paragraph 9»
+cf. paragraph 10, shall not apply to personal data registers,
+established by separate statute, in central or local government
+institutions. Nevertheless rules, as referred to in paragraph 11,
+shall be laid down for such registers as well, in so far as
+ jther rules have not been prescribed in, or issued in pursuance
+of, the enabling act. The other provisions in this Act shall         
+also apply to such registers, in so far as other rules have
+not been prescribed in, or issued in pursuance of, the
+enabling act.
+
+paragraph 42
+
+     This Act shall enter into force on the date prescribed
+by the King.
+
+     As regards personal data registers, established prior
+to the entry into force of the Act and which are governed by
+paragraph 9, application for permission shall be submitted within
+a time limit prescribed by the King. Provided that such applica­
+tions have arrived within the time limit, personal data registers
+may be utilised unchanged until rules have been prescribed
+in pursuance of paragraph 11.
+
+     The provisions in the second paragraph shall apply
+correspondingly in cases where permission is required in             
+accordance with Chapters 5 to 9*
+
+paragraph 43
+
+     As from the date of entry into force of this Act the
+following amendments shall be made to other statutes:
+
+1.   Act no 1 of 24 May 1961 relating to Savings Banks
+
+          New second paragraph of paragraph 21 shall read:
+
+"This provision shall however not prevent the bank from
+operating credit information services in accordance with the
+legislation applicable to such services.,,
+
+
+2.   Act no 2 of 2k May 1961 relating to Commercial Banks
+
+              New second paragraph of paragraph 18 shall read:
+
+    "This provision shall however not prevent the bank from
+    operating credit information services in accordance with
+    the legislation applicable to such services."
+
+3.   Act no 71 of 11 June 1976 relating to financing services
+
+              New second paragraph of paragraph 15 shall read:
+
+    "This provision shall however not prevent the enterprise from
+    operating credit information services in accordance with the
+    legislation applicable to such services."

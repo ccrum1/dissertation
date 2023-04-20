@@ -1,0 +1,564 @@
+
+LUXEMBOURG
+
+NOMINAL DATA (Automatic Processing) ACT of 31 March 1979
+
+
+PART 1: Purpose, definitions, field of application
+
+Article 1:
+
+Natural and legal persons shall be protected against the
+improper use of nominal data in connection with
+
+a. the collection of such data for automatic processing;
+b. the storage of such data in data banks;
+c. the automatic processing of such data;
+d. the transmission to third parties of such data and of the results of their processing.
+            
+
+Article 2:
+
+For the purpose of this act:
+
+Nominal data means information about any identified or
+identifiable person.
+
+Person means any natural person, public or private corporate
+body or group of persons.
+
+Data Bank means a collection of basic information stored on
+a data medium.
+
+Owner of the data bank means the person for whom the bank is
+kept and who is free to dispose of it.
+
+Manager of the data bank means the person who actually keeps
+the bank and applies automatic processing operations to nominal data.
+
+Third Parties means any person other than the owner or manager.
+In the public sector, third party means an administrative authority,
+public service or ministry other than that which owns or manages the
+bank.
+
+Article 3:
+
+1. The act shall apply to all nominal data banks installed or used
+in the Grand Duchy of Luxembourg.
+
+2. The field of application of this act shall not include
+
+a.  data banks which are accessible to the public by virtue of an act or public administrative regulation;
+b.  data banks containing only data relating to the owner of the bank.
+c.  data banks established on behalf of institutions of public international law.
+
+3. The provisions of the present act shall apply to data
+banks established in Luxembourg even if the data are used solely
+abroad.
+
+Where a data bank on foreign territory is accessible from
+a terminal within the Grand Duchy of Luxembourg, the provisions
+of the present act must be observed by the user of such terminal.
+
+
+PART 2:     Establishment and operation of data banks
+
+Section 1:     Data banks not controlled by the State
+
+Article 4:
+
+The establishment and operation of any data bank not controlled
+by the State shall be subject to prior authorisation by the
+minister responsible for keeping the national register of data
+banks provided for in Article 13.
+
+Article 5:
+
+1.   Applications for authorisation shall be made to the minister
+by the owner and any manager.
+
+2.   In the case of the use of a data bank outside Luxembourg
+territory, the application for authorisation shall be made by the
+user inside Luxembourg territory.
+
+3.   The application must give, for each data bank, the following
+particulars:
+
+     a.      the name or title and address of the owners and
+             managers, or user, as the case may be.
+
+     b.      the name of the data bank.
+
+     c.      a detailed description of the bank's purpose.
+
+     d.      the nature and origin of the data stored in the bank
+             and their relevance to the bank's purpose.
+
+     e.      where data are disclosed to third parties, the nature of
+             the data and results disclosed and the identity of third
+             parties or groups of third parties to whom they are
+             disclosed.
+
+Article 6:
+
+     After the receipt of the opinion of the Advisory Board
+provided for in Article 30 or, failing that, upon expiry of 3
+months from the time of reference to the Advisory Board,
+authorisation shall be granted by the minister where there is
+no reason to fear improper use of the nominal data or any
+violation of the provisions of the present act.
+
+     The minister's decision granting or refusing authorisation
+shall be accompanied by reasons..
+
+     Such authorisation shall apply solely to the application
+as made. It shall state the period of its validity, which may
+in no case exceed 10 years.
+
+     The authorisation may also include stipulations concerning
+the following points:
+
+     a.      the security and control systems to be operated.
+
+     b.      the period beyond which data may no longer be kept,
+             used or disclosed.
+
+     Any change affecting the terms of the authorisation including
+the points stipulated by the minister in his decision, shall be
+subject to prior authorisation in compliance with the provisions
+of Articles 4 and 5.
+
+     Authorisation shall be issued in the name of the owner,
+manager and user.  It may be rescinded and shall be withdrawn for
+failure to comply with its terms.
+
+Article 7:
+
+     Appeals against the minister's decisions to grant, refuse or
+withdraw authorisations provided for by the present act shall lie
+to the Council of State (Disputes Committee) which shall rule on
+the merits.
+
+     Such appeals shall be subject to a time limit of 1 month from
+notification of the contested decision.
+
+
+Section 2:    Data banks controlled by the State
+
+Article 8:
+
+     Nominal data banks may be established and operated on behalf
+of the State only in pursuance of an act or Grand Ducal regulation.
+
+
+Article 9:
+
+     The government shall seek the Advisory Board's opinion on
+the text of any bill or draft Grand Ducal regulation establishing
+a data bank and on the text of any amendments to the aforesaid
+bill or draft regulation.
+
+     It shall provide the Board with all the particulars listed
+in Article 5 (3).
+
+Article 10:
+
+     The Advisory Board's opinion, which shall be accompanied by
+reasons, shall be concerned with observance of the rights protected
+by this act.
+
+     It may contain proposals relating to:
+
+     a.      the security and control systems to be operated in order
+             to ensure the completeness of the data and to prevent
+             and detect the misuse of data, whether deliberate or not.
+
+     b.      the period beyond which the data must not be kept, used
+             or disclosed.
+
+     The Board's opinion shall be adopted by a majority of its
+members. A minority opinion may be appended thereto without thei
+author being named.                                             
+
+Article 11:
+
+     The act or Grand Ducal regulation authorising the establishment
+and operation of a bank on behalf of the State shall fix .the period
+of validity of the authorisation, which may in no case exceed 10 years.
+
+Article 12:
+
+     The government in council may waive the requirement of entry
+in the national register provided for in Article 13 in respect of
+data banks relevant to State security, national defence and public
+safety.
+
+PART 3:   National Register of Data Banks
+
+Article 13:
+
+     A national register of data banks falling within the field of
+application of the present act shall be established. The national
+register shall contain, in respect of each date bank:
+
+     a.      the name or title and address of the owners and managers
+             or users;
+
+     b.      the name of the bank;
+     c.   a description of the bank's purpose;
+     d.   the nature and origin of the data stored in the bank;
+     e.   the third parties to whom processed information is to be
+          disclosed and the nature of the data disclosed;
+     f.   the date of the authorisation or of the act or Grand
+          Ducal regulation authorising a bank to be established
+          and operated;
+     g.   the period of validity of the authorisation;
+     h.   where appropriate, the date of withdrawal of authorisation
+          or of the winding up of the data bank.
+
+     To this register, as defined above, shall be added an
+appendix containing the opinions provided for in Articles 9 and 10.
+
+     For the purposes of supervision and consultation, the register
+may itself be compiled in the form of a data bank without being
+subject to the authorisation procedure.
+
+
+PART 4:   Collection of Data
+
+Article 14:
+
+     The collection of data by any fraudulent, unfair or unlawful
+means shall be prohibited.
+
+Article 15:
+
+     The following may not be collected and stored in data banks:
+
+     a.   data concerning political, trade union, philosophical or
+          religious opinions or activities;
+
+     b.   data concerning private life.
+
+     A registered or unregistered association shall not be prohibited
+from keeping a register of its members in the form of a data bank.
+
+     Trade union affiliations may likewise be collected and stored in
+data banks at the specific request of those concerned.
+
+     Such data may not be divulged to third parties.
+
+Article 16:
+
+     The storage and processing of the following data shall be reserved
+to the State, subject only to the limits imposed by law or by regulations:
+
+     a.   criminal records, except judgements and declarations of bankruptcy
+
+     b.   orders made under the Youth Protection Act of 12 November 1971.
+
+Article 17:
+
+     The collection and storage of medical data shall be reserved
+to the medical authorities, social security agencies and the
+ministerial department of public health, as shall be determined by
+Grand Ducal Regulation, issued after consultation of the Council of State.
+
+     This provision shall not prevent the processing and retention
+of medical data being entrusted to a manager.
+
+Article 18:
+
+1.   The persons from whom nominal data are collected for automatic
+processing shall be informed:
+
+     a.   of the purpose of the automatic data processing;
+     b.   whether it is compulsory or optional to reply;
+     c.   of any.consequences to them of failure to reply;
+     d.   of any third parties to whom the information is to be
+          supplied;
+     e.   whether there is a right of access and rectification.
+
+     Where such information is collected by means of a questionnaire,
+such questionnaire shall give particulars of these provisions.
+
+2.   These provisions shall not apply to the collection of information
+required for the prosecution of offences.
+
+PART 5:    Right of Access
+
+Article 19:
+
+     Any person may, free of charge, consult information contained
+in the national register of data banks and, upon payment of an office
+fee to be fixed by Grand Ducal Regulation, obtain a copy of all or part
+of the information concerning a particular data bank.
+
+Article 20:
+
+     Any person shall be entitled to question the owner, or user
+in the case of foreign banks, in writing, as to whether the data bank
+contains nominal data concerning him and, if so, to secure their
+disclosure to him.
+
+     Such disclosure shall be effected, within one month of receipt
+of the request, in an intelligible form which is a time representation
+of the data recorded.
+
+     A Grand Ducal Regulation shall fix the amount of the charge to
+be made for the supply of such information.
+
+
+Article 21:
+
+     Notwithstanding the provisions of Article 20, nominal data
+shall not be disclosed which, by virtue of an Act or Grand Ducal
+Regulation, may not be divulged to persons exercising the right of
+consultation.
+
+     The obligation of disclosure shall not apply to information
+already disclosed or disclosable by virtue of an Act, regulation or
+contract, in a form other than that provided for in the present Article.
+
+     Where the right of access is exercised in respect of medical
+information, such information may not be divulged to the person
+concerned except through a doctor designated by him for that purpose.
+
+Article 22:
+
+     The person entitled to exercise the right of access may demand the
+rectification, completion, classification, up-dating or deletion
+of data concerning him if they are inaccurate, incomplete, ambiguous
+or out of date, or if the collection, storage, disclosure or retention
+thereof is prohibited.
+
+     The person concerned shall, on request, be issued free of charge
+a copy of the corrected item.
+
+     If the person entitled to access secures an amendment of the
+entry, the charge paid under Article 20 shall be refunded.
+
+Article 23:
+
+     If a datum has been transmitted to a third party, its rectification
+or cancellation must be notified to such third party.
+
+Article 24:
+
+     Any person who, in exercising the right of access, has reasonable
+grounds for believing that the data supplied to him do not correspond
+to the data stored may so inform the Minister responsible for the
+national register of data banks. It shall be for the Minister to order
+an enquiry where appropriate.
+
+PART 6: Obligations of owners, managers and users of data banks
+
+Article 25:
+
+     Persons who, in the performance of their duties, are involved
+in the collection, processing or transmission of personal data shall
+be bound by professional secrecy.
+
+Article 26:
+
+     Owners and managers of data banks must make every effort to keep
+their contents up to date, correct inaccurate data and delete obsolete
+data or data obtained by unlawful or fraudulent means.
+
+     They must take all suitable precautions to maintain the security
+of the data stored and, in particular, to prevent them from being
+distorted, mutilated or disclosed to unauthorised persons.
+
+     They must satisfy themselves that the automatic data processing
+programmes are appropriate and that they are properly used.
+
+     They must ensure that data and results are transmitted in accordance
+with the appropriate rules.
+
+Article 27:
+
+     The general technical measures required to ensure the material
+security of data banks and of processing may be stipulated in a
+Grand Ducal Regulation issued after consultation of the Council of State
+and the Advisory Board. The degree of protection so secured shall be
+commensurate with the expenditure entailed.
+
+Article 28:                                                            
+
+     Owners and managers or users shall be required to notify the
+Minister responsible for the register of data banks within one month
+of any change of address.
+
+PART 7: Functions of the Competent Minister and the Advisory Board
+
+Article 29:
+
+1.   The Minister responsible for the national register of data banks
+shall ensure that automatic processing of personal data is effected in
+accordance with the provisions of this Act, with regulations issued
+thereunder and with the operating conditions laid down.
+
+2.   He shall take individual decisions in the cases provided for in
+the present Act and in its implementary regulations.
+
+3.   He shall effect entries in the national register of data banks.
+He may delete from the register data banks which have not been in
+operation for at least 5 years.
+
+4.   He may, by means of an individual decision instruct one or more
+officials to effect on-the-spot checks in respect of any processing and
+require the production of any information and material relevant to his
+functions.
+
+5.   He shall addresss requests for explanations to the persons concerned.
+
+6.   He shall receive complaints.
+
+7.   He shall address recommendations and warnings to the persons
+concerned.
+                                                              
+8.   He shall supervise the exercise of the right of consultation and
+rectification as provided for in Articles 19-23.
+
+9.   He shall report offences which come to his notice to the judicial
+authorities.
+
+Article 30:
+
+     There shall be set up an Advisory Board to the Minister
+responsible for the national register of data banks, which shall
+be composed of at least 5 members appointed by the Grand Duke for
+a term of 5 years and recruited from the private and public sectors,
+among lawyers and data-processing specialists. Their term of office
+shall be renewable. The organisation, procedure and working methods
+of the Board shall be specified in a Grand Ducal regulation.
+
+Article 31:
+
+1.   The Board shall issue opinions as provided for in the present
+Act.
+
+2.   It shall also perform an information function, in connection
+with which it shall:
+
+     a.      keep itself informed and advise the government of the
+             consequences of the use of data processing and of its
+             development prospects with reference to the exercise of
+             freedoms and the operation of democratic institutions;
+             for this purpose, it shall carry out studies and surveys;
+
+     b.      draw the government's attention to defects or abuses which
+             are not specifically referred to in existing statutory and
+             administrative provisions;
+
+     c.      report to the government annually on the performance of
+             its functions. Its report shall be published.
+
+PART 8:   Criminal Provisions
+
+Article 32:
+
+     It shall be an offence punishable by imprisonment of not less
+than 8 days and not more than 6 months, or a fine of not less than
+2,501 and not more than 500,000 francs, or both such penalties to
+establish, operate or use a data bank without holding a valid
+authorisation as provided for in Part 2 of the present Act, or to
+fail to comply with the terms thereof.
+
+     The same penalties shall apply to anyone who operates or uses
+a data bank after the authorisation referred to in the preceding
+paragraph has been withdrawn.
+
+     The same penalties shall apply if, in the course of storage,
+filing, transmission or other form of processing, the holder of
+nominal data has diverted them from their purpose as defined in the
+authorisation provided for in Part 2 of the present Act or in the statutory provisions under which the data bank operates, or if the
+holder of nominal data has, without authorisation by the person
+concerned, knowingly transmitted such data or allowed them to be
+transmitted to third parties.
+
+Article 33:
+
+     It shall be an offence punishable by imprisonment of not less
+than 1 month and not more than 1 year, or a fine of not less than
+10,000 and not more than 500,000 francs, or both such penalties,
+to collect, or arrange for the collection of, to record, or arrange
+for the recording of, or to store or arrange for the storage of,
+nominal data in violation of the provisions of Articles 14, 15, 16
+and 17.
+
+     In addition, the court may order that the judgement be
+published in part or in full in one or more newspapers and that it
+be posted up in such manner as the court shall decide, at the expense
+of the offender.
+
+Article 34:
+
+     It shall be an offence punishable by imprisonment of not less
+than 8 days and not more than 1 month, or a fine of not less than
+2,501 and not more than 100,000 francs, or both such penalites, to
+fail to supply within the time-limit prescribed by law information
+requested by virtue of Article 20, knowingly to provide inaccurate
+information, or to fail to comply with the obligations under
+Articles 22 and 23.
+
+Article 35:
+
+     It shall be an offence punishable by imprisonment of not less
+than 8 days and not more than 3 months, or a fine of not less than
+2,501 and not more than 300,000 francs, or both such penalties, to
+have used an assumed name or a false title for the purpose of obtaining
+disclosure of nominal data in pursuance of Article 20.
+
+Article 36:
+
+     It shall   be an offence punishable by a fine of not less than
+2,501 and not   more than 100,000 francs to fail to comply with the
+provisions of   Articles 26 and 28 or of Grand Ducal regulations issued
+under Article   27.
+
+Article 37:
+
+     It shall be an offence punishable by imprisonment of not less
+than 8 days and not more than 6 months, or a fine of not less than
+2,501 and not more than 500,000 francs, or both such penalties,
+deliberately to prevent or hinder, in any way whatsoever, the per­
+formance of the functions of the Minister responsible for the register
+of data banks or of the Advisory Board.
+
+     Such deliberate hindrance or prevention of the performance
+of the Minister's functions shall be deemed to include refusal to
+allow agencies entrusted with an enquiry access to premises and
+documents or to supply the information requested.
+
+Article 38:
+
+     The confiscation and destruction without compensation of all
+or part of the data bank in respect of which the offences provided
+for in Articles 32 and 33 were committed shall in all cases be
+ordered in the event of conviction. They may also be ordered in
+respect of offences provided for in Articles 34, 36 and 37.
+
+Article 39:                                                          
+
+     Book 1 of the   Penal Code and the Act of 18 June 1979 enabling
+the courts to make   allowances for extenuating circumstances, as
+amended by the Act   of 16 May 1904, shall apply to offences provided
+for in the present   Act.
+
+
+PART 9: Entry into Force and Transitional Provision
+
+Article 40:                                              
+
+     The A.ct shall enter into force on the first day of the sixth
+month following that in which it was published in the Gazette.
+
+Article 41:
+
+     The owners, managers or users of data banks in existence at
+the time of entry into force of the present Act shall comply therewith
+within 12 months from its entry into force.
+
+     They shall apply for authorisation within 6 months after the
+entry into force of the Act.

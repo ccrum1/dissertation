@@ -1,0 +1,612 @@
+Act No. 78-17 of 6 January 1978 on data processing data files and freedoms (France)
+
+
+
+ACT No. 70-17 of 6 January 1978 on data-processing, data files and freedoms
+
+After adoption by the National Assembly and the Senate the President of the Republic promulgates the following Act:
+
+CHAPTER 1
+PRINCIPLES AND DEFINITIONS
+Article 1 - Data-processing shall be at the service of every
+citizen.
+It shall be developed in the context of international
+co-operation. It shall not be prejudicial to human identity,
+human rights, private life or individual or public freedoms.
+
+Article 2 - No judicial decision entailing an appraisal of human
+behaviour may be based on automatically processed data which
+define the characteristics or personality of the person concerned.
+No administrative or private decision entailing an appraisal
+of human behaviour may be based solely on automatically processed
+data which define the characteristics or personality of the per­
+son concerned.
+
+Article 3 - Everyone shall have the right to ascertain and
+challenge the information and arguments used in automatic dataprocessing whose results are invoked against him.
+
+Article 4 - For the purposes of this Act, the expression "personal
+data" shall mean information which in any way whatever* directly
+or otherwise, enables the natural persons to whom it applies to
+be identified, whether the processing be carried out by a natural
+person or by a legal person.
+
+Article 5 - Hor the purposes of this Act* the expression "automatic
+processing of personal data" shall mean any set of operations
+carried out by automatic means, relating to the collection, recor­
+ding, elaboration, alteration, storing and destruction of personal
+data. and any set of operations of a similar nature relating to
+the use of data files or data bases, notably the cross-referencing,
+comparing, consultation or communication of personal data.
+
+CHAPTER II
+THE NATIONAL COMMITTEE ON DATA-PROCESSING AND FREEDOMS
+
+Article 6 - A National Committee on Data--Processing and Freedoms
+shall be set up.
+It shall ensure the application of the provisions
+of this Act, notably by informing all persons concerned of their
+rights and obligations, conferring with them and supervising the
+uses made of the automatic techniques for the processing of per­
+sonal data. To that end the committee may issue regulations in the
+cases provided for in this Act.
+
+
+Article 7 - The appropriations needed by the National Committee
+for the performance of its functions shall be included in the
+budget of the Ministry of Justice. The provisions of the
+Financial Control Act of 10 August 1922 shall not be applicable
+to the management thereof. The committee's accounts shall be
+presented for scrutiny to the Auditing Office (Cour des Comptes).
+However, expenditure entailed by the performance of some
+of the formalities referred to in Articles 15, 16, 17 and 25 of
+this Act may be subject to the charging of fees.
+
+Article 8 - The National Committee on Data-Processing and Freedoms
+shall be an independent administrative authority.
+
+It shall comprise 17 members appointed for 5 years or for
+the duration of their terms of office, viz;
+
+
+- two Deputies and two Senators elected by the National Assembly
+and the Senate respectively;
+
+- two members of the Economic and Social Council, elected' by
+that body;
+
+- two members or former members of the Council of State,
+one of whom shall have a rank at least equal to that of
+"conseiller", elected by the General Assembly of the Council
+of State;
+
+- two members or former members of the Court of Cassation,
+' one of whom shall have a rank at least equal to that of
+"conseiller", elected by the General Assembly of the Court
+of Cassation;
+
+- two members or former members of the Auditing Office,
+one of whom shall have a rank at least equal to that of
+"conseiller-mattre", elected by the General Assembly of
+the Auditing Office;
+
+- two persons chosen for their knowledge of the applications
+of data-processing, appointed by decree on a proposal by
+the President of the National Assembly and the President
+of the Senate respectively;
+
+- three persons chosen for their authority and competence,
+appointed by a Council of Ministers Decree.
+
+The committee shall elect a chairman and two vice-chairmen
+for five years.
+
+The committee shall draw up its own rules of procedure.
+
+In the event of a tie, the Chairman shall have a casting.
+
+If the Chairman or a member of the committee ceases to
+exercise his functions during his term of office, the term of
+office of his successor shall be limited to the period remaining
+to be completed.
+
+Membership of the committee shall be incompatible with;
+
+- membership of the government;
+
+- the exercise of functions or the holding of shares in
+companies participating in the manufacture of equipment
+used in data-processing or telecommunications, or in the
+supply of data-processing or telecommunications services.
+
+- Any questions of incompatibility arising in regard to its
+members shall be decided by the committee in each individual case.
+Apart from resignation, the functions of a member may not be .
+terminated unless his inability to attend the meetings of the com­
+mittee is established by the committee in such manner as it shall
+itself decide.
+
+Article 9 - A government commissioner, appointed by the Prime
+Minister, shall sit on the committee.
+He may, within 10 days of a deliberation, call for a further
+deliberation.
+
+Article 10 - The committee shall have services directed by the
+Chairman or, on his delegation and under his authority, by a
+Vice-Chairman.
+The committee may instruct the Chairman or the del-egated
+Vice-Chairman to exercise its powers regarding the application of
+Articles 16, 17 and 21 (4), (5) and (6).
+The agents of the National Committee shall be appointed by
+the Chairman or the delegated Vice-Chairman.
+
+Article 11 - The committee may request the Appeals Court First
+Presidents or the Administrative Tribunal Presidents to delegate
+a judge under their authority, possibly assisted by experts, to
+carry out investigations and inspections under its direction.
+
+Article 12 - The members and agents of the committee shall be
+bound by professional secrecy in respect of such facts, acts or
+information as come to their knowledge by reason of their functions,
+on the conditions laid down in Article 75 of the Criminal Code,
+and, subject to whatever is necessary for the preparation of the
+annual report provided for below, in Article 378 of the Criminal
+Code.
+
+Article 13 - In the exercise of their powers* the members of the
+National Committee on Data-Processing and Freedoms and the mem­
+bers of regional delegations shall not receive instructions from
+any authority.
+Data-processing experts called upon either to furnish
+information to the committee or to give evidence before it
+shall be discharged, as far as necessary, from their obliga­
+tion to observe discretion.
+
+CHAPTER III
+
+FORMALITIES PRIOR TO THE AUTOMATIC PROCESSING OF DATA
+
+
+Article 14 - The National Committee on Data-Processing and, _ '
+Freedoms shall ensure that the public or private automatic pro­
+cessing of personal data is carried out in accordance with the
+provisions of this Act.
+
+Article 15 - Apart from cases which have to be authorised., by, law,
+any automatic processing of personal data carried out oh behalf
+of the State,, a public establishment or a territorial authority,
+or on behalf of a private corporation managing a public service
+shall require authorisation by means of a statutory instrument
+issued after the National Committee on Data-Processing and Freedoms
+has submitted a reasoned opinion.
+If the committee's opinion is unfavourable, the processing
+may be effected only on the strength of a decree issued in the
+light of a concurring opinion of the Council of State or, in the
+case of a territorial authority, on the strength of a decision
+by its deliberative body approved a decree issued in the light of
+a concurring opinion of the Council of State.
+
+If, after a period of two months which may be renewed once
+only by a decision of the Chairman, the committee has not com­
+- municated any opinion, its opinion shall be deemed favourable.
+
+Article 16 - No automatic processing of personal data on behalf
+of persons other than those subject to the provisions of Article 15 may be carried out until a declaration thereon has
+been made to the National Committee on Data-Processing and Freedoms.
+The declaration shall contain an assurance that the processing
+satisfies the requirements of the Act.
+As soon as he has received a receipt issued without delay by
+the committee, the applicant may carry out the processing. He shall
+not be exempt from any of his liabilities.
+
+Article 17 - In the case of the commonest forms of public or
+private data-processing which manifestly do not involve any
+interference in privacy or freedoms, the National Committee on
+Data-Processing and Freedoms shall draw up and publish simpli­
+fied standards based on the specifications set out in Article 19.
+In the case of data-processing satisfying these standards,
+only a simplified declaration of compliance with one of these
+standards shall be deposited with the committee. Unless the
+latter takes a specific decision, a receipt for the declaration
+shall be issued without delay. As soon as the receipt has been
+received, the applicant may carry out the processing. He shall
+not be exempt from any of his liabilities.
+
+Article 18 - The use of the national register of natural persons
+fgr the purpose of processing personal data shall be authorised
+by a Council of State Decree issued after consultation of the
+committee.
+
+Article 19 - The request for an opinion or the declaration shall
+specify:
+
+
+- the person making the request and the person empowered to
+decide on the introduction of the processing or, if he is
+residing abroad, his representative in France;
+
+- the characteristics, the purpose and, where appropriate,
+the designation of the processings
+
+- the department or departments responsible .for carrying
+out the processing;
+
+- the department to which the right of access defined in
+Chapter V below applies and the measures taken to facilitate
+the exercise of that right;
+
+- the categories of persons who, because of their functions
+or the exigencies of the service, have direct access to the
+recorded data;
+
+- the personal data processed, their origin and the duration
+of their storage, as well as the persons or categories of
+persons authorised to receive such data;
+
+- any comparing, cross-referencing or other form of inter­
+connecting to be effected with the data, as well as any
+intention to assign them to third parties;
+
+- the security measures taken with regard to the processing
+and the data as well as in respect of secrets protected by
+the law;
+
+- whether the processing is to be carried out with a view to
+personal data being transmitted between French territory
+and abroad, in any form, including when rhe processing
+entails operations partially carried out in French terri­
+tory on the basis of operations carried out earlier outside'
+France.
+
+Any change.in the aforesaid particulars or any cancellation
+of processing shall be reported to the committee.
+Requests for opinions concerning the automatic processing
+of personal data affecting State security, defence or public
+safety need not include all the particulars listed above.
+
+
+Article 20 - The statutory instrument provided for in respect of
+data-processing covered by Article 15 above shall state inter alia!
+
+- the designation and purpose of the data-processing;
+
+- the department to which the right of access defined in
+Chapter V below applies;
+
+- the categories of personal data recorded and the persons
+or categories of persons authorised to receive such data.
+
+Council of State Decrees may stipulate that statutory instru­
+ments concerning certain forms of data-processing affecting State
+security, defence and public safety Shall not be published.
+
+Article 21 - In the exercise of its supervisory function, the
+committee:
+1. shall take individual or general decisions in cases provided
+for in this Act;
+
+2. may, by a specific decision, instruct one or more of its
+members or agents, assisted, where appropriate, by experts,
+to make on-the-spot inspections in respect of any dataprocessing and to obtain any information and documents
+necessary to the discharge of its functions;
+
+3. shall iay down, where appropriate, model rules for ensuring
+the security of systems; in the event of exceptional cir­
+cumstances arising, it may prescribe security measures,
+including the destruction of data media;
+
+4. shall issue warnings to those concerned and report to the
+Public Prosecutor's Office any offences which come to its
+knowledge, in pursuance of Article 40 of the Code of Criminal
+Procedure;
+
+5. ensure that conditions governing the exercise of the right
+of access and correction as laid down in the instruments
+and declarations provided for in Articles 15 and 16 do not
+hinder the free exercise of that right;
+
+6. shall receive claims,, petitions and complaints;
+
+7. shall keep itself informed of manufacturing and service
+activities relating to automatic data-processing.
+
+Ministers, public authorities, heads of public or private
+companies, leaders of groups and, in more general terms, persons
+holding or using personal data files may not obstruct the action
+of the committee or its members for any reason whatsoever but
+shall do all that is necessary to facilitate its task.
+
+Article 22 - The committee shall place at the disposal of
+the public a list of the various forms of data-processing, stating
+in respect of each one:
+
+- the statutory instrument authorising it to be carried out
+or the date on which it was declared;
+
+- its designation and purpose;
+
+- the department to which the right of access provided for
+in Chapter V below applies;
+
+- the categories of personal data recorded and the persons
+or categories of persons authorised to receive such data.
+
+Decisions, opinions or recommendations of the committee,
+a knowledge of which is relevant to the application or interpreta­
+tion of this Act shall be placed at the disposal of the public
+in the manner laid down by decree.
+
+Article 23 - The committee shall submit an annual report to the
+President of the Republic and to parliament on the execution of
+its mission. The report shall be published.
+
+The report shall, inter alia, describe the procedures and
+working methods used by the committee and contain, in an appendix,
+all information concerning the organisation of the committee and
+its services that is likely to facilitate the public's relations
+with the committee.
+
+Article 24 - On a proposal or following an opinion by the com­
+mittee, the transmission between French territory and abroad, in
+any form whatever, of personal data that have been subjected to
+a form of automatic processing governed by Article 16 above may
+be subjected to prior authorisation or regulated in a manner speci
+fied in a Council of State Decree with a view to ensuring com­
+pliance with the principles laid down in this Act.
+
+
+CHAPTER IV
+COLLECTION, RECORDING AND STORAGE OP PERSONAL DATA
+
+Article 25 - The collection of data by any fraudulent, unfair
+or unlawful means shall be prohibited.
+
+Article 26 - Any natural person may object for legitimate reasons
+to the processing of personal data concerning him.
+This righc shall not apply to the forms of processing speci­
+fied in the statutory instrument provided for in Article 15.
+
+Article 27 - Persons from whom personal data are obtained shall be
+informed of:
+- the compulsory or optional nature of replies;
+
+- the consequences for them of any failure to reply;
+
+- the identities of the natural or legal persons for whom
+the data are intended;
+
+- the existence of a right of access and correction.
+
+Where such data are collected by means of questionnaires,
+the above requirements shall be stated on the questionnaires.
+These provisions shall not apply to the collection of infor­
+mation required for the establishment of offences.
+
+Article 28 - Except where otherwise provided by law, data shall
+not be stored in a personal form for longer than the period speci­
+fied in the request for an opinion or the declaration, unless the
+storing thereof is authorised by the committee.
+
+Article 29 - Any person ordering or carrying out the processing
+of personal data shall ipso facto undertake, in respect of the
+persons concerned, to take all necessary precautions in order to
+ensure the security of the data and, in particular, to prevent
+them from being distorted, damaged or communicated to unauthorised
+third parties.
+
+Article 30 - Except where otherwise provided by law, courts and
+public authorities acting in pursuance of their statutory powers
+and, subject to a concurring opinion of the National Committee,
+legal persons managing a public service shall be the only bodies
+authorised to process personal data concerning offences, convic­
+tions or.security measures.
+
+
+Pending the introduction of the register of drivers pro­
+vided for in Act No. 70-539 of 24 June 1970, insurance com­
+panies may, under the committee's supervision, themselves pro­
+cess the data referred to in Article 5 of the aforesaid Act
+concerning the persons specified in the last paragraph of the
+same article.
+
+Article 31 - Without the express agreement of the person concerned,
+it shall be prohibited to place or store in a computer memory per­
+sonal data which directly or indirectly reveal the racial origins
+or political, philosophical, religious opinions or trade union
+affiliations of the persons to which they relate.
+However, churches and religious, philosophical, political
+or trade union groups may keep an automated register of their
+members or correspondents. They shall not be subject to any
+supervision on that account.
+Exceptions to the above prohibition may also be made by a
+Council of State Decree for reasons of public interest, on the
+basis of a proposal or a concurring opinion of the committee.
+
+Article 32 - The electoral register shall be equally available for
+consultation by candidates and political parties, under the super­
+vision of the electoral information boards.
+
+Article 33 - The provisions of Articles 24, 30 and 31 shall not
+apply to personal data processed by bodies of the printed or
+audio-visual press in pursuance of the Acts governing them and in
+cases where the effect of the application of those provisions
+would be to restrict the exercise of freedom of expression.
+
+CHAPTER V
+EXERCISE OP THE RIGHT OP ACCESS
+
+Article 34 - Anyone furnishing evidence of his identity shall have
+the right to question the departments or agencies responsible for
+carrying out the various forms of automatic data-processing, a
+list of which shall be available to the public in application of
+Article 22 above, with a view to ascertaining whether the personal
+data being processed concern him and, where appropriate, having the
+data communicated to him.
+
+Article 35 - Any person having right of access may have the data
+concerning him communicated to him. The data shall be communica­
+ted in clear and shall correspond with those recorded.
+
+
+Upon receipt of a copy-of data, the person having right of
+access who requested it shall pay a fixed fee the amount of which,
+varying according to the form of processing, shall he determined
+by the committee and approved by the Minister of Economics and
+Finance. .
+However, if the officer in charge of the data file lodges
+an objection with the committee, the committee may grant him;
+
+-a certain period in.which to replyj
+
+- permission not to heed certain requests which are mani­
+festly abusive by virtue' of their numerousness or repetitiveness
+
+If there is reason to fear the concealment or disappearance
+of the data referred to in the first paragraph of this article,
+and even before the lodging of a judicial appeal, the competent
+judge may be asked to order any measures calculated to prevent '
+such concealment or disappearance.
+
+Article 36 - Any person having right of access may demand that data
+concerning him which are inaccurate, incomplete, ambiguous or
+out of date or the collection, use, communication or storing of
+which is prohibited be corrected, completed, clarified, updated
+or obliterated.
+If the person concerned so requests, the department or body
+concerned shall issue free of charge a copy of the recorded data'
+as amended.
+
+In the event of a dispute, onus of proof shall rest with the
+department concerned, unless it is established that the data in
+dispute were' communicated by the person concerned or with his consent
+If a person having right of access succeeds in having the
+recorded data amended, the fee charged in application of Article 35
+shall be reimbursed.
+
+Article 37 - A personal data file shall be supplemented or corrected, even "proprio motu," if the body holding it learns of
+the inaccuracy or incompleteness of any data contained therein.
+
+Article 38 - If data have been communicated to a third party,
+the latter shall be notified of their correction or cancellation
+unless exemption Is granted by the committee.
+
+Article 39 - In the case of the processing of data affecting
+State security, defence and public safety, the request shall be
+addressed to the committee, which shall designate one of its .
+members belonging or having belonged to the Council of State,
+the Court of Cassation or the Auditing Office to conduct such
+investigations and arrange for such, alterations as may be necessary. The member may be assisted by an -agent of the committee.
+
+
+The applicant shall be notified that verifications have been
+made.
+
+Article 40 - If the exercise of the right of access applies to
+medical data, these may not be communicated to the person con­
+cerned except through a doctor designated by him for that purpose.
+
+CHAPTER VI
+CRIMINAL PROVISIONS
+Article 41 - Anyone who has carried out* or caused to be carried
+out, any automatic processing of personal data without the statu­
+tory instruments provided for in Article 15 having been published
+or the declarations provided for in Article 16 having been made
+shall be liable to a term of imprisonment ranging from 6 months to
+5 years and a fine ranging from 2,000 to 200,000 francs or to one
+of these two penalties only.
+
+Furthermore, the court may order that all or part of its
+judgement be published in one or more newspapers and publicly
+displayed in whatever manner it specifies* at the expense of the
+person convicted.
+
+Article 42 - Anyone who has recorded or caused to be recorded,
+stored or caused to be stored personal data* in violation of
+Articles 25, 26 and 23-pl shall be liable to a term of imprison­
+ment ranging from 1 to 5 years and a fine ranging from 20,000 to
+2,000,000 francs or to one of tnese two penalties only.
+
+Furthermore, the court may order that all or part of its
+judgement be published in one or more newspapers and publicly
+displayed in whatever manner it specifies, at the expense of the
+person convicted.
+
+Article 43 - Anyone who has acquired, in the course of their being
+recorded, classified, transmitted or subjected to any other form
+of processing, personal data whose disclosure would result in the
+reputation or standing of the person concerned being harmed or his
+privacy invaded and who has wittingly and without the authorisation
+of that person brought such data to the knowledge of someone who
+is not qualified to receive them under the provisions of this Act
+or other legislative provisions shall be liable to a term of
+imprisonment ranging from 2 to 6 months and a fine ranging from
+2,000 to 20,000 francs or to one of these penalties only.
+Anyone who, through imprudence or negligence, has divulged
+or caused to be divulged data of the kind referred to in the pre­
+ceding paragraph shall be liable to a fine ranging from 2,000 to
+20,000 francs.
+
+
+Article 44 - Anyone who has held personal data in the course
+of their being recorded, classified, transmitted or subjec­
+ted to any other form of processing and who has used them for
+a purpose other than that specified in the statutory instrument
+provided for in Article 15 above or in a declaration made in
+application of Articles lb and 17 or in a legislative provision
+shall be liable to a term of imprisonment ranging from 1 to 5 years
+and a fine ranging from 20,000 to 2,000,000 francs.
+
+CHAPTER VII
+MISCELLANEOUS PROVISIONS
+Article 45 - The provisions of Articles 25, 27, 29, 50, 31, 32
+and 33 concerning the collection, recording and storing of per­
+sonal data shall be applicable to non-automatic or mechanised
+data files other than those used as part of the strict exercise
+of the right to privacy.
+The first paragraph of Article 26 shall be applicable to
+the same data files, apart from public data files designated
+by a statutory instrument.
+Any person furnishing evidence of his identity shall have
+the right to question departments or bodies holding data files
+of the kind referred to in the first paragraph of this article
+with a view to establishing whether they contain any personal
+data concerning him. A person having right of access shall have
+the right to have such data communicated to himj he may demand
+that the first three paragraphs of Article
+of this Act, concerning the right of correction, be applied. The provisions of
+Articles 37, 38, 39 and 40 shall also be applicable. A Council
+of State Decree shall lay down conditions for the exercise of the
+right of access and correction.
+It may provide for the charging
+of fees for the issue of copies of data communicated.
+
+On a proposal by the National Committee on Data-Processing
+and Freedoms, the government' may decide, by a Council of State
+Decree, that the other provisions of this Act may, in whole or
+in part, apply to a non-automatic or mechanical data file or to
+categories of such data files which, either on their own or in
+conjunction with a computerised data file, entail dangers for
+the protection of freedoms.
+
+Article 46 - Council of State Decrees shall lay down
+arrangements for the application of this Act. They shall be
+issued within 6 months of the promulgation of the Act.
+The decrees shall stipulate the period within which the
+provisions of this Act shall enter into force. This period shall
+not exceed 2 years from the promulgation of the Act.
+
+Article 47 - This Act shall be applicable to Mayotte and the
+overseas territories.
+
+Article 48 - As a transitional measure, forms of data-processing
+governed by Article 15 above which have already been introduced
+shall be subject only to a declaration to the National Committee
+on Data-Processing and Freedoms on the conditions prescribed in
+Articles 16 and 17.
+However, the committee may, by a specific decision, apply
+the provisions of Article 15 and fix the period within which
+the statutory instrument governing the data-processing shall be
+issued.
+After a period of 2 years from the promulgation of this Act,
+all forms of data-processing governed by Article 15 shall be
+required to conform with the requirements of that article.
