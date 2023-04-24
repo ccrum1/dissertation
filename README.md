@@ -9,5 +9,5 @@ Yes, but you do so at your own risk. I make no warranties about effectiveness ou
 Can I use Chris' files?
 Yes, with attribution 
 
-Why are the files pre-1980 subject to different naming conventions?
+Why are some files subject to different naming conventions that do not fit the R Markdown code?
 They were uploaded prior to the standardizing of the R code and I haven't gone back to change the names yet. 
