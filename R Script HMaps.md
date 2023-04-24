@@ -32,6 +32,7 @@
 > corpus <- tm_map(corpus, removeWords, stopwords("english"))
 
 #create distance matrix of corpus 
+> dtm <- DocumentTermMatrix(corpus)
 > distance_matrix <- as.matrix(dtm, method="binary")
 > distance_matrix_5gram <- stringdistmatrix(legislative_texts$text, legislative_texts$text, method = "jaccard", q = 5)
 
