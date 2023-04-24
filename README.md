@@ -10,4 +10,4 @@ Can I use Chris' files?
 Yes, with attribution 
 
 Why are the files pre-1980 subject to different naming conventions?
-They were uploaded prior to the standardizing of the R code 
+They were uploaded prior to the standardizing of the R code and I haven't gone back to change the names yet. 
