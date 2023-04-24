@@ -1,0 +1,828 @@
+
+DATA PROTECTION ACT
+1988
+NETHERLANDS
+
+
+Act of 28th December 1988, providing rules for the protection of
+privacy in connection with personal data files (Data Protection Act)
+(Bulletin of Acts. Orders and Decrees 1988, 665)
+
+PART. 1. INTRODUCTORY PROVISIONS
+
+Section 1
+For the purposes of this Act and the provisions based-upon it:
+personal data means any information relating to an identified or
+identifiable individual;
+personal data file means any organized collection of personal data
+relating to different persons which is operated by automated means or
+is systematically disposed in such a way as ter facilitate access to
+the data therein contained;
+controller means the party with control over a personal data file;
+processor means the party operating all or part of the hardware used
+for holding a personal data file of which that party is not the
+controller;
+issue of data from a personal data file means the disclosure or making
+available of personal data where such data are wholly or mainly derived
+from data included in that personal data file or obtained by processing
+such data either by itself or in conjunction with other data;
+
+issue of data to a third party means the issue of data
+from a personal data file to a person or institution outside
+the organization of the controller, except where such issue
+is to the processor or to the data subject;
+code of conduct means a set of rules or recommendations
+regarding personal data files adopted by one or more organi­
+zations, which are representative of the sector which they
+cover, in the interest of the protection of privacy;
+Our Minister means Our Minister of Justice;
+Registration Chamber means the Registration Chamber established
+under section 37.
+
+Section 2
+1. This Act shall not apply to:
+a. personal data files which are by their nature intended for
+personal or domestic use;
+b. personal data files which are solely intended for use in
+public supply of information by the press, radio or television;
+c. books and other written publications and catalogues thereof;
+d. personal data files held in an archive within the meaning
+of the Archives Act 1962 (Bulletin of Acts, Orders and Decrees 313).
+2. This Act shall not apply to public registers established
+by an Act of Parliament.
+
+3. This Act shall not apply to:
+a. personal data files held by or on behalf of the intelligence
+and security services to which the Intelligence and Security
+Services Act refers;
+b. personal data files maintained for the purpose of the
+execution of the functions of the police as described in
+section 28 of the Police Act (Bulletin of Acts, Orders and Decrees
+1957, 244).
+
+Section 3
+1. Recommendations for General Administrative Orders under
+this Act shall be made by Our Minister. Where an Order also
+concerns another of Our Ministers the recommendation shall
+be made jointly by Our Minister and that other minister.
+
+2. The Registration Chamber shall be consulted regarding the
+draft text of an Order.
+
+PART 2. GENERAL PROVISIONS
+
+Section 4
+1. A personal data file shall be set up for a specific purpose
+which can reasonably be deemed to be relevant to the interests
+of the controller.
+2. The purpose of a personal data file may not be in conflict
+with the law, the maintenance of public order or morality.
+
+Section 5
+1. A personal data file shall contain only such personal data
+as have been obtained legitimately and are in accordance with
+the purpose for which the file has been set up.
+2. The controller shall take such steps as are necessary to
+ensure the accuracy and completeness of the personal data
+included.
+
+Section 6
+1. The personal data included in a file shall be used only
+for such objectives as are compatible with the purpose of
+the file.
+2. Within the organization of the controller data from a personal
+data file may be issued only to persons entitled to receive
+such data in the course of their work.
+
+Section 7
+1. Within one year of this section entering into force rules
+shall be laid down by General Administrative Order concerning
+the inclusion in a personal data file of information on any
+individual's religious beliefs or philosophy of life, race,
+political persuasion, sexuality or intimate private life and
+of personal information of a medical, psychological, criminal
+or disciplinary nature.
+2. The rules to which subsection 1 above refers may differ
+from one type of file to another.
+
+3. Within three years of the General Administrative Order to
+which subsection 1 above refers entering into force a Bill
+regulating the matter to which that subsection refers shall
+be submitted to the States General. The Registration Chamber
+shall be consulted regarding the text of that Bill.
+4. Before making its recommendations regarding a General Adminis­
+trative Order or Bill as mentioned in this section the Registra­
+tion Chamber shall give all persons the opportunity of submitting
+objections or comments in writing.
+
+Section 8
+A controller shall take the necessary technical and organiza­
+tional measures to render secure any data file over which he
+has control against loss of or interference with the data
+contained therein and against unauthorized access to or amend­
+ment or issue of such data. This same obligation shall rest
+upon a processor in respect of the hardware or that section
+thereof which he operates.
+
+Section 9
+1. The following subsections shall apply, without prejudice
+to other statutory rights, where any person suffers damage
+as a result of actions incompatible with the requirements of or
+pursuant to this Act for the protection of the interests of data
+subjects and prospective data ..subjects .
+2. Where the damage suffered does not constitute a material
+loss the aggrieved party shall be entitled to fair compensa­
+tion.
+3. The controller of a personal data file shall be liable for any loss
+or damage resulting from failure to comply with the requirements
+to which subsection 1 above refers in relation to that file.
+The processor shall be liable for any loss or damage resulting
+from his actions.
+
+Section 10
+1. Where any person suffers or is in danger of suffering damage
+through acts of the controller or processor of a personal
+data file which are incompatible with the requirements
+of or pursuant to this Act the Court may, on application
+from such a person, prohibit such acts on the part of the control­
+ler or processor and order the controller or processor to repair
+the consequences of such acts.
+2. An application as mentioned in subsection 1 above may also
+be made by a legal person with full legal powers whose purpose
+and activity comprise the protection of the interests of persons
+who suffer or are in danger of suffering damage through
+acts of the controller or processor of a data file.
+
+PART 3. ISSUE OF DATA TO A THIRD PARTY
+
+Section 11
+1. Data from a personal data file shall be issued to a third
+party only if such issue follows from the purpose of the file, under a statutory requirement or with the consent
+of the data subject.
+
+2. Data may be issued to a third party, on request, for research
+or statistical purposes or on the grounds of urgent and important
+considerations, where this does not have a disproportionate
+adverse effect on the privacy of the data subjects.
+3. The issue of data under subsections 1 and 2 above shall not
+take place where confidentiality is a requirement of office or
+profession or is a statutory requirement.
+4. Where the data subject is a minor under the age of sixteen or
+. has been placed under guardianship, the consent of the data
+subject shall be replaced by the consent of his legal representative.
+
+Section 12
+1. Where the consent of the data subject or of his legal repre­
+sentative is required for the issue of data from a personal
+data file such consent may be given only in writing.
+2. Such consent may relate only to a single case or to a
+limited category of cases and must be precisely defined in
+the document in which it is contained.
+3. Such consent may be withdrawn in writing at any time.
+
+Section 13
+1. This section shall apply to personal data files held wholly
+or partly for the purpose of this activity by a natural or
+legal person who gathers and issues personal data to third parties, on
+a commercial basis, other than with the consent of the data
+subjects or, in the cases mentioned in section 11 (4), of their
+legal representatives.
+2. Personal data files as mentioned in subsection 1 above shall
+include only personal data which have been checked and found
+to be accurate.
+3. Data from a personal data file as mentioned in subsection
+I above shall be issued to a third party only at his request.
+Such a request shall specify the purpose for which the data
+requested are to be used.
+4. Such issue shall not take place if:
+a. the purpose for which it is requested is in conflict with
+the law, the maintenance of public order or morality;
+b. the issue of data is not reasonably consonant with that
+purpose;
+c. it would have a disproportionate adverse effect on the privacy
+of the data subject.
+5. The controller of a personal data file as mentioned in subsection 1 above shall keep a record of each issue of data to a
+third party for at least one year after the issue has taken
+place unless he has reasonable grounds for assuming that this
+does not serve the interest of the data subject.
+
+Section 14
+
+1. Personal information consisting only of names, addresses,
+post codes and other such information needed for communication purposes
+may be issued to third parties from personal data files other
+than those to which section 13 (1) refers in circumstances
+other than those to which section 11 (1,2) refers. Sections
+II (3) and 13 (3,4) shall then apply mutatis mutandis.
+2. The controller shall refrain from issuing such data at the
+request of the data subject or, in the cases mentioned in section
+11 (4), of his legal representative.
+
+PART 4. CODES OF CONDUCT AND SPECIAL REQUIREMENTS
+
+Section 15
+1. Any organization or organizations, having adopted a code of
+conduct, may apply to the Registration Chamber for a declaration
+that in the Chamber's judgement the code concerned conforms with the
+provisions of or pursuant to this Act and meets reasonable require­
+ments for the protection of the privacy of data subjects.
+2. The Chamber shall consider such an application only if in its
+judgement the applicant or applicants are representative of
+the sector concerned, that sector is precisely defined in the
+code and the code has been drawn up with due care and notably in
+adequate consultation with organizations of interested parties.
+3. Before reaching a decision on an application which it has
+seen fit to consider the Chamber shall give all persons the
+opportunity of submitting objections or comments in writing.
+4. The Chamber shall publish the declaration and the code of
+conduct to which it relates in the Netherlands Government Gazette.
+5. A declaration as mentioned in subsection 1 above shall remain
+in force for the period for which the code of conduct to which
+it relates is intended to remain in force, subject to a maximum
+of five years after the issue of the declaration.
+6. Such a declaration shall not be binding on the Courts.
+7. When the Chamber makes known its decision on an application
+it shall give its reasons for reaching that decision. There
+shall be no procedure under administrative law for appealing
+against such a decision.
+
+Section 16
+1. Three years after section 15 above has entered into force more
+detailed regulations in respect of a particular sector may be made by
+General Administrative Order governing the matters regulated by
+sections 4 to 6, 8 and 11 to 14.
+2. In its annual reports the Registration Chamber shall indicate
+to what extent it considers the implementation of subsection 1
+above to be desirable.
+
+3. Before making any recommendation regarding the text of a
+General Administrative Order as mentioned in subsection 1 above
+the Chamber shall give all persons the opportunity of submitting
+objections or comments in writing.
+
+PART 5. PERSONAL DATA FILES IN THE AREAS OF GOVERNMENT, EDUCATION,
+HEALTH CARE AND THE SOCIAL SERVICES
+
+Section 17
+This part shall apply to personal data files held by:
+a. central government, provincial and municipal authorities
+and other public bodies, including the services, institutions
+and enterprises for which they are responsible;
+b. institutions, designated by General Administrative Order,
+which are charged with the implementation of functions under
+public law;
+c. institutions and organizations, designated by General Adminis­
+trative Order, in the fields of education, health care and social
+services.
+
+Section 18
+1. A personal data file as mentioned in section 17 above shall
+be established only where this is essential for the effective execu­
+tion of the functions of the controller.
+2. Such personal data files shall contain only such personal data
+as are required by the purpose of the file.
+3. Data from such files may be issued, on request, to
+persons or bodies with a function under public law where such
+persons or bodies require that data for the execution
+of their function and this does not have a disproportionate
+adverse effect on the privacy of the data subjects. Section 11 (3)
+shall apply mutatis mutandis.
+
+Section 19
+1. Every personal data file as mentioned in section 17 shall
+be subject to regulations as defined in section 20.
+2. The regulations and any amendment or withdrawal thereof
+shall be made public and shall be available for inspection by
+any person in accordance with provisions to be laid down by
+General Administrative Order.
+
+3. The controller of the personal data file to which the regulations
+relate shall inform the Registration Chamber in writing of
+the nature of the file and of the fact that the regulations are
+available for inspection, giving his name and address.
+4. The controller shall inform the Registration Chamber within
+four weeks of any change in his name or address.
+
+Section 20
+1. The regulations to which each personal data file as mentioned
+in section 17 is subject shall include a description of
+the way in which the data file operates.
+2. The document shall in any event clearly indicate:
+a. the purpose of the data file;
+b. the categories of persons concerning whom information is included
+in the data file;
+c. the types of information which are included in the data file
+and the way in which they are obtained;
+d. the circumstances in which personal data are removed from
+the data file;
+e. the categories of persons or bodies to whom or to which data
+from the data file may be issued;
+f. the types of data which may be issued to the persons or bodies
+mentioned under e. above;
+g. the methods of direct access to the data file;
+h. any associations between the data file and any other collection
+of data;
+i. the manner in which data subjects of their legal representatives
+may obtain information on and, where appropriate, secure the correction
+of data concerning them;
+j. the manner in which data subjects or their legal representatives
+may obtain notification of the issue of data concerning them;
+k. the principal features of the management of the file.
+
+Section 21
+The controller, the processor and all others involved in the
+operation of a personal data file shall comply with the provisions
+of the regulations made public in accordance with section 19 (2).
+
+Section 22
+1. A General Administrative Order may be made containing provisions
+to the effect that section 19 shall not apply to personal files speci­
+fied therein which meet requirements laid down therein.
+2. Provisions as mentioned in subsection 1 above shall in any
+event be made in respect of:
+a. accounting and financial management systems;
+b. staffing and payroll systems;
+c. other records systems than those mentioned under a. and b.
+above which form part of the internal management of organizations;
+d. subscription records;
+e. records of members and supporters;
+f. other personal data files containing no information other
+than names, addresses, post codes and other such information
+needed for communication purposes.
+
+PART 6. PERSONAL DATA FILES IN THE AREA OF INDUSTRY AND THE
+PROFESSIONS AND IN OTHER AREAS
+
+Section 23
+This Part shall apply to personal data files not covered by
+section 17.
+
+Section 24
+1. Every personal data file to which this Part applies shall
+be registered with the Registration Chamber.
+2. Such registration shall take place through the submission
+of the relevant form, the requirements for which shall be laid
+down by Our Minister.
+3. The information to be supplied on the form shall be determined
+by General Administrative Order and may relate only to such matters
+as are mentioned in section 20 (2). The name and address of
+the controller of the file shall also be given on the form.
+4.
+
+Notice of the registration shall be made public and a copy
+
+of the form shall be available for inspection by any person
+in accordance with regulations to be laid down by General Adminis. trative Order.
+
+Section 25
+1. The controller of a registered personal data file shall
+inform the Registration Chamber in writing and within four
+weeks of any change in his name or address.
+2. Section 24 shall apply mutatis mutandis where the other
+information supplied is amended or supplemented or the data
+file is terminated, except that only the change or supplementa­
+tion or termination need be notified.
+
+Section 26
+
+The controller, the processor and all others involved in the
+operation of a personal data file shall act in relation to
+that file in accordance with the information supplied at the
+time of registration.
+
+Section 27
+A General Administrative Order may be made containing provisions
+to the effect that sections 24 and 25 shall not apply to
+personal data files specified therein which meet requirements laid
+down therein. Section 22 (2) shall apply mutatis mutandis.
+
+PART 7. RIGHTS OF INFORMATION AND CORRECTION
+
+Section 28
+1. The controller of a personal data file shall notify every
+person on whom personal data have been recorded in that file
+for the first time, within one month, that this has been done. Such
+notification shall be given in writing and shall include the purpose of
+the file and the name and address of the controller.
+2. The requirement to which subsection 1 above refers shall not apply:
+a. if the data subject concerned is aware or can reasonably
+be expected to be aware that such recording has taken place;
+b. if it is clearly in the interests of the data subject that
+no such written notification be given;
+c. where this is necessitated in the interests as mentioned
+in section 30,
+
+Section 29
+1. The controller of a personal data file shall, on request from any
+person and within one month of receiving the request, inform that
+person in writing whether personal data concerning him are
+contained in the file.
+2. Where such data are contained in the file the controller
+shall, within one month of receiving the request, supply the
+data subject with a full statement thereof, with information
+on their source, should the data subject request this.
+3. Where this is clearly in the interests of the person concerned
+the controller shall comply with a request as mentioned in this
+section not in writing but in another manner appropriate to
+those interests.
+4. The controller shall take adequate steps to verify the identity
+of any person making a request as mentioned in this section.
+5. Where the person concerned is a minor under the age of sixteen
+or has been placed under guardianship, the requests as mentioned in
+subsections 1 and 2 above shall be made by his legal representative.
+The information to which these subsections refer shall likewise by
+given to the legal representative.
+
+Section 30
+The controller of a personal data file may refuse to comply with
+a request as mentioned in section 29 where this is necessitated in
+the interests of:
+a. the security of the state;
+b. the investigation of criminal offences and the prosecution
+of offenders;
+c. the economic and financial interests of the state and other
+public bodies;
+d. inspection, monitoring, or supervision by or on behalf of
+government bodies or other bodies with functions under public law;
+e. vital interests of persons other than the applicant, including
+the controller.
+
+Section 31
+1. Any person receiving information under section 29 on personal
+data held concerning him may apply in writing to the controller
+of the data file requesting their correction, supplementation
+or removal where such data are factually incorrect, are incomplete
+or irrelevant in terms of the purpose of the file or are held
+in contravention of a statutory provision. Such a request shall
+specify the changes to be made.
+2. Within two months of receiving such a request the controller
+shall notify the applicant in writing whether or in what respects
+he has complied or will comply with it. Section 29 (3, 4 and 5)
+shall apply mutatis mutandis. Where the controller refuses to
+comply
+
+he shall give the reasons for his refusal.
+
+3. The controller shall ensure that a decision to correct, supple­
+ment or remove data is implemented without delay.
+
+Section 32
+1. The controller of a personal data file shall, on request from any
+data subject and within one month of receiving the request,
+inform that person in writing whether data concerning him have
+been issued to any third party in the year preceding the request.
+2. Where data have been issued the controller shall inform the data
+subject accordingly, in writing, within one month of receiving the
+request. The controller may supply a notification couched in general
+terms concerning the nature of the data issued and the person or
+persons to whom they were issued, where no detailed record has been
+made and he could reasonably assume that the interests of the data
+subject would not thereby suffer a disproportionate adverse effect.
+3. Sections 29 (3, 4 and 5) and 30 shall apply mutatis mutandis.
+
+Section 33
+In the case of personal data files maintained solely for research
+or statistical purposes:
+
+a. sections 28 to 31 shall not apply where the results
+obtained through the use of the data cannot be related to individual
+natural persons;
+b. section 32 shall not apply to. the issue of data to a third
+party collecting them solely for research or statistical purposes,
+providing the results obtained through their use cannot be related
+to individual natural persons.
+
+Section 34
+1. Where the controller of a personal data file fails to comply, or
+does not comply in writing, with a request as mentioned in section
+29, 31 or 32, the data subject concerned shall have the right to
+apply to the district court, in writing, for an order requiring
+the controller to comply, or to comply in writing, with that
+request. A data subject considering that his interests have been
+adversely affected by a notification as mentioned in the second
+sentence of section 32 (2) shall have the same right.
+2. An application as mentioned in subsection 1 above must be
+made within two months of receipt of the reply of the controller.
+Where the controller fails to reply within the set period, the
+application must be submitted within two months of the end of
+that period.
+3. The data subject may also, within the period specified in
+subsection 2 above, apply to the Registration Chamber requesting
+its mediation or advice in his dispute with the controller.
+In such a case an application as mentioned in subsection 1 above
+may be made up to two months after the data subject has been
+informed by the Registration Chamber that it does not intend
+taking further action on the matter.
+4. The court may obtain the advice of the Registration Chamber
+concerning any application made to it under subsection 1 above.
+5. The court shall grant the application if it finds it well
+grounded.
+6. Title 12 of the First Book of the Code of Civil Procedure,
+with the exception of article 429d, paragraph 3, shall come
+into effect as regards such proceedings as are mentioned in
+subsections 1 to 5 above simultaneously with this section.
+
+Article 345 of the Code of Civil Procedure shall not apply.
+7. Parc 3 of Title 5 of the Second Book of the Code of Civil
+Procedure shall apply mutatis mutandis.
+8. The registrar shall forward a copy of the court's
+judgement to the Registration Chamber.
+
+Section 35
+1. Any controller complying with a request under section 31
+or who is ordered by the court under section 34 (5) to comply
+with such a request shall notify any person to whom he has,
+to his knowledge, issued the data in question during the year
+preceding the request or since the request was made of the
+correction, supplementation or removal of that data.
+2. The controller shall inform the data subject concerned of
+the persons whom he has notified in this way.
+3. This section shall not apply if the data subject has indicated
+that he does not require such notification to be made.
+
+Section 36
+The controller of a personal data file may require reimbursement
+of costs incurred in supplying information as mentioned in sections
+29 and 31, the fee not exceeding an amount to be determined
+by or in pursuance of General Administrative Order. Such reimburse­
+ment shall be returned in the case of the refusal of a request
+as mentioned in those sections or where, at the request of the
+data subject or having been ordered to do so by the court, the
+controller undertakes the correction, supplementation or removal
+of data.
+
+PART 8. THE REGISTRATION CHAMBER
+
+Section 37
+1. There shall be established a Registration Chamber.
+2. The Chamber shall exercise supervision of the operation of
+personal data files in accordance with this Act and provisions
+made in pursuance thereof and for the purpose of the protection
+of privacy in general.
+
+3. The Chamber shall advise Our Minister and, in appropriate
+cases, Our Minister and Our other ministers also concerned, jointly,
+both on request and on its own initiative, regarding the implemen­
+tation of this Act and other associated subjects.
+4. The Chamber shall fulfil such other functions as may be entrusted
+to it by law.
+5. The Chamber shall each year submit to Our Minister a public
+report on its work and findings.
+
+Section 38
+1. The Chamber shall have a chairman, two other members and
+a number, to be determined by Royal Decree on the recommendation
+of Our Minister, of substitute members and special members.
+2. The chairman shall be appointed by Royal Decree, on the recom­
+mendation of Our Minister, for a period of six years; his appoint­
+ment may be renewed. The remaining members and the substitute
+and special members shall be appointed by Royal Decree, on the
+recommendation of Our Minister, for periods of four-years; their
+appointment may be renewed only once.
+3. In the appointment of the special members every effort shall
+be made to ensure that the various sectors of society are repre­
+sented.
+
+Section 39
+1. The appointment of members, substitute members and special
+members shall be terminated by Royal Decree, on the recommendation
+of Our Minister, as of the first day of the month following that
+in which they reach the age of sixty-five.
+2. Section 11 (with the exception of the provisions in d, 3°),
+sections 12 to 13, section 13a (with the exception of subsection
+5), sections 13b, 14a, 14b, 14c, 14d (1,2) and 14e of the Judiciary
+(Organization) Act (Bulletin of Acts, Orders and Decrees 1972,
+463) shall apply mutatis mutandis.
+3. When section 14d (2) of the Judiciary (Organization) Act
+is applied the Supreme Court shall give the chairman of the
+Chamber the opportunity of furnishing information, orally or
+in writing, concerning a complaint brought before it and to
+make known his views on the matter.
+
+Section 40
+1. The chairman shall receive a salary, the other members payment
+for the work they carry out and the substitute and special
+members an attendence allowance, in accordance with regulations
+to be laid down by General Administrative Order. Section 3 (2)
+shall not apply in this connection.
+2. They shall also receive reimbursement of travelling and subsis­
+tence expenses in accordance with the regulations applying to
+civil servants classed in the highest category for this purpose.
+3. The chairman may not without the consent of Our Minister
+perform any other duties for which remuneration is paid.
+
+Section 41
+The Chamber shall be serviced by a secretariat. The appointment,
+suspension and dismissal of the staff of the secretariat shall
+be the responsibility of Our Minister, on the recommendation
+of the chairman.
+
+Section 42
+1. The chairman shall direct the work of the Chamber and of
+its secretariat.
+2. A first and a second deputy chairman shall be appointed from
+among the members of the Chamber by Royal Decree on the recommenda­
+tion of Our Minister.
+
+Section 43
+
+1. The Chamber shall have a Central Division comprising the
+chairman and the two other members. Each member may be replaced
+by a substitute member.
+2. The Central Division may establish multi-member and single
+member divisions for the performance of duties defined by the
+Central Division.
+3. A multi-member division shall have a member or substitute
+member of the Chamber as its chairman and two special members of the
+Chamber as its members. A single member division shall consist of one
+member or substitute member of the Chamber.
+4. The Central Division shall appoint the members of the other
+divisions. It may appoint another member or substitute member
+of the Chamber to replace a member or substitute member of the
+Chamber in a division and another special member to replace
+a special member in a division.
+
+Section 44
+The Central Division shall be responsible for the advisory reports
+to which section 37 (3) refers and for the annual report. It
+shall also deal with any matters which it has not assigned
+to other divisions.
+
+Section 45
+1. The Chamber shall be furnished at its request with data from
+any personal data file.
+2. The controller of a personal data file and any persons involved
+in the operation of a personal data file shall, when required
+to do so, furnish the Chamber, the officers of the secretariat
+and any other persons designated for this purpose by the Chamber
+with all the information and shall give them all the assistance
+which they require for the execution of their duties.
+3. The members, substitute members and special members of the
+Chamber, the officers of the secretariat and any other persons
+designated for this purpose by the Chamber shall have access
+for the execution of their duties to any location where a personal
+data file or section thereof is situated or from which the file
+is accessible. They may also examine hardware, software, books
+and records and have hardware and software demonstrated to them
+where this may reasonably be required for the execution of their
+duties.
+4. The officers of the secretariat and the other persons to
+whom subsection 3 above refers may exercise the powers defined
+in that subsection only with the express and specific authority
+of the Chamber.
+5. If in the reasonable judgement of the Chamber the assistance
+to which this section refers is not given to an adequate extent
+such measures as may be necessary may be taken at the expense
+of the defaulting party.
+
+6. No appeal may be made Co a requirement of
+confidentiality
+where information or assistance is required in connection with
+the involvement of the individual concerned in the operation
+of a personal data file.
+
+Section 46
+1. The Chamber may, on its own behalf or at the request of an
+interested party, which may be a legal person as mentioned in
+section 10 (2), institute an investigation into the manner in
+which effect is given to this Act and provisions made in pursuance
+thereof in respect of a personal data file.
+2. Where an investigation is instituted at the request of an
+interested party the Chamber shall notify that party of its
+findings, except where to do so would be incompatible with the
+purpose of the file or the nature of the personal data or would
+have a disproportionate adverse effect on the vital interests
+of persons other than the person making the request, including
+the controller. Where the Chamber does not notify the interested
+party of its findings it shall send the interested party such
+notification as it considers advisable.
+3. The Chamber may, where its findings give grounds for doing
+so, make a recommendation to the controller of a personal data
+file. It shall first give the controller the opportunity of
+making his views known.
+4. There shall be no procedure under administrative law for
+appealing against a refusal of a request as mentioned in subsection
+above, a notification as mentioned in subsection 2 above or
+a recommendation as mentioned in subsection 3 above.
+
+PART 9. INTERNATIONAL ASPECTS
+
+Section 47
+1. This Act shall also apply to any personal data file not located
+in the Netherlands of a controller established in the Netherlands
+where such a file contains data on persons resident in the Nether­
+lands .
+2. Our Minister may, having consulted the Registration Chamber,
+exempt a personal data file as mentioned in subsection 1 above
+from requirements of or pursuant to this Act providing the legis­
+lation applying to that file in the country where it is situated
+provides equivalent protection for the privacy of the data subjects.
+
+Section 48
+Our Minister may, having consulted the Registration Chamber,
+exempt personal data files whose controller is not established
+in the Netherlands from requirements of or pursuant to this
+Act providing there are adequate safeguards for the protection
+of the privacy of the data subjects in relation to that file.
+
+Section 49
+1. Any person having access from the Netherlands to a personal
+data file located outside the Netherlands and to which this
+Act does not apply shall ensure the security of that access
+and of the personal data obtained by that means.
+2. Data shall not be supplied from the Netherlands to, or obtained
+in the Netherlands from, any data file in another country to
+which this Act does not apply where it has been declared by
+General Administrative Order that such a transfer of data would
+have a serious adverse effect on the privacy of the persons
+concerned.
+
+PART 10. PENAL PROVISIONS
+
+Section 50
+1. Any person
+a. having a personal data file in operation in respect of which the
+provisions of or pursuant to section 19, section 24 or section 25
+are not met,
+b. acting as the processor of a personal data file as mentioned
+under a. above,
+c. failing to comply with the provisions of or pursuant to section
+49 (2)shall be liable to a category two fine.
+2. Any person deliberately committing an act as mentioned in
+subsection 1 above shall be liable to a term of imprisonment not
+exceeding six months or a category three fine.
+3. The offences to which subsection 1 above refers shall be summary
+offences; those to which subsection 2 above refers shall be indictable
+offences.
+4. The investigation of the offences described in this section
+shall be the responsibility of officers designated under or
+in pursuance of Article 141 of the Code of Criminal Procedure
+and of officers of the secretariat of the Registration Chamber
+designated by Our Minister for this purpose.
+
+PART 11. TRANSITIONAL AND FINAL PROVISIONS
+
+Section 51
+Any person concerned with the implementation of this Act
+who thereby obtains access to information he knows or can reaso­
+nably assume to be confidential and who is not anyway bound
+by an official, professional or statutory requirement of confi­
+dentiality in respect of such information shall maintain
+confidentiality in respect of that information except where
+disclosure is required by a statutory obligation or in the execution of his duties'in the implementation of this Act.
+
+Section 52
+The Central Government Personnel Act 1929 (Bulletin of Acts,
+Orders and Decrees 530) shall be amended as follows:
+In section 2 (2) the final full stop shall be replaced by a
+semi-colon and the following added:
+i. the chairman, members, substitute members and special-members
+of the Registration Chamber to which the Data Protection Act
+refers.
+
+Section 53
+The National Ombudsman Act (Bulletin of Acts, Orders and Decrees
+1981, 35) shall be amended as follows:
+A. in section 1 (3) the final full stop shall be replaced by
+a semi-colon and the following added:
+h. the Registration Chamber to which the Data Protection Act
+refers.
+B. in section 1 (4) the words "subsection 3, under b-g" shall be
+replaced by the words "subsection 3, under b-h".
+
+Section 54
+1. This Act, with the exception of Parts 5, 6 and 10, shall enter
+into force at a date to be determined by Royal Decree, but not
+later than six months after the promulgation of this Act.
+2. Parts 5, 6 and 10 shall enter into force at a date to be
+determined by Royal Decree, but not later than one year after
+the promulgation of this Act.
+3. Parts 5, 6 and 10 shall not apply to personal data files
+already in existence at the date mentioned in subsection 2 above
+for a period of six months after that date.
+4. It may be determined by General Administrative Order that
+this Act does not apply to personal data files designated in
+the Order which are established by or pursuant to an Act of Parliament
+and are in existence at the date mentioned in subsection 1 above.
+Such an Order shall be made only if in Our view a further statu­
+tory provision is required, in connection with the introduction
+of this Act, in respect of those personal data files. Unless
+withdrawn earlier, such an Order shall lapse three years after
+entering into force, except where a Bill proposing a statutory
+provision as mentioned in the preceding sentence has been submitted
+to the States General before then.
+5. Section 3 (2) shall not apply to a General Administrative
+Order as mentioned in subsection 4 above and in section 36, the latter
+only when the order is made before the date mentioned in subsection 1
+above.
+6. Section 28 shall apply mutatis mutandis to personal data which
+are contained in a personal data file at the date mentioned in sub­
+section 1 above, except that the notification with regard to these
+data shall be given within six months after that date.
+
+Section 55
+This Act may be cited as: The Data Protection Act.
+We order and command that this Act shall be published in the Bulletin
+of Acts, Orders and Decrees and that all ministerial departments,
+authorities, bodies and officials whom it may concern shall diligently
+implement it.

@@ -1,0 +1,499 @@
+Slovenia
+Law on Personal Data Security
+
+1.    GENERAL PROVISIONS
+
+Art. 1
+
+This Law regulates the security of personal data contained     in
+data files and their protection; records needed for personal data
+security and their protection; as well as    individual's rights
+including the protection of the latter, and certain restrictions
+related to it; transfer of personal data beyond state border,
+and supervision of the fulfilment of the provisions as stated.
+Art. 2
+
+Personal- data security includes rights, principles and meas­
+ures   designed   to prevent any illegal and   unjustified     en­
+croachment upon human personality; his/her personal and     family
+life on the grounds of gathering, ’ processing,     storage    and
+transfer of personal data and their use. Personal-data protec­
+tion includes legal, organisational and appropriate     logically
+technical procedures and measures, aimed at eliminating the
+possibility of unauthorised or      unregistered access to the
+premises; hard - and soft - ware; random or intentional unautho­
+rised data destruction, modification or loss; as well as     unau­
+thorised access,     processing and transfer of these data, and
+their exploitation.
+
+Art. 3
+
+Data   files   with personal data may be established, kept and
+maintained solely    on a legal basis or personal consent of
+individuals to whom these data refer.
+
+Art. 4
+
+Foreign      citizens have on terms of reciprocity the same   rights 
+ensuing        from    data    security,    as    the active ones.
+Art.5                                                     
+
+The      terms   as used in this Law have the following       meaning:
+1.   personal data any piece of data with reference               to   the
+properties, condition or relationships of individuals,             regard­
+less of its form;
+
+2.  individual any person in physical terms that is or             may be
+determined, and to whom a piece of data     is applied               (data
+subject);
+
+
+                                     1
+3.  data file - file containing - in whole or part - personal
+data (e.g.register, data base), kept by some    automated data-
+processing   means   (or classical means) for file-keeper's (or
+other user's) purposes, i.e. tasks insuring form his field of
+activity as defined;
+
+4. file-keeper is a subject authorised (through law or    written
+consent of the individual(s) concerned) to establish, keep and
+maintain as well as supervise data files containing personal
+data;  and for this very purpose to gather, process,   store and
+transfer personal data as contained, and to use them;
+5.  user of data (data or file user) - is a subject different
+from file-keeper himself, authorised (through law or individual
+written consent) to use personal data.
+
+2.   PERSONAL DATA SECURITY
+
+Art. 6
+The file-keeper may, authorised through law or written    consent
+of the    individual(s) concerned, gather, process,    store and
+transfer   personal data. The file-keeper may entrust another
+legal or physical     subject related to data-gathering, proc­
+essing,  storage and    transfer. The legal or physical subject
+as defined in the previous   paragraph, may only take over serv­
+ices covering the needs of gathering, processing,    storage and
+transfer of personal data - within customer specifications - -
+and may not himself use these data for any       other   purpose.
+Mutual rights and obligations are to be defined contractual­
+ly - in written form - and should also include conditions and
+measures designed for personal-data security and protection.
+
+Art. 7
+Personal data      are gathered directly from the individual to
+whom   these refer. There are cases - legally determined - when
+personal data may also be gathered from other persons or exist­
+ing files.    The law has to specify persons or files - as stated
+in the     previous paragraph - from which personal data or whole
+files   may previous paragraph - from which personal data or
+whole   files may be acquired.• If there is no exception to the
+law, the individual to whom      data refer should in advance be
+informed of the fact that data referring to him will be ac­
+quired        from    -  an       existent        data      file.
+
+Art.8                                                           
+
+Personal data    may   be gathered, processed and transferred
+solely for legally specified purposes, or purposes ensuing form
+individual(s)  consent; in no way should they be used in a way
+not compatible with the purposes. The provision mentioned above
+also applies to any cases of combining personal data acquired
+from diverse data files.
+
+
+                                2
+Art. 9
+
+ Personal data may only be stored and used for as long as there
+ exists the need (purpose)   for it - because of which data have
+ been gathered,    processed and stored. Once this purpose (as
+ stated above)   is fulfilled, personal    data are erased from
+ file,   unless   the law specifies   otherwise   (e.g.  natural
+ and   cultural   heritage).
+
+
+
+ Art.10
+
+The file-keeper may transfer personal data to other users oniy
+when the latter are legally authorised to use them, or        upon
+written demand or consent of the individual(s) to whom       these
+data refer. Users from the previous paragraph of this Article
+may not - themselves - transfer personal data thus acquired to
+other    persons; they may use them solely for purposes specified
+by    and conforming with this Law.  In cases when users want to
+get      access     to   personal   data     for      statistical,
+scientific&research, educational or other similar purposes, the
+former may be granted access to data required, without - for
+that matter - any identification of individuals concerned.     The
+file-keeper should keep records of each instance of      personal-
+data transfer (ensuing from paragraphs one and three), in order
+to be able to provide evidence - at whatever later stage, when
+necessary - as to which personal    data have been given, to whom
+and for what purpose.
+
+3. PROTECTION OF PERSONAL DATA
+
+Art.11           
+
+Personal-data protection includes legal,     organisational   and
+appropriate logically-technical procedures and measures     aimed
+at:
+- protecting the premises, hard - and system soft-ware;
+- protecting application SW used in personal-data     processing;
+- ensuring safe^transfer of personal data;
+- denying unauthorised access to equipment used for       person­
+al-data processing, and files themselves;
+- providing the possibility of finding out when certain      data
+were used or entered into the file(s); by whom and at what
+period of data storage.                -
+
+Art.12
+Procedures   and measures as described in the      preview para­
+graph, are determined in their internal acts by file-keepers and
+other   subjects involved - conforming with this     Law   -  in
+data-gathering,     processing,    storage,    transfer      and
+usage.
+
+
+4.DATA CATALOGUES AND CATALOGUE OF FILES
+
+Art.13
+The file-keeper is to keep all files clearly classified in.    the
+data catalogue - observing the law - with respect to:
+
+1. the name of the file,
+2. the file-keeper and his headquarters,
+3.  the legal basis of tile establishment,
+4.  the categories     of individuals to whom personal data -
+kept in the file(s)     - refer,
+5. the kinds of personal data kept in the file,
+6.   the legal basis of personal data-gathering,
+7. the mode of personal data-gathering,
+8.  the purpose of data-gathering, processing and         storage;
+personal data use; and legal basis of purpose of use,
+9. the time limits of personal data use and storage,
+10. the    restriction of individuals' rights applying    to data
+in the    file(s), and the legal basis of restrictions,
+11. the users of personal data contained in the files,
+12. the fact whether personal data are carried (transmitted)
+abroad,  and    -  in such a case - to       which state, to whom
+and on what lawful basis.               
+
+Art.14
+
+Data   stated    under preview paragraph are made accessible by
+the file-keeper to the republican administrate organ - legal­
+ly authorised to hold a catalogue of files (the common      cata­
+logue of files), in 15 days'term prior to the establishment of
+data file, or any entry of personal data not yet contained.
+The file-keeper will keep the republican organ (under     preview
+paragraph)  informed of any data change (under preview Art.),
+in 5'days' term after it has occurred.       The republic organ
+from the first paragraph will publish a        catalogue of data
+files, observing the mode and periods - as well as the methodolo­
+gy - prescribed by      the   law.
+
+5.   INDIVIDUAL'S RIGHTS
+
+Art.15     The republican administrative organ competent for keep­
+ing    the    catalogue   of files, is obliged to allow access
+to/insight into the catalogue, and to have his/her own copy
+of   data contained.
+                                                        
+Art.16             
+
+The file-keeper is obliged - upon demand of the individual
+concerned:
+1.  to allow insight to any individual, into data in the file
+referring to him/her, as well as to get a copy of them;
+2.  to let any individual have his/her own copy from data file
+referring to him/her;                        
+3. let any individual have, conforming with       paragraph 4 of
+Art. 10 of this Law, a list of subjects to whom data          refer­
+ring him/herself were given at a certain period.          The file-
+keeper is obliged to allow insight and to have a       copy of data
+to any individual - in conform, with point 1 of preview para­
+graph - immediately, or in seven days' delay     after having re­
+ceived   his/her demand (or let him know, in    the     same delay,
+the reasons for which he/she will have to be denied         data in
+sight and copy). Data copy under point 2, and list under point 3
+- first    paragraph - have to be transmitted to the individual
+concerned in 15 days' delay after having received his/her demand
+(or he/she has to be informed, in the same delay, of the reasons
+for which he/she will have to be denied data copy or list). The
+copy as mentioned under point 2 of paragraph 1, may       solely be
+used for the purpose of personal data-security      implementation
+(which has to be noted on the copy). The cost arising from
+individual demand is covered by the file-keeper, while the cost
+of data copy and list by the applicant himself.
+
+Art.17
+
+The file-keeper is obliged - upon individual demand:
+1.   to    complete or correct data proved - by the individual
+concerned - to be incomplete, incorrect or not updated;
+2. to      erase any data found - by the individual concerned -
+to be gathered nonconforming with the provisions of          this
+Law.    In case the file-keeper has been informed of the personal
+data in question as incomplete, incorrect or not up to date,
+he    is obliged - without delay - to make whatever correction
+or completion necessary, and to let the individual know of it.
+Any     completion, correction or erasure of data (under first
+paragraph) has to      be performed by the file-keeper without
+delay (or the individual concerned has to be informed, in 15
+days' delay, of the reasons for which the file-keeper will
+make no data change or completion). The file-keeper has -
+without delay - to inform the users of      (original)   personal
+data of any completion, correction or erasure made. All com­
+pletion/correction/erasure of data eventually made      does not
+exempt the file-keeper from possible      penal and      material
+responsibility.                                               '
+
+6.INDIVIDUAL RIGHTS   PROTECTION
+
+
+Art.18 Any individual finding his rights to be violated may -
+conforming  with this Law - demand legal protection.    Application may be put in at any time during the violation(s).   
+
+Art.19
+
+Any application put in, stating violation of Art.17    of this
+Law, may contain the demand that the court - before arbitration
+access to the data in dispute.    
+
+Art.20
+The application case is not one of a lawsuit (hence            the proceed­
+ings to follow).
+
+Art.21
+                   
+The court procedure itself is an urgent one.
+
+Art.22
+The       public   is   excluded      from   the       proceedings.
+
+Art.23
+Given the circumstances of the case, the court may decide on
+the application made without seeking statement of the opposite
+party, if there is sufficient evidence contained in the applica­
+tion .
+
+ Art.24
+In   case - damage has been caused to an individual, due to
+misuse of data referring to him/her - according to the provi­
+sions of this Law he/she may place a claim for it.
+
+7. RESTRICTIONS OF INDIVIDUAL RIGHTS
+
+Art.25
+The rights of individuals - relative to personal data security
+may   only exceptionally be restricted, in legally     prescribed
+cases, and in scope necessary for a specific purpose because of
+which restriction has been introduced.      Irrespective of the
+preview paragraph, no restriction whatsoever can be imposed on
+the right to data file insight, as well as the right to put in
+an application to claim legal protection.
+
+8. CARRYING PERSONAL      DATA     ABROAD
+
+Art.26 The file-keeper may allow personal data to be carried
+(transferred)    abroad,   and transmitted to foreign users on
+condition that the state-recipience has - guaranteed - full
+protection of personal data,       including   foreign    citizens.
+Relevant official     certificates are issued by the republican
+administrate organ competent for international         cooperation/
+The   condition    from preview paragraph     fulfilled^ personal
+data may be transmitted to foreign users on the basis of inter­
+national contracts and agreements, as well      a agreements     on
+scientific, business, technical, cultural       o similar coopera­
+tion.   Irrespective of paragraph 1 and 2, personal data     trans­
+mission    across state border, to foreign users,       is allowed
+solely with written consent of the individual      concerned. Any
+personal data transmission across state border is   register in
+accordance with the provisions of Art. 13 and 14 of this Law
+
+Art.27
+
+Irrespective   of the provisions under Art. 26 of    this  Law,
+carrying out and transmission of personal data to foreign users
+are    not allowed in cases specified by        the   Law.
+
+Art.28
+
+The file-keeper may transmit to federal organs and organi­
+sations - as well as users in the other republics -        those
+personal data only which are determined by federal law or inter
+agreement, with due protection of these   data under federal or
+republican law.    Irrespective of the provision    from preview
+paragraph,   personal data may only be transmitted to federal
+organs and organisations - as well as users in the other repub­
+lics - with written consent of each individual concerned.
+
+Art.29
+
+Any individual finding the transmission of data         referring
+him/herself, to either foreign users or federal organs and
+organisations (as well as users in the other republics), as
+harmful to his rights, may put in an application (claim9 ensuing
+from Art. 18 of this Law.
+
+9. INSPECTION
+
+Art.30
+
+Inspection over the implementation of the provisions           of this
+Law is performed by the republican organ competent for              the
+social system of information. The republican organ (from preview
+paragraph)   is in charge of: - the lawfulness of gathering,
+processing, storage,        transmission and use of personal data,    
+the implementation of procedures and measures aimed at             per­
+sonal    data     security (as specified by intern. acts            of
+subjects from Art. 12 of this Law), - the implementation of the
+provisions     of     this    Law with        respect     to  data/file.
+catalogue(s) ,     as the registration of          the transmission of
+data to users,       - the implementation of the provisions of this
+Law,  relative        to    the carrying out of data across state
+border and .their        transmission to foreign., users.
+
+Art.31                                                                 
+In the course of his inspection, the republican inspector in
+authority is entitled to: - examine the documentation       refer-
+ring to the gathering,       processing, storage, transmission and
+use of    personal     data,       as well as their carrying out
+across   state border and       transmission to foreign users, -
+examine the contents of data/file catalogue(s),     - examine the
+documentation and the acts regulating personal        data protec­
+tion,  - to inspect the premises       where data are gathered,
+processed, transferred and used (includingcomputer and        other
+equipment),  -to verify the protective       measures    and their
+implementation.     The republican inspector himself is obliged to
+keep personal        data,  learnt in the    course      of     his
+duty,    as     official    secret.
+
+Art.32
+
+The republican inspector is entitled to - by written order: '
+1. set a term within which all irregularities as stated have     to
+be eliminated,                     '
+2.   interdict further gathering, processing,     storage transmis­
+sion and use      of personal data, to subjects mentioned
+under Art.    12 of this Law -        who have   not secured full
+respect of the measures and procedures aimed      at personal data
+protection, 3. interdict    (further) carrying out/transmission of
+personal      data across the border to foreign users (in disac­
+cord      with the provide of this law). any complaint against
+the above order - as issued - under point 2 and p. 3 of the
+first paragraph, will • not withhold       its execution.
+
+10.   LAW   EXECUTION   AND   SANCTIONS   
+Art.34
+
+Fines from 20.000,00 to 50.000,00 YUD will be imposed           on the
+keeper in case of violation(s):
+1.   if he is found to be in the possession of a data file -
+without     legal   justification    or written consent        of    the
+individual to whom personal data refer (Art.3);
+2.    when gathering, processing,       storing     and    transmitting
+personal     data without legal justification- or written consent
+of the individual concerned (first paragraph of Art. 6);
+3.    when    separate operations related       to    personal     data-
+gathering , processing,   storage and     transmission       have been
+transferred     to another legal or physical          subject without
+prior agreement conform, with paragraph 3 of Art.6 of this Law;
+4. when gathering7acquiring personal data from other persons or
+existent data files contrarily to the law - or with out prior
+consent of the individual concerned (Art. 7); *
+5.    when    gathering,  processing,    storing     or    transmitting
+personal data for purposes not allowed by the law, or           written
+consent of the individual concerned; or when            using personal
+data    in ways not compatible with the            purposes    as    de­
+scribed (Art.   8); 6. when not erasing personal data after having"
+achieved the          purpose of data-gathering, processing and
+storage     (Art 9);
+7.    when transmitting personal data      to    unauthorised      users
+first paragraph of Art. 10), or when transmitting data                to
+them    in    a personal - identifying form (third       paragraph    of
+Art. 10), or when transmitting data without later           possibility
+of verification (to whom, for what        purpose... fourth paragraph
+of Art.     10);                                        .            .
+8.    when    failing    to secure     file    with    data     legally
+specified(Art.13), or to provide data necessary to           data . file
+catalogue    (Art. 14); 9. when in violation of the        individual's
+rights     (Art.  16 and     17 of this    law),    or    fallingshort
+ofthe obligations         ensuing from the      above-mentioned arti­
+cles; 10. when carrying personal data across the state border in
+breach of the provisions of Art. 26 and 27 of this Law. Fines
+from 1000,00 to 5000,00         will be imposed on the      person re­
+sponsible of the file-keeper in case of           violation(s)    stated
+under    preview    paragraph.
+
+Art.35                                                             
+
+Fines from 20.000,00 to 50.000,00         will be imposed on the
+user    of data when re-transmitting personal data to          other
+persons,    or when using them for purposes not conforming with
+this Law (second paragraph of Art. 10).     If the data-user is an
+individual,     he will be - in case of violation as       described
+under    preview    paragraph  -    fined    from    1.0,00,00    to
+5.000. 00    .The personal responsible of the legal subject will
+be fined     1.000.00 to 5.000,00 when found in violation as
+described under first paragraph                          
+
+Art.3 6
+
+Legal orphysical subject found in abuse of its authority -   as
+contained    in   the agreement under paragraph 3 of Art. 6 of
+this Law - will be fined        20.000,00 to 50.000,00   .  The
+personal    responsible    of the legal subject will be fined
+1.000. 00 to 5.000,00    .when found in violation as described
+under preview     paragraph.
+
+Art.37                                                             
+
+The    file-keeper     or   another   subject    will     be     fined
+20.000. 00    to    50.000    when found      to    be     gathering,
+processing,storing,     transmitting or using personal data accord­
+ing to this Law,      without prior determination of procedures and
+measures aimed at personal data protection - in his intern acts
+(Art.12).    The    personal responsible of the       file-copperware
+another subject - found in violation as described under preview
+paragraph ill      be     fined     1.000,00     to 5.000,00.          
+Art.38                                                -
+The personal responsible of the republican administrate organ,'
+competent for data-file catalogue-keeping, will be    fined
+1.000. 00 to 5.000,00 when found in violation of the individual's
+rights   to have insight into data-file catalogue, or to    have
+copy of data contained in there   (Art.  15).
+
+
+
+
+                                   
+12.TEMPORARY AND FINAL PROVISIONS
+
+Art.39
+
+File-keepers and other subjects as described under Art.    12   of
+his   Law, determine the procedures and measures to        use at
+personal-data protection, in their intern, acts in six      months
+delay from the enactment of this Law.
+
+Art.40
+
+File-keepers have to make clear - from data catalogues data for
+each file, as specified under Art. 13 of this Law, simultane­
+ously with catalogue establishment.
+
+Art.41
+
+The establishment and keeping of existent data files for.      the
+purposes of gathering, processing, storage, transmission and use
+of personal data contained - are to conform with    provisions
+of this Law in one year's delay from its         enactment.
+
+Art.4 2
+
+The Law is enacted the eighth day after its   publication in       the
+Official Journal of Republic Sloven.

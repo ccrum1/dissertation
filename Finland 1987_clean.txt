@@ -1,0 +1,906 @@
+FINLAND Personal Data File Act
+
+30 April 1987/471
+
+Information Document
+
+Chapter 1
+General provisions
+Section 1
+Scope of the Act
+In order to protect the privacy, interests and rights of
+the person, to ensure the security of the State and to main­
+tain good data file practice, the provisions of this Act
+shall be followed, unless otherwise stipulated by law, in
+collecting, recording, using and delivering personal data.
+This Act shall not apply to the collection, recording or
+use of personal data for personal reasons only or for corres­
+ponding normal private purposes.
+This Act shall not affect the right to publish printed
+matter.
+Section 2
+Definitions
+For the purpose of this Act:
+1) "personal data" means a description of a person or a
+person's characteristics or living circumstances which can be
+recognized as depicting a certain natural private person or
+his family or those living with him in the same household;
+2) "personal data file" means a set of data containing
+personal data that is processed with the aid of a computer,
+as well as a list, card index or other set of data containing
+personal data and arranged in a corresponding manner, from
+which data on a certain person can be found easily and with­
+out unreasonable expense;
+3) "controller of a file" means a person, association or
+foundation for the use of which the personal data file is es­
+tablished and which has the right to dispose over the use of
+the personal data file;
+4) "data subject" means a person to whom the personal data
+apply;
+
+5) "use of personal data" means the use, in the activity
+of the controller of the file, of the personal data collected
+for entry or recorded in the personal data file;
+6)
+
+"personal credit data" means personal data intended for
+
+use in the assessment of a person's financial status, his
+ability to meet his commitments or his trustworthiness;
+7) "credit data activity" means the collection and record­
+ing of personal credit in order to deliver it to other par­
+ties, practiced as a business;
+8) "mass delivery" means the delivery of all the personal
+data in the personal data file or of data concerning a rela­
+tively large number of data subjects recorded in the file as
+well as the delivery of personal data in a form suitable for
+automatic data processing or so that the party to which the
+data are delivered can use the personal data file by utiliz­
+ing a technical connection; and
+9) "sensitive sample" means a set of data containing per­
+sonal data which due to the criteria for their selection and
+their purpose is conducive towards endangering the protection
+of the privacy of a data subject.
+Section 3
+The care obligation of the controller of the file
+In collecting, recording, using and delivering personal
+data the controller of the file shall take care and follow
+good data file practice and also in other respects act so
+that the protection of the privacy, interests and rights of
+the data subject are not violated without cause and so that
+the security of the State is not endangered. A party who, as
+an independent entrepreneur or business, acts on behalf of
+the controller of the file or to whom the controller of the
+file has delivered personal data shall have the same obliga­
+tion.
+Chapter 2
+Collecting and recording personal data
+Section 4
+Definition of the use of a personal data file
+The use of a personal data file shall have substantive
+justification from the point of view of the activity and ad
+ministration of the controller of the file.
+
+The purpose for which a personal data file shall be used as well as the
+source from which the personal data shall normally be obtained (the normal data sources) and to whom the personal
+data recorded in the file shall normally be delivered (normal
+delivery of datal shall be defined before the collection of
+personal data intended to be recorded in the file or, if per­
+sonal data are contained in documents resulting from the nor­
+mal activity of the controller of the file, before the person
+al data are organized into a personal data file.
+The purpose for which a file shall be used shall be de­
+fined to show what functions of the controller of the file
+shall be facilitated by the maintenance of the personal data
+file.
+
+Personal data files which shall be kept technically
+
+separate shall be deemed part of the same personal data file
+if they are used to carry out the same function.
+The purpose for which a personal data file shall be used
+as well as the normal delivery of data may be redefined at a
+later stage if this is necessary on the basis of changed cir­
+cumstances and the purpose thus defined does not essentially
+differ from the original purpose.
+Section 5
+Recording personal data in a personal data file
+Without the consent of the data subject or the permission
+of the Data Protection Board, data may be collected and re­
+corded in a personal data file only in respect of persons who
+have a substantive association with the controller of the
+file on the basis of a customer or service relationship, mem­
+bership or other comparable relationship, unless the mainte­
+nance of the data file is due to a statutory function of the
+controller of the file or to a function that is assigned to
+him under an Act or Decree (requirement of association).
+Only personal data that are necessary in view of the pur­
+pose of the personal data file may be recorded (requirement
+of need).
+
+More detailed provisions on what personal data may
+
+be recorded in certain personal data files may be issued by
+Decree.
+Notwithstanding paragraph 1, and subject to the provisions
+on secrecy, a group of companies or other economic consortium
+
+may collect and record in a joint personal data file data on
+the customers or employees of the units that form part of the
+consortium.
+Notwithstanding paragraph 1, personal data may be collect­
+ed and recorded in a personal data file for credit data acti­
+vity and for direct advertising, sales by telephone and other
+direct marketing, directory assistance, opinion and market
+research, as well as for scientific research and statistics.
+More detailed provisions shall be issued by Decree on the use
+of such personal data files and on the data to be recorded in
+them.
+Section 6
+Prohibition of recording of sensitive data
+Sensitive data may not be collected for entry or recorded
+in a personal data file.
+Personal data that are intended to describe the following
+shall be deemed sensitive:
+1) racial or ethnic origin;
+2) the social, political or religious convictions of a
+person;
+3) a criminal act, punishment or other sanction following
+an offence;
+
+4) the state of health, illness or disability of a person
+or the treatment or other comparable measures to which he has
+been subjected;
+5) the sexual behaviour of a person; or
+6) the social services, economic support, social assist­
+ance find the related social welfare services received by a
+person.
+Section 7
+Exceptions to the prohibition of recording sensitive data
+The provisions of section 6 do not prevent collecting and
+recording data in a personal data file if the Data Protection
+board has given permission for this, the data subject con­
+sents or if it is a question of the following:
+1) a personal data file provided for by Act or Decree or
+which is established directly on the basis of a function sti­
+pulated for the controller of the file by statute or on the
+
+basis of Act or Decree;
+2) a personal data file maintained by a social welfare
+authority that contains data received by the authority in
+question in its activity on the social welfare received by
+the data subject and on the grounds for this;
+3) a personal data file maintained by a health care autho­
+rity or institution that contains data received by these in
+their activity on the state of health, illness or diability
+of the data subject or on treatment measures to which he has
+been subjected or other data that are necessary for the
+treatment of the data subject;
+4) a personal data file maintained by a physician, a den­
+tist or another person who has received professional training
+in health care and that contains data he has received in his
+professional capacity on the state of health, illness or dis­
+ability of the data subject or on treatment measures to which
+this person has been subjected or other data that are neces­
+sary for the treatment of the data subject;
+5) a personal dossier maintained by a municipal authority
+on those who hold office subject to this authority, when this
+dossier contains the data that, under the Personal Dossier
+Decree (1964/215) may be entered into the personal dossier of
+a state civil servant;
+6) a personal data file maintained by an insurance company
+that contains data received in insurance activity on the
+state of health, illness or disability of an insured person
+or on treatment measures or other comparable measures to
+which he has been subjected; or
+7) a personal data file intended for a specific scientific
+study as stipulated in greater detail by Decree.
+Section 8
+Registration of the sources of data
+If the personal data recorded in a personal data file have
+been obtained from sources other than the normal data sources
+defined in accordance with section 4, the controller of the
+file shall retain a report on the source of the data to be
+recorded.
+
+Chapter 3
+Inspection and correction of personal data
+Section 9
+Ensuring the validity of the data
+The controller of the file shall, by using reliable sour­
+ces of data and in other ways ensure that false, incomplete
+or outdated data are not recorded in a personal data file.
+In assessing the obligation of the controller of the file,
+consideration shall be given to the purpose of the personal
+data file and the significance of the use of the personal da­
+ta file to the protection of the privacy, interests and
+rights of the data subject.
+Section 10
+Preparation of a statement of file
+The controller of a file shall prepare a statement of file
+of any personal data file to be maintained by computer, indi­
+cating the purpose of the file as well as the data contained
+in the file. The statement of file shall be displayed for
+public inspection at the place of business of the controller
+of the file.
+A statement of file shall be prepared before the collec­
+tion of data intended for recording in the personal data file
+or, if the personal data are contained in documents that re­
+sulted from the formal activities of the controller of the
+file, before the personal data are organized into a personal
+data file.
+The controller of the file shall on request provide infor­
+mation on the intended purpose and type of data also in re­
+spect of a personal data file for which no statement of file
+need be prepared.
+If the display of a statement of file for public inspec­
+tion may endanger the security of the State or relations with
+another state or international organization or impair the
+prevention or investigation of an offence, it may be ordered
+by Decree that the information referred to in paragraph 1
+shall be given only to the Data Protection Ombudsman.
+
+Section 11
+The data subject's right of inspection
+Every person has the right, notwithstanding the provisions
+on secrecy, and after he has provided information on facts
+necessary to seek the data, to be informed on what data are
+recorded in a personal data file regarding him or that there
+are no data regarding him on the personal data file.
+
+At the same time, the controller of the file shall notify the data
+subject of the normal data sources of the file and of the
+purpose for which the data in the file are used and normally
+delivered. The controller of the file may collect remunera­
+tion for providing data only if less than one year has passed
+since the previous time the person in question received the
+data in the file for inspection.
+
+The remuneration to be col­
+
+lected shall be reasonable and may not exceed the immediate
+expenses resulting from the provision of the data.
+A person who wants to inspect data regarding himself in
+the manner referred to in paragraph 1 shall present a request
+to this effect in person to the controller of the file at his
+place of business or in the form of a letter signed in person
+by the person presenting the request. More detailed provi­
+sions shall be issued by Decree on the implementation of the
+right of inspection of personal data files in health care.
+Section 12
+Limitations on the right of inspection
+The right of inspection referred to above in paragraph 11
+shall not apply in the following cases:
+1) if the provision of the data might endanger the securi­
+ty of the State or relations with another state or an inter­
+national organization, impair the prevention or investigation
+of an offence
+
+or violate another very important public inter
+
+est;
+2) if the provision of the data might seriously endanger
+the health or treatment of the data subject or if the provi­
+sion of the data might violate another very important private
+interest;
+3) if the personal data in the file are used solely for
+statistical purposes in research or planning activity; or
+4) if, where the personal assessments which serve as the
+basis for salaries are contained in a personal data file
+which is maintained by an employer on his employees in a non­
+computerized form, the appropriate collective agreement on
+the salaries of the employees or civil servants provides for
+the basis of such salaries or, if this is not the case, this
+has been agreed upon with the employee; this shall also apply
+to a personal data file kept by an employer in a correspond­
+ing manner for the selection of employees if said list is
+erased as soon as it is no longer necessary for the manage­
+ment of the statutory obligations of the employer.
+If only part of the data applying to the data subject is
+such that they lie outside of the scope of the right of in­
+spection under subparagraphs 1 and 2 of paragraph 1, the data
+subject shall have the right to inspect the other data record
+ed on him.
+If a person has the right to be informed of data on him
+contained in a personal data file through a procedure provid­
+ed by Act or Decree or by action of the controller of the
+file, it may be provided by Decree that such personal data
+files shall remain outside the scope of the right of inspec­
+tion.
+Section 13
+The right of inspection of personal credit data files
+A controller of a file engaged in credit data activity
+shall notify the data subject of the first entry regarding
+said person in the personal credit data file.
+On the request of the data subject, a controller of a file
+engaged in credit data activity shall provide information on
+to whom or to where personal credit data regarding this per­
+son has been delivered over the previous six months and from
+whom or from where the data on the data subject are derived.
+The provisions of section 11 shall otherwise apply to the
+right of inspection.
+Section 14
+Fulfillment of the right of inspection
+The controller of the file shall, without undue delay, re­
+serve the data subject the opportunity to acquaint himself
+with the data referred to in section 11 or, on request, pro­
+vide the data in writing.
+If the controller of the file re­
+fuses to provide the data, he shall provide a written certi­
+ficate thereof on request. The certificate shall also state
+the reasons for which the right of inspection has been de­
+nied .
+If the controller of the file has not provided the data
+subject a written reply within three months of the presenta­
+tion of the request, this shall be deemed the equivalent of
+refusal of the right of inspection.
+Section 15
+Rectification of an error
+The controller of the file shall ensure that personal data
+that are erroneous, unnecessary, defective or outdated from
+the point of view of the intended use of the personal data
+file shall be rectified, deleted or supplemented without un­
+due delay (rectification of an error) if it is apparent that
+such data endanger the protection of the privacy, interests
+or rights of the data subject.
+
+An error shall always be rec­
+
+tified on the justified demand of the data subject.
+If the controller of the file rejects the demand for the
+rectification of an error, he shall give a written certifi­
+cate of this on request.
+
+The certificate shall also note the
+
+reasons for which the demand was rejected.
+If the error may violate the interests or rights of the
+data subject, the controller of the file shall inform the
+party to which he has delivered or from which he has received
+the erroneous personal data in the normal delivery of data of
+the rectification of the error.
+
+On the justified demand of
+
+the data subject, a notice shall always be made of the recti­
+fication of an error to a party to whom the controller of the
+file knows that he has probably delivered the erroneous per­
+sonal data or to a party from whom the controller of the file
+knows that he has probably received the erroneous personal
+data, and to the party delivering or receiving data, indicat­
+ed by the data subject.
+
+Chapter 4
+The use and delivery of personal data
+Section 16
+Commitment to purpose
+Personal data in a personal data file may only be used for
+the purpose defined before the data are collected, unless the
+provisions of this or another Act provide to the contrary.
+However, data in a personal data file may be used for statis­
+tical purposes in the research and planning activities of the
+controller of the file.
+Section 17
+The reporting obligation of the recipient of delivered data
+A party that requests data deposited in a personal data
+file for his use shall be obliged to give the controller of
+the file an account of the purpose for which the requested
+data are intended and how the personal data intended are to
+be protected.
+Section 18
+Delivery of data from a personal data file
+Personal data in or collected for a personal data file may
+not be delivered unless otherwise provided by paragraphs 2 or
+3 or the data are delivered i
+1) with the consent of, or on assignment for, the data
+subject;
+2) in accordance with an Act or Decree or an order issued
+under an Act or Decree;
+3) under circumstances where the delivery of the personal
+data is a normal part of such activity; however, in this a
+precondition for delivery shall be that it may be assumed
+that the data subject is aware of such delivery of the person
+al data and that it is not a question of sensitive data; or
+4) for scientific research or statistics.
+Other than sensitive personal data may be delivered from a
+personal data file for direct advertising, sales by telephone
+and other direct marketing as well as for directory assist­
+ance, unless the data subject has prohibited the delivery of
+the data, and if it is apparent that the data subject knows
+about such delivery of personal data.
+
+More detailed provisions on the data to be delivered shall be provided by Dec­
+ree.
+Personal credit data may be delivered only to a controller
+of a file engaged in credit data activity and to a party re­
+quiring the data for the granting of credit, for the supervi­
+sion of credit or for another comparable purpose.
+The providing of personal data for budget accounting, data
+processing, posting or other comparable tasks on assignment
+for the controller of the file shall not be deemed delivery
+of personal data, nor shall the transfer of personal data to
+a joint data file referred to in section 5, paragraph 3 or
+the delivery of data with the help of which the data subject
+cannot be identified be deemed delivery of personal data.
+Section 19
+Mass delivery of, and sensitive sampling from, personal data
+Personal data in or collected for a personal data file may
+be delivered as mass delivery or as sensitive sampling only
+in the following cases:
+1) if the data subject has consented to this or if it
+takes place on assignment for the data subject;
+2) if such delivery of data takes place under section 18,
+paragraph 3 or under another Act or Decree or on the basis of
+permission granted by the Data Protection Board; or
+3) if the party receiving the data has, under this Act,
+the right to record personal data in a personal data file and
+the delivery and use of the personal data does not endanger
+the protection of the privacy, interests and rights of the
+data subject or the security of the State.
+In the cases referred to in paragraph 1, the personal
+identity code may be delivered only if the party receiving
+the data already has this at his disposal, he has the right
+to receive it from the data subject or from the population
+register, or the delivery takes place for a scientific study,
+the keeping of statistics or credit data activity.
+Section 20
+The combining of personal data files
+Personal data files may be combined only if:
+
+1) the data subject has consented thereto or the Data Pro­
+tection Board has granted permission;
+2) the combining of files directly follows from a statuto­
+ry function and the controller of the file has the right, for
+said function, to receive and use the data to be combined;
+3) the combining of files takes place for the ordinary up­
+dating of address data or for the avoidance of multiple pos­
+tal shipments; or
+4) it is apparent that the combining of files does not en­
+danger the protection of the privacy, interests and rights of
+the data subject.
+The formation of one file from two or more technically se­
+parate personal data files kept by the same party shall not
+be considered such combining of files if the files are relat­
+ed to the administration of the same relationship between the
+controller of the file and the data subject and the new file
+to be formed fulfills the requirements provided in sections 4
+through 7.
+Section 21
+The use of delivered data
+The party to whom personal data are delivered may not use
+the personal data received for purposes other than those de­
+fined at the time the data were delivered. The same shall
+apply to a party who receives personal data for the perfor­
+mance of a function on assignment for the controller of the
+file.
+Section 22
+Transborder delivery of data
+Personal data in or collected for a personal data file
+may, without permission from the Data Protection Board or the
+consent or assignment of the data subject, be delivered as
+mass delivery or as a sensitive sample only to a country that
+has legislation that corresponds to the provisions of the
+present Act. More detailed provisions on such countries
+shall be issued by Decree.
+Permission may be granted only if it is apparent that, tak
+ing into consideration the amount, type and intended purpose
+of the personal data to be delivered as well as the protective measures to be undertaken, the delivery does not endan­
+ger the protection of the privacy of the data subject or vio­
+late his interests or rights or endanger the security of the
+State.
+Personal data may be delivered to another State for data
+processing and posting on assignment for the controller of
+the file if the delivery and use of the personal data does
+not endanger the protection of the privacy, interests and
+rights of the data subject or the security of the State.
+Section 23
+The right to prohibit the use or delivery of data
+The data subject shall have the right to prohibit the
+controller of the file from using or delivering data regard­
+ing said data subject for direct advertising, sales by tele­
+phone and other direct marketing, directory assistance and
+market and opinion research.
+Section 24
+Notification of the use of a personal data file
+in certain cases
+A party who has obtained personal credit data on a data
+subject for use in decision making regarding this person
+shall notify him of the use of the credit data in decision
+making and of the source of the credit data in the file if
+the refusal of credit or other negative decision in respect
+of the data subject is primarily due to the credit data re­
+ceived .
+In direct advertising, sales by telephone and other direct
+marketing as well as in questionnaires for market and opinion
+research for which the name and address of a person have been
+obtained from a personal data file, notice shall be given of
+the name of the personal data file used in the acquiring of
+the data as well as the controller of the file and his ad­
+dress .
+Section 25
+Registering the delivery of data
+With the exception stipulated in paragraph 2, the control­
+ler of a file shall retain data on the following when deliver
+ing data on the basis of section 19, paragraph 1, subparagraph 3:
+
+1) what data have been delivered;
+2) to whom the data have been delivered;
+3) for what purpose the data have been delivered; and
+4) when the data were delivered.
+The retention of data in the manner referred to in para­
+graph 1 is not necessary when the data are delivered in nor­
+mal delivery of data as defined in section 4.
+
+However, data
+
+shall always be retained on a delivery involving a personal
+data file that is kept for the further delivery of personal
+data as a business.
+Chapter 5
+Protection, transfer into archives
+and erasure of a personal data file
+Section 26
+Protection of a personal data file
+The controller of a file shall ensure that the personal
+data file and the data contained therein are protected in an
+appropriate manner against unauthorized manipulation, use,
+erasure and alteration as well as against appropriation. The
+same shall apply to a party who, as an independent entrepre­
+neur or business acts on behalf of the controller of the file
+or to whom the controller of the file has delivered personal
+data through mass delivery or sensitive sampling.
+Section 27
+Erasure of a personal data file
+If a personal data file is no longer necessary from the
+point of view of the activity of the controller of the file,
+the file shall be erased unless the data recorded therein are
+to be preserved in accordance with a special provision or or­
+der or tinless the data file is transferred into an archive as
+stipulated in greater detail by Decree.
+Section 28
+Personal data files transferred into archives
+Separate provisions shall apply to the use and protection
+of personal data files transferred to the possession of ar­
+chive authorities as well as to the delivery of the data con­
+tained therein.
+
+However, in delivering personal data from private personal data files the archives authorities shall
+pay due regard to the provisions of this Act on the delivery
+of personal data, unless in view of the age and type of data
+recorded in the personal data file this is manifestly unne­
+cessary for the protection of the privacy of the data sub­
+ject.
+Chapter 6
+Supervision, coercive measures and exceptional permission
+Section 29
+Data protection authorities
+The Data Protection Ombudsman shall supervise the collec­
+tion, recording, usage and delivery of personal data in order
+to fulfill the aims of this Act.
+The Data Protection Board shall have the authority to de­
+cide on data protection matters as stipulated in this Act.
+Stipulations on the office of the Data Protection Ombuds­
+man, the composition of the Data Protection Board and the
+proceedings before the Data Protection Board are provided in
+the Data Protection Board and the Data Protection Ombudsman
+Act (1987/474).
+Section 30
+Notification obligation
+The controller of a file shall give notice to the Data
+Protection Ombudsman on the following:
+1) a personal data file, the data in which are intended
+for use in direct advertising, sales by telephone or other
+direct marketing or directory assistance or in opinion or
+market research, if the file contains data on persons who are
+not associated with the controller of the file on the basis
+of a customer or service relationship, membership or other
+corresponding relationship as referred to in section 5, pa­
+ragraph 1;
+2) a personal data file that is maintained through automa­
+tic data processing and for which data are collected under
+section 19, paragraph 1, subparagraph 3, unless it is a ques­
+tion of ordinary updating of address data or a personal data
+file maintained for scientific research;
+
+3) the delivery of personal data to another state for au­
+tomatic data processing or the delivery of personal data in a
+personal file to a considerable extent for use in another
+state, unless the permission referred to in section 22 has
+been sought for delivery; and
+4) an essential alteration of the personal data file re­
+ferred to above in subparagraphs 1 and 2.
+A party who is engaged in credit data activity or who is
+engaged in debt collecting, marketing or opinion research on
+a professional basis or manages on behalf of another tasks or
+data processing tasks related to the selection of personnel
+and the assessment of their suitability, and in said activity
+uses or processes personal data files and the data contained
+therein, is obliged to notify the Data Protection Ombudsman
+of his activity.
+The notice shall be given in sufficient time, at the la­
+test one month before the collection of the personal data in­
+tended for recording in the personal data file or before the
+initiation of the activity or before the initiation of other
+measures resulting in a notification obligation.
+If a person
+al data file which was not previously subject to the notifi­
+cation obligation is altered into one for which a notice is
+required, said notice shall be made within one month of the
+data on which the altered file is taken into use.
+Exceptions to the notification obligation may be stipula­
+ted by Decree where these do not endanger the possibilities
+of guiding file activity in order to fulfill the goals of
+this Act.
+Section 31
+Obligation of the controller of a file to provide data
+Notwithstanding the stipulations on secrecy, the control­
+ler of a file is obliged to provide the Data Protection Om­
+budsman with the data on the personal data file and its use
+required by the latter for the supervision of the legality of
+the collection, recording, inspection, use and delivery of
+personal data.
+Controllers of a file are obliged to provide the Data Pro­
+tection Ombudsman with reports on the personal data files as
+stipulated in greater detail by Decree.
+Section 32
+Rioht of inspection of a data protection authority
+The Data Protection Ombudsman has the right to inspect
+personal files and use experts approved by the Data Protec­
+tion Board in such inspections.
+The Data Protection Ombudsman and an expert shall, in or­
+der to carry out the inspection, have right of access to pre­
+mises maintained by the controller of the file or by a person
+acting on assignment for him, where personal data are pro­
+cessed or personal data files are kept, and to receive the
+data and equipment necessary for the performance of the in­
+spection .
+The inspection shall be carried out so that it does not
+cause the controller of the file unnecessary inconvenience
+and expense.
+Section 33
+General instructions
+The Data Protection Ombudsman may issue more detailed
+instructions on when personal data may be delivered under
+section 19 and personal data files may be combined under sec­
+tion 20 without the permission of the Data Protection Board,
+and on how personal data files shall be protected from use by
+third parties.
+Section 34
+Specific guidance for a file
+Should the Data Protection Ombudsman note that the collec­
+tion or recording of personal data or the use or delivery of
+data in a personal data file violates the law, he shall seek
+to have the party in question voluntarily change his actions.
+If needed, the Data Protection Ombudsman shall submit the
+matter to the consideration of the Data Protection Board or
+report it for prosecution.
+Section 35
+Establishment of obligations and injunctions
+On the petition of a data subject the Data Protection Om­
+budsman may issue an order to a controller of a file on the
+exercise of the data subject's right of inspection and on the
+rectification of an error in the file.
+
+The order shall lapse
+
+if the controller of the file informs the office of the Data
+Protection Ombudsman in writing or orally within the time
+specified that he objects to the issuing of the order.
+
+The
+
+specified time referred to shall be at least eight days from
+the service of the order.
+If a person collects and records data in a personal data
+file, uses a personal data file, delivers data from a person­
+al data file or undertakes other measures in violation of
+this Act or neglects an obligation established by said provi­
+sions or orders or if the order issued by the Data Protection
+Ombudsman has lapsed as referred to in paragraph 1, the Data
+Protection Board may, on the petition of the Data Protection
+Ombudsman, oblige the party in question to rectifify, within
+a specified period, what has been unlawfully done or neglec­
+ted.
+
+The data subject may, by application, submit for the
+
+consideration of the Data Protection Board a matter involving
+the exercise of the right of inspection or the rectification
+of an error if the Data Protection Ombudsman has decided not
+to issue an order to the controller of the file or has re­
+fused to submit the matter to the consideration of the Data
+Protection Board.
+The Data Protection Board may prohibit the unlawful col­
+lection, recording, use and delivery of personal data. If
+the unlawful action or neglect constitutes a considerable
+danger to the protection of the privacy, interests or rights
+of the data subject or endangers the security of the State
+and if there are no statutory provisions on the file, the Da­
+ta Protection Board may order that the file activity shall be
+terminated.
+
+Section 36
+
+Threat of a fine
+The Data Protection Ombudsman may set a threat of a fine
+to enforce the notification obligation under section 31 and
+an order issued by him under section 35. The Data Protection
+Board may set a threat of a fine to enforce the establishment
+of an obligation or injunction. The Data Protection Board
+shall decide on the enforcement of the threat of a fine.
+
+Section 37
+Exceptional permission
+The Data Protection Board may grant the permission re­
+ferred to in sections 5, 7, 19 and 20 or in section 18a of
+the Publicity of Official Documents Act or permission to de­
+viate from the provisions of this Act or the Decrees issued
+on the basis thereof if there is an important reason for this
+and it is possible to prevent the endangerment of the priva­
+cy, interests and rights of the data subject as well as of
+the security of the State.
+The permission may be granted for a specified period or
+until further notice, and the orders necessary for the pro­
+tection of the privacy, interests and rights of the data sub­
+ject as well as for the protection of the security of the
+State shall be appended thereto.
+On the request of the Data Protection Ombudsman or of the
+recipient of the permission, the Data Protection Board may
+amend or supplement the orders referred to in paragraph 2 is
+this is necessary in view of changed circumstances. The per­
+mission shall be withdrawn if there is deemed to be reason
+for this.
+Chapter 7
+Appeals
+Section 38
+The right of appeal
+A decision made by the Data Protection Board under section
+22 or 35 through 37 shall be subject to appeal to the Supreme
+Administrative Court in accordance with the stipulations of
+the Administrative Appeal Act (1950/145). A decision made by
+the Data Protection Board under section 22 or 37 shall be
+subject to appeal by the Data Protection Ombudsman.
+Section 39
+Immediate implementation of a decision
+A decision made by the Data Protection Board under section
+35 or 36 may order that the order shall be implemented not­
+withstanding an appeal unless the appellate authority orders
+otherwise.
+
+Chapter 8
+Miscellaneous provisions
+Section 40
+The protection of data in postal shipments
+The controller of a file may not, in postal shipments,
+make visible use of the personal identity code of a person,
+data concerning the personal circumstances /6f the recipient
+or data referred to in section 24, paragraph 2.
+Section 41
+Secrecy obligation
+A person who, in the collection, recording, use or delive­
+ry of personal data has obtained data on the personal cir­
+cumstances or financial circumstances of another may not re­
+veal data received in this manner to a third party that is a
+violation of this Act.
+Section 42
+Obligation to pay damanes
+The controller of a file is obliged to compensate the fi­
+nancial loss incurred by a data subject through the use or
+delivery of erroneous data or from the unlawful use or deli­
+very of data. In so doing, compensation shall also be provid
+ed for suffering unless this is deemed minor. The stipula­
+tions of chapter 2, sections 2 and 3, chapter 3, sections 4
+and 6 as well as chapters 4, 6 and 7 of the Compensation Act
+(1974/412) shall otherwise apply to the obligation to provide
+compensation.
+Section 43
+Personal data file offence
+A person who, in violation of this Act or of the provi­
+sions or orders issued under this Act:
+1) records sensitive data in a personal data file;
+2) prevents or attempts to prevent the data subject, by
+giving him false or misleading information, from using his
+right to inspect the personal data file;
+,3) uses a personal data file or data contained therein for
+purposes other than those defined under law;
+
+4) delivers personal data from a personal data file; or
+5) combines personal data files
+and is so doing violates the protection of the privacy of
+the data subject or causes him other harm or essential incon­
+venience shall be sentenced for a personal data file offence
+to a fine or imprisonment for at most one year.
+Section 44
+Personal data file violation
+A person who, in violation of this Act or of the provi­
+sions or orders issued under this Act, deliberately or
+through gross negligence:
+1) neglects his obligation to record the source of data or
+the delivery of data;
+2) neglects to follow the stipulations on the determina­
+tion of the purpose of a personal data file, the preparation
+and display of a statement on a file, the notification of the
+data subject of data, the rectification of an error noted in
+a personal file or the sending of information to the Data
+Protection Ombudsman,
+3) gives the Data Protection Ombudsman false or misleading
+information in a matter related to a personal data file; or
+4) violates the orders given on the protection and erasure
+of a personal data file
+and in so doing endangers the protection of the privacy or
+rights of the data subject shall be sentenced, if no more se­
+vere punishment is stipulated elsewhere in law for the viola­
+tion, for a personal data file violation to a fine.
+A person who is guilty through gross negligence of the act
+referred to in section 43 shall also be sentenced for a per­
+sonal data file violation.
+Section 45
+Unauthorized access to a personal data file
+A person who, through the use of a user code that does not
+belong to him or through other fraudulent means passes a
+control or identity or a corresponding security system and
+thus gains access without authorization to a personal data
+file maintained with the assistance of automatic data processing shall be sentenced for unauthorized access to a personal data file to a fine or to imprisonment for at most six
+months.
+Section 46
+Violation of the secrecy obligation
+in respect of personal data files
+A person who, in violation of section 41, reveals to a
+third party personal data recorded or collected for a person­
+al data file shall be sentenced for violation of the secrecy
+obligation in respect of personal data files to a fine or to
+imprisonment for at most six months.
+Section 47
+Hearing of the Data Protection Ombudsman
+Before prosecution of the act referred to in sections 43
+through 46 the public prosecutor shall hear the Data Protec­
+tion Ombudsman.
+
+In considering such a case the court shall
+
+reserve the Data Protection Ombudsman an opportunity to be
+heard.
+Section 48
+The right to issue Decrees
+More detailed provisions on the implementation of this Act
+shall be issued by Decree.
+Chapter 9
+Provisions on entry into force and transitory provisions
+Section 49
+, Entry into force
+This Act shall' enter into force on 1 January 1988.
+However, the provisions -of a Decree on the collection, re­
+cording, use and delivery of data issued before this Act en­
+ters into force shall apply instead of the corresponding pro­
+visions of this Act.
+The provisions of section 42 of this Act shall apply to
+damage that occurs subsequent to the entry of this Act into
+force.
+
+Section 50
+
+Transitory provisions
+A personal data file that has been taken into use before
+the entry of this Act into force shall be brought into accord
+ance with this Act within a year of the entry of this Act in­
+to force unless stipulated to the contrary below.
+
+If the maintenance of such a file requires permission under this
+Act, the application for permission shall be submitted within
+six months of the entry of this Act into force.
+The notice referred to in section 30, paragraph 1, subpa­
+ragraph 3 and paragraph 2 of this Act shall be made within
+six months of the entry of this Act into force and the notice
+referred to in section 30, paragraph 1, subparagraphs 1 and 2
+shall be made within one year of the entry of the Act into
+force.
+A controller of a file engaged in credit data activity
+shall make the notice of the personal data referred to in sec
+tion 13, paragraph 1 within two years of the entry of the Act
+into force.
+
+If a manually maintained personal data file previously used for credit data activity is adapted for mainte­
+nance with automatic data processing, the notice may be made
+only in respect of the personal data included in the file to
+be maintained with automatic data processing, unless personal
+credit data are delivered on the basis of the earlier file.
