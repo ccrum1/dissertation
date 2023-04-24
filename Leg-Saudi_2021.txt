@@ -1,0 +1,221 @@
+
+Firstly: Approval of the personal data protection system, as accompanying.
+Secondly: The competent authority shall be the Saudi Authority for Data and Artificial Intelligence, for a period of two years? During which - in light of the results resulting from the application of the provisions of the personal data protection system and its executive regulations and in light of the level of maturity in the data sector - the transfer of the competence to supervise the application of the provisions of the system and its executive regulations to an office National data management.
+Third: As an exception to what was stated in Article ( forty-third ) of the personal data protection system, the application of what is mentioned in paragraph ( 1 ) and paragraph ( 2 ) of Article ( thirty-third ) of the system? As determined by the head of the competent authority and not exceeding ( five ) years from the date of entry into force of the system.
+Fourthly: The controllers - stipulated in paragraph ( 18 ) of Article ( First ) of the Personal Data Protection System - amend their conditions in accordance with the provisions of the system within a period not exceeding a year starting from the date of its enforcement. The competent authority may - for reasons that it appreciates - grant additional periods to some authorities to amend their conditions.
+Fifth: The application of the provisions of the personal data protection system and its executive regulations is without prejudice to the powers and tasks of the National Cyber Security Authority as a security authority specializing in cybersecurity and the national reference in its affairs in the Kingdom? According to its regulation issued by Royal Decree No. ( 6801 ) dated 11/2/1439 AH.
+A draft royal decree has been prepared in relation to the provisions of ( first ) and ( third ) and ( IV ) and ( Fifth ) of this decision, as accompanying this.
+Sixth: Coordinates between the competent authority and the Saudi Central Bank, to prepare a memorandum of understanding to regulate some aspects related to the application of the provisions of the personal data protection system and its executive regulations in the authorities subject to the supervision of the Saudi Central Bank? And determining the role of each of them in this regard, taking into account the lack of overlapping competencies between them in the matter of applying the provisions of the system and its executive regulations to the authorities subject to the supervision of the Saudi Central Bank organizationally? To prevent the influence of the independence of the Saudi Central Bank, and the special nature of financial and banking transactions, and in order to enhance the stability and growth of sectors supervised by the Saudi Central Bank? The preparation and signature of the memorandum shall be completed in conjunction with the entry into force of the system.
+Seventh: Coordinates between the competent authority and the Communications and Information Technology Authority, to prepare a memorandum of understanding to regulate some aspects related to the application of the provisions of the personal data protection system and its executive regulations in the authorities subject to the organization of the Communications and Information Technology Authority? To prevent the influence of the Communications and Information Technology Authority as an independent regulatory body that oversees sensitive sectors linked to individual personal dealings, and to enhance the stability and growth of the sectors it supervises? The preparation and signature of the memorandum shall be completed in conjunction with the entry into force of the system.
+Eighth: The competent authority, in coordination with the authorities it deems necessary, to carry out a continuous awareness campaign for the owners of personal data? Likewise, for the employees of the controllers - stipulated in paragraph ( 18 ) of Article ( First ) of the Personal Data Protection System - or its employees, to indicate the rights and obligations contained in the system after its entry into force.
+Ninth: The control authorities - stipulated in paragraph ( 18 ) of Article ( First ) of the Personal Data Protection System - shall take the necessary procedures to hold work sessions and the like for their employees or employees? To define the terms and principles mentioned in the system after its entry into force, and those bodies may coordinate with the competent authority whenever necessary in order to provide advice and support.
+Tenth: The competent authority, in coordination with the relevant authorities it deems necessary, to evaluate the results of the implementation of the personal data protection system and to express related views, including proposing any amendments that may be necessary to it? And that is during ( five ) years from the date of its entry into force, and raise what is necessary to complete the necessary procedures.
+eleventh: The establishment of the competent authority within a period not exceeding ( the year ) from the date of entry into force of the personal data protection system, and in coordination with the relevant authorities it deems necessary? By reviewing the provisions of the relevant regulations, decisions and regulations that dealt with provisions related to the protection of the personal data of individuals, and proposing to amend them in accordance with the provisions of the system, and to remove what requires the completion of regular procedures in this regard.
+twelfth: The competent authority shall take into account when preparing the executive regulations of the personal data protection system the establishment of provisions and controls related to procedures and organizational, administrative and technical means associated with storing personal data with the controllers - stipulated in paragraph ( 18) From Article ( First ) from System - to ensure that personal data is preserved according to its nature and degree of sensitivity, based on what is stated in Article ( Nineteenth ) of the system.
+
+For the purpose of applying this system, the following words and phrases - wherever they appear in this system - mean the meanings shown before each of them, unless the context requires otherwise:  
+1. the system: Personal data protection system.
+2. Regulations: System executive regulations.
+3. Competent authority: The body to be determined by a decision of the Council of Ministers.
+4. personal data: Every statement - whatever its source or form - would lead to the individual's knowledge specifically, or make identification of it possible directly or indirectly, including: name? Personal identification number, addresses, contact numbers, license numbers, records and personal property, bank account numbers and credit cards, individual fixed or animated photos, and other data of a personal nature.
+5. Treatment: Any process performed on personal data by any means, manual or automatic, including: collection, registration, archiving, indexing, arrangement, coordination, storage, modification, update, merging, retrieval, and use? Disclosure, transportation, publishing, data sharing or interconnection, blocking, surveying, and damage.
+6. Plural: The control authority obtains personal data in accordance with the provisions of the system, whether from its owner directly, who represents it, or who has legal jurisdiction over it or from another party.
+7. Destruction: Every action removes personal data and makes it difficult to view or recover again. 
+8. Disclosure: Enabling any person - other than the controller - to obtain, use or view personal data by any means and for any purpose.  
+9. Transport: Transfer personal data from one place to another to process it.
+10. Publishing: Broadcasting any of the personal data through a means of publishing read, audible or visible, or making them available.
+11. Sensitive data: Every personal statement includes a reference to the individual's ethnic or tribal origin, or his religious, intellectual or political belief, or indicates his membership in NGOs or institutions. As well as criminal and security data, vital feature data that identifies identity, genetic data, credit data, health data, and positioning data? Data indicating that the individual is unknown to one or both parents.  
+12. Genetic data: Every personal statement related to the genetic or acquired characteristics of a natural person, uniquely determining the physiological or health characteristics of that person? It is extracted from the analysis of a person's biological sample such as the analysis of nucleic acids or the analysis of any other sample that leads to the extraction of genetic data. 
+13. Health data: Every personal statement relates to an individual's health condition, whether physical, mental, psychological, or related to his health services.
+14. Health services: Services related to individual health, including preventive, curative, rehabilitative, hypnotic and drug provision services.
+15. Credit data: Every personal statement related to an individual's request to obtain financing, or to obtain it, whether for a personal or family purpose, from the one who exercises the financing? Including any statement related to his ability to obtain credit, his ability to meet it, or his credit history. 
+16. Owner of personal data: The individual to whom the personal data relates, his representative or who has legal jurisdiction over him.
+17. The public authority: Any ministry, interest, public institution, public body, or any independent public authority in the Kingdom, or any of its affiliates.
+18. Control: Any public authority, and any person of a special natural or legal nature; Determine the purpose and how to process personal data; Whether it started processing data by mediation or by the treatment authority.  
+19. Processing body: Any public authority, and any person of a special natural or legal nature; Personal data is processed for and on behalf of the controlling authority.
+The second article
+1. The system applies to any process of processing personal data related to individuals that takes place in the Kingdom by any means? Including the processing of personal data related to individuals residing in the Kingdom by any means from any party outside the Kingdom. This includes the data of the deceased if it will lead to his or her family members being specifically known.
+2. The scope of application of the system excludes the individual's processing of personal data for purposes that do not exceed personal or family use, as long as he has not published or disclosed it to others. The regulations specify the intended personal and family use stipulated in this paragraph.
+Article Three
+The provisions and procedures stipulated in the system are without prejudice to any provision that grants a right to the owner of personal data or decides to better protect it, stipulated in another system or an international agreement to which the Kingdom is a party.
+Article Four
+The owner of the personal data shall have the following rights:
+1. The right to know, and this includes informing him of the systematic or practical justification for collecting his personal data, and the purpose thereof? And that its data is not processed later in a manner inconsistent with the purpose of collecting it or in cases other than those stipulated in Article ( Tenth ) of the system.
+2. The right to access his personal data available at the control, including access to it? And obtaining a copy of it in a clear form and conforming to the content of the records and without a financial compensation - according to what is determined by the regulations - without prejudice to the provisions of the credit information system in relation to the financial compensation? Without prejudice to the provisions of Article ( IX ) of the system. 
+3. The right to request the correction of his personal data available with the control authority, or to complete or update it.
+4. The right to request the destruction of his personal data available to the control authority from what has been needed from it, without prejudice to the provisions of Article ( Eighteenth ) of the system.
+5. Other rights stipulated in the system, which are set out in the regulations.
+Article Five
+
+Except for the conditions stipulated in the system, personal data may not be processed or the purpose of processing it changed except after the approval of its owner. The regulations specify the conditions for approval, the conditions in which the approval must be in writing, and the conditions and provisions related to obtaining approval from the legal guardian if the owner of the personal data is incomplete or incompetent.
+In all cases, the owner of the personal data may revoke the approval referred to in paragraph ( 1 ) of this article at any time, and the regulations specify the necessary controls for that.
+
+
+Without prejudice to the provisions of the system, and the powers of the Saudi Central Bank in accordance with the provisions of the relevant statutory texts, the competent authority shall be the authority supervising the application of the provisions of the system and regulations.
+The controller shall appoint or designate a person ( or more ) from its employees to be responsible for its commitment to implement the provisions of the system and regulations. The regulations specify the provisions related to what is mentioned in this paragraph.
+The control authority shall cooperate with the competent authority in order to carry out its tasks related to overseeing the implementation of the provisions of the system and regulations, and it shall also take the necessary measures regarding related matters referred to it by the competent authority. The competent authority may request the necessary documents or information from the control authority to ensure that it complies with the provisions of the system and regulations.
+The competent authority may - according to its discretion - authorize other entities to carry out some of the tasks assigned to it related to overseeing the application of the provisions of the system and regulations. 
+Article Six 
+
+The processing of personal data is not subject to the approval referred to in paragraph ( 1 ) of Article ( Fifth ) of the system, in the following cases:
+1. When the processing is in the interest of the data owner and contact was difficult or difficult to achieve.
+2. When the treatment is under another system or in implementation of a previous agreement, the owner of the personal data is a party to it.
+3. If the controller is a public authority, and such treatment is required for security purposes or to fulfill judicial requirements.
+Article Seven
+The approval referred to in paragraph ( 1 ) of Article ( Fifth ) of the system may not be a condition for providing a service or providing a benefit? Unless the service or benefit is related to the processing of the personal data that has been approved.
+Article Eight
+Taking into account what is stipulated in the system and regulations regarding the disclosure of personal data, the control authority, when selecting the treatment authority, must commit to choosing the entity that provides the necessary guarantees to implement the provisions of the system and regulations? It shall continuously verify the compliance of that authority with the instructions it directs to it in all matters relating to the protection of personal data in a manner that does not conflict with the provisions of the system and regulations? This does not prejudice its responsibilities towards the owner of personal data or the competent authority, according to the circumstances. The regulations specify the provisions necessary for this, provided that they include provisions related to any subsequent contracts made by the treatment authority.
+Article nine
+1. The controller may specify periods for exercising the right to access personal data set in paragraph ( 2 ) of Article ( Fourth ) of the system, and the competent authority shall determine the appropriate period for that. The control may also restrict this right in the following cases:
+A- If this is necessary to protect the owner of personal data or other harm; According to the provisions determined by the regulations. 
+B- If the control authority is a public authority, and the restriction is required for security purposes, to implement another system, or to fulfill judicial requirements.
+2. The controller should not enable the owner of the personal data to access it whenever any of the conditions stipulated in paragraphs ( 1 ), ( 2 ), ( 3 ) and ( 4 ) and ( 5 ) and <TAG1 From Article ( Sixteenth ) from the system.
+Article X
+The controller may not collect personal data except from its owner directly, and such data may only be processed to achieve the purpose for which it was collected. However, the controller may collect personal data without its owner directly, or process it for a purpose other than the one for which it was collected, in the following cases: 
+1. If the owner of the personal data agrees to this, according to the provisions of the system.
+2. If personal data is publicly available, or collected from a publicly available source.
+3. If the control is a public authority, and the collection of personal data is not directly related to it, or is processed for a purpose other than the one for which it was collected? Required for security purposes, to implement another system, or to fulfill judicial requirements in accordance with the provisions established by the regulations. 
+4. If adherence to this prohibition may harm the owner of personal data or affect his vital interests; According to the provisions determined by the regulations.
+5. If the collection or processing of personal data is necessary to protect health or public safety, or to protect the life of a particular individual or individuals, or to protect their health. The regulations set out the relevant controls and procedures.
+6. If the personal data will not be recorded or preserved in a form that makes it possible to identify the owner and know him directly or indirectly. The regulations set out the relevant controls and procedures.
+Article Eleven
+1. The purpose of collecting personal data must be directly related to the purposes of the controller, and not be inconsistent with any established rule.
+2. The methods and means of collecting personal data should not conflict with any established provision, and be appropriate to the circumstances of its owner, direct, clear, safe, and free from methods of deception, misinformation or extortion.
+3. The content of personal data must be appropriate and limited to the minimum necessary to achieve the purpose of collecting it, while avoiding its inclusion in what leads to the owner's knowledge specifically when the purpose of collecting it is achieved. The regulations specify the necessary controls.
+4. If it becomes clear that the personal data collected is no longer necessary to achieve the purpose of collecting it, the controller must stop collecting it, and destroy what it previously collected from it immediately.
+Twelfth Article
+The controller must adopt a policy for the privacy of personal data, and make it available to its owners to view it before collecting their data. Provided that this policy includes determining the purpose of its collection, the content of personal data to be collected, the manner of collection, the means of preserving it, how it is handled, how it is destroyed, and the rights of its owner in relation to it? And how to exercise these rights. 
+Article Thirteen
+The controller, in the event that the personal data is collected directly from its owner, shall take sufficient means to inform him of the following elements before starting to collect its data:
+1. The systematic or practical justification for collecting his personal data.
+2. The purpose of collecting his personal data, and whether collecting all or some of them is compulsory or optional? He also informed him that his data will not be processed later in a manner inconsistent with the purpose of collecting it or in other than the conditions stipulated in Article ( Tenth ) of the system.
+3. The identity of the person who collects the personal data and the address of his reference when necessary, unless it is collected for security purposes.
+4. The entity or entities to which the personal data will be disclosed, its description, and whether the personal data will be transferred, disclosed, or processed outside the Kingdom.
+5. The potential impacts and risks of not completing the personal data collection procedure.
+6. His rights stipulated in Article ( Fourth ) of the system. 
+7. Other elements determined by the regulations according to the nature of the activity of the controller.
+Article Fourteen
+The controller may not process personal data without taking sufficient steps to verify its accuracy, completeness, timeliness and relevance to the purpose for which it was collected in accordance with the provisions of the system.
+Article fifteen
+The controller may not disclose personal data except in the following cases:
+1. If the owner of the personal data agrees to disclose in accordance with the provisions of the system. 
+2. If the personal data was collected from a publicly available source.
+3. If the authority requesting disclosure is a public authority, for security purposes, to implement another system, or to fulfill judicial requirements in accordance with the provisions specified by the regulations. 
+4. If disclosure is necessary to protect health or public safety, or to protect the life of a particular individual or individuals, or to protect their health. The regulations set out the relevant controls and procedures.
+5. If the disclosure is limited to processing it later in a manner that does not lead to the identification of the owner of the personal data or any other individual specifically. The regulations set out the relevant controls and procedures. 
+Article sixteen
+The controller shall not disclose the personal data in the cases stipulated in paragraphs ( 1 ) and ( 2 ) and ( 5 ) from Article ( Fifteen ) from the system, when the disclosure is characterized by any of the following: 
+1. It represents a threat to security, or it damages the Kingdom's reputation, or conflicts with its interests.
+2. It affects the Kingdom's relations with another country.
+3. It prevents the detection of a crime, affects the rights of a defendant to have a fair trial, or affects the integrity of existing criminal procedures.
+4. It endangers the safety of an individual or individuals.
+5. It results in a violation of the privacy of an individual other than the owner of personal data as defined by the regulations.
+6. It conflicts with an incomplete or incompetent interest.
+7. It violates established professional obligations. 
+8. It involves a breach of an obligation, procedure or court ruling.
+9. It reveals a confidential source of information that the public interest must not disclose.
+Article seventeen
+1. If an error is corrected, a deficiency is completed, or an update is made in the personal data, the controller must notify any other entity to which that data has been transferred of any amendment that occurs, and allow it to amend it.
+2. The regulations clarify the time periods for correction and updating, the types of correction, and the procedures required to avoid the effects of processing incorrect, inaccurate or non-recent personal data.   
+Article Eighteen
+1. The controller must destroy the personal data as soon as the purpose of collecting it ends. However, it may keep these data after the purpose of collecting them has ended if everything that leads to the owner's knowledge is specifically removed according to the controls specified by the regulations.
+2. The control authority shall keep the personal data even after the purpose of collecting it has ended in the following two cases: 
+a- If a systemic justification is available, it must be kept for a specified period, in which case it will be destroyed after the end of this period or the end of the purpose of collecting it, whichever is longer.
+B- If the personal data is closely related to a case pending before a judicial authority and keeping it is required for this purpose, in which case it will be destroyed after the completion of the judicial procedures for the case
+
+Article nineteen
+
+The control shall take the necessary organizational, administrative and technical measures and means to ensure the preservation of personal data, including when it is transferred; And in accordance with the provisions and controls determined by the regulations.
+Article Twenty
+1. The control authority shall notify the competent authority, upon learning of the occurrence of leakage or damage to personal data or the occurrence of unlawful access to it. 
+2. The regulations specify the conditions in which the controller must notify the owner of the personal data in the event of a leak or damage to his personal data or unlawful access to it. If any of the above would cause serious harm to his data or to himself, the controller must notify him immediately.
+Article Twenty One
+The controller shall respond to the requests of the owner of personal data related to his rights stipulated in the system within a specified period and through an appropriate means specified by the regulations.  
+Article Twenty Two
+The control authority shall conduct an evaluation of the effects of processing the personal data of any product or service provided to the public according to the nature of the activity practiced by the control authority, and the regulations shall determine the necessary provisions for that.
+Article Twenty Three
+The regulations specify additional controls and procedures - not inconsistent with the provisions of the system - regarding the processing of health data in a manner that ensures the preservation of the privacy of their owners and protects their rights contained in the system, provided that they include the following:
+1. Restricting access to health data - including medical files - to the lowest possible number of employees or employees and to the extent necessary only to provide the necessary health services. 
+2. Restrict health data processing procedures and processes to the minimum possible number of employees and workers to provide health services or provide health insurance programs.
+Article Twenty Four
+The regulations specify additional controls and procedures - not inconsistent with the provisions of the system - regarding the processing of credit data in a manner that ensures the preservation of the privacy of their owners and protects their rights contained in the system and the credit information system? It should include the following:
+1. Take the necessary measures to verify the availability of written consent from the owner of personal data to collect this data or change the purpose of collecting, disclosing or publishing it in accordance with the provisions of the system and the credit information system.
+2. The owner of the personal data must be notified when a request to disclose his credit data is received from any party. 
+Article Twenty Five
+With the exception of educational materials sent by public authorities, the controller may not use the personal means of communication - including postal and electronic addresses - of the owner of personal data in order to send propaganda or educational materials? Except according to the following: 
+1. The consent of the target recipient to send these materials to him is taken.
+2. That the material sender provide a clear mechanism - as defined by the regulations - that enables the target recipient to express his desire to stop sending it to him when he so desires. 
+The regulations specify the provisions related to the propaganda and awareness materials referred to in this article, and the conditions and conditions for the target recipient's approval to send these materials to him.
+Article Twenty Six
+Except for sensitive data, personal data may be processed for marketing purposes, if it is collected directly from its owner and agreed to this in accordance with the provisions of the system. The regulations specify the necessary controls.
+Article Twenty Seven
+Personal data may be collected or processed for scientific, research or statistical purposes without the consent of its owner, in the following cases:
+1. If the personal data does not include evidence of the identity of the owner specifically.
+2. If evidence of the identity of the owner of the personal data will be destroyed specifically during the process of processing it and before disclosing it to any other party and that data was not sensitive data. 
+3. If the collection or processing of personal data for these purposes is required by another system or in implementation of a previous agreement, the owner of which is a party.
+The regulations specify the necessary controls for what is mentioned in this article.
+Article Twenty Eight
+Official documents that identify the owner of personal data may not be photographed or copied, except when this is in implementation of the provisions of the system? Or when a competent public authority requests that these documents be photographed or copied as determined by the regulations. 
+Article Twenty-ninth
+Except in cases of extreme necessity to preserve the life of the data owner outside the Kingdom or his vital interests or to prevent, examine or treat a disease infection? The control authority may not transfer personal data out of the Kingdom or disclose it to a party outside the Kingdom unless it is in implementation of an obligation under an agreement to which the Kingdom is a party, or to serve the interests of the Kingdom? Or for other purposes as determined by the regulations, after the following conditions are met:
+1. The transfer or disclosure does not affect the national security or the vital interests of the Kingdom.
+2. Provide adequate guarantees to preserve the personal data that will be transferred or disclosed and their confidentiality, so that the standards for protecting personal data are not less than the standards contained in the system and regulations.
+3. Transfer or disclosure is limited to the minimum personal data needed.
+4. The approval of the competent authority for transfer or disclosure in accordance with the regulations.
+With the exception of the requirement in paragraph ( 1 ) of this Article, the competent authority may exempt the control authority - in each individual case - from complying with one of the conditions referred to? Whenever the competent authority individually or in association with other parties estimated that personal data will have an acceptable level of protection outside the Kingdom, and that data was not sensitive data. 
+Article Thirty
+1. Without prejudice to the provisions of the system, and the powers of the Saudi Central Bank in accordance with the provisions of the relevant statutory texts, the competent authority shall be the authority supervising the application of the provisions of the system and regulations.
+2. The controller shall appoint or designate a person ( or more ) from its employees to be responsible for its commitment to implement the provisions of the system and regulations. The regulations specify the provisions related to what is mentioned in this paragraph.
+3. The control authority shall cooperate with the competent authority in order to carry out its tasks related to overseeing the implementation of the provisions of the system and regulations, and it shall also take the necessary measures regarding related matters referred to it by the competent authority. The competent authority may request the necessary documents or information from the control authority to ensure that it complies with the provisions of the system and regulations.
+4. The competent authority may - according to its discretion - authorize other entities to carry out some of the tasks assigned to it related to overseeing the application of the provisions of the system and regulation
+
+Article thirty-one
+Without prejudice to what is stated in Article ( Eighteenth ) of the system, the controller maintains records for a period specified by the regulations for personal data processing activities according to the nature of the activity of the controller? To be available when requested by the competent authority. The records shall include a minimum of the following data: 
+
+Contact details for the controller.
+The purpose of processing personal data.
+Description of categories of personal data owners.
+Which party has ( or ) will disclose personal data to it.
+Whether ( or ) will transfer personal data out of the Kingdom or disclose it to a party outside the Kingdom.
+The expected time period for retaining personal data.
+Article thirty-two
+The competent authority shall establish an electronic portal for the purpose of building a national registry for the control authorities, aimed at monitoring and following up the compliance of those agencies with the provisions of the system and regulations, and providing services related to procedures for protecting the personal data of the control authorities? And according to what is determined by the regulations.
+All controllers are obligated to register at the portal referred to in paragraph ( 1 ) of this article, and the competent authority will obtain a fixed annual fee not to exceed ( one hundred thousand ) Real? On the registration of controllers of a special legal capacity in the portal referred to in paragraph ( 1 ) of this article, provided that the regulations specify the amount of the fixed annual fee not to exceed the established maximum? And according to the nature of the activity practiced by these bodies.
+A special record shall be allocated in the portal for each governing body in which the records referred to in Article ( thirty-first ) of the system and other necessary documents or information related to the processing of personal data are recorded.
+Article thirty-three
+The competent authority is competent to approve the practice of commercial, professional or non-profit activities related to the protection of personal data in the Kingdom as determined by the regulations. 
+The entity outside the Kingdom - when dealing with personal data related to individuals residing in the Kingdom by any means - must appoint a representative in the Kingdom who is authorized by the competent authority to carry out its obligations established under the provisions of Order and regulations. This appointment does not prejudice the responsibilities of that authority towards the owner of personal data or the competent authority, as the case may be. The regulations clarify the provisions related to licensing and the limits of the representative's relationship with the entity outside the kingdom he represents.
+The competent authority may authorize entities that issue accreditation certificates to the control and the treatment authority, provided that the competent authority sets the rules governing the issuance of those certificates.
+Article thirty-four
+The owner of personal data may submit to the competent authority any complaint arising from the application of the system and regulations. The regulations specify the controls for the competent authority to address complaints submitted by the owner of personal data arising from the application of the system and regulations.
+
+Article thirty-fifth
+Without prejudice to any more severe punishment stipulated in another system, the penalty for committing the following violations shall be according to what is not before it: 
+a- Whoever discloses sensitive data or publishes it in violation of the provisions of the system: A penalty of imprisonment for a period not exceeding ( two years ) and a fine not exceeding ( three million ) Real, or one of these two penalties? If this is with the intention of harming the data owner or with the intention of achieving a personal benefit. 
+B- Whoever violates the provisions of Article ( Twenty-ninth ) of the system: A penalty of imprisonment for a period not exceeding ( a year ) and a fine not exceeding ( million ) Real, or one of these two penalties. 
+The Public Prosecution is competent to investigate and prosecute before the competent court for the violations stipulated in this article.
+The competent court shall hear cases arising from the application of this article and impose the prescribed penalties.
+The competent court may double the penalty for the fine in the event of recidivism, even if it results in exceeding its maximum, provided that it does not exceed twice that limit. 
+Article thirty-six
+While no special provision was included in Article ( thirty-fifth ) of the system, and without prejudice to any more severe punishment stipulated in another system? A warning or a fine not exceeding ( Five million ) Real, is punishable by any person of a special natural or legal nature - covered by the provisions of the system - who violates any of the provisions of the system or regulations. The penalty of the fine may be doubled in the event of a repeat offense, even if it results in exceeding the maximum limit, provided that it does not exceed twice that limit. 
+It was formed by a decision of the president of the competent authority, a committee ( or more ) the number of its members is not less than ( three ), one of whom is named president, and among them is a legal or regular advisor? It shall consider violations and impose the warning or fine stipulated in paragraph ( 1 ) of this article, according to the type of violation committed, its severity and its impact? The decision of the committee shall be approved by the president of the competent authority or whoever authorizes it to do so. The president of the competent authority shall issue, by a decision thereof, the rules of work of the committee, in which the rewards of its members shall be determined.
+Those against whom a decision has been issued by the committee stipulated in paragraph ( 2 ) of this article are entitled to appeal against it before the competent court.
+Article thirty-seven
+The employees or employees - who are named by a decision of the head of the competent authority - shall control the violations stipulated in the system or regulations. 
+The competent authority has the right to seize the means or tools used in committing the violation until a decision is taken.
+Article thirty-eight
+Without prejudice to the rights of others in good faith, the competent court may order the confiscation of the funds obtained as a result of committing the violations stipulated in the system.
+The competent court or committee stipulated in paragraph ( 2 ) of Article ( thirty-sixth ) - depending on the case - may include the ruling or decision issued by either of them to determine the punishment stipulating the publication of its summary at an expense The convict or the violator in a local newspaper ( or more ) issued at his place of residence, or in any other appropriate means, according to the type of violation committed, its severity and the extent of its impact? Provided that the publication after the judgment has acquired the peremptory character, or the decision is taken to miss the grievance date, or a final ruling to reject the grievance from it.
+Article thirty-ninth
+Without prejudice to what was stated in Article ( Thirty-fifth ) and Paragraph ( 1 ) of Article ( Thirty-sixth ) of the system? The public authority must hold any of its employees accountable - disciplinary - if it violates any of the provisions of the system and regulations; In accordance with the provisions and procedures for accountability and discipline established by order.
+
+Article forty
+Without prejudice to the imposition of the penalties stipulated in the system? Whoever suffers harm - as a result of committing any of the violations stipulated in the system or regulations - has the right to claim before the competent court compensation for material or moral damage in proportion to the extent of the damage.
+
+Article forty-first
+Anyone who has initiated an act of processing personal data is obligated to keep the data related secrets even after the end of his functional or contractual relationship. 
+Article forty-two
+The President of the competent authority shall issue the regulations, within a period not exceeding ( one hundred and eighty ) days from the date of issuance of the system? To coordinate - before its issuance - with the Ministry of Communications and Information Technology, the Ministry of Foreign Affairs, the Communications and Information Technology Authority, the National Cyber Security Authority, the Saudi Health Council and the Saudi Central Bank, each within its own jurisdiction.
+Article forty-three
+The system is in operation after ( one hundred and eighty ) days from the date of its publication in the Official Gazette
+
