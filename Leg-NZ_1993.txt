@@ -1,0 +1,3871 @@
+
+1993, No. 28
+An Act to promote and protect individual privacy in
+general accordance with the Recommendation of the
+Council of the Organisation for Economic Cooperation and Development Concerning Guidelines
+Governing the Protection of Privacy and Transborder
+Flows of Personal Data, and, in particular,(a) To establish certain principles with respect to(i) The collection, use, and disclosure, by
+public and private sector agencies, of
+information relating to individuals; and
+(ii) Access by each individual to information
+relating to that individual and held by public
+and private sector agencies; and
+(b) To provide for the appointment of a Privacy
+Commissioner to investigate complaints about
+interferences with individual privacy; and
+(c) To provide for matters incidental thereto
+[17 May 1993
+
+BE IT ENACTED by the Parliament of New Zealand as follows:
+1. Short Tide and commenceDlent-(I) This Act may be
+cited as the Privacy Act 1993.
+(2) Except as provided by section 31 (2) of this Act, this Act
+shall come into force on the 1st day of July 1993.
+PART I
+PRELIMINARY PROVISIONS
+
+2. Interpretation-(I) In this Act, unless the context
+otherwise requires,
+
+"Action" includes failure to act; and also includes any
+policy or practice:
+"Agency" (a) Means any person or body of persons, whether
+corporate or unincorporate, and whether in the
+public sector or the private sector; and, for the
+avoidance of doubt, includes a Department; but
+(b) Does not include(i) The Sovereign; or
+(ii) The Governor·General or the Administrator
+of the Government; or
+(iii) The House of Representatives; or
+(iv) A member of Parliament in his or her official
+capacity; or
+(v) The Parliamentary Service Commission; or
+(vi) The Parliamentary Service, except in relation
+to personal information about any
+employee or former employee of that
+agency in his or her capacity as such an
+employee; or
+(vii) In relation to its judicial functions, a court; or
+(viii) In relation to its judicial functions, a
+Tribunal; or
+(ix) An Ombudsman; or
+(x) A Royal Commission; or
+(xi) A commission of inquiry appointed by an
+Order in Council made under the
+Commissions of Inquiry Act 1908; or
+(xii) A commission of inquiry or board of inquiry
+or court of inquiry or committee of inquiry
+appointed, pursuant to, and not by, any
+provision of an Act, to inquire into a
+specified matter; or
+(xiii) In relation to its news activities, any news
+medium:
+"Collect" does not include receipt of unsolicited
+information:
+"Commissioner" means the Privacy Commissioner
+appointed under section 12 of this Act:
+"Complaints Review Tribunal" or "Tribunal" means the
+Complaints Review Tribunal established under
+section 45 of the Human Rights Commission Act
+1977:
+"Correct", in relation to personal information, means to
+alter that information by way of correction, deletion,
+or addition; and "correction" has a corresponding
+meaning:
+"Department" means a Government Department named
+in Part I of the First Schedule to the Ombudsmen Act
+1975:
+"Deputy Commissioner" means the Deputy Privacy
+Commissioner appointed under section 15 of this Act:
+"Document" means a document in any form; and
+includes(a) Any writing on any material:
+(b) Any information recorded or stored by means
+of any tape.recorder, computer, or other device; and
+any material subsequently derived from information
+so recorded or stored:
+(c) Any label, marking, or other writing that
+identifies or describes any thing of which it forms
+part, or to which it is attached by any means:
+(d) Any book, map, plan, graph, or drawing:
+(e) Any photograph, film, negative, tape, or other
+device in which one or more visual images are
+embodied so as to be capable (with or without the aid
+of some other equipment) of being reproduced:
+"Enactment" means any provision of(a) Any Act of Parliament; or
+(b) Any regulations within the meaning of the
+Regulations (Disallowance) Act 1989 made by Order
+in Council:
+"Individual" means a natural person, other than a
+deceased natural person:
+"Individual concerned", in relation to personal
+information, means the individual to whom the
+information relates:
+"Information matching programme" has the meaning
+given to it by section 97 of this Act:
+"Information privacy principle" or "principle" means any
+of the information privacy principles set out in section
+6 of this Act:
+"Information privacy request" has the meaning given to it
+by section 33 of this Act:
+"Intelligence organisation" means(a) The New Zealand Security Intelligence Service;
+and
+(b) The Government Communications Security
+Bureau
+
+"International organisation" means any organisation of
+States or Governments of States or any organ or
+agency of any such organisation; and includes the
+Commonwealth Secretariat:
+"Local authority"(a) Means a local authority or public body named
+or specified in the First Schedule to the Local
+Government Official Information and Meetings Act
+1987; and
+(b) Includes(i) Any committee or subcommittee or standing
+committee or special committee or joint
+standing committee or joint special
+committee which the local authority is
+empowered to appoint under its standing
+orders or rules of procedure or under any
+enactment
+or
+Order
+in
+Council
+constituting the local authority or
+regulating its proceedings; and
+(ii) A committee of the whole local authority:
+"Minister" means a Minister of the Crown in his or her
+official car,acity:
+"News activity' means(a) The gathering of news, or the preparation or
+compiling of articles or programmes of or concerning
+news, observations on news, or current affairs, for the
+purposes of dissemination to the public or any section
+of the public:
+(b) The dissemination, to the public or any section
+of the public, of any article or programme of or
+concerning(i) News:
+(ii) Observations on news:
+(iii) Current affairs:
+"News medium" means any agency whose business, or
+part of whose business, consists of a news activity;
+but, in relation to principles 6 and 7, does not include
+Radio New Zealand Limited or Television New
+Zealand Limited:
+"Ombudsman" means an Ombudsman appointed under
+the Ombudsmen Act 1975:
+"Organisation" (a) Means(i) An organisation named in Part 11 of the First
+Schedule to the Ombudsmen Act 1975;
+and
+(ii) An organisation named in the First Schedule
+to the Official Information Act 1982; and
+(b) Includes(i) The Office of the Clerk of the House of
+Representatives:
+(ii) An intelligence organisation:
+"Permanent resident of New Zealand" means a person
+who(a) Resides in New Zealand; and
+(b) Is not(i) A person to whom section 7 of the
+Immigration Act 1987 applies; or
+(ii) A person obliged, by or pursuant to that Act,
+to leave New Zealand immediately or
+within a specified time; or
+(iii) Deemed for the purposes of that Act to be in
+New Zealand unlawfully:
+"Personal information" means information about an
+identifiable individual; and includes information
+contained in any register of deaths kept under the
+Births and Deaths Registration Act 1951:
+"Proceedings Commissioner" means the Proceedings
+Commissioner appointed under section 7 (2A) of the
+Human Rights Commission Act 1977:
+"Public register" has the meaning given to it in section 58
+of this Act:
+"Public register privacy principle" has the meaning given
+to it in section 58 of this Act:
+"Public sector agency"(a) Means an agency that is a Minister, a
+~aartment, an organisation, or a local authority;
+(b) Includes any agency that is an unincorporated
+body (being a board, council, committee, or other
+body)(i) Which is established for the purpose of
+assisting or advising, or performing
+functions connected with, any public
+sector agency within the meaning of
+paragraph (a) of this definition; and
+(ii) Which is so established in accordance with
+the provisions of any enactment or by any
+such public sector agency:
+"Publicly available information"
+means personal
+information that is contained in a publicly available
+publication:
+"Publicly available publication" means a magazine, book,
+newspaper, or other publication that is or will be
+generally available to members of the public; and
+includes a public register:
+"Responsible Minister" means the Minister of Justice:
+"Statutory officer" means a person(a) Holding or performing the duties of an office
+established by an enactment; or
+(b) Performing duties expressly conferred on that
+person by virtue of that person's office by an
+enactment:
+"Unique identifier" means an identifier(a) That is assigned to an individual by an agency
+for the purposes of the operations of the agency; and
+(b) That uniquely identifies that individual in
+relation to that agency;but, for the avoidance of doubt, does not include an
+individual's name used to identify that individual:
+"Working day" means any day of the week other than(a) Saturday, Sunday, Good Friday, Easter Monday,
+Anzac Day, Labour Day, the Sovereign's birthday,
+and Waitangi Day; and
+(b) A day in the period commencing with the 25th
+day of December in any year and ending with the
+15th day of January in the following year.
+(2) For the avoidance of doubt, it is hereby declared that the
+fact that any body (being a commission of inquiry or board of
+inquiry or court of inquiry or committee of inquiry appointed,
+by any provision of an Act, to inquire into a specified matter) is
+not excluded from the definition of the term "agency" in
+subsection (1) of this section by virtue of subparagraph (xii) of
+paragraph (b) of that definition does not mean that such a body
+is not excluded from that definition by virtue of subparagraph
+(vii) or subparagraph (viii) of that paragraph.
+er. 1982, No. 156, s. 2; 1983, No. 83, s. 2; 1985, No. 128, s.
+71 (3); 1987, No. 8, s. 2; 1987, No. 174, s. 2
+
+S. Information held by agency-(I) Subject to subsection
+(2) of this section, information that is held by an officer or
+employee or member of an agency in that person's capacity as
+such an officer or employee or member or in that person's
+capacity as a statutory officer shall be deemed, for the purposes
+of this Act, to be held by the agency of which that person is an
+officer or employee or member.
+
+(2) Nothing in subsection (1) of this section applies in respect
+of any information that any officer or employee or member of
+a public sector agency would not hold but for that person's
+membership of, or connection with, a body other than a public
+sector agency, except where that membership or connection is
+in that person's capacity as an officer or an employee or a
+member of that public sector agency or as a statutory officer.
+(3) Nothing in subsection (1) of this section applies in respect
+of any information that any officer or employee or member of
+any agency (not being a public sector agency) would not hold
+but for that person's membership of, or connection with, any
+other agency, except where that membership or connection is
+in that person's capacity as an officer or an employee or a
+member of that first-mentioned agency.
+(4) For the purposes of this Act, where an agency holds
+information(a) Solely as agent; or
+(b) For the sole purpose of safe custody; or
+(c) For the sole purpose of processing the information on
+behalf of another agency,and does not use or disclose the information for its own
+purposes, the information shall be deemed to be held by the
+agency on whose behalf that information is so held or, as the
+case may be, is so processed.
+Cf. 1982, No. 156, s. 2 (2)-(4)
+4. Actions of, and disclosure of infonnation to, staff of
+agency, etc.-For the purposes of this Act, an action done by,
+or information disclosed to, a person employed by, or in the
+service of, an agency in the performance of the duties of the
+person's employment shall be treated as having been done by,
+or disclosed to, the agency.
+Cf. Privacy Act 1988 (Aust.), s. 8 (1)
+5. Act to bind the Crown-This Act binds the Crown.
+PART 11
+INFORMATION PRIvACY PRINCIPLES
+
+6. Infonnation privacy principles-The information
+privacy principles are as follows:
+
+INFORMATION PRIVACY PRINCIPLES
+PRINCIPLE 1
+
+Purpose of collection of personal information
+Personal information shall not be collected by any agency
+unless(a) The information is collected for a lawful purpose
+connected with a function or activity of the agency;
+and
+(b) The collection of the information is necessary for that
+purpose.
+PRINCIPLE 2
+Source of personal information
+(1) Where an agency collects personal information, the
+agency shall collect the information directly from the individual
+concerned.
+(2) It is not necessary for an agency to comply with subclause
+(1) of this principle if the agency believes, on reasonable
+grounds,(a) That the information is publicly available information; or
+(b) That the individual concerned authorises collection of the
+information from someone else; or
+(c) That non· compliance would not prejudice the interests of
+the individual concerned; or
+(d) That non· compliance is necessary(i) To avoid prejudice to the maintenance of the
+law by any public sector agency, including the
+prevention, detection, investigation, prosecution, and
+punishment of offences; or
+(ii) For the enforcement of a law imposing a
+pecuniary penalty; or
+(iii) For the protection of the public revenue; or
+(iv) For the conduct of proceedings before any
+court or Tribunal (being proceedings that have been
+commenced or are reasonably in contemplation); or
+(e) That compliance would prejudice the purposes of the
+collection; or
+(f) That compliance is not reasonably practicable in the
+circumstances of the particular case; or
+(g) That the information(i) Will not be used in a form in which the
+indIvidual concerned is identified; or
+(ii) Will be used for statistical or research purposes
+and will not be published in a form that could
+reasonably be expected to identify the individual
+concerned; or
+(h) That the collection of the infonnation is in accordance
+with an authority granted under section 54 of this
+Act.
+PRINCIPLE 3
+Collection of information .from subject
+(1) Where an agency collects personal infonnation directly
+from the individual concerned, the agency shall take such steps
+(if any) as are, in the circumstances, reasonable to ensure that
+the individual concerned is aware of(a) The fact that the infonnation is being collected; and
+(b) The purpose for which the infonnation is being collected;
+and
+(c) The intended recipients of the information; and
+(d) The name and address of(i) The agency that is collecting the infonnation;
+and
+(ii) The agency that will hold the information; and
+(e) If the collection of the infonnation is authorised or
+required by or under law,(i) The particular law by or under which the
+collection of the information is so authorised or
+required; and
+(ii) Whether or not the supply of the information by
+that individual is voluntary or mandatory; and
+(f) The consequences (if any) for that individual if all or any
+part of the requested infonnation is not provided;
+and
+(g) The rights of access to, and correction of, personal
+infonnation provided by these principles.
+(2) The steps referred to in subclause (1) of this principle shall
+be taken before the infonnation is collected or, if that is not
+practicable, as soon as practicable after the information is
+collected.
+(3) An agency is not required to take the steps referred to in
+subclause (1) of this principle in relation to the collection of
+information from an individual if that agency has taken those
+steps in relation to the collection, from that individual, of the
+same information or infonnation of the same kind, on a recent
+previous occasion.
+(4) It is not necessary for an agency to comply with subclause
+(1) of this principle if the agency believes, on reasonable
+grounds,-
+
+(a) That non-compliance is authorised by the individual
+concerned; or
+(b) That non· compliance would not prejudice the interests of
+the individual concerned; or
+(c) That non-compliance is necessary(i) To avoid prejudice to the maintenance of the
+law by any public sector agency, including the
+prevention, detection, investigation, prosecution, and
+punishment of offences; or
+(ii) For the enforcement of a law imposing a
+pecuniary penalty; or
+(iii) For the protection of the public revenue; or
+(iv) For the conduct of proceedings before any
+court or Tribunal (being proceedings that have been
+commenced or are reasonably in contemplation); or
+(d) That compliance would prejudice the purposes of the
+collection; or
+(e) That compliance is not reasonably practicable in the
+circumstances of the particular case; or
+(f) That the information(i) Will not be used in a form m which the
+individual concerned is identified; or
+(ii) Will be used for statistical or research purposes
+and will not be published in a form that could
+reasonably be expected to identify the individual
+concerned.
+PRINCIPLE 4
+Manner of collection of personal information
+
+Personal information shall not be collected by an agency(a) By unlawful means; or
+(b) By means that, in the circumstances of the case,(i) Are unfair; or
+(ii) Intrude to an unreasonable extent upon the
+personal affairs of the individual concerned.
+PRINCIPLE 5
+Storage and security of personal information
+An agency that holds personal information shall ensure-
+
+(a) That the information is protected, by such security
+safeguards as it is reasonable in the circumstances to
+take, against(i) Loss; and
+(ii) Access, use, modification, or disclosure, except
+with the authority of the agency that holds die
+information; and
+(iii) Other misuse; and
+(b) That if it is necessary for the infonnation to be given to a
+person in connection with the provision of a service to
+the agency, everything reasonably within the power
+of the agency is done to prevent unauthorised use or
+unauthorised disclosure of the infonnation.
+PRINCIPLE 6
+
+Access to personal information
+(1) Where an agency holds personal information in such a
+way that it can readily be retrieved, the individual concerned
+shall be entitled(a) To obtain from the agency confinnation of whether or
+not the agency holds such personal infonnation; and
+(b) To have access to that infonnation.
+(2) Where, in accordance with subclause (1) (b) of this
+principle, an individual is given access to personal in(onnation,
+the individual shall be advised that, under principle 7, the
+individual may request the correction of that infonnation.
+(3) The arplication of this principle is subject to the
+provisions 0 Parts IV and V of this Act.
+PRINCIPLE 7
+Correction of personal information
+(1) Where an agency holds personal infonnation, the
+individual concerned shall be entitfed(a) To request correction of the infonnation; and
+(b) To request that there be attached to the infonnation a
+statement of the correction sought but not made.
+(2) An agency that holds personal infonnation shall, if so
+requested by the individual concerned or on its own initiative,
+take such steps (if any) to correct that information as are, in the
+circumstances, reasonable to ensure that, having regard to the
+purposes for which the infonnation may lawfully be used, the
+information is accurate, up to date, complete, and not
+misleading.
+(3) Where an agency that holds personal infonnation is not
+willing to correct that information in accordance with a request
+by the individual concerned, the agency shall, if so requested
+by the individual concerned, take such steps (if any) as are
+reasonable in the circumstances to attach to the information, in
+such a manner that it will always be read with the information,
+any statement provided by that individual of the correction
+sought.
+(4) Where the agency has taken steps under subclause (2) or
+subclause (3) of this principle, the agency shall, if reasonably
+practicable, inform each person or body or agency to whom the
+personal information has been disclosed of those steps.
+(5) Where an agency receives a request made pursuant to
+subclause (1) of this principle, the agency shall inform the
+individual concerned of the action taken as a result of the
+request.
+PRINCIPLE 8
+
+Accuracy, etc., if personal information to be checked before use
+An agency that holds personal information shall not use that
+information without taking such steps (if any) as are, in the
+circumstances, reasonable to ensure that, having regard to the
+purpose for which the information is proposed to be used, the
+information is accurate, up to date, complete, relevant, and not
+misleading.
+PRINCIPLE 9
+Agency not to keep personal information for longer than necessary
+An agency that holds personal information shall not keep
+that information for longer than is required for the purposes
+for which the information may lawfully be used.
+PRINCIPLE 10
+
+Limits on use if personal information
+An agency that holds personal information that was obtained
+in connection with one purpose shall not use the information
+for any other purpose unless the agency believes, on reasonable
+grounds,(a) That the source of the information is a publicly available
+publication; or
+(b) That the use of the information for that other purpose is
+authorised by the individual concerned; or
+(c) That non.compliance is necessary(i) To avoid prejudice to the maintenance of the
+law by any public sector agency, including the
+prevention, detection, investigation, prosecution, and
+punishment of offences; or
+(ii) For the enforcement of a law imposing a
+pecuniary penalty; or
+(iii) For the protection of the public revenue; or
+(iv) For the conduct of proceedings before any
+court or Tribunal (being proceedings that have been
+commenced or are reasonably in contemplation); or
+(d) That the use of the information for that other purpose is
+necessary to prevent or lessen a serious and imminent
+threat to(i) Public health or public safety; or
+(ii) The life or health of the individual concerned or
+another individual; or
+(e) That the purpose for which the information is used is
+directly related to the purpose in connection with
+which the information was obtained; or
+(f) That the information(i) Is used in a form in which the individual
+concerned is not identified; or
+(ii) Is used for statistical or research purposes and
+will not be published in a form that could reasonably
+be expected to identify the individual concerned; or
+(g) That the use of the information is in accordance with an
+authority granted under section 54 of this Act.
+PRINCIPLE 11
+
+Limits on disclosure cif personal information
+
+An agency that holds personal information shall not disclose
+the information to a person or body or agency unless the
+agency believes, on reasonable grounds,(a) That the disclosure of the information is one of the
+purposes in connection with which the information
+was obtained or is directly related to the purposes in
+connection with which the information was obtained;
+or
+(b) That the source of the information is a publicly available
+publication; or
+(c) That the disclosure is to the individual concerned; or
+(d) That the disclosure is authorised by the individual
+concerned; or
+(e) That non· compliance is necessary(i) To avoid prejudice to the maintenance of the
+law by any public sector agency, including the
+prevention, detection, investigation, prosecution, and
+punishment of offences; or
+(ii) For the enforcement of a law imposing a
+pecuniary penalty; or
+(iii) For the protection of the public revenue; or
+(iv) For the conduct of proceedings before any
+court or Tribunal (being proceedings that have been
+commenced or are reasonably in contemplation); or
+(f) That the disclosure of the information is necessary to
+prevent or lessen a serious and imminent threat to(i) Public health or public safety; or
+(ii) The life or health of the individual concerned or
+another individual; or
+(g) That the disclosure of the infonnation is necessary to
+facilitate the sale or other disposition of a business as
+a going concern; or
+(h) That the infonnation(i) Is to be used in a fonn in which the individual
+concerned is not identified; or
+(ii) Is to be used for statistical or research purposes
+and will not be published in a fonn that could
+reasonably be expected to identify the individual
+concerned; or
+(i) That the disclosure of the infonnation is in accordance
+with an authority granted under section 54 of this
+Act.
+PRINCIPLE 12
+Unique identifiers
+
+(1) An agency shall not assign a unique identifier to an
+individual unless the assignment of that identifier is necessary
+to enable the agency to carry out anyone or more of its
+functions efficiently.
+(2) An agency shall not assign to an individual a unique
+identifier that, to that agency's knowledge, has been assigned
+to that individual by another agency, unless those 2 agencies
+are associated persons within the meaning of section 8 of the
+Income Tax Act 1976.
+(3) An agency that assigns unique identifiers to individuals
+shall take all reasonable steps to ensure that unique identifiers
+are assigned only to individuals whose identity is clearly
+established.
+(4) An agency shall not require an individual to disclose any
+unique identifier assigned to that individual unless the
+disclosure is for one of the purposes in connection with which
+that unique identifier was assigned or for a purpose that is
+directly related to one of those purposes.
+7. Savings-( 1) Nothing in principle 6 or principle 11
+derogates from any provision that is contained in any
+enactment and that authorises or requires personal infonnation
+to be made available.
+(2) Nothing in principle 6 or principle 11 derogates from any
+provision that is contained in any other Act of Parliament and
+that(a) Imposes a prohibition or restriction in relation to the
+availability of personal infonnation; or
+(b) Regulates the manner in which personal information may
+be obtained or made available.
+(3) Nothing in principle 6 or principle 11 derogates from any
+provision(a) That is contained in any regulations within the meaning of
+the Regulations (DisaD.owance) Act 1989 made by
+Order in Council and in force(i) In so far as those principles apply to a
+Department, a Minister, an organisation, or a public
+sector agency (as defined in paragrarh (b) of the
+definition of that term in section 2 (1) 0 this Act) that
+is established for the purposes of assisting or advising,
+or performing functions connected with, a
+Department, a Minister, or an organisation,
+immediately before the 1st day of July 1983; and
+(ii) In so far as those principles apply to a local
+authority or a public sector agency (as so defined)
+that is established for the purposes of assisting or
+advising, or performing functions connected with, a
+local authority, immediately before the 1st day of
+March 1988; and
+(iii) In so far as those principles apply to any other
+agency, immediately before the 1st day of July 1993;
+and
+(b) That(i) Imposes a prohibition or restriction in relation to
+the availability of personal information; or
+(ii) Regulates the manner in which personal
+information may be obtained or made available.
+(4) An action is not a breach of any of principles 1 to 5, 7 to
+10, and 12 if that action is authorised or required by or under
+law.
+(5) Nothing in principle 7 applies in respect of any
+information held by the Department of Statistics, where that
+information was obtained pursuant to the Statistics Act 1975.
+(6) Subject to the provisions of Part VII of this Act, nothing in
+any of the information privacy principles shall apply in respect
+of a public register.
+
+8. Application of infonnation privacy principles(1) Subject to subsection (4) of this section, principles 1 to 4
+apply only in relation to information collected after the
+commencement of this section.
+(2) Subject to section 9 of this Act, principles 5 to 9 and
+principle 11 apply in relation to information held by an agency,
+whether the infonnation was obtained before, or is obtained
+after, the commencement of this section.
+(3) Principle 10 applies only in relation to infonnation
+obtained after the commencement of this section.
+(4) Nothing in principle 3 shall apply in relation to the
+collection, by means of any printed fonn, of any personal
+infonnation, if the fonn was printed before the
+commencement of this section and is used, before the 1st day
+ofJuly 1995, for the purpose of collecting personal infonnation.
+(5) Subclauses (1) to (3) of principle 12 apply only in relation
+to the assignment of unique identifiers after the
+commencement of this section.
+(6) Subclause (4) of principle 12 applies to any unique
+identifier, whether assigned before or after the commencement
+of this section.
+9. Postponement of application of principle 11 to lists
+used for direct marketing-( 1) Nothing in principle 11 shall
+apply, before the 1st day of July 1996, in relation to the
+disclosure, by any agency, of personal infonnation collected
+before the 1st day of July 1993 for direct marketing purposes,
+where that disclosure is made to another agency for the
+purpose of enabling that other agency to engage in direct
+marketing.
+(2) For the purposes of subsection (1) of this section, "direct
+marketing" means(a) The offering of goods or services; or
+(b) The advertising of the availability of goods or services; or
+(c) The solicitation of donations or contributions for
+charitable, cultural, philanthropic, recreational,
+political, or other purposes,by means of(d) Infonnation or goods sent to any person by mail,
+facsimile transmission, electronic mail, or other
+similar means of communication, where the
+infonnation or goods are addressed to a specific
+person or specific persons by name; or
+(e) Telephone calls made to specific persons by name.
+10. Application of principles to information held
+overseas-(I) For the purposes of principle 5 and principles 8
+to 11, infonnation held by an agency includes information that
+is held outside New Zealand by that agency, where that
+infonnation has been transferred out of New Zealand by that
+agency or any other agency.
+(2) For the purposes of principles 6 and 7, information held
+by an agency includes information held outside New zealand
+by that agency.
+(3) Nothing in this section shall apply to render an agency in
+breach of any of the information privacy principles in respect
+of any action that the agency is required to take by or under
+the law of any place outside New Zealand.
+11. Enforceability of principles-( 1) The entitlements
+conferred on an individual by subclause (1) of principle 6, in so
+far as that subclause relates to personal information held by a
+public sector agency, are legal rights, and are enforceable
+accordingly in a court of law.
+(2) Subject to subsection (1) of this section, the information
+privacy principles do not confer on any person any legal right
+that is enforceable in a court of law.
+PART III
+PRIVACY COMMISSIONER
+
+12. Privacy Commissioner-( 1) There shall be a
+Commissioner called the Privacy Commissioner.
+(2) The Commissioner shall be appointed by the Governor·
+General on the recommendation of the responsible Minister.
+(3) The Commissioner shall be a corporation sole with
+perpetual succession and a seal of office, and shall have and
+may exercise all the rights, powers, and privileges, and may
+incur all the liabilities and obligations, of a natural person of full
+age and capacity.
+(4) The Commissioner shall be a Crown entity for the
+purposes of the Public Finance Act 1989.
+Cf. 1991, No. 126, s.4
+18. Functions of Commissioner-( 1) The functions of the
+Commissioner shall be(a) To promote, by education and publicity, an
+understanding and acceptance of the information
+privacy principles and of the objects of those
+principles:
+(b) When requested to do so by an agency, to conduct an
+audit of personal information maintained by that
+agency for the purpose of ascertaining whether or not
+the information is maintained according to the
+information privacy principles:
+(c) To monitor the use of unique identifiers, and to report to
+the Prime Minister from time to time on the results of
+that monitoring, including any recommendation
+relating to the need for, or desirability of taking,
+legislative, administrative, or other action to give
+protection, or better protection, to the privacy of the
+individual:
+(d) To maintain, and to publish, in accordance with section
+21 of this Act, directories of personal information:
+(e) To monitor compliance with the public register privacy
+principles, to review those principles from time to
+time with particular regard to the Council of Europe
+Recommendations on Communication to Third
+Parties of Personal Data Held by Public Bodies
+(Recommendation R (91) 10), and to report to the
+responsible Minister from time to time on the need
+for or desirability of amending those principles:
+(f) To examine any proposed legislation that makes provision
+for(i) The collection of personal information by any
+public sector agency; or
+(ii) The disclosure of personal information by one
+public sector agency to any other public sector
+agency,or both; to have particular regard, in the course of
+that examination, to the matters set out in section 98
+of this Act, in any case where the Commissioner
+considers that the information might be used for the
+purposes of an information matching programme;
+and to report to the responsible Minister the results of
+that examination:
+(g) For the purpose of promoting the protection of individual
+privacy, to undertake educational programmes on the
+Commissioner's own behalf or in co-operation with
+other persons or authorities acting on behalf of the
+Commissioner:
+(h) To make public statements in relation to any matter
+affectin~ the privacy of the individual or of any class
+of indiVIduals:
+(i) To receive and invite representations from members of
+the public on any matter affecting the privacy of the
+individual:
+To consult and co-operate with other persons and bodies
+concerned with the privacy of the individual:
+(k) To make suggestions to any person in relation to any
+matter that concerns the need for, or the desirability
+of, action by that person in the interests of the
+privacy of the individual:
+(1) To provide advice (with or without a request) to a Minister
+or an agency on any matter relevant to the operation
+of this Act:
+(m) To inquire generally into any matter, including any
+enactment or law, or any practice, or procedure,
+whether governmental or non-governmental, or any
+technical development, if it appears to the
+Commissioner that the privacy of the individual is
+being, or may be, infringed thereby:
+(n) To undertake research into, and to monitor developments
+in, data processing and computer technology to
+ensure that any adverse effects of such developments
+on the privacy of individuals are minimised, and to
+report to the responsible Minister the results of such
+research and monitoring:
+(0) To examine any proposed legislation (including
+subordinate legislation) or proposed policy of the
+Government that the Commissioner considers may
+affect the privacy of individuals, and to report to the
+responsible Minister the results of that examination:
+(p) To report (with or without request) to the Prime Minister
+from time to time on any matter affecting the privacy
+of the individual, including the need for, or
+desirability of, taking legislative, administrative, or
+other action to give protection or better protection to
+the privacy of the individual:
+(q) To report to the Prime Minister from time to time on the
+desirability of the acceptance, by New Zealand, of
+any international instrument relating to the privacy of
+the individual:
+(r) To report to the Prime Minister on any other matter
+relating to privacy that, in the Commissioner's
+opinion, should be drawn to the Prime Minister's
+attention:
+(s) To gather such information as in the Commissioner's
+opinion will assist the Commissioner in carrying out
+the Commissioner's functions under this Act:
+(t) To do anything incidental or conducive to the
+performance of any of the preceding functions:
+(u) To exercise and perform such other functions, powers,
+and duties as are conferred or imposed on the
+Commissioner by or under this Act or any other
+enactment.
+(2) The Commissioner may from time to time, in the public
+interest or in the interests of any person or body of persons,
+publish reports relating generally to the exercise of the
+Commissioner's functions under this Act or to any case or cases
+investigated by the Commissioner, whether or not the matters
+to be dealt with in any such report have been the subject of a
+report to the responsible Minister or the Prime Minister.
+Cf. 1991, No. 126, s. 5
+
+14. Commissioner to have regard to certain mattersIn the performance of his or her functions, and the exercise of
+his or her powers, under this Act, the Commissioner shall(a) Have due regard for the protection of important human
+rights and social interests that compete with privacy,
+including the general desirability of a free flow of
+information and the recognition of the right of
+government and business to achieve their objectives
+in an efficient way; and
+(b) Take account of international obligations accepted by
+New Zealand, including those concerning the
+international technology of communications; and
+(c) Consider any developing general international guidelines
+relevant to the better protection of individual privacy;
+and
+(d) Have due regard to the information privacy principles
+and the public register privacy principles.
+Cf. 1991, No. 126, s. 7; Privacy Act 1988 (Aust), s. 29
+15. Deputy Commissioner-(I) There may from time to
+time be appointed a deputy to the person appointed as the
+Commissioner.
+(2) The Deputy Commissioner shall be appointed in the same
+manner as the Commissioner, and sections 16 to 19 of this Act
+shall apply to the Deputy Commissioner in the same manner as
+they apply to the Commissioner.
+(3) Subject to the control of the Commissioner, the Deputy
+Commissioner shall have and may exercise all the powers,
+duties, and functions of the Commissioner under this Act or
+any other enactment (other than the function of being a
+member of the Human Rights Commission).
+(4) On the occurrence from any cause of a vacancr in the
+office of the Commissioner (whether by reason 0 death,
+resignation, or otherwise), and in the case of the absence from
+duty of the Commissioner (from whatever cause arising), and so
+long as any such vacancy or absence continues, the Deputy
+Commissioner shall have and may exercise all the powers,
+duties, and functions of the Commissioner.
+(5) The fact that the Deputy Commissioner exercises any
+power, duty, or function of the Commissioner shall be
+conclusive evidence of the Deputy Commissioner's authority to
+do so.
+(6) Subject to this Act, the Deputy Commissioner shall be
+entitled to all the protections, privileges, and immunities of the
+Commissioner.
+16. Term of office-(I) Except as otherwise provided in
+section 18 of this Act, the Commissioner shall hold office for
+such term not exceeding 5 years as the Governor-General on
+the recommendation of the responsible Minister shall specify in
+the instrument appointing the Commissioner.
+(2) The Commissioner shall be eligible for reappointment
+from time to time.
+Cf. 1991, No. 126, s. 9 (1)-(2)
+17. Continuation in office after tenn expires-Where
+the term for which a person who has been appointed as
+Commissioner expires, tnat person, unless sooner vacating or
+removed from office under section 18 of this Act, shall continue
+to hold office, by virtue of the appointment for the term that
+has expired, until(a) That person is reappointed; or
+(b) A successor to that person is appointed; or
+(c) That person is informed in writing by the responsible
+Minister that that person is not to be reappointed and
+is not to hold office until a successor is appointed.
+Cf. 1991, No. 126, s. 9 (3)
+18. Vacation of office-(I) The Commissioner may at any
+time be removed from office by the Governor-General for
+inability to perform the duties of the office, bankruptcy, neglect
+of duty, or misconduct, proved to the satisfaction of the
+Governor-General.
+(2) The Commissioner may at any time resign his or her
+office by notice in writing addressed to the responsible
+Minister.
+(3) Subsection (1) of this section does not apply where the
+Commissioner is a Judge; but nothing in this subsection shall
+limit the application of that subsection where the
+Commissioner ceases to be a Judge during that person's tenn of
+office as the Commissioner.
+Cf. 1991, No. 126, s. 11
+19. Holding of other offices-( 1) The Commissioner shall
+not be capable of being a member of Parliament or of a local
+authority, and shall not, without the approval of the responsible
+Minister in each particular case, hold any office of trust or
+profit or engage in any occupation for reward outside the
+duties of the Commissioner's office.
+(2) The appointment of a Judge as the Commissioner, or
+service by a Judge as the Commissioner, does not affect that
+person's tenure of his or her judicial office or his or her rank,
+tide, status, precedence, salary, annual or other allowances, or
+other rights or privileges as a Judge (including those in relation
+to superannuation), and, for all purposes, that person's service
+as the Commissioner shall be taken to be service as a Judge.
+Cr. 1991, No. 126, ss. 8, 10
+20. Powers relating to declaratory judgments-( 1) If at
+any time it appears to the Commissioner that it may be
+desirable to obtain a declaratory judgment or order of the High
+Court in accordance with the Declaratory Judgments Act 1908,
+he or she may refer the matter to the Proceedings
+Commissioner for the purpose of deciding whether proceedings
+under that Act should be instituted.
+(2) In respect of any matter referred to the Proceedings
+Commissioner under subsection (1) of this section, the
+Proceedings Commissioner shall, notwithstanding anything to
+the contrary in the Declaratory Judgments Act 1908 or any
+other enactment or rule of law, have sufficient standing to
+institute proceedings under that Act whether or not the matter
+is one within his or her own functions and powers under this
+Act or under the Human Rights Commission Act 1977.
+Cr. 1977, No. 49, s. 5A; 1983, No. 56, s. 3
+21. Directories
+of personal information-( 1) The
+Commissioner may from time to time, as the Commissioner
+thinks fit, cause to be published one or more publications that
+include all or any of the following infonnation:
+(a) The nature of any personal infonnation held by any
+agency:
+(b) The purpose for which any personal infonnation is held
+by any agency:
+(c) The classes of individuals about whom personal
+infonnation is held by any agency:
+(d) The period for which any type of personal information is
+held by any agency:
+(e) The individuals who are entitled to have access to any
+personal information held by any agency, and the
+conditions under which they are entitled to have that
+access:
+(f) The steps that should be taken by any individual wishing
+to obtain access to any personal information held by
+any agency.
+(2) The Commissioner may from time to time bring the
+material contained in any publication published pursuant to
+subsection (1) of this section up to date, either by causing to be
+published a new edition of that publication or by causing to be
+published supplementary material.
+(3) In detennining whether or not any publication should be
+published pursuant to this section, the Commissioner shall have
+regard, among other things, to the need to assist members of
+the public to obtain personal information and to effectively
+exercise their rights under this Act.
+(4) Nothing in this section requires the publication of any
+information for which good reason for withholding would exist
+under section 27 or section 28 of this Act.
+22. Commissioner may require agency to supply
+information-For the purpose of(a) The publication of any directory or any supplementary
+material pursuant to section 21 of this Act; or
+(b) Enabling the Commissioner to respond to enquiries from
+the public seeking information of the kind referred to
+in any of paragraphs (a) to (f) of section 21 (1) of this
+Act,the Commissioner may, from time to time, require any agency
+to supply to the Commissioner such information as the
+Commissioner may reasonably require in relation to the
+personal information held by that agency, and the agency shall
+comply with that requirement.
+28. Privacy officers-It shall be the responsibility of each
+agency to ensure that there are, within that agency, one or
+more individuals whose responsibilities include(a) The encouragement of compliance, by the agency, with
+the information privacy principles:
+(b) Dealing with requests made to the agency pursuant to this
+Act:
+(c) Working with the Commissioner in relation to
+investigations conducted pursuant to Part VIII of this
+Act in relation to the agency:
+(d) Otherwise ensuring compliance by the agency with the
+provisions of this Act.
+24. Annual report-(I) Without limiting the right of the
+Commissioner to report at any other time, but subject to
+section 120 of this Act, the Commissioner shall in each year
+furnish to the responsible Minister a report with respect to the
+operation of this Act during the year to which the report
+relates.
+(2) The responsible Minister shall lay a copy of the report
+before the House of Representatives in accordance with section
+44A of the Public Finance Act 1989.
+Cr. 1991, No. 126, s. 12
+25. Further provisions relating to Commissioner-The
+provisions of the First Schedule to this Act shall have effect in
+relation to the Commissioner and the Commissioner's affairs.
+26. Review of operation of Act-( 1) As soon as practicable
+after the expiry of the period of 3 years beginning on the
+commencement of this section, and then at intervals of not
+more than 5 years, the Commissioner shall(a) Review the operation of this Act since(i) The date of the commencement of this section
+(in the case of the first review carried out under this
+paragraph); or
+
+(ii) The date of the last review carried out under
+this paragraph (in the case of every subsequent
+review); and
+(b) Consider whether any amendments to this Act are
+necessary or desirable; and
+(c) Report the Commissioner's findings to the responsible
+Minister.
+(2) As soon as practicable after receiving a report from the
+Commissioner under subsection (1) (c) of this section, the
+responsible Minister shall lay a copy of that report before the
+House of Representatives.
+
+PART IV
+GoOD REASONS FOR REFUSING ACCESS TO PERSONAL
+INFORMATION
+
+27. Security, defence, international relations, etc.(1) An agency may refuse to disclose any information requested
+pursuant to principle 6 if the disclosure of the information
+would be likely(a) To prejudice the security or defence of New Zealand or
+the international relations of the Government of New
+Zealand; or
+(b) To prejudice the entrusting of information to the
+Government of New Zealand on a basis of confidence
+by(i) The government of any other country or any
+agency of such a government; or
+(ii) Any international organisation; or
+(c) To prejudice the maintenance of the law, including the
+prevention, investigation, and detection of offences,
+and the right to a fair trial; or
+(d) To endanger the safety of any individual.
+(2) An agency may refuse to disclose any information
+requested pursuant to principle 6 if the disclosure of the
+information would be likely(a) To prejudice the security or defence of(i) The self· governing state of the Cook Islands; or
+(ii) The self· governing state of Niue; or
+(iii) Tokelau; or
+(iv) The Ross Dependency; or
+(b) To prejudice relations between any of the Governments
+of(i) New Zealand:
+(ii) The self.governing state of the Cook Islands:
+(iii) The self· governing state of Niue; or
+(c) To prejudice the international relations of the
+Governments of(i) The self-governing state of the Cook Islands; or
+(ii) The self.governing state of Niue.
+Cf. 1982, No. 156, s. 27 (1) (a); 1987, No. 8, s. 4 (2); 1987,
+No. 174, s. 26 (1) (a)
+28. Trade secrets-( 1) Subject to subsection (2) of this
+section, an agency may refuse to disclose any information
+requested pursuant to principle 6 if the withholding of the
+infonnation is necessary to protect infonnation where the
+making available of the infonnation(a) Would disclose a trade secret; or
+(b) Would be likely unreasonably to prejudice the
+commercial position of the person who supplied or
+who is the subject of the infonnation.
+(2) Infonnation may not be withheld under subsection (1) of
+this section if, in the circumstances of the particular case, the
+withholding of that infonnation is outweighed by other
+considerations which render it desirable, in the public interest,
+to make the infonnation available.
+C£ 1982, No. 156, s. 27 (1) (a); 1987, No. 8, s. 4 (2); 1987,
+No. 174, s. 26 (1) (a)
+29. Other reasons for refusal of requests-( 1) An agency
+may refuse to disclose any infonnation requested pursuant to
+principle 6 if(a) The disclosure of the infonnation would involve the
+unwarranted disclosure of the affairs of another
+individual or of a deceased individual; or
+(b) The disclosure of the infonnation or of infonnation
+identifying the person who supplied it, being
+evaluative material, would breach an express or
+implied promise(i) Which was made to the person who supplied the
+infonnation; and
+(ii) Which was to the effect that the infonnation or
+the identity of the person who supplied it or both
+would be held in confidence; or
+(c) After consultation undertaken (where practicable) by or
+on behalf of the agency with an individual's medical
+practitioner, the agency is satisfied that(i) The infonnation relates to that individual; and
+(ii) The disclosure of the infonnation (being
+intonnation that relates to the physical or mental
+health of the individual who requested it) would be
+likely to prejudice the physical or mental health of
+that individual; or
+(d) In the case of an individual under the age of 16, the
+disclosure of that infonnation would be contrary to
+that individual's interests; or
+(e) The disclosure of that infonnation (being infonnation in
+respect of an individual who has been convicted of an
+offence or is or has been detained in custody) would
+be likely to prejudice the safe custody or the
+rehabilitation of that individual; or
+(f) The disclosure of the information would breach legal
+professional privilege; or
+(g) In the case of a request made to Radio New Zealand
+Limited or Television New Zealand Limited, the
+disclosure of the information would be likely to reveal
+the source of information of a bona fide news media
+journalist and either(i) The information is subject to an obligation of
+confidence; or
+(ii) The disclosure of the information would be
+likely to prejudice the supply of similar information,
+or information from the same source; or
+(h) The disclosure of the information, being information
+contained in material placed in any library or
+museum or archive, would breach a condition subject
+to which that material was so placed; or
+(i) The disclosure of the information would constitute
+contempt of Court or of the House of
+Representatives; or
+(j) The request is frivolous or vexatious, or the information
+requested is trivial.
+(2) An agency may refuse a request made pursuant to
+principle 6 if(a) The information requested is not readily retrievable; or
+(b) The information requested does not exist or cannot be
+found; or
+(c) The information requested is not held by the agency and
+the person dealing with the request has no grounds
+for believing that the information is either(i) Held by another agency; or
+(ii) Connected more closely with the functions or
+activities of another agency.
+(3) For the purposes of subsection (1) (b) of this section, the
+term "evaluative material" means evaluative or opinion
+material compiled solely(a) For the purpose of determining the suitability, eligibility,
+or qualifications of the individual to whom the
+material relates(i) For employment or for appointment to office; or
+(ii) For promotion in employment or office or for
+continuance in employment or office; or
+(iii) For removal from employment or office; or
+(iv) For the awarding of contracts, awards,
+scholarships, honours, or other benefits; or
+(b) For the purpose of determining whether any contract,
+award, scholarship, honour, or benefit should be
+continued, modified, or cancelled; or
+(c) For the purpose of deciding whether to insure any
+individmu or property or to continue or renew the
+insurance of any individual or property.
+Cf. 1982, No. 156, ss. 18 (c) (ii), (e), (g), (h), 27 (1) (b)-(h), (2);
+1987, No. 8, s. 15 (1); 1987, No. 174, ss. 17 (c) (ii), (e), (g),
+(h), 26 (1) (b)-(h), (2)
+80. Refusal not pennitted for any other reason-Subject
+to sections 7, 31, and 32 of this Act, no reasons other than one
+or more of the reasons set out in sections 27 to 29 of this Act
+justifies a refusal to disclose any information requested
+pursuant to principle 6.
+Cf. 1982, No. 156, s. 27 (lA); 1987, No. 8, s. 15 (2); 1987,
+No. 174, s. 26 (2)
+81. Restriction
+where
+person
+sentenced
+to
+imprisonrnent-( 1) Nothing in principle 6 gives any
+individual who, after the commencement of this section, is
+sentenced to imprisonment for an offence the right to be given
+access to any personal information about that individual that is
+held by the Police and that relates to the offence for which that
+individual was sentenced, or to the conviction or sentencing of
+that individual for that offence.
+(2) This section shall come into force on a date to be
+appointed by the Governor·General by Order in Council.
+Cf. 1982, No. 156, s. 24A; 1987, No. 8, s. 14
+82.Infonnation concerning existence of certain
+infonnation-Where a request made pursuant to princifle 6
+relates to information to which section 27 or section 28 0 this
+Act applies, or would, if it existed, apply, the agency dealing
+with the request may, if it is satisfied that the interest protected
+by section 27 or section 28 of this Act would be likely to be
+prejudiced by the disclosure of the existence or non· existence
+of such information, give notice in writing to the applicant that
+it neither confirms nor denies the existence or non· existence of
+that information.
+Cf. 1982, No. 156, s. 10; 1987, No. 8, s. 4 (2); 1987,
+No. 174, s. 8
+
+PART V
+PROCEDURAL PROVISIONS RELATING TO ACCESS TO AND
+CORRECTION OF PERSONAL INFORMATION
+
+88. Application-This Part of this Act applies to the
+following requests (in this Act referred to as information
+privacy requests):
+(a) A request made pursuant to subclause (1) (a) of principle 6
+to obtain confirmation of whether or not an agency
+holds personal information:
+(b) A request made pursuant to subclause (1) (b) of principle 6
+to be given access to personal information:
+(c) A request made pursuant to subclause (1) of principle 7
+for correction of personal information.
+84. Who may make requests-An information privacy
+request may be made only by an individual who is(a) A New Zealand citizen; or
+(b) A permanent resident of New Zealand; or
+(c) An individual who is in New Zealand.
+85. Charges-( 1) Subject to section 36 of this Act, a public
+sector agency shall not require the payment, by or on behalf of
+any individual who wishes to make an information privacy
+request, of any charge in respect of(a) The provision of assistance in accordance with section 38
+of this Act; or
+(b) The making of the request to that agency; or
+(c) The transfer of the request to any other agency; or
+(cl) The processing of the request, including deciding whether
+or not the request is to be granted and, if so, in what
+manner; or
+(e) The making available of information in compliance, in
+whole or in part, with the request; or
+(f) In the case of a request made pursuant to subclause (1) of
+principle 7,(i) The correction of any information in
+compliance, in whole or in part, with the request; or
+(ii) The attaching, to any information, of a
+statement of any correction sought but not made.
+(2) Subject to subsection (4) of this section, an agency that is
+not a public sector agency shall not require the payment, by or
+on behalf of any individual who wishes to make an information
+privacy request, of any charge in respect of(a) The provision of assistance in accordance with section 38
+of this Act; or
+
+(b) The making of the request to that agency; or
+(c) The transfer of the request to any other agency; or
+(d) The processing of the request, including deciding whether
+or not the request is to be granted and, if so, in what
+manner.
+(3) An agency that is not a rublic sector agency may require
+the payment, by or on behal of any individual who wishes to
+make a request pursuant to subclause (1) (a) or subclause (1) (b)
+of principle 6 or pursuant to principle 7, o( a charge in respect
+of(a) The making available of information in compliance, in
+whole or in part, with the request; or
+(b) In the case of a request made pursuant to subclause (1) of
+principle 7,(i) The correction of any information in
+compliance, in whole or in part, with the request; or
+(ii) The attaching, to any information, of a
+statement of any correction sought but not made.
+(4) Where an agency that is not a public sector agency makes
+information available in compliance, in whole or in part, with
+an information privacy request, the agency may require the
+payment of a charge in respect of the provision of assistance,
+by that agency, in accordance with section 38 of this Act, in
+respect of that request.
+(5) Any charge fixed by an agency pursuant to subsection (3)
+or subsection (4) of this section or pursuant to an authority
+granted pursuant to section 36 of this Act in respect of an
+information privacy request shall be reasonable, and (in the
+case of a charge fixed in respect of the making available of
+information) regard may be had to the cost of the labour and
+materials involved in making information available in
+accordance with the request and to any costs incurred pursuant
+to a request of the applicant for the request to be treated as
+urgent.
+(6) The provisions of subsections (3) to (5) of this section, in so
+far as they relate to the fixing, by any agency that is not a
+public sector agency, of any charge in respect of any
+information privacy request, shall apply subject to any
+provisions to the contrary in any code of practice issued under
+section 46 of this Act and for the time being in force.
+er. 1982, No. 156, ss. 15 (lA), (2), 24 (1); 1989, No. 122, s. 2
+86. Commissioner may authorise public sector agency
+to charge-( 1) Where a public sector agency satisfies the
+Commissioner that the agency is commercially disadvantaged,
+in comparison with any competitor in the private sector, by
+reason that the agency is prevented, by subsection (1) of section
+35 of this Act, from imposing a charge in respect of any of the
+matters referred to in paragraph (e) or paragraph (f) of that
+subsection, the Commissioner may authorise that agency to
+impose a charge in respect of either or both of those matters.
+(2) The Commissioner may impose in respect of any
+authority granted pursuant to subsection (1) of this section such
+conditions as the Commissioner thinks fit.
+(3) The Commissioner may, at any time, revoke any
+authority granted to an agency pursuant to subsection (1) of
+this section, but shall not revoke any such authority without
+giving the agency an opportunity to be heard.
+S7. Urgency-If an individual making an information
+privacy request asks that his or her request be treated as
+urgent, that individual shall give his or her reasons why the
+request should be treated as urgent.
+Cf. 1982, No. 156, s. 12 (3); 1987, No. 174, s. 10 (3)
+S8. Assistance-It is the duty of every agency to give
+reasonable assistance to an individual, who(a) Wishes to make an information privacy request; or
+(b) In making such a request, has not made the request in
+accordance with the requirements of this Act; or
+(c) Has not made his or her request to the appropriate
+agency,to make a request in a manner that is in accordance with the
+requirements of this Act or to direct his or her request to the
+appropriate agency.
+Cf. 1982, No. 156, s. 13; 1987, No. 174, s. 11
+S9. Transfer of requests-Where(a) An information privacy request is made to an agency or is
+transferred to an agency in accordance with this
+section; and
+(b) The information to which the request relates(i) Is not held by the agency but is believed by the
+person dealing with the request to be held by another
+agency; or
+(ii) Is believed by the person dealing with the
+request to be more closely connected with the
+functions or activities of another agency,the agency to which the request is made shall promptly, and in
+any case not later than 10 working days after the day on which
+the request is received, transfer the request to the other agency
+and inform the individual making the request accordingly.
+Cf. 1982, No. 156, s. 14; 1987, No. 174, ss. 12, 57 (1)
+40. Decisions on requests-( 1) Subject to this Act, the
+agency to which an information privacy request is made or
+transferred in accordance with this Act shall, as soon as
+reasonably practicable, and in any case not later than 20
+working days after the day on which the request is received by
+that agency,(a) Decide whether the request is to be granted and, if it is to
+be granted, in what manner and, subject to sections
+35 and 36 of this Act, for what charge (if any); and
+(b) Give or post to the individual who made the request
+notice of the decision on the request.
+(2) Where any charge is imposed, the agency may require the
+whole or part of the charge to be paid in advance.
+(3) Where an information privacy request is made or
+transferred to a Department, the decision on that request shall
+be made by the chief executive of that Department or an
+officer or employee of that Department authorised by that
+chief executive, unless that request is transferred in accordance
+with section 39 of this Act to another agency.
+(4) Nothing in subsection (3) of this section prevents the chief
+executive of a Department or any officer or employee of a
+Department from consulting a Minister or any other person in
+relation to the decision that the chief executive or officer or
+employee proposes to make on any information privacy
+request made or transferred to the Department in accordance
+witb this Act.
+C£ 1982, No. 156, s.15; 1987, No. 8, s.8 (1); 1987,
+No. 174, ss. 13, 57 (1)
+41. Extension of time limits-( 1) Where an information
+privacy request is made or transferred to an agency, the agency
+may extend the time limit set out in section 39 or section 40 (1)
+of this Act in respect of the request if(a) The request is for a large quantity of information or
+necessitates a search through a large quantity of
+information, and meeting the original time limit
+would unreasonably interfere with the operations of
+the agency; or
+(b) Consultations necessary to make a decision on the request
+are such that a proper response to the request cannot
+reasonably be made within the original time limit.
+(2) Any extension under subsection (1) of this section shall be
+for a reasonable period of time having regard to the
+circmnstances.
+(3) The extension shall be effected by giving or posting notice
+of the extension to the individual who made the request within
+20 working days after the day on which the request is received.
+(4) The notice effecting the extension shall(a) Specify the period of the extension; and
+(b) Give the reasons for the extension; and
+(c) State that the individual who made the request for the
+information has the right, under section 67 of this
+Act, to make a complaint to the Commissioner about
+the extension; and
+(d) Contain such other information as is necessary.
+Cf. 1982, No. 156, s. 15A; 1987, No. 8, s.9 (1); 1987,
+No. 174, s. 14
+
+42. Documents-(I) Where the information in respect of
+which an information privacy request is made by any individual
+is comprised in a docmnent, that information may be made
+available in one or more of the following ways:
+(a) By giving the individual a reasonable opportunity to
+inspect the document; or
+(b) By providing the individual with a copy of the document;
+or
+(c) In the case of a document that is an article or thing from
+which sounds or visual images are capable of being
+reproduced, by making arrangements for the
+individual to hear or view those sounds or visual
+images; or
+(d) In the case of a document by which words are recorded in
+a manner in which they are capable of being
+reproduced in the form of sound or in which words
+are contained in the form of shorthand writing or in
+codified form, by providing the individual with a
+written transcript of the wor3s recorded or contained
+in the document; or
+(e) By giving an excerpt or summary of the contents; or
+(f) By furnishing oral information about its contents.
+(2) Subject to section 43 of this Act, the agency shall make
+the information available in the way preferred by the individual
+requesting it unless to do so would(a) Impair efficient administration; or
+(b) Be contrary to any legal duty of the agency in respect of
+the document; or
+(c) Prejudice the interests protected by section 27 or section
+28 or section 29 of this Act and (in the case of the
+interests protected by section 28 of this Act) there is
+no countervailing public interest.
+(3) Where the information is not provided in the way
+preferred by the individual requesting it, the agency shall,
+subject to section 32 of this Act, give to that individual(a) The reason for not providing the information in that way;
+and
+(b) If that individual so requests, the grounds in support of
+that reason, unless the giving of those grounds would
+itself prejudice the interests protected by section 27
+or section 28 or section 29 of this Act and (in the case
+of the interests protected by section 28 of this Act)
+there is no countervailing public interest.
+Cf. 1982, No. 156, s. 16; 1987, No. 8, s. 4 (2); 1987, s. 174,
+s. 15
+
+48. Deletion of infonnation from documents(1) Where the information in respect of which an information
+privacy request is made is comprised in a document and there
+is good reason for withholding some of the information
+contained in that document, the other information in that
+document may be made available by making a copy of that
+document available with such deletions or alterations as are
+necessary.
+(2) Where a copy of a document is made available under
+subsection (1) of this section, the agency shall, subject to section
+32 of this Act, give to the individual(a) The reason for withholding the information; and
+(b) If the individual so requests, the grounds in support of
+that reason, unless the giving of those grounds would
+itself prejudice the interests protected by section 27
+or section 28 or section 29 of this Act and (in the case
+of the interests protected by section 28 of this Act)
+there is no countervailing public interest.
+Cf. 1982, No. 156, s. 17; 1987, No. 8, s. 4 (2); 1987,
+No. 174, s. 16
+44. Reason for refusal to be given-Where an
+information privacy request made by an individual is refused,
+the agency shall,(a) Subject to section 32 of this Act, give to the individual(i) The reason for its refusal; and
+A-26
+(ii) If the individual so requests, the grounds in
+support of that reason, unless the giving of those
+grounds would itself prejudice the interests protected
+by section 27 or section 28 or section 29 of this Act
+and (in the case of the interests protected by section
+28 of this Act) there is no counteIVailing public
+interest; and
+(b) Give to the individual information concerning the
+individual's right, by way of complaint under section
+67 of this Act to the Commissioner, to seek an
+investigation and review of the refusal.
+Cf. 1982, No. 156, s. 19; 1987, No. 8, s. 4 (2); 1987,
+No. 174, s. 18
+45. Precautions-Where an information privacy request is
+made pursuant to subclause (1) (b) of principle 6, the agency(a) Shall not give access to that information unless it is
+satisfied concerning the identity of the individual
+making the request; and
+(b) Shall ensure, by the adoption of appropriate procedures,
+that. any information intended for an individual is
+recelved(i) Only by that individual; or
+(ii) Where the request is made by an agent of the
+individual, only by that individual or his or her agent;
+and
+(c) Shall ensure that, where the request is made by an agent
+of the individual, the agent has the written authority
+of that individual to obtain the information or is
+otherwise properly authorised by that individual to
+obtain the information.
+Cf. 1982, No. 156, s. 25; 1987, No. 174, s. 24
+PART VI
+CODES OF PRACTICE AND EXEMPTIONS FROM INFORMATION
+PRIVACY PRINCIPLES
+
+Codes of Practice
+46. Codes of practice-( 1) The Commissioner may from
+time to time issue a code of practice.
+(2) A code of practice may(a) Modify the application of anyone or more of the
+information privacy principles byA-26"
+(i) Prescribing standards that are more stringent or
+less stringent than the standards that are prescribed
+by any such principle:
+(ii) Exempting any action from any such principle,
+either unconditionally or subject to such conditions as
+are prescribed in the code:
+(b) Prescribe how anyone or more of the information privacy
+principles are to be applied, or are to be complied
+with.
+(3) A code of practice may apply in relation to anyone or
+more of the following:
+(a) Any specified information or class or classes of
+information:
+(b) Any specified agency or class or classes of agencies:
+(c) Any specified activity or class or classes of activities:
+(d) Any specified industry, profession, or calling or class or
+classes of industries, professions, or callings.
+(4) A code of practice may also(a) Impose, in relation to any agency that is not a public
+sector agency, controls in relation to the comparison
+(whether manually or by means of any electronic or
+other device) of personal information with other
+personal information for the purpose of producing or
+verifying information about an identifiable individual:
+(b) In relation to charging under section 35 of this Act,(i) Set guidelines to be followed by agencies in
+determining charges:
+(ii) Prescribe circumstances in which no charge may
+be imposed:
+(c) Prescribe procedures for dealing with complaints alleging
+a breach of the code, but no such provisions may
+limit or restrict any provision of Part VIII or Part IX
+of this Act:
+(d) Provide for the review of the code by the Commissioner:
+(e) Provide for the expiry of the code.
+(5) A code of practice may not limit or restrict the
+circumstances in which an individual is entitled,(a) Under subclause (1) (a) of principle 6, to obtain
+confirmation of whether or not a public sector agency
+holds personal information; or
+(b) Under subclause (1) (b) of principle 6, to have access to
+personal information held by a public sector agency;
+or
+(c) Under principle 7,-
+(i) To request the correction of personal
+information held by a public sector agency; or
+(ii) To request that there be attached to any such
+information a statement of any correction sought but
+not made.
+(6) Notwithstanding the definition of the term "individual" in
+section 2 (1) of this Act,(a) For the purposes of the issuing under this section of any
+code of practice relating to health information
+(whether or not any such code also relates to any
+other information), principle 11 shall be read as if it
+applies in respect of health information about any
+individual, whether living or deceased; and
+(b) Any code of practice so issued shall have effect under
+section 53 of this Act as if principle 11 so applied, and
+the provisions of this Act shall apply accordingly.
+(7) For the purposes of subsection (6) of this section, the term
+"health information" has the same meaning as it has in section
+22B of the Health Act 1956.
+4: 7. Proposal for issuing of code of practice-( 1) Subject
+to section 48 of this Act, the Commissioner may issue a code of
+practice under section 46 of this Act on the Commissioner's
+own initiative or on the application of any person.
+(2) Without limiting subsection (1) of this section, but subject
+to subsection (3) of this section, any person may apply to the
+Commissioner for the issue of a code of practice in the form
+submitted by the applicant.
+(3) An application may be made pursuant to subsection (2) of
+this section only(a) By a body the purpose of which, or one of the purposes of
+which, is to represent the interests of any class or
+classes of agency, or of any industry, profession, or
+calling; and
+(b) Where the code of practice sought by the applicant is
+intended to apply in respect of the class or classes of
+agency, or the industry, profession, or calling, that
+the applicant represents, or any activity of any such
+class or classes of agency or of any such industry,
+profession, or calling.
+(4) Where an application is made to the Commissioner
+pursuant to subsection (2) of this section, the Commissioner
+shall give public notice that the application has been received
+by the Commissioner, which notice shall contain a statement
+that-
+(a) The details of the code of practice sought by the
+applicant, including a draft of the proposed code,
+may be obtained from the Commissioner; and
+(b) Submissions on the proposed code may be made in
+writing to the Commissioner within such period as is
+specified in the notice.
+(5) For the purposes of section 48 of this Act, the publication
+of a notice under subsection (4) of this section in relation to any
+proposed code of practice shall be sufficient compliance with
+the requirements of subsection (1) (a) of that section in relation
+to the issuing of that code.
+48. Notification of intention to issue code-(l) Subject
+to section 52 of this Act, the Commissioner shall not issue a
+code of practice under section 46 of this Act unless(a) The Commissioner has given public notice of the
+Commissioner's intention to issue the code, which
+notice shall contain a statement that(i) The details of the proposed code, including a
+draft of the proposed code, may be obtained from
+the Commissioner; and
+(ii) Submissions on the proposed code may be made
+in writing to the Commissioner within such period as
+is specified in the notice; and
+(b) The Commissioner has done everything reasonably pos·
+sible on his or her part to advise all persons who will
+be affected by the rroposed code, or representatives
+of those persons, 0 the proposed terms of the code,
+and of the reasons for it, has given such persons or
+their representatives a reasonable opportunity to con·
+sider the proposed code and to make submissions on
+it to the Commissioner, and has considered any such
+submissions.
+(2) The fact that the Commissioner has published in the
+Gazette a notice under section 49 (1) of this Act shall be
+conclusive proof that the requirements of this section have
+been complied with in respect of the code of practice to which
+the notice relates.
+(3) Nothing in subsection (1) of this section prevents the
+Commissioner from adopting any additional means of
+publicising the proposal to issue a code or of consulting with
+interested parties in relation to such a proposal.
+49. Notification, availability, and commencement of
+code-( 1) Where a code of practice is issued under section 46
+of this Act,(a) The Commissioner shall ensure that there is published in
+the Gazette, as soon as practicable after the code is
+issued, a notice(i) Indicating that the code has been issued; and
+(ii) Showing a place at which copies of the code are
+avci.i1able for inspection free of charge and for
+purchase; and
+(b) The Commissioner shall ensure that so long as the code
+remains in force, copies of the code are available(i) For inspection by members of the public free of
+charge; and
+(ii) For purchase by members of the public at a
+reasonable price.
+(2) Every code of practice issued under section 46 of this Act
+shall come into force on the 28th day after the date of its
+notification in the Gazette or on such later day as may be
+specified in the code.
+50. Codes deemed to be regulations for purposes of
+disallowance-All codes of practice issued under section 46 of
+this Act shall be deemed to be regulations for the purposes of
+the Regulations (Disallowance) Act 1989, but shall not be
+regulations for the purposes of the Acts and Regulations
+Publication Act 1989.
+51. Amendment and revocation of codes-( 1) The
+Commissioner may from time to time issue an amendment or
+revocation of a code of practice issued under section 46 of this
+Act.
+(2) The provisions of sections 47 to 50 of this Act shall apply
+in respect of any amendment or revocation of a code of
+practice.
+52. Urgent issue of code-( 1) If the Commissioner
+considers that it is necessary to issue a code of practice under
+section 46 of this Act, or to amend or revoke any such code of
+practice, and that following the procedure set out in section 48
+of this Act would be impracticable because it is necessary to
+issue the code or, as the case may be, the amendment or
+revocation urgendy, the Commissioner may issue the code of
+practice or, as the case may be, the amendment or revocation
+without complying with those procedures.
+(2) Every code of practice, and every amendment or
+revocation of a code of practice, issued in accordance with this
+section shall be identified as a temporary code or amendment
+or revocation, and shall remain in force for such period (not
+exceeding 1 year after the date of its issue) as is specified for
+that purpose in the code or, as the case may be, the
+amendment or the revocation.
+(3) Nothing in section 49 (2) of this Act shall apply in respect
+of a code of practice, or any amendment or revocation of a
+code of practice, issued in accordance with this section.
+53. Effect of code-Where a code of practice issued under
+section 46 of this Act is in force,(a) The doing of any action that would otherwise be a breach
+of an information privacy principle shall, for the
+purposes of Part VIII of this Act, be deemed not to be
+a breach of that principle if the action is done in
+compliance with the code:
+(b) Failure to comply with the code, even though that failure
+is not otherwise a breach of any information privacy
+principle, shall, for the purposes of Part VIII of this
+Act, be deemed to be a breach of an information
+privacy principle.
+Specific Exemptions
+
+54. Commissioner may authorise collection, use, or
+disclosure of personal infonnation-( 1) The Commissioner
+may authorise an agency to collect, use, or disclose personal
+information, even though that collection, use, or disclosure
+would otherwise be in breach of principle 2 or principle 10 or
+principle 11, if the Commissioner is satisfied that, in the special
+circumstances of the case,(a) The public interest in that collection or, as the case
+requires, that use or that disclosure outweighs, to a
+substantial degree, any interference with the privacy
+of the individual that could result from that collection
+or, as the case requires, that use or that disclosure; or
+(b) That collection or, as the case requires, that use or that
+disclosure involves a clear benefit to the individual
+concerned that outweighs any interference with the
+privacy of the individual that could result from that
+collection or, as the case requires, that use or that
+disclosure.
+(2) The Commissioner may impose in respect of any
+authority granted under subsection (1) of this section such
+conditions as the Commissioner thinks fit.
+(3) The Commissioner shall not grant an authority under
+subsection (1) of this section in respect of the collection, use, or
+disclosure or any personal infonnation for any purpose if the
+individual concerned has refused to authorise the collection or,
+as the case requires, the use or disclosure of the infonnation for
+that purpose.
+
+55. Certain personal infonnation excluded-Nothing in
+principle 6 or principle 7 applies in respect of(a) Personal infonnation in the course of transmission by
+post, telegram, cable, telex, facsimile transmission,
+electronic mail, or other similar means of
+communication; or
+(b) Evidence given or submissions made to(i) A Royal Commission; or
+(ii) A commission of inquiry appointed by an Order
+in Council made under the Commissions of Inquiry
+Act 1908,at any time before the reJ>ort of the Royal
+Commission or commission of inquiry has been
+published or, in the case of evidence or submissions
+given or made in the course of a sitting open to the
+public, at any time before the Royal Commission or
+commission of inquiry has reported to the Governor·
+General; or
+(c) Evidence given or submissions made to a commission of
+inquiry or board of inquiry or court of inquiry or
+committee of inquiry appointed, pursuant to, and not
+by, any provision of an Act, to inquire into a specified
+matter; or
+(d) Infonnation contained in any correspondence or
+communication that has taken place between the
+office of the Ombudsmen and any agency and that
+relates to any investigation conducted by an
+Ombudsman under the Ombudsmen Act 1975 or the
+Official Infonnation Act 1982 or the Local
+Government Official Infonnation and Meetings Act
+1987, other than infonnation that came into
+existence before the commencement of that
+investigation; or
+(e) Infonnation contained ill any correspondence or
+communication that has taken place between the
+office of the Commissioner and any agency and that
+relates to any investigation conducted by the
+Commissioner under this Act, other than information
+that came into existence before the commencement
+of that investigation.
+66. Personal information relating to domestic affairsNothing in the information privacy principles applies in respect
+of(a) The collection of personal information by an agency that
+is an individual; or
+(b) Personal information that is held by an agency that is an
+individual,where that personal information is collected or held by that
+individual solely or principally for the purposes of, or in
+connection with, that individual's personal, family, or
+household affairs.
+Cf. Data Protection Act 1984 (U.K.), s. 33 (1)
+57. Intelligence organisations-Nothing in principles 1 to
+5 or principles 8 to 11 applies in relation to information
+collected, obtained, held, used, or disclosed by, or disclosed to,
+an intelligence organisation.
+PART VII
+PuBUC REGISTER PERSONAL INFORMATION
+
+58. Interpretation-In this Part of this Act, unless the
+context otherwise requires,"Public register" means(a) Any register, roll, list, or other document
+maintained pursuant to a public register provision:
+(b) A document specified in Part II of the Second
+Schedule to this Act:
+"Public register privacy principle" means any of the
+principles set out in section 59 of this Act:
+"Public register provision" means a provision specified in
+the second column of Part I of the Second Schedule to
+this Act as a public register provision of an enactment
+specified in the first column of that Part of that
+Schedule.
+59. Public register privacy principles-The
+register privacy principles are as follows:
+public
+
+PUBLIC REGISTER PRIVACY PRINCIPLES
+PRINCIPLE 1
+Search references
+Personal information shall be made available from a public
+register only by search references that are consistent with the
+manner in which the register is indexed or organised.
+PRINCIPLE 2
+Use of information from public registers
+Personal information obtained from a public register shall
+not be re· sorted, or combined with personal information
+obtained from any other public register, for the purpose of
+making available for valuable consideration personal
+information assembled in a form in which that personal
+information could not be obtained directly from the register.
+PRINCIPLE 3
+Electronic transmission of personal information from register
+Personal information in a public register shall not be made
+available by means of electronic transmission, unless the
+purpose of the transmission is to make the information
+available to a member of the public who wishes to search the
+register.
+PRINCIPLE 4
+
+Charging for access to public register
+Personal information shall be made available from a public
+register for no charge or for no more than a reasonable charge.
+60. Application of information privacy principles and
+public register privacy principles to public registers(I) Subject to subsection (3) of this section, the agency
+responsible for administering any public register shall, in
+administering that register, comply, so far as is reasonably
+practicable, with the information privacy principles and the
+public register privacy principles.
+(2) Every person shall, so far as is reasonably practicable,
+comply with principle 2 of the public register privacy principles.
+(3) Where any information privacy principle or any public
+register privacy principle is inconsistent with any provision of
+any enactment, then, for the purposes of this Part of this Act,
+that enactment shall, to the extent of the inconsistency, prevail.
+61. Complaints
+relating
+to
+compliance
+with
+principles-(I) The Commissioner may, on complaint made
+to the Commissioner by any person or on the Commissioner's
+own initiative, inquire into any public register provision if it
+appears to the Commissioner that the provision is inconsistent
+with any of the information privacy principles or any of the
+public register privacy principles.
+(2) On completing any inquiry conducted pursuant to
+subsection (1) of this section, the Commissioner shall report the
+Commissioner's findings to the Minister responsible for the
+administration of the enactment that was the subject of the
+inquiry, and any such report may include recommendations on
+the need for, or desirability of, taking any legislative,
+administrative, or other action to ensure adherence or greater
+adherence to the information privacy principles or the public
+register privacy principles, or both.
+(3) The Commissioner may, on complaint made to the
+Commissioner by any person or on the Commissioner's own
+initiative, investigate(a) The actions of any agency that is responsible for
+administering any public register if it appears that the
+agency is not, in the administration of that register,
+complying with the information privacy principles, or
+the public register privacy principles, or both:
+(b) The actions of any person if it appears that the person is
+not complying with principle 2 of the public register
+privacy principles.
+(4) On completing any inquiry conducted pursuant to
+subsection (3) of this section, the Commissioner shall report the
+Commissioner's findings to the chief administrative officer of
+the agency whose actions were the subject of the inquiry (or the
+person whose actions were the subject of the inquiry, in the
+case of an inquiry to which paragraph (b) of that subsection
+applies), and any such report may include recommendations on
+the need for, or desirability of, taking any administrative or
+other action to ensure adherence or greater adherence to the
+information privacy principles or the public register privacy
+principles, or both.
+(5) Sections 68, 70, 71, 73, 75, 80, and Part IX of this Act
+shall apply, so far as applicable and with all necessary
+modifications, in relation to the making of a complaint
+pursuant to this section and to any inquiry conducted by the
+Commissioner pursuant to this section.
+
+62. Enforceability of principles-The public register
+privacy principles do not confer on any person any legal right
+that is enforceable in a court of law.
+
+63. Codes of practice in relation to public registers(1) The Commissioner may from time to time issue, in relation
+to any public register, a code of practice.
+(2) A code of practice issued under this section may(a) Modify the application, in relation to a public register, of
+anyone or more of the public register privacy
+principles, or anyone or more of the information
+privacy principles, or both, by(i) Prescribing standards that are more stringent or
+less stringent than the standards that are prescribed
+by any such principle:
+(ii) Exempting any action from any such principle,
+either unconditionally or subject to such conditions as
+are prescribed in the code:
+(b) Prescribe how anyone or more of the public register
+privacy principles, or anyone or more of the
+information privacy principles, or both, are to be
+applied, or are to be complied with:
+(c) Impose requirements that are not prescribed by any
+public register privacy principle.
+(3) A code of practice issued under this section may also
+contain provisions(a) Providing for the review of the code by the Commissioner:
+(b) Providing for the expiry of the code.
+(4) To the extent that any code of practice issued under this
+section is inconsistent with any provision of any enactment, the
+code shall, to the extent of the inconsistency, be of no effect.
+(5) Sections 47 to 52 of this Act, so far as they are applicable
+and with all necessary modifications, shall apply with respect to
+the issue of any code of practice under this section and with
+respect to any code so issued.
+64. Effect of code-Where a code of practice issued under
+section 63 of this Act is in force,(a) The doing of any action that would otherwise be a breach
+of a public register privacy principle or an
+information privacy principle shall, for the purposes
+of this Part of this Act, be deemed not to be a breach
+of that principle if the action is done in compliance
+with the code:
+(b) Failure to comply with the code, even though that failure
+is not otherwise a breach of any public register
+privacy principle, shall, for the purposes of this Part
+of this Act, be deemed to be a breach of a public
+register privacy principle.
+65. Power to aDlend Second Schedule by Order in
+Council-( 1) The Governor-General may from time to time,
+by Order in Council made on the advice of the responsible
+Minister given after consultation with the Commissioner,
+amend the Second Schedule to this Act by adding any item.
+(2) An Order in Council made under this section may add an
+item to Part 11 of the Second Schedule to this Act only if the
+item relates to a document that contains personal information
+and that is held by a public sector agency.
+PART VIII
+COMPLAINTS
+
+Interpretation
+
+66. Interference with privacy-(I) For the purposes of this
+Part of this Act, an action is an interference with the privacy of
+an individual if, and only if,(a) In relation to that individual,(i) The action breaches an information privacy
+principle; or
+(ii) The action breaches a code of practice issued
+under section 63 of this Act (which relates to public
+registers); or
+(iii) The provisions of Part X of this Act (which
+relates to information matching) have not been
+complied with; and
+(b) In the opinion of the Commissioner or, as the case may
+be, the Tribunal, the action(i) Has caused, or may cause, loss, detriment,
+damage, or injury to that individual; or
+(ii) Has adversely affected, or may adversely affect,
+the rights, benefits, privileges, obligations, or interests
+of that individual; or
+(iii) Has resulted in, or may result in, significant
+humiliation, significant loss of dignity, or significant
+injury to the feelings of that individual.
+(2) Without limiting subsection (1) of this section, an action is
+an interference with the privacy of an individual if, in relation
+to an information privacy request made by the individual,(a) The action consists of a decision made under Part IV or
+Part V of this Act in relation to the request,
+including(i) A refusal to make information available in
+response to the request; or
+
+(ii) A decision by which an agency decides, in
+accordance with section 42 or section 43 of this Act,
+in what manner or, in accordance with section 40 of
+this Act, for what charge the request is to be granted;
+or
+(iii) A decision by which an agency imposes
+conditions on the use, communication, or publication
+of information made available pursuant to the
+request; or
+(iv) A decision by which an agency gives a notice
+under section 32 of this Act; or
+(v) A decision by which an agency extends any time
+limit under section 41 of this Act; or
+(vi) A refusal to correct personal information; and
+(b) The Commissioner or, as the case may be, the Tribunal is
+of the opinion that there is no proper basis for that
+decision.
+(3) If, in relation to any information privacy request, any
+agency fails within the time limit fixed by section 40 (1) of this
+Act (or, where that time limit has been extended under this
+Act, within that time limit as so extended) to comply with
+paragraph (a) or paragraph (b) of section 40 (1) of this Act, that
+failure shall be deemed, for the purposes of subsection (2) (a) (i)
+of this section, to be a refusal to male available the information
+to which the request relates.
+(4) Undue delay in making information available in response
+to an information privacy request for that information shall be
+deemed, for the purposes of subsection (2) (a) (i) of this section,
+to be a refusal to make that information avciilable.
+Cf. 1982, No. 156, s. 28 (1), (2), (4), (5); 1987, No. 8,
+s. 16(1); 1987, No. 174, s. 27 (1), (2), (4), (5)
+
+Complaints
+67. Complaints-(l) Any person may make a complaint to
+the Commissioner alleging that anr action is or appears to be
+an interference with the privacy 0 an individual.
+(2) A complaint under this Part of this Act may be lodged
+with the Commissioner or an Ombudsman.
+(3) On receiving a complaint under this Part of this Act, an
+Ombudsman shall forward the complaint to the Commissioner
+as soon as practicable.
+68. Mode of complaint-(l) A complaint to
+Commissioner may be made either orally or in writing.
+(2) A complaint made orally shall be put in writing as soon as
+practicable.
+(3) The Commissioner shall give such reasonable assistance as
+is necessary in the circumstances to enable an individual, who
+wishes to make a complaint to the Commissioner, to put the
+complaint in writing.
+Investigations by Commissioner
+69. Investigation of interference with privacy of
+individual-( 1) The functions of the Commissioner under this
+Part of this Act shall be(a) To investigate any action that is or appears to be an
+interference with the privacy of an individual:
+(b) To act as conciliator in relation to any such action:
+(c) To take such further action as is contemplated by this Pan
+of this Act.
+(2) The Commissioner may commence an investigation
+under subsection (1) (a) of this section either on complaint made
+to the Commissioner or on the Commissioner's own initiative.
+Cf. 1977, No. 49, s. 34
+70. Action on receipt of complaint-( 1) On receiving a
+complaint under this Part of this Act, the Commissioner may(a) Investigate the complaint; or
+(b) Decide, in accordance with section 71 of this Act, to take
+no action on the complaint.
+(2) The Commissioner shall, as soon as practicable, advise the
+complainant and the person to whom the complaint relates of
+the procedure that the Commissioner proposes to adopt under
+subsection (1) of this section.
+71. Commissioner may decide to take no action on
+complaint-( 1) The Commissioner may in his or her
+discretion decide to take no action or, as the case may require,
+no further action, on any complaint if, in the Commissioner's
+opinion,(a) The length of time that has elapsed between the date
+when the subject-matter of the complaint arose and
+the date when the complaint was made is such that
+an investigation of the complaint is no longer
+practicable or desirable; or
+(b) The subject-matter of the complaint is trivial; or
+(c) The complaint is frivolous or vexatious or is not made in
+good faith; or
+(d) The individual alleged to be aggrieved does not desire
+that action be taken or, as the case may be,
+continued; or
+(e) The complainant does not have a sufficient personal
+interest in the subject-matter of the complaint; or
+(f) Where(i) The complaint relates to a matter in respect of
+which a code of practice issued under section 46 of
+this Act is in force; and
+(ii) The code of practice makes provision for a
+complaints procedure,the complainant has failed to pursue, or to pursue
+fully, an avenue of redress available under that
+complaints procedure that it would be reasonable for
+the complainant to pursue; or
+(g) There is in all the circumstances an adequate remedy or
+right of appeal, other than the right to petition the
+House of Representatives or to make a complaint to
+an Ombudsman, that it would be reasonable for the
+individual alleged to be aggrieved to exercise.
+(2) Notwithstanding anything in subsection (1) of this section,
+the Commissioner may in his or her discretion decide not to
+take any further action on a complaint if, in the course of the
+investigation of the complaint, it appears to the Commissioner
+that, having regard to all the circumstances of the case, any
+further action is unnecessary or inappropriate.
+(3) In any case where the Commissioner decides to take no
+action, or no further action, on a complaint, the Commissioner
+shall inform the complainant of that decision and the reasons
+for it.
+Cf. 1975, No. 9, s. 17; 1977, No. 49, s. 35; 1981, No. 127,
+s.3
+
+72. Referral of complaint to Ombudsman-( 1) Where,
+on receiving a complaint under this Part of this Act, the
+Commissioner considers that the complaint relates, in whole or
+in part, to a matter that is more properly within the jurisdiction
+of an Ombudsman under the Ombudsmen Act 1975 or the
+Official Information Act 1982 or the Local Government Official
+Information and Meetings Act 1987, the Commissioner shall
+forthwith consult with the Chief Ombudsman in order to
+determine the appropriate means of dealing with the
+complaint.
+(2) As soon as practicable after consulting with the Chief
+Ombudsman under subsection (1) of this section, the
+
+Commissioner shall determine whether the complaint should
+be dealt with, in whole or in part, under this Act.
+(3) If the Commissioner determines that the complaint
+should be dealt with, in whole or in part, under the
+Ombudsmen Act 1975 or the Official Information Act 1982 or
+the Local Government Official Information and Meetings Act
+1987, the Commissioner shall forthwith refer the complaint or,
+as the case requires, the appropriate part of the complaint to
+the Chief Ombudsman to be dealt with accordingly, and shall
+notify the complainant of the action that has been taken.
+Proceedings 0/ Commissioner
+78. Proceedings of Commissioner-Before proceeding to
+investigate any matter under this Part of this Act, the
+Commissioner(a) Shall inform the complainant (if any), the person to whom
+the investigation relates, and any individual alleged to
+be aggrieved (if not the complainant), of the
+Commissioner's intention to make the investigation;
+and
+(b) Shall inform the person to whom the investigation relates
+of(i) The details of the complaint (if any) or, as the
+case may be, the subject·matter of the investigation;
+and
+(ii) The right of that person to submit to the
+Commissioner, within a reasonable time, a written
+response in relation to the complaint or, as the case
+may be, the subject·matter of the investigation.
+Cr. 1975, No. 9, s. 18 (1); 1977, No. 49, s. 72 (1)
+74:. Settlement of complaints-Where it appears from a
+complaint, or any written response made in relation to a
+complaint under section 73 (b) (ii) of this Act, that it may be
+possible to secure a settlement between any of the parties
+concerned and, if appropriate, a satisfactory assurance against
+the repetition of any action that is the subject·matter of the
+complaint or the doing of further actions of a similar kind by
+the person concerned, the Commissioner may, without
+investigating the complaint or, as the case may be, investigating
+the complaint further, use his or her best endeavours to secure
+such a settlement and assurance.
+
+75. Parties to be informed of result of investigation where any investigation is made following a complaint, the
+Commissioner shall conduct the investigation with due
+expedition and shall infonn the parties concerned, as soon as
+reasonably practicable after the conclusion of the investigation
+and in such manner as the Commissioner thinks proper, of the
+result of the investigation and of what further action (if any) the
+Commissioner proposes to take in respect of that complaint.
+Cf. 1977, No. 49, s. 36
+76. Compulsory conferences-( 1) The Commissioner may
+call a conference of the parties to a complaint by(a) Posting to each of them a notice requesting their
+attendance at a time and place specified; or
+(b) Such other means as is agreed to by the parties
+concerned.
+(2) The objectives of the conference shall be(a) To identify the matters in issue between the parties; and
+(b) To try to obtain agreement between the parties on the
+resolution of those matters.
+(3) Where a person fails to comply with a request under
+subsection (1) of this section to attend a conference, the
+Commissioner may issue a summons requiring the person to
+attend a conference at a time and place to be specified in the
+summons.
+(4) Subsections (1), (2), (3), and (5) of section 20 of the
+Summary Proceedings Act 1957 shall apply to a summons
+under this section as if it were a witness summons issued under
+that section.
+Cf. 1988, No. 4, ss. 67, 71
+77. Procedure
+after investigation-(I) Where
+the
+Commissioner, after making any investigation under this Part
+of this Act, is of the opinion,(a) In the case of a complaint, that the complaint has
+substance, the Commissioner shall use his or her best
+endeavours to secure a settlement between any
+parties concerned and, if the Commissioner considers
+it appropriate, a satisfactory assurance against the
+repetition of any action that was the subject-matter of
+the investigation or the doing of further actions of a
+similar kind by the person concerned; or
+(b) In any other case, that the matter ought to be proceeded
+with, the Commissioner shall use his or her best
+endeavours to secure such an assurance as is referred
+to in paragraph (a) of this subsection.
+(2) If,(a) In the circumstances referred to in section 74 of this Act,
+the Commissioner is unable to secure such a
+settlement and assurance as is referred to in that
+section; or
+(b) In the circumstances referred to in paragraph (a) or
+paragraph (b) of subsection (1) of this section, the
+Commissioner is unable to secure such a settlement
+and assurance or, as the case may be, such an
+assurance as is referred to in either of those
+paragraphs; or
+(c) In any case to which section 74 of this Act or subsection
+(1) of this section applies, it arpears that the action
+that was the subject·matter 0 the complaint or, as
+the case may be, the investigation was done in
+contravention of such an assurance as is referred to in
+that section or that subsection, given on a previous
+occasion, or that any term of such a settlement as is
+referred to in that section or that subsection, reached
+on a previous occasion, has not been complied
+with,the Commissioner may refer the matter to the Proceedings
+Commissioner for the purpose of deciding whether proceedings
+under section 82 of this Act should be instituted against the
+person against whom the complaint was made or in respect of
+whom the investigation was conducted.
+(3) Where a matter is referred to the Proceedings
+Commissioner under subsection (2) of this section, it shall,
+subject to section 82 (3) of this Act, be for the Proceedings
+Commissioner to determine, in his or her discretion, both
+whether a matter justifies the institution of proceedings under
+section 82 of this Act and whether proceedings should be
+instituted under section 82 of this Act in respect of that matter.
+cf. 1977, No. 49, s. 37; 1983, No. 56, s. 11
+78. Procedure
+in
+relation
+to
+charging(1) Notwithstanding anything in section 77 of this Act, where
+the Commissioner, after making any investigation under this
+Part of this Act, is of the opinion that a charge fixed in respect
+of an information privacy request is unreasonable, the
+Commissioner shall determine the amount of the charge (if
+any) that may reasonably be imposed in respect of that request.
+(2) A determination of the Commissioner under subsection
+(1) of this section shall be final and binding on the person who
+made the request and on the agency concerned, and,
+notwithstanding anything in section 82 or section 83 of this Act,
+no proceedings may be brought before the Tribunal under
+either of those sections in respect of any action of any agency
+in so far as that action is the subject of a determination made
+by the Commissioner under subsection (1) of this section.
+79. Breaches of certain principles occurring before
+1 July 1996-( 1) This section applies to any interference with
+the privacy of an individual involving a breach of any of
+principles 1, 2, 3, 4, 8, 9, 10, and 11, in any case where the
+action that constitutes the breach occurs before the 1st day of
+July 1996.
+(2) Notwithstanding anything in this Part of this Act, but
+subject to subsection (3) of this section, where(a) Any complaint is made under this Part of this Act; or
+(b) Any investigation is commenced under this Part of this
+Act,then, in so far as the complaint or investigation relates to an
+interference with the privacy of an individual (being an
+interference to which this section applies), the following
+provisions shall apply:
+(c) Nothing in section 77 (2) or section 77 (3) or sections 82 to
+89 of this Act shall apply in relation to the complaint
+or the investigation:
+(d) The Commissioner may make such recommendations as
+the Commissioner thinks fit to the agency against
+which the complaint was made or, as the case
+requires, in respect of which the investigation was
+conducted,
+including
+(without
+limitation)
+a
+recommendation that the agency develop a code of
+practice in relation to all or any of its activities:
+(e) Where the Commissioner makes a recommendation to an
+agency pursuant to paragraph (d) of this subsection,
+the Commissioner may request the agency to notify
+the Commissioner, within a specified time, of the
+steps (if any) that the agency proposes to take to give
+effect to the Commissioner s recommendation.
+(3) Nothing in this section applies in relation to any
+interference with the privacy of an individual involving a
+breach of any information privacy principle, where the action
+that breaches the principle constitutes a failure to comply with
+a code of practice issued under section 46 of this Act.
+80. Commissioner to report breach of duty or
+misconduct-If, during or after any investigation, the
+Commissioner is of the opinion that there is evidence of any
+significant breach of duty or misconduct on the part of any
+agency or any officer or employee or member of an agency, the
+Commissioner shall refer the matter to the appropriate
+authority.
+Cf. 1975, No. 9, s. 18 (6); 1982, No. 89, s. 2
+Special Procedure Relating to Intelligence Agencies
+
+81. Special
+procedure
+relating to
+intelligence
+agencies-( 1) The provisions of this section shall apply in
+every case where, after making any investigation under this
+Part of this Act in respect of any action of an intelligence
+agency, the Commissioner is of the opinion that the action that
+was the subject-matter of the investigation is an interference
+with the privacy of an individual.
+(2) If, in any case to which this section applies, the
+Commissioner is of the opinion that any steps should be taken
+by the intelligence agency in relation to the subject-matter of
+the investigation, the Commissioner shall report his or her
+opinion, and the reasons for that opinion, to the intelligence
+agency, and may make such recommendations as the
+Commissioner thinks fit.
+(3) Where the Commissioner makes a report to an
+intelligence agency pursuant to subsection (2) of this section,
+the Commissioner may request the agency to notify the
+Commissioner, within a specified time, of the steps (if any) that
+the agency proposes to take to give effect to the
+Commissioner's recommendations.
+(4) If, within a reasonable time after the report is made, no
+action is taken that seems to the Commissioner to be adequate
+and appropriate, the Commissioner, in the Commissioner's
+discretion, after considering the comments (if any) made by or
+on behalf of the agency concerned, may send a copy of the
+report and recommendations to the Prime Minister.
+(5) As soon as practicable after receiving a report under
+subsection (4) of this section, the Prime Minister may lay a copy
+of all or any part of the report before the House of
+Representatives.
+(6) Nothing in section 76 or section 77 or sections 82 to 89 of
+this Act shall apply in relation to any complaint made under
+this Part of this Act in relation to any action of an intelligence
+agency, or in relation to any investigation under this Part of this
+Act into any such action.
+Proceedings Before Complaints Review Tribunal
+
+82. Proceedings before Complaints Review Tribunal(1) This section applies to any person(a) In respect of whom an investigation has been conducted
+under this Part of this Act in relation to any action
+alleged to be an interference with the privacy of an
+individual; or
+(b) In respect of whom a complaint has been made in relation
+to any such action, where conciliation under section
+74 of this Act has not resulted in a settlement.
+(2) Subject to subsection (3) of this section, civil proceedings
+before the Complaints Review Tribunal shall lie at the suit of
+the Proceedings Commissioner against any person to whom this
+section applies in respect of any action of that person that is an
+interference with the privacy of an individual.
+(3) The Proceedings Commissioner shall not take proceedings
+under subsection (2) of this section against any person to whom
+this section applies unless the Proceedings Commissioner has
+given that person an opportunity to be heard.
+(4) The Proceedings Commissioner may, under subsection (2)
+of this section, bring proceedings on behalf of a class of
+individuals, and may seek on behalf of individuals who belong
+to the class any of the remedies described in section 85 of this
+Act, where the Proceedings Commissioner considers that a
+person to whom this section applies is carrying on a practice
+which affects that class and which is an interference with the
+privacy of an individual.
+(5) Where proceedings are commenced by the Proceedings
+Commissioner under subsection (2) of this section, the
+aggrieved individual (if any) shall not be an original party to, or,
+unless the Tribunal otherwise orders, join or be joined in, any
+such proceedings.
+Cf. 1977, No. 49, s. 38 (1)-(3); 1983, No. 56, s. 12 (1)
+8S. Aggrieved individual may bring proceedings
+before Complaints Review Tribunal-Notwithstanding
+section 82 (2) of this Act, the aggrieved individual (if any) may
+himself or herself bring proceedings before the Complaints
+Review Tribunal against a person to whom section 82 of this
+Act applies if the aggrieved individual wishes to do so, and(a) The Commissioner or the Proceedings Commissioner is of
+the opinion that the complaint does not have
+substance or that the matter ought not to be
+proceeded with; or
+(b) In a case where the Proceedings Commissioner would be
+entitled to bring proceedings, the Proceedings
+Commissioner(i) Agrees to the aggrieved individual bringing
+proceedings; or
+(ii) Declines to take proceedings.
+Cf. 1977, No. 49, s. 38 (4); 1983, No. 56, s. 12 (2)
+84. Remedies that may be sought-In any proceedings
+before the Complaints Review Tribunal, the Proceedings
+Commissioner or the aggrieved individual (as the case mar be)
+may seek such of the remedies described in section 85 0 this
+Act as he or she thinks fit.
+Cf. 1977, No. 49, s. 38 (5); 1983, No. 56, s. 12 (3)
+86. Powers of Complaints Review Tribunal-( 1) If, in
+any proceedings under section 82 or section 83 of this Act, the
+Tribunal is satisfied on the balance of probabilities that any
+action of the defendant is an interference with the privacy of an
+individual, it may grant one or more of the following remedies:
+(a) A declaration that the action of the defendant is an
+interference with the privacy of an individual:
+(b) An order restraining the defendant from continuing or
+repeating the interference, or from engaging in, or
+causing or permitting others to engage in, conduct of
+the same kind as that constituting the interference, or
+conduct of any similar kind specified in the order:
+(c) Damages in accordance with section 88 of this Act:
+(d) An order that the defendant perform any acts specified in
+the order with a view to remedying the interference,
+or redressing any loss or damage suffered by the
+aggrieved individual as a result of the interference, or
+both:
+(e) Such other relief as the Tribunal thinks fit.
+(2) In any proceedings under section 82 or section 83 of this
+Act, the Tribunal may award such costs against the defendant
+as the Tribunal thinks fit, whether or not the Tribunal makes
+any other order, or may award costs against the plaintiff, or
+may decline to award costs against either party.
+(3) Where the Proceedings Commissioner is the plaintiff, any
+costs awarded against him or her shall be paid by the Privacy
+Commissioner, and the Privacy Commissioner shall not be
+entitled to be indemnified by the aggrieved individual (if any).
+(4) It shall not be a defence to proceedings under section 82
+or section 83 of this Act that the interference was unintentional
+or without negligence on the part of the defendant, but the
+Tribunal shall take the conduct of the defendant into account in
+deciding what, if any, remedy to grant.
+Cf. 1977, No. 49, s. 38 (6)-(8); 1983, No. 56, s.12 (4)
+
+86. Right of Proceedings Commissioner to appear in
+proceedings-( 1) The Proceedings Commissioner may appear
+and be heard, in person or by counsel,(a) In any proceedings under this Part of this Act before the
+Complaints Review Tribunal; and
+(b) In any proceedings in(i) A District Court; or
+(ii) The High Court; or
+(iii) The Court of Appeal,in relation to any proceedings that are or have been
+before the Complaints Review Tribunal under this
+Part of this Act,whether or not the Proceedings Commissioner is or was a party
+to the proceedings before the Complaints Review Tribunal.
+(2) Where, pursuant to subsection (1) of this section, the
+Proceedings Commissioner appears in any proceedings of a
+kind described in that subsection, he or she shall, unless those
+proceedings are by way of appeal, have the right(a) To call evidence on any matter (including evidence in
+rebuttal) that should be taken into account in the
+proceedings:
+(b) To examine, cross-examine, and re-examine witnesses,but shall have no greater rights than parties to the proceedings
+in respect of the calling of evidence or evidence in rebuttal, or
+in respect of the examination, cross-examination, and reexamination of witnesses.
+(3) Where, pursuant to subsection (1) of this section, the
+Proceedings Commissioner, not being a party to any
+proceedings before the Tribunal, appears in those proceedings
+or in any proceedings in any court in relation to those
+proceedings, the Tribunal or the Court, as the case may be,
+may make such order as it thinks fit(a) As to the payment by any party to the proceedings before
+the Tribunal or the Court of the costs incurred by the
+Proceedings Commissioner in so doing; or
+(b) As to the payment by the Proceedings Commissioner of
+any costs incurred by any of the parties to the
+proceedings before the Tribunal or the Court by
+reason of the appearance of the Proceedings
+Commissioner.
+
+(4) Costs ordered to be paid by the Proceedings
+Commissioner shall be paid by the Privacy Commissioner.
+(5) The Privacy Commissioner may appear and be heard in
+any proceedings in which the Proceedings Commissioner would
+be entitled to appear and be heard under this section but
+declines to do so, and, where the Privacy Commissioner so
+appears, the provisions of this section shall apply accordingly
+with all necessary modifications.
+(6) Nothing in this section limits or affects(a) Section 85 (2) of this Act; or
+(b) Any power of a court to award costs in any proceedings to
+which the Proceedings Commissioner is a party.
+C£ 1977, No. 49, s. 38A; 1983, No. 56, s. 13
+87. Proof of exceptions-Where, by any provision of the
+information privacy principles or of this Act or of a code of
+practice issued under section 46 or section 63 of this Act,
+conduct is excepted from conduct that is an interference with
+the privacy of an individual, the onus of proving the exception
+in any proceedings under this Part of this Act lies upon the
+defendant.
+Cf. 1977,No.49,s.39
+88. Damages-(I) In any proceedings under section 82 or
+section 83 of this Act, the Tribunal may award damages against
+the defendant for an interference with the privacy of an
+individual in respect of anyone or more of the following:
+(a) Pecuniary loss suffered as a result of, and expenses
+reasonably incurred by the aggrieved individual for
+the purpose of, the transaction or activity out of
+which the interference arose:
+(b) Loss of any benefit, whether or not of a monetary kind,
+which the aggrieved individual might reasonably have
+been expected to obtain but for the interference:
+(c) Humiliation, loss of dignity, and injury to the feelings of
+the aggrieved individual.
+(2) Damages recovered by the Proceedings Commissioner
+under this section shall be paid by the Privacy Commissioner to
+the aggrieved individual on whose behalf the proceedings were
+brought or, if that individual is an unmarried minor or is not of
+full mental capacity, in the discretion of the Proceedings
+Commissioner to the Public Trustee.
+(3) Where money is paid to the Public Trustee under
+subsection (2) of this section,-
+(a) Section 12 of the Minors' Contracts Act 1969 shall apply
+in the case of an unmarried minor; and
+(b) Section 66 of the Public Trust Office Act 1957 shall apply
+in the case of an individual who is not of full mental
+capacity.
+Cf. 1977, No. 49, s.40; 1983, No. 56, s. 14; 1992, No. 16,
+s. 15 (1)
+89. Certain provisions of Human Rights Commission
+Act 1977 to apply-Sections 41 to 44 and Part IV of the
+Human Rights Commission Act 1977 shall apply, with such
+modifications as are necessary, in respect of proceedings under
+section 82 or section 83 of this Act as if they were proceedings
+under section 38 of that Act.
+PART IX
+PROCEEDINGS OF COMMISSIONER
+
+90. Procedure-( 1) Every investigation under Part VIII of
+this Act by the Commissioner shall be conducted in private.
+(2) Subject to section 120 of this Act,(a) The Commissioner may hear or obtain information from
+such persons as the Commissioner thinks fit:
+(b) The Commissioner may make such inquiries as the
+Commissioner thinks fit:
+(c) It shall not be necessary for the Commissioner to hold any
+hearing:
+(d) Subject to section 73 (b) of this Act, no person shall be
+entitled as of right to be heard by the Commissioner.
+(3) Subject to the provisions of this Act, the Commissioner
+may regulate his or her procedure in such manner as he or she
+thinks fit.
+Cf. 1977, No. 49, s. 72
+91. Evidence-(I) The Commissioner may summon before
+him or her and examine on oath any person who in the
+Commissioner's opinion is able to give information relevant to
+an investigation being conducted by the Commissioner under
+Part VIII of this Act, or an inquiry being carried out by the
+Commissioner under section 13 (1) (m) ofthis Act.
+(2) The Commissioner may administer an oath to any person
+summoned pursuant to subsection (1) of this section.
+(3) Every examination by the Commissioner under subsection
+(1) of this section shall be deemed to be a judicial proceeding
+within the meaning of section 108 of the Crimes Act 1961
+(which relates to perjury).
+(4) The Commissioner may from time to time, by notice in
+writing, require any person who in the Commissioner's opinion
+is able to give information relevant to an investigation being
+conducted by the Commissioner under Part VIII of this Act, or
+an inquiry being carried out by the Commissioner under
+section 13 (1) (m) of this Act, to furnish such information, and
+to produce such documents or things in the possession or under
+the control of that person, as in the opinion of the
+Commissioner are relevant to the subject·matter of the
+investigation or inquiry.
+(5) Where the attendance of any person is required by the
+Commissioner under this section, the person shall be entitled to
+the same fees, allowances, and expenses as if the person were a
+witness in a court and, for the purpose,(a) The provisions of any regulations in that behalf under the
+Summary Proceedings Act 1957 shall apply
+accordingly; and
+(b) The Commissioner shall have the powers of a court under
+any such regulations to fix or disallow, in whole or in
+part, or to increase, any amounts payable under the
+regulations.
+Cf. 1977, No. 49, s. 73 (1), (2), (7); 1991, No. 126, ss. 24,
+26 (5)
+92. Compliance with requirements of Commissioner(1) This section applies in every case where, during the course
+
+of an investigation under Part VIII of this Act of any decision of
+any agency in relation to an information privacy request, the
+Commissioner, pursuant to any power conferred on the
+Commissioner by section 91 of this Act, requires that agency to
+furnish or produce to the Commissioner any information or
+document or thing which relates to that investigation.
+(2) In any case to which this section applies, the agency to
+which the requirement is made shall, subject to section 93 of
+this Act, as soon as reasonably practicable, and in no case later
+than 20 working days after the day on which the requirement is
+received by the agency, comply with the requirement.
+(3) If any agency (being a Department or a Minister or an
+organisation) fails, within the time limit fixed by subsection (2)
+of this section (or, where that time limit has been extended
+under section 93 of this Act, within that time limit as so
+extended), to comply with any requirement to which
+subsection (1) of this section applies, the Commissioner may
+report such failure to the Prime Minister.
+Cf. 1982, No. 156, s. 29A(I), (6); 1987, No. 8, s. 17 (3);
+1987, No. 174, s. 29 (1); 1991, No. 126, s. 25 (1), (6)
+98. Extension of time Iimit-(I) Where any requirement
+to which section 92 of this Act applies is made to any agency,
+the agency may extend the time limit set out in subsection (2)
+of that section in respect of that requirement if(a) The requirement relates to, or necessitates a search
+through, a large quantity of information or a large
+number of documents or things, and meeting the
+original time limit would unreasonably interfere with
+the operations of the agency; or
+(b) Consultations necessary before the requirement can be
+complied with are such that the requirement cannot
+reasonably be complied with within the original time
+limit; or
+(c) The complexity of the issues raised by the requirement
+are such that the requirement cannot reasonably be
+complied with within the original time limit.
+(2) Any extension under subsection (1) of this section shall be
+for a reasonable period of time having regard to the
+circumstances.
+(3) The extension shall be effected by giving or posting notice
+of the extension to the Commissioner within 20 working days
+after the day on which the requirement is received.
+(4) The notice effecting the extension shall(a) Specify the period of the extension; and
+(b) Give the reasons for the extension; and
+(c) Contain such other information as is necessary.
+Cf. 1982, No. 156, s. 29A (2)-(5); 1987, No. 8, s. 17 (3);
+1987, No. 174, s. 29 (2)-(5); 1991, No. 126, s. 25 (2)-(4)
+
+94. Protection and privileges of witnesses, etc.(1) Except as provided in section 119 of this Act, every person
+shall have the same privileges in relation to the giving of
+information to, the answering of questions put by, and the
+production of documents and things to, the Commissioner or
+any employee of the Commissioner as witnesses have in any
+court.
+(2) No person shall be liable to prosecution for an offence
+against any enactment, other than section 127 of this Act, by
+reason of that person's compliance with any requirement of the
+Commissioner or any employee of the Commissioner under
+section 91 of this Act.
+Cf. 1975, No. 9, s. 19 (5), (7); 1977, No. 49, s. 73 (3), (6);
+1991, No. 126, s. 26 (1), (4)
+95. Disclosures of infonnation, etc.-( 1) Subject to
+subsection (2) of this section and to section 94 of this Act, any
+person who is bound by the provisions of any enactment to
+maintain secrecy in relation to, or not to disclose, any matter
+may be required to supply any information to, or answer any
+question put by, the Commissioner in relation to that matter, or
+to produce to the Commissioner any document or thing
+relating to it, notwithstanding that compliance with that
+requirement would otherwise be in breach of the obligation of
+secrecy or non·disclosure.
+(2) Compliance with a requirement of the Commissioner
+(being 'a requirement made pursuant to subsection (1) of this
+section) is not a breach of the relevant obligation of secrecy or
+non· disclosure or of the enactment by which that obligation is
+imposed.
+(3) Where(a) The Prime Minister certifies that the gIvmg of any
+information, or the production of any document or
+thing, might prejudice(i) The security or defence of New Zealand, or the
+international relations of the Government of New
+Zealand; or
+
+(ii) Any interest protected by section 7 of the
+Official Information Act 1982 (which relates to the
+Cook Islands, Niue, Tokelau, and the Ross
+Dependency); or
+(b) The Attorney·General certifies that the giving of any
+information, or the production of any document or
+thing,(i) ~ight prejudice the prevention, investigation, or
+detectIon of offences; or
+
+(ii) Might involve the disclosure of proceedings of
+Cabinet, or any committee of Cabinet, relating to
+matters of a secret or confidential nature, and such
+disclosure would be injurious to the public interest,-
+neither the Commissioner nor any employee of the
+Commissioner shall require the information to be given or, as
+the case may be, the document or thing to be produced.
+Cf. 1975, No. 9, ss. 19 (3), (4), 20 (1); 1977, No. 49, s. 74;
+1987, No. 8, s. 24 (1); 1991, No. 126, ss. 26 (2), (3), 27
+
+96. Proceedings privileged-( 1) This section applies to(a) The Commissioner; and
+(b) Every person engaged or employed in connection with
+the work of the Commissioner.
+(2) Subject to subsection (3) of this section,(a) No proceedings, civil or criminal, shall lie against any
+person to whom this section applies for anything he
+or she may do or report or say in the course of the
+exercise or intended exercise of his or her duties
+under this Act, unless it is shown that he or she acted
+in bad faith:
+(b) No person to whom this section applies shall be required
+to give evidence in any court, or in any proceedings
+of a judicial nature, in respect of anything coming to
+his or her knowledge in the exercise of his or her
+functions.
+(3) Nothing in subsection (2) of this section applies in respect
+of proceedings for(a) An offence against section 78 or section 78A (1) or section
+105 or section 105A or section 105B of the Crimes Act
+1961; or
+(b) The offence of conspiring to commit an offence against
+section 78 or section 78A (1) or section 105 or section
+105A or section 105B of the Crimes Act 1961.
+(4) Anything said or any information supplied or any
+document or thing produced by any person in the course of any
+inquiry by or proceedings before the Commissioner under this
+Act shall be privileged in the same manner as if the inquiry or
+proceedings were proceedings in a court.
+(5) For the purposes of clause S of Part 11 of the First
+Schedule to the Defamation Act 1992, any report made under
+this Act by the Commissioner shall be deemed to be an official
+report made by a person holding an inquiry under the
+authority of the Parliament of New Zealand.
+Cf. 1975, No. 9, s. 26; 1982, No. 164, s.5; 1991, No. 126,
+s.29
+
+PART X
+INFORMATION MATCHING
+
+Interpretation
+97. Interpretation-In this Part of this Act, unless the
+
+context otherwise requires,"Adverse action" means any action that may adversely
+affect the rights, benefits, privileges, obligations, or
+interests of any specific individual; and, without
+limiting the generality of the foregoing, includes any
+decision(a) To cancel or suspend any monetary payment:
+(b) To refuse an application for a monetary
+payment:
+(c) To alter the rate or amount of a monetary
+payment:
+(d) To recover an overpayment of a monetary
+payment:
+(e) To make an assessment of the amount of any
+tax, levy, or other charge, or of any contribution, that
+is payable by any individual, or to alter any such
+assessment:
+(f) To investigate the possible commission of an
+offence:
+"Authorised information matching information" in
+relation to any specified agency, means information
+that consists of or includes information disclosed
+pursuant to an information matching provision:
+"Authorised information matching programme" means
+the comparison (whether manually or by means of
+any electronic or other device) of authorised
+information matching information with other
+personal information for the purpose of producing or
+verifying information about an identifiable individual:
+"Discrepancy", in relation to an authorised information
+matching programme, means a result of that
+programme that warrants the taking of further action
+by. anr agency for the purpose of giving effect to the
+objectIVe of the programme:
+"Information matching programme"
+means the
+comparison (whether manually or by means of any
+electronic or other device) of any document that
+contains personal information about 10 or more
+individuals with 1 or more other documents that
+contain personal information about 10 or more
+individuals, for the purpose of producing or verifying
+information that may be used for the purpose of
+taking adverse action against an identifiable
+individual:
+"Information matching provision" means any provision
+specified in the second column of the Third Schedule
+to this Act as an information matching provision of
+an enactment specified in the first column of that
+Schedule:
+"Information matching rules" means the rules for the time
+being set out in the Fourth Schedule to this Act:
+"Monetary payment" includes(a) A benefit within the meaning of section 3 (1) of
+the Social Security Act 1964:
+(b) A lump sum payable under section 61DB or
+section 61 DC or section 61 DD of that Act:
+(c) Any special assistance granted out of the Crown
+Bank. Account from money appropriated by
+Parliament under section 124 (1) (d) or (da) of that
+Act:
+(d) Any compensation payable under the Accident
+Rehabilitation and Compensation Insurance Act
+1992:
+"Specified agency" means any of the following agencies:
+(a) The Accident Rehabilitation and Compensation
+Insurance Corporation:
+(b) The Customs Department:
+(c) The Department of Justice:
+(d) The Department of Labour:
+(e) The Department of Social Welfare:
+(f) The Inland Revenue Department:
+(g) The Ministry of Education:
+(h) The Registrar·General under the Births and
+Deaths Registration Act 1951.
+Cf. 1991, No. 126, s.2
+Information Matching Guidelines
+
+98. Information matching guidelines-The following
+matters are the matters referred to in section 13 (1) (f) of this
+Act to which the Commissioner shall have particular regard, in
+examining any proposed legislation that makes provision for
+the collection of personal information by any public sector
+agency, or the disclosure of personal information by one public
+sector agency to any other public sector agency, in any case
+where the Commissioner considers that the information might
+be used for the purposes of an information matching
+programme:
+(a) Whether or not the objective of the programme relates to
+a matter of significant public importance:
+(b) Whether or not the use of the programme to achieve that
+objective will result in monetary savings that are both
+significant and quantifiable, or in other comparable
+benefits to society:
+(c) Whether or not the use of an alternative means of
+achieving that objective would give either of the
+results referred to in paragraph (b) of this section:
+(d) Whether or not the public interest in allowing the
+programme to proceed outweighs the public interest
+in adhering to the information privacy principles that
+the programme would otherwise contravene:
+(e) Whether or not the programme involves information
+matching on a scale that is excessive, having regard
+to(i) The number of agencies that will be involved in
+the programme; and
+(ii) The amount of detail about an individual that
+will be matched under the programme:
+(f) Whether or not the programme will comply with the
+information matching rules.
+Authorised Information Matching Programmes
+99. Information matching agreements-( 1) No personal
+information held by any specified agency shall be disclosed,
+pursuant to an information matching provision, to any other
+specified agency for the purposes of an authorised information
+matching programme except pursuant to a written agreement
+between those agencies.
+(2) Every such agreement shall incorporate provisions that
+reflect the information matching rules, or provisions that are no
+less onerous than those rules, and the agencies that are parties
+to the agreement shall comply with those provisions.
+(3) Any such agreement may provide that the agencies
+involved in the information matching programme may charge
+each other fees for the services provided for the purposes of the
+programme.
+(4) The parties to an agreement entered into pursuant to this
+section shall ensure that a copy of the agreement, and of any
+A-27
+amendments subsequently made to such an agreement, are
+forwarded to the Commissioner forthwith.
+C£ 1991, No. 126, s. 14
+100. Use of results of information matching
+programme-( 1) Subject to any other enactment or rule of
+law that limits or restricts the information that may be taken
+into account in taking adverse action against an individual, any
+specified agency that is involved in an authorised information
+matching programme may take adverse action against an
+individual on the basis of any discrepancy produced by that
+programme.
+(2) Nothing in subsection (1) of this section shall be taken to
+limit or restrict the use that may lawfully be made, by any
+specified agency, of any information produced by an
+authorised information matching programme.
+Cf. 1991, No. 126, s. 15; Data-matching Program
+(Assistance and Tax) Act 1990 (Aust.), s. 10 (1)
+101. Further prOVISIOns relating to results of
+information matching programme-( 1) Notwithstanding
+anything in section 100 of this Act, where(a) A specified agency derives or receives information
+produced by an authorised information matching
+programme; and
+(b) As a result of deriving or receiving that information, the
+agency becomes aware of a discrepancy,that agency shall destroy that information not later than the
+expiration of the period of 60 working days after the agency
+becomes aware of that discrepancy unless, before the
+expiration of that period, the agency has considered that
+information and made a decision to take adverse action against
+any individual on the basis of that discrepancy.
+(2) Any adverse action commenced by a specified agency in
+accordance with subsection (1) of this section shall be
+commenced not later than 12 months from the date on which
+the information was derived or received by the agency.
+(3) Where a specified agency decides not to take adverse
+action against any individual on the basis of information
+produced by an authorised information matching programme,
+the agency shall as soon as practicable destroy the information.
+(4) When information produced by an authorised
+information matching programme is no longer needed by a
+specified agency for the purposes of taking any adverse action
+A-27*
+against any individual, the agency shall as soon as practicable
+destroy the information.
+(5) Nothing in this section applies in relation to the Inland
+Revenue Department.
+C£ 1991, No. 126, s. 16; Data.matching Program
+(Assistance and Tax) Act 1990 (Aust.), s. 10 (2), (3)
+102. Extension of time limit-Where a specified agency
+derives or receives information produced by an authorised
+information matching programme, the Commissioner may,
+either generally or in respect of any case or class of cases,
+extend the time limit set out in section 101 of this Act in
+respect of that information if the Commissioner is satisfied
+that,(a) Because of the large quantity of information so derived or
+received by the agency; or
+(b) Because of the complexity of the issues involved; or
+(c) For any other reason,the agency cannot reasonably be required to meet the time
+limit.
+Cf. 1991, No. 126, s. 17; Data·matching Program
+(Assistance and Tax) Act 1990 (Aust.), s. 10 (3)
+108. Notice of adverse action proposed-(I) Subject to
+subsection (2) of this section, a specified agency shall not take
+adverse action against any individual on the basis (whether
+wholly or in part) of a discrepancy produced by an authorised
+information matching programme(a) Unless that agency has given that individual written
+notice(i) Specifying particulars of the discrepancy and of
+the adverse action that it proposes to take; and
+(ii) Stating that the individual has 5 working days
+from the receipt of the notice in which to show cause
+why the action should not be taken; and
+(b) Until the expiration of those 5 working days.
+(2) Nothing in subsection (1) of this section prevents an
+agency from taking adverse action against an individual if
+compliance with the requirements of that subsection would
+prejudice any investigation into the commission of an offence
+or the possible commission of an offence.
+(3) Every notice required to be given to any individual under
+subsection (1) of this section may be given by delivering it to
+that individual, and may be delivered(a) Personally; or
+(b) By leaving it at that individual's usual or last known place
+of residence or business or at the address specified by
+that individual in any application or other document
+received from that individual; or
+(c) By posting it in a letter addressed to that individual at that
+place of residence or business or at that address.
+(4) If any such notice is sent to any individual by post, then in
+the absence of proof to the contrary, the notice shall be
+deemed to have been delivered to that individual on the fourth
+day after the day on which it was posted, and in proving the
+delivery it shall be sufficient to prove that the letter was
+properly addressed and posted.
+er. 1991, No. 126, s. 18; 5 use 552a (p) (3), (4); Data·
+matching Program (Assistance and Tax) Act 1990
+(Aust.), s. 11
+104. Reporting requirements-(I) Every specified agency
+that is involved in an authorised information matching
+programme shall make such reports to the Commissioner in
+respect of that programme as the Commissioner may from
+time to time require.
+(2) Without limiting the generality of subsection (1) of this
+section, the matters on which the Commissioner may require
+any agency to submit a report include the following:
+(a) The actual costs and benefits of an authorised information
+matching programme:
+(b) Any difficulties experienced in the operation of an
+authorised information matching programme, and
+how those difficulties are being, or have been,
+overcome:
+(c) Whether or not internal audits or other forms of
+assessment are undertaken by an agency in relation
+to an authorised information matching programme,
+and, if so, the results of those audits or assessments:
+(d) Where an agency dispenses with the giving of notice
+under section 103 of this Act, the reasons why such a
+dispensation is made, and the grounds in support of
+those reasons:
+(e) The details of the operation of an authorised information
+matching programme, including(i) The number of matches undertaken:
+(ii) The proportion of matches that revealed
+discrepancies in information involved in the
+matching:
+(iii) The number of discrepancies so revealed:
+(iv) The proportion of cases in which action was
+taken as a result of such discrepancies:
+(v) The number of cases in which such action was
+taken:
+(vi) The number of cases in which such action was
+taken even though the accuracy of the discrepancy
+was challenged:
+(vii) The proportion of cases in which such action
+did not proceed after the individual concerned was
+notified of the discrepancy:
+(viii) The number of cases in which action taken as
+a result of a discrepancy was successful:
+(f) Such other matters as the Commissioner considers
+relevant.
+Cf. 1991, No. 126, s.19; Data·matching Program
+(Assistance and Tax) Act 1990 (Aust.), clause 9 of
+Schedule
+
+105. Information matching programmes to be
+reported on in annual report-(I) The Commissioner shall
+include in every annual report of the Commissioner, in relation
+to each authorised information matching programme that is
+carried out (in whole or in part) during the year to which the
+report relates,(a) An outline of the programme; and
+(b) An assessment of the extent of the programme's
+compliance, during that year, with(i) Sections 99 to 103 of this Act; and
+(ii) The information matching rules; and
+(c) The details of each extension granted under section 102
+of this Act, the reasons why the extension was
+granted, and the grounds in support of those reasons;
+and
+(d) The details of each approval given, during that year,
+under clause 3 of the Fourth Schedule to this Act, the
+reasons why the approval was given, and the grounds
+in support of those reasons.
+(2) Nothing in subsection (1) of this section requires the
+Commissioner to include in any annual report, in respect of any
+authorised information matching programme, any information
+the disclosure of which would be likely to frustrate the objective
+of the programme.
+(3) For the purposes of carrying out any assessment required
+by subsection (1) (b) of this section, Part IX of this Act shall
+apply, with such modifications as are necessary, as if the
+assessment were an investigation under Part VIII of this Act.
+Cf. 1991, No. 126, s.20; Data·matching Program
+(Assistance and Tax) Act 1990 (Aust.), clause 10 (1) of
+Schedule
+106. Review of statutory authorities for information
+matching-(I) As soon as practicable after the 1st day of
+January 1994, and then at intervals of not more than 5 years,
+the Commissioner shall(a) Review the operation of every information matching
+provision since(i) The 19th day of December 1991 (in the case of
+the first review carried out under this paragraph); or
+(ii) The date of the last review carried out under
+this paragraph (in the case of every subsequent
+review); and
+(b) Consider whether or not, ill the Commissioner's
+opinion,(i) The authority conferred by the information
+matching provision should be continued; and
+(ii) Any amendments to the provision are necessary
+or desirable; and
+(c) Report the Commissioner's findings to the responsible
+Minister.
+(2) As soon as practicable after receiving a report from the
+Commissioner under subsection (1) (c) of this section, the
+responsible Minister shall lay a copy of that report before the
+House of Representatives.
+Cf. 1991, No. 126, s. 21
+107. Amendment of information matching rules(1) For the purposes of this Part of this Act, the GovernorGeneral may from time to time, by Order in Council, make
+such amendments to the Fourth Schedule to this Act as the
+Governor-General thinks fit.
+(2) The power conferred by subsection (1) of this section
+includes the power to revoke the Fourth Schedule to this Act
+and substitute a new Schedule.
+(3) No order that amends the Fourth Schedule to this Act
+shall be made otherwise than in accordance with the
+recommendations of the Commissioner.
+
+Avoidance of Controls on Information Matching
+108. Avoidance of controls on infonnation matching
+through use of exceptions to infonnation privacy
+principles-Where the collection or disclosure of information
+
+is authorised by an information matching provision, nothing in
+subclause (2) (d) (i) of principle 2 or paragraph (e) (i) of principle
+11 authorises or permits the collection or disclosure of that
+information for the purposes of(a) Any authorised information matching programme; or
+(b) Any information matching programme the objective of
+which is similar in nature to any authorised
+information matching programme.
+109. Avoidance of controls on infonnation matching
+through use
+of official infonnation statutesNotwithstanding anything in the Official Information Act 1982
+or the Local Government Official Information and Meetings
+Act 1987, no public sector agency shall disclose pursuant to
+either of those enactments, to any other public sector agency,
+any personal information if the sole or principal purpose for
+which that information is sought is for use in an information
+matching programme.
+
+PART XI
+LAw ENFORCEMENT INFORMATION
+
+110. Interpretation-In this Part of this Act, unless the
+context otherwise requires,"Accessing agency" means any public sector agency for
+the time being specified in the Fifth Schedule to this
+Act as an agency to which law enforcement
+information held by a holder agency is available:
+"Holder agency" means any public sector agency for the
+time being specified in the Fifth Schedule to this Act
+as an agency the records of which are available to an
+accessing agency or agencies:
+"Law enforcement information" means any information
+that(a) Is about an identifiable individual; and
+(b) Is specified in the Fifth Schedule to this Act:
+"Local authority" means a local authority or public body
+named or specified in the First Schedule or the
+Second Schedule to the Local Government Official
+Information and Meetings Act 1987.
+
+Ill. Access by accessing agencies to law enforcement
+information-An accessing agency may have access to law
+enforcement information held by a holder agency if such access
+is authorised by the provisions of the Fifth Schedule to this Act.
+112. Local authorities may be authorised to have
+access
+to
+law enforcement information-( 1) The
+responsible Minister may from time to time, by notice in the
+Gazette, authorise any local authority to have access to law
+enforcement information held by a holder agency, where
+access to that information by a local authority is permitted by
+the provisions of the Fifth Schedule to this Act.
+(2) Any authority may be granted under subsection (1) of this
+section subject to such terms and conditions as the responsible
+Minister thinks fit and specifies in the notice.
+(3) Any notice under subsection (1) of this section may be in
+like manner amended or revoked at any time.
+(4) Any notice given under section 4E of the Wanganui
+Computer Centre Act 1976 and in force immediately before
+the commencement of this section shall be deemed to have
+been given under this section.
+
+Cf. 1976, No. 19, s. 4E; 1989, No. 5, s. 3
+llS. Amendment of Fifth Schedule-Before the 1st day
+of July 1996, the Governor-General may from time to time, by
+Order in Council made on the advice of the responsible
+Minister given after consultation with the Privacy
+Commissioner,(a) Add, omit, or amend any item in the Fifth Schedule to
+this Act; or
+(b) Otherwise amend that Schedule; or
+(c) Otherwise revoke that Schedule and substitute a new
+Schedule.
+cf. 1976, No. 19, s. 30; 1989, No. 5, s. 17
+114. Expiry of power to amend Fifth Schedule by
+Order in Council-Section 113 of this Act shall expire on the
+1st day of July 1996, but the expiration of that section shall not
+affect the validity of any Order in Council that has been made
+under that section and that is in force immediately before that
+date.
+
+PART XII
+MISCELLANEOUS PROVISIONS
+
+General
+115. Protection against certain actions-(I) Where any
+personal information is made available in good faith pursuant
+to principle 6,(a) No proceedings, civil or criminal, shall lie against the
+Crown or any other person in respect of the making
+available of that information, or for any consequences
+that follow from the making available of that
+information; and
+(b) No proceedings, civil or criminal, in respect of any
+publication involved in, or resulting from, the making
+available of that information shall lie against the
+author of the information or any other person by
+reason of that author or other person having supplied
+the information to an agency.
+(2) The making available of, or the giving of access to, any
+personal information in consequence of a request made under
+principle 6 shall not be taken, for the purposes of the law
+relating to defamation or breach of confidence or infringement
+of copyright, to constitute an authorisation or approval of the
+publication of the document or of its contents by the individual
+to whom the information is made available or the access is
+given.
+Cr. 1982, No. 156, s. 48; 1987, No. 8, s. 21; 1987, No. 174,
+s.41
+116. Commissioner and staff to maintain secrecy(1) Every person to whom section 96 of this Act applies shall
+maintain secrecy in respect of all matters that come to that
+person's knowledge in the exercise of that person's functions
+under this Act.
+(2) Notwithstanding anything in subsection (1) ofthis section,
+the Commissioner may disclose such matters as in the
+Commissioner's opinion ought to be disclosed for the purposes
+of giving effect to this Act.
+(3) Except where it is necessary to do so for the purposes of
+referring a matter to the Proceedings Commissioner pursuant
+to section 77 (2) of this Act, the power conferred by subsection
+(2) of this section shall not extend to(a) Any matter that might prejudice(i) The security, defence, or international relations
+of New Zealand (including New Zealand's relations
+with the government of any other country or with
+any international organisation); or
+(ii) Any interest protected by section 7 of the
+Official Information Act 1982; or
+(iii) The prevention, investigation, or detection of
+offences; or
+(b) Any matter that might involve the disclosure of the
+deliberations of Cabinet; or
+(c) Any information, answer, document, or thing obtained by
+the Commissioner by reason only of compliance with
+a requirement made pursuant to section 95 (1) of this
+Act.
+Cf. 1975, No. 9, s. 21 (2), (4), (5); 1987, No. 8, s. 24 (2);
+1991, No. 126, s. 30
+117. Consultation with Ombudsmen-Notwithstanding
+anything in section 116 of this Act, the Commissioner may
+from time to time undertake consultation with an Ombudsman
+in relation to any matter relating to the functions of the
+Commissioner under Part VIII of this Act, including (without
+limitation) consultation(a) For the purposes of making a determination under section
+72 of this Act:
+(b) In relation to any matter arising out of or in the course of
+an investigation under Part VIII of this Act:
+(c) In relation to any matter relating to privacy, whether or
+not the matter arises out of a particular complaint
+made under Part VIII of this Act,and, for the purposes of any such consultation, the
+Commissioner may disclose to an Ombudsman such
+information as the Commissioner considers necessary for that
+purpose.
+118. Corrupt use of official information-Every person
+to whom section 96 of this Act applies shall be deemed for the
+purposes of sections 105 and 105A of the Crimes Act 1961 to be
+an official.
+Cf. 1977, No. 49, s.77; 1987, No. 8, s. 25 (1); 1991,
+No. 126, s. 31
+119. Exclusion of public interest immunity-( 1) Subject
+to subsection (2) of this section, the rule of law which authorises
+or requires the withholding of any document, or the refusal to
+answer any question, on the ground that the disclosure of the
+document or the answering of the question would be injurious
+to the public interest shall not apply in respect of(a) Any investigation by or proceedings before the
+Commissioner or the Tribunal under this Act; or
+(b) Any application under section 4 (1) of the Judicature
+Amendment Act 1972 for the review of any decision
+under this Act;but not so as to give any party any infonnation that he or she
+would not, apart from this section, be entitled to.
+(2) Nothing in subsection (1) of this section affects section 32
+of this Act.
+Cf. 1982, No. 156, s.l1; 1987, No. 174, s.9; 1991,
+No. 126, s. 28
+120. Adverse comment-The Commissioner shall not, in
+any report or statement made pursuant to this Act, make any
+comment that is adverse to any person unless that person has
+been given an opportunity to be heard.
+Cf. 1977, No. 49, s. 78 (2); 1991, No. 126, s. 32
+
+Delegations
+121. Delegation
+of functions
+or
+powers
+of
+Commissioner-( 1) The Commissioner may from time to
+time delegate to any person holding office under the
+Commissioner all or any of the Commissioner's functions and
+powers under this Act or any other Act.
+(2) Every delegation under this section shall be in writing.
+(3) No delegation under this section shall include the power
+to delegate under this section.
+(4) The power of the Commissioner to delegate under this
+section does not limit any power of delegation conferred on the
+Commissioner by any other Act.
+(5) Subject to any general or special directions given or
+conditions imposed by the Commissioner, the person to whom
+any functions or powers are delegated under this section may
+exercise any functions or powers so delegated to that person in
+the same manner and with the same effect as if they had been
+conferred on that person directly by this section and not by
+delegation.
+(6) Every person purporting to act pursuant to any delegation
+under this section shalf, in the absence of proof to the contrary,
+be presumed to be acting in accordance with the tenns of the
+delegation.
+(7) Any delegation under this section may be made-
+(a) To a specified person or to persons of a specified class, or
+to the holder or holders for the time being of a
+specified office or specified class of offices:
+(b) Subject to such restrictions and conditions as the
+Commissioner thinks fit:
+(c) Either generally or in relation to any particular case or
+class of cases.
+(8) No such delegation shall affect or prevent the exercise of
+any function or power by the Commissioner, nor shall any such
+delegation affect the responsibility of the Commissioner for the
+actions of any person acting under the delegation.
+Cf. 1975, No. 9, s. 28; 1991, No. 126, s. 33 (1)-(8)
+
+122. Delegate to produce evidence of authority-Any
+person purporting to exercise any power of the Commissioner
+by virtue of a delegation under section 121 o~ this Act shall,
+when required to do so, produce evidence of that person's
+authority to exercise the power.
+Cf. 1991, No. 126, s. 33 (9)
+128. Revocation of delegations-( 1) Every delegation
+under section 121 of this Act shall be revocable in writing at
+will.
+(2) Any such delegation, until it is revoked, shall continue in
+force according to its tenor, notwithstanding that the
+Commissioner by whom it was made may have ceased to hold
+office, and shall continue to have effect as if made by the
+successor in office of the Commissioner.
+Cf. 1991, No. 126, s. 34
+124. Delegation of powers by local authority-(I) A
+local authority may from time to time, either generally or
+particularly, delegate to any officer or employee of the local
+authority all or any of the powers of the local authority under
+this Act.
+(2) Subject to any general or special directions given or
+conditions attached by the local authority, the officer or
+employee to whom any powers are delegated under this section
+may exercise those powers in the same manner and with the
+same effect as if they had been conferred on that officer or
+employee directly by this section and not by delegation.
+(3) Until a delegation made under this section is revoked, it
+shall continue in force according to its tenor.
+(4) Where a person purports to act pursuant to a delegation
+made under this section, that person shall be presumed to be
+acting in accordance with the terms of the delegation in the
+absence of proof to the contrary.
+(5) Any delegation under this section may be made to a
+specified officer or employee, or may be made to the holder for
+the time being of a specified office.
+(6) Every delegation made under this section shall be
+revocable at will and no such delegation shall prevent the
+exercise of any power by the local authority.
+ef. 1974, No. 66, s. 715; 1979, No. 59, s. 2; 1987, No. 174,
+s.42
+
+125. Delegation of powers by officers of local
+authority-( 1) Any officer or employee of a local authority
+may from time to time, by writing under that officer's or
+employee's hand, either generally or particularly, delegate to
+any other officer or employee of the local authority all or any of
+the powers exercisable by the first-mentioned officer or
+employee under this Act, except(a) The power to delegate under this section; and
+(b) Any power delegated to that officer or employee by a
+local authority pursuant to section 124 of this Act,
+unless that delegation authorises that officer or
+employee to delegate that power to other officers or
+employees pursuant to this section.
+(2) Subject to any general or special directions given or
+conditions attached by the officer or employee making the
+delegation, the officer or employee to whom any powers are
+delegated under this section may exercise those powers in the
+same manner and with the same effect as if they had been
+conferred on that officer or employee directly by this section
+and not by delegation.
+(3) Until a delegation made under this section is revoked, it
+shall continue in force according to its tenor; and, in the event
+of the officer or employee by whom any such delegation has
+been made ceasing to hold office, the delegation shall continue
+to have effect as if made by the person for the time being
+holding the office of the officer or employee making the
+delegation.
+(4) Any delegation under this section may be made to a
+specified officer or employee, or may be made to the holder for
+the time being of any specified office.
+(5) Where any officer or employee purports to act pursuant
+to a delegation made under this section, that officer or
+employee shall be presumed to be acting in accordance with
+the terms of the delegation in the absence of proof to the
+contrary.
+(6) Every delegation made under this section shall be
+revocable at will, and no such delegation shall prevent the
+exercise of any power by the officer or employee making the
+delegation.
+Cf. 1974, No. 66, s. 716; 1979, No. 59, s. 2; 1987, No. 174,
+s.43
+Liability and Offences
+
+126. Liability of employer and principals-(1) Subject to
+subsection (4) of this section, anything done or omitted by a
+person as the employee of another person shall, for the
+purposes of this Act, be treated as done or omitted by that
+other person as well as by the first·mentioned person, whether
+or not it was done with that other person's knowledge or
+approval.
+(2) Anything done or omitted by a person as the agent of
+another person shall, for the purposes of this Act, be treated as
+done or omitted by that other person as well as by the first·
+mentioned person, unless it is done or omitted without that
+other person's express or implied authority, precedent or
+subsequent.
+(3) Anything done or omitted by a person as a member of
+any agency shall, for the purposes of this Act, be treated as
+done or omitted by that agency as well as by the first·
+mentioned person, unless it is done or omitted without that
+agency's express or implied authority, precedent or
+subsequent.
+(4) In proceedings under this Act against any person in
+respect of an act alleged to have been done by an employee of
+that person, it shall be a defence for that person to prove that
+he or she or it took such steps as were reasonably practicable to
+prevent the employee from doing that act, or from doing as an
+employee of that person acts of that description.
+C£ 1977, No. 49, s. 33
+127. Offences-Every person commits an offence against
+this Act and is liable on summary conviction to a fine not
+exceeding $2,000 who,(a) Without reasonable excuse, obstructs, hinders, or resists
+the Commissioner or any other person in the exercise
+of their powers under this Act:
+(b) Without reasonable excuse, refuses or fails to comply with
+any lawful requirement of the Commissioner or any
+other person under this Act:
+(c) Makes any statement or gives any information to the
+Commissioner or any other person exercising powers
+under this Act, knowing that the statement or
+information is false or misleading:
+(d) Represents directly or indirectly that he or she holds any
+authority under this Act when he or she does not hold
+that authority.
+Cf. 1975, No. 9, s. 30; 1991, No. 126, s. 35
+Regulations
+
+128. Regulations-The Governor·General may from time
+to time, by Order in Council, make regulations for all or any of
+the following purposes:
+(a) Providing the procedure for the service of notices and
+documents under this Act:
+(b) Providing for such matters as are contemplated by or
+necessary for giving full effect to this Act and for its
+due administration.
+Amendments, Repeals, and Revocations
+
+129. Amendments, repeals, and revocations-(I) The
+enactments specified in the Sixth Schedule to this Act are
+hereby amended in the manner indicated in that Schedule.
+(2) The enactments specified in the Seventh Schedule to this
+Act are hereby repealed.
+(3) The orders specified in the Eighth Schedule to this Act are
+hereby revoked.
+Transitional Provisions and Savings
+
+180. Final report of Wanganui Computer Centre
+Privacy Commissioner-( 1) As soon as reasonably
+practicable after the 1st day of July 1993, the State Services
+Commissioner shall arrange for a final report of the Wanganui
+Computer Centre Privacy Commissioner to be sent to the
+Minister of State Services showing the Wanganui Computer
+Centre Privacy Commissioner's operations for the financial
+period ending with the close of the 30th day of June 1993, and
+shall attach to the report a copy of the Wanganui Computer
+Centre Privacy Commissioner's accounts for that period
+certified by the Audit Office.
+(2) A copy of the report and accounts shall be laid before the
+House of Representatives as soon as practicable after their
+receipt by the Minister of State Services.
+181. Privacy Commissioner to complete work in
+progress of Wanganui Computer Centre Privacy
+Commissioner-Where(a) Any request made under section 14 (1) of the Wanganui
+Computer Centre Act 1976; or
+(b) Any complaint made under section 15 of that Actis pending at the commencement of this section, then,
+notwithstanding the repeal of that Act by section 129 (2) of this
+Act,(c) The Commissioner may deal with that request or, as the
+case requires, that complaint as if the Commissioner
+were the Wanganui Computer Centre Privacy
+Commissioner under that Act; and
+(d) That Act shall continue and be in force for that purpose.
+182. Savings-For the avoidance of doubt, and without
+limiting the provisions of the Acts Interpretation Act 1924, it is
+hereby declared that the repeal, by section 129 (2) of this Act,
+of the Wanganui Computer Centre Act 1976 shall not affect(a) The continued existence of the Wanganui Computer
+Centre continued by section 3 (1) of that Act; or
+(b) The computer system established in connection with that
+computer centre; or
+(c) Any agreements or arrangements entered into by the
+Minister of State Services pursuant to section 3A of
+that Act.
+183. Transitional
+provision-The
+person
+who,
+immediately before the commencement of this section, was
+holding office as the Privacy Commissioner under the Privacy
+Commissioner Act 1991 shall, without further appointment, be
+deemed as from the commencement of this section for all
+purposes to have been appointed as the Privacy Commissioner
+under this Act, and that person's instrument of appointment
+shall be construed accordingly.
+
+SCHEDULES
+FIRST SCHEDULE
+
+Section 25
+
+PROVISIONS APPLYING IN RESPECT OF COMMISSIONER
+
+1. Employment of experts-(I) The Commissioner may, as and when
+the need arises, appoint any person who, in the Commissioner's opinion,
+possesses expert knowledge or is otherwise able to assist in connection
+with the exercise by the Commissioner of the Commissioner's functions to
+make such inquiries or to conduct such research or to make such reports or
+to render such other services as may be necessary for the efficient
+performance by the Commissioner of the Commissioner's functions.
+(2) The Commissioner shall pay persons appointed by the Commissioner
+under this clause, for services rendered by them, fees or commission or
+both at such rates as the Commissioner thinks fit, and may separately
+reimburse them for expenses reasonably incurred in rendering services for
+the Commissioner.
+
+2. Staff-(I) Subject to the provisions of this clause, the Commissioner
+may appoint such employees (including acting or temporary or casual
+employees) as may be necessary for the efficient carrying out of the
+Commissioner's functions, powers, and duties under this Act.
+(2) The Commissioner, in making an appointment under this clause,
+shcill give preference to the person who is best suited to the position.
+(3) The number of persons that may be appointed under this clause,
+whether generally or in respect of any specified duties or class of duties,
+shall from time to time be determined by the responsible Minister.
+(4) Subject to subclause (5) of this clause, employees appointed under
+this clause shall be employed on such terms and conditions of employment
+as the Commissioner from time to time determines.
+(5) The Commissioner shall(a) Before entering into a collective employment contract in relation to
+all or any of the Commissioner's employees appointed under this
+clause, consult with the State Services Commissioner with respect
+to the terms and conditions of employment to be included in the
+collective employment contract; and
+(b) From time to time consult with the State Services Commissioner in
+relation to the terms and conditions of employment applying to
+those employees appointed under this clause who are not
+covered by a collectIve employment contract.
+S. Salaries and allowances-(I) There shall be paid to the
+Commissioner and the Deputy Commissioner(a) A salary at such rate as the Higher Salaries Commission from time to
+time determines; and
+(b) Such allowances as are from time to time determined by the Higher
+Salaries Commission.
+(2) Subject to the Higher Salaries Commission Act 1977, any
+determination made under subclause (1) of this clause may be made so as
+to come into force on a date to be specified for that purpose in the
+determination, being the date of the making of the determination, or any
+other date, whether before or after the date of the making of the
+determination.
+(3) Every determination made under subclause (1) of this clause in
+respect of which no date is specified as provided in subclause (2) of this
+A-28
+
+FIRST SCHEDULE-continued
+
+PROVISIONS APPLYING IN REsPECT OF COMMISSIONER-continued
+
+clause shall come into force on the date of the making of the
+determination.
+(4) There shall also be raid to the Commissioner and the Deputy
+Commissioner, in respect 0 time spent in travelling in the exercise of the
+Commissioner's or, as the case may be, the Deputy Commissioner's
+functions, travelling allowances and expenses in accordance with the Fees
+and Travelling Allowances Act 1951, and the provisions of that Act shall
+apply accordingly as if the Commissioner and the Deputy Commissioner
+were members of a statutory Board and the travelling were in the seIVice
+of the statutory Board.
+4. Superannuation or retiring aIlowances-(I) For the purpose of
+providing superannuation or retiring allowances for the Commissioner, the
+Deputy Commissioner, and for any of the employees of the Commissioner,
+the Commissioner may, out of the funds of the Commissioner, make
+payments to or subsidise any superannuation scheme that is registered
+under the Superannuation Schemes Act 1989.
+(2) Notwithstanding anything in this Act, any person who, immediately
+before being appointed as the Commissioner or the Deputy Commissioner
+or, as the case may be, becoming an employee of the Commissioner, is a
+contributor to the Government Superannuation Fund under Part 11 or Part
+IIA of the Government Superannuation Fund Act 1956 shall be deemed to
+be, for the purposes of the Government Superannuation Fund Act 1956,
+employed in the Government seIVice so long as that person continues to
+hold office as the Commissioner or the Deputy Commissioner or, as the
+case may be, to be an employee of the Commissioner; and that Act shall
+apply to that person in all respects as if that person's seIVice as the
+Commissioner or the Deputy Commissioner or, as the case may be, as such
+an employee were Government seIVice.
+(3) Subject to the Government Superannuation Fund Act 1956, nothing
+in subclause (2) of this clause entitles any such !erson to become a
+contributor to the Government Superannuation Fun after that person has
+once ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund
+Act 1956, in accordance with subclause (2) of this clause, to a person who
+holds office as the Commissioner or the Deputy Commissioner or, as the
+case may be, is in the seIVice of the Commissioner as an employee and (in
+any such case) is a contributor to the Government Superannuation Fund,
+the term "controlling authority", in relation to any such person, means the
+Commissioner.
+5. Application of certain Acts to Commissioner and staff-No
+person shall be deemed to be employed in the seIVice of the Crown for the
+purposes of the State Sector Act 1988 or the Government Superannuation
+Fund Act 1956 by reason only of that person's appointment as the
+Commissioner, or the Deputy Commissioner, or a person appointed under
+clause 1 or clause 2 of this Schedule.
+6. Services for Commissioner-( 1) The Crown, acting through any
+Department, may from time to time, at the request of the Commissioner,
+execute any work or enter into any arrangements for the execution or
+
+FIRST SCHEDULE-continued
+PROVISIONS ApPLYING IN RESPECT OF COMMISSIONER-continued
+
+provision by the Department for the Commissioner of any work or service,
+or for the supply to the Commissioner of any goods, stores, or equipment,
+on and subject to such terms and conditions as may be agreed.
+(2) The Commissioner and the Human Rights Commission may from
+time to time enter into any arrangements for the provision, by the
+Commission to the Commissioner, of office accommodation and other
+services, on and subject to such terms and conditions as may be agreed.
+7. Funds of Commissioner-The funds of the Commissioner shall
+consist of(a) Any money appropriated by Parliament for the purposes of the
+Commissioner and paid to the Commissioner for the purposes of
+the Commissioner:
+(b) All other money lawfully received by the Commissioner for the
+purposes of the Commissioner:
+(c) All accumulations of income derived from any such money.
+8. Bank accounts-( 1) The Commissioner shall open at any bank or
+banks such accounts as are necessary for the exercise of the
+Commissioner's functions and powers.
+(2) All money received by the Commissioner, or the Deputy
+Commissioner, or by any employee of the Commissioner, shall, as soon as
+practicable after it has been received, be paid into such bank accounts of
+the Commissioner as the Commissioner from time to time determines.
+(3) The withdrawal or payment of money from any such account shall
+be authorised in such manner as the Commissioner thinks fit.
+9. Investment of money-Any money that belongs to the
+Commissioner and that is not immediately required for expenditure by the
+Commissioner may be invested pursuant to section 25 of the Public
+Finance Act 1989.
+10. Commissioner not to borrow without consent of Minister of
+Finance-Notwithstanding anything in section 12 (3) of this Act, the
+Commissioner shall not borrow or contract to borrow any money, or
+renew any loan made to the Commissioner, without the prior written
+consent of the Minister of Finance.
+11. Seal-The Commissioner's seal of office shall be judicially noticed in
+all courts and for all purposes.
+12. Exemption from income tax-The income of the Commissioner
+shall be exempt from income tax.
+
+820
+SECOND SCHEDULE
+
+Sections 58, 65
+
+PUBUC REGISTERS
+PART I
+
+Public Register Prwisions
+Enactment
+
+Deeds Registration Act 1908
+Industrial and Provident Societies
+Act 1908
+Incorporated Societies Act 1908
+Valuation of Land Act 1951
+Births and Deaths Registration Act
+1951
+Industrial and Provident Societies
+Amendment Act 1952
+Land Transfer Act 1952
+Companies Act 1955
+Marriage Act 1955
+Electoral Act 1956
+Insolvency Act 1967
+..
+..
+Local Elections and Polls Act 1976
+Dog Control and Hydatids Act 1982
+Friendly Societies and Credit
+Unions Act 1982
+Transport (Vehicle and Driver
+Registration and Ucensing) Act
+1986
+Rating Powers Act 1988
+..
+Motor Vehicle Securities Act 1989
+Building Act 1991
+
+Public Register Provision
+
+Sections 21, 22, and 30
+Section 3D
+Section 33
+Section 8
+Sections 7, 14 (2), and 36
+Sections 20 and 26
+Sections 33 and 50
+Sections 7, 105, Ill, 118, 119, 128,
+and 200
+Sections 7, 35, 38, 43 (2), and 46
+Sections 59, 60, 60B, 60c, 61, 62, 63,
+63A, 65A, 65AB, 138, and 138A
+Section 118
+Sections 7B, 7BA, 7BB, 7BC, and 7BD
+Section 35
+Sections 5, 40, and 130
+Sections 18 and 45
+Section 113
+Section 5
+Sections 27 and 53
+
+PART 11
+Documents Deemed to be Public Registers
+Documents held by local authorities and containing authorities for the
+carrying out of any work for or in connection witb the construction,
+alteration, demolition, or removal of a building, where the authority was
+g:r:anted under any bylaw made under the authority of section 684 (1) (22)
+of the Local Government Act 1974 or any equivalent provision of any
+former enactment.
+
+Privacy
+THIRD SCHEDULE
+
+Section 97
+
+INFORMATION MATCHING PROVISIONS
+
+Enactment
+
+Births and Deaths Registration Act
+
+Information Matching Provision
+
+Sections 39B and 41A
+
+1951
+
+Penal Institutions Act 1954
+Marriage Act 1955
+Customs Act 1966
+Inland Revenue Department Act
+
+Section 36F
+Sections 49A and 50A
+Section 305B
+Sections 13A and 13B
+
+1974
+
+Immigration Act 1987
+Education Act 1989
+Accident Rehabilitation and Compensation Insurance Act 1992
+
+Section 141A
+Section 307A
+Sections 164 and 165
+
+822
+Sections 97, 99, 107
+
+FOURTH SCHEDULE
+INFORMATION MATCHING RULES
+
+1. Notice to individuals affected-(I) Agencies involved in an
+authorised information matching programme shall take all reasonable
+steps (which may consist of or include public notification) to ensure that
+the individuals who will be affected by the programme are notified of the
+programme.
+(2) Nothing in subclause (I) of this clause requires an agency to notify
+any individual about an authorised information matching programme if to
+do so would be likely to frustrate the objective of the programme.
+
+2. Use of unique identifiers-Except as provided in any other
+enactment, unique identifiers shall not be used as part of any authorised
+information matching programme unless their use is essential to the
+success of the programme.
+S. On-line transfers-(I) Except with the approval of the
+Commissioner, information transferred between agencies for the purposes
+of an authorised information matching programme shall not be
+transferred by means of on·line computer connections.
+(2) Any approval given under subclause (I) of this clause may be given
+either unconditionally or subject to such conditions as the Commissioner
+thinks fit.
+(3) Any approval given under subclause (I) of this clause may at any time
+be withdrawn by the Commissioner; and any condition subject to which
+any such approval is given may from time to time be revoked, varied, or
+added to by the Commissioner.
+
+4. Technical standards-(I) The agency primarily responsible for the
+operation of an authorised information matching programme shall
+establish and maintain detailed technical standards to govern the
+operation of the programme.
+(2) The technical standards established by an agency in accordance with
+subclause (I) of this clause shall deal with the following matters:
+(a) The integrity of the information to be matched, with particular
+reference to(i) Key terms and their definition; and
+(ii) Relevance, timeliness, and completeness:
+(b) The matching techniques to be used in the programme, with
+particular reference to(i) The matching algorithm:
+(ii) Any use of unique identifiers:
+(iii) The nature of the matters being sought to be identified by
+the matching process:
+(iv) The relevant information definitions:
+(v) The procedure for recognising matches:
+(c) The controls being used to ensure the continued integrity of the
+programme, including the procedures that have been established
+to confirm the validity of matching results:
+(d) The security features included within the programme to minimise
+and audit access to personal information, including the means by
+which the informauon is to be transferred between agencies.
+(3) The technical standards established in accordance with subclause (I)
+of this clause shall be incorporated in a written document (in this clause
+
+FOURTH SCHEDULE-continued
+INFORMATION MATCHING RULEs-continued
+called a Technical Standards Report), and copies of the Technical
+Standards Report shall be held by all agencies that are involved in the
+authorised infonnation matching programme.
+(4) Variations may be made to a Technical Standards Report by way of a
+Variation Report appended to the original Report.
+(5) The agency that prepares a Technical Standards Report shall forward
+a copy of that report, and of every Variation Report appended to that
+report, to the Commissioner.
+(6) The Commissioner may from time to time direct that a Technical
+Standards Report be varied, and every such direction shall be complied
+with by the agency that prepared the Report.
+(7) Every agency involved in an authorised infonnation matching
+programme shall comply with the requirements of the associated
+Technical Standards Report (including any variations made to the report).
+
+5. Safeguards for individuals affected by results of programmes(1) The agencies involved in an authorised infonnation matching
+programme shall establish reasonable procedures for confirming the
+validity of discrepancies before any agency seeks to rely on them as a basis
+for action in respect of an individual.
+(2) Subclause (1) of this clause shall not apply if the agencies concerned
+consider that there are reasonable grounds to believe that the results are
+not likely to be in error, and in forming such a view regard shall be had to
+the consistency in content and context of the infonnation being matched.
+(3) Where such confinnation procedures do not take the fonn of
+checking the results against the source infonnation, but instead involve
+direct communication with the individual affected, the agency that seeks to
+rely on the discrepancy as a basis for action in respect of an individual shall
+notify the individual affected that no check has been made against the
+infonnation which fonned the basis for the infonnation supplied for the
+programme.
+(4) Every notification in accordance with subclause (3) ofthis clause shall
+include an explanation of the procedures that are involved in the
+examination of a discrepancy revealed by the programme.
+6. Destruction of infonnation-( 1) Personal infonnation that is
+disclosed, pursuant to an infonnation matching provision, to an agency for
+use in an authorised infonnation matching programme and that does not
+reveal a discrepancy shall be destroyed as soon as practicable by that
+agency.
+(2) Where(a) Personal infonnation is disclosed, pursuant to an information
+matching provision, to an agency for use in an authorised
+infonnation matching programme; and
+(b) That infonnation reveals a discrepancy,that infonnation shall be destroyed by that agency as soon as practicable
+after that infonnation is no longer needed by that agency for the purposes
+of taking any adverse action against any individual.
+(3) Nothing in this clause applies in relation to the Inland Revenue
+Department.
+
+FOURTH SCHEDULE-continued
+INFORMATION MATCHING RULES-continued
+
+7. No new databank-(I) Subject to subclauses (2) and (3) of this clause,
+the agencies involved in an authorised information matching programme
+shall not permit the information used in the programme to be linked or
+merged in such a way that a new separate permanent register or databank
+of information is created about all or any of the individuals whose
+information has been subject to the programme.
+(2) Subclause (1) of this clause does not prevent an agency from
+maintaining a register of individuals in respect of whom further inquiries
+are warranted following a discrepancy revealed by the programme, but
+information relating to an individual may be maintained on such a register
+only for so long as is necessary to enable those inquiries to be carried out,
+and in no case longer than is necessary to enable any adverse action to be
+taken against an individual.
+(3) Subclause (1) of this clause does not prevent an agency from
+maintaining a register for the purpose of excluding individuals from being
+selected for investigation, but such register shall contain the minimum
+amount of information necessary for that purpose.
+8. Time limits-( 1) Where an authorised information matching
+programme is to continue for any period longer than 1 year, or for an
+indefinite period, the agencies involved in the programme shall establish
+limits on the number of times that matching is carried out pursuant to the
+programme in each year of its operation.
+(2) The limits established in accordance with subcIause (1) of this clause
+shiIf be stated in writing in an annex to the Technical Standards Report
+prepared in respect of the programme pursuant to clause 4 of this
+Schedule.
+(3) The limits established in accordance with subclause (1) of this clause
+may be varied from time to time by the agencies involved in the
+programme.
+
+FIFTH SCHEDULE
+
+Sections lll, 113
+
+LAw ENFORCEMENT INFORMATION
+
+Department ofJustice Records
+Subject
+
+Community-based sentences
+conditions of release
+Court document processing
+Details of hearings
+
+and
+
+Description
+
+Access Available To
+
+Particulars of persons released on probation or parole, or
+released on conditions under Part VI of the Criminal
+Justice Act 1985, or sentenced to community service,
+periodic detention, supervision, or community care
+Particulars of proceedings in respect of which infonnations
+are to be laid; the acceptance of data for and the
+preparation of associated documents
+Details of hearings of proceedings in respect of which an
+infonnation has been laid, including all matters ancillary
+and subsequent to a determination
+
+Police (access is limited to
+the person's area of
+reporting)
+Police
+Serious Fraud Office
+Police (access is limited so
+as to exclude details
+relating
+to
+young
+persons, being persons
+over the age of 14
+years but under the age
+of 17 years, where the
+offence did not carry a
+liability to imprisonment)
+Transport
+(access
+is
+limited to traffic cases
+only)
+Serious
+Fraud
+Office
+(access is limited so as
+to
+exclude
+details
+relating
+to
+young
+persons, being persons
+over the age of 14
+years but under the age
+of 17 years, where the
+offence did not carry a
+liability to imprisonment)
+
+FIFTH SCHEDULE-continued
+
+N)
+
+0'1
+
+LAw ENFORCEMENT INFORMATION-continued
+
+Department rif Justice Records-continued
+Subject
+
+Enforcement of fines
+orders
+
+Records of inmates
+
+Description
+
+and other
+
+Particulars of writs, warrants, or orders in force and issued
+or made on default in the payment of fines or other
+monetary sums ordered in proceedings commenced by
+indictment or information; particulars of the persons to
+whom the writs, warrants, or orders relate; and
+particulars of fines, sentences, or orders imposed or made
+against those persons, including the amounts remaining
+payable thereunder and the arrangements for payment
+Particulars of inmates of penal institutions including the
+date of release there from
+
+Access Available To
+
+Police
+
+Police (access is limited to
+the location and the
+date of release of the
+inmate)
+
+FIFTH SCHEDULE-continued
+LAw ENFORCEMENT INFORMATION-continued
+Police Records
+Subject
+
+Description
+
+Details of hearings
+
+Details of overseas convictions
+
+Finger prints and identity
+
+Classification of finger prints and particulars of the identity
+of persons who have been charged with an offence
+
+Medical details
+
+An indicator to identifY persons who are or have been
+special patients under the Mental Health (Compulsory
+Assessment and Treatment) Act 1992 or any former Act
+and the hospitals at which those persons are or have been
+detained as special patients, or as committed patients, or
+as patients (within the meaning of that Act)
+Traffic offence and infringement enforcement processing,
+including infringement fees enforcement and preparation
+of documents in relation to offences not otherwise
+provided for by the Department of justice
+
+Traffic offence
+enforcement
+processing
+
+and infringement
+and
+document
+
+Access Available To
+
+justice
+Serious Fraud Office
+justice (access is limited
+to identity details for
+the purpose of entering
+information relating to
+prosecutions initiated
+otherwise than by the
+Police or the Ministry
+of Transport)
+Transport
+justice

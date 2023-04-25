@@ -1,0 +1,67 @@
+LAW OF AZERBAIJAN REPUBLIC “ON DATA, DATA PROCESSING
+AND DATA PROTECTION”
+
+Chapter V
+PROTECTION OF DATA
+Article 17. Purposes of protection in the field of data resources and data
+processing
+Purposes of protection of data consists of as follows:
+- to take preventive measures against destruction, loss and falsification of
+data;
+- to provide safety of state, public and citizens;
+- to take preventive measures against unauthorized acts connected with
+destruction, modification, copying and isolation of data;
+- to protect confidentiality of data that constitutes the state secret;
+- to guarantee the rights of physical and legal persons while data processing
+and during the use, production and application of data systems, technologies
+and their securing means.
+Article 18. Organization of protection of data
+Any documented data, as a result of the actions or illegal operations in respect
+of which ones there can be caused the damage to a proprietor, owner, user or other
+persons, shall be protected.
+Protection regime of data, depending on the degree of confidentiality and type
+of entry, shall be determined by the Law “On State Secret” of Azerbaijan Republic,
+this Law and other legal acts.
+Proprietor of data resources or the structural divisions, which are responsible
+for protection of data in accordance with the legislation of Azerbaijan Republic,
+shall have the right to control the observance of requirements concerning the
+protection of data and in case where these requirements are broken – to suspend
+the work with data.
+Owner or proprietor of the documented data can apply to relevant bodies to
+determine the observance of standards and requirements related to protection of
+data that belongs to him/her in data systems. These bodies must respect the
+conditions of confidentiality of data and the results of check-up.
+
+Article 19. Rights and obligations of entities in the field of protection of data
+
+The proprietor of documents, document files, data systems or the relevant
+executive authorities shall determine the rules concerning the presentation, in
+accordance with present Law, of data to the user and provides for the access of
+users to the work with documents.
+Proprietor or owner of these systems and means shall be responsible for the
+use of uncertified systems and means for providing of certain services. And for the
+use of data obtained from such systems the responsibility shall be borne by user.
+Article 20. Protection of rights of persons in data environment
+User of data shall be responsible for violation of rights of data proprietor or
+owner.
+Relations between users and proprietors of data products and services shall be
+arranged by the rules and agreements provided for in the legislation of Azerbaijan
+Republic. The disputes arising from between them shall be resolved by court via
+the procedure specified in the legislation of Azerbaijan Republic.
+The physical and legal persons, whose actions caused the damage or the
+change of data, shall bear responsibility in accordance with the legislation of
+Azerbaijan Republic.
+The protection of the rights of physical and legal persons in the field of
+formation, use and processing of data resources, production and application of data
+systems, technologies and means of their securing is aimed at prevention of
+transgressions, restoration of violated rights and reparation of damages caused. The
+protection of these rights shall be implemented by the relevant bodies via the
+procedure specified in the legislation of Azerbaijan Republic.
+In case where the user’s access to the work with data is limited or banned or
+where the user is provided with deliberately false information and in case of
+violation of legislation of Azerbaijan Republic or the conditions of the concluded
+agreements the user shall have the right to lodge a complaint with court and to
+demand reparation of damages caused to him/her as a result of these actions.
+Officials who are guilty in ill-founded limitation of rights of citizens to work
+with data shall bear responsibility in accordance with the legislation of Azerbaijan
+Republic.

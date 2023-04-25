@@ -1,0 +1,586 @@
+
+
+Law 19628 ON PRIVACY PROTECTION
+MINISTRY GENERAL SECRETARIAT OF THE PRESIDENCY
+Publication: 28-AUG-1999 | Enactment: 18-AUG-1999
+Version: Latest Version From: 26-AUG-2020
+Effective Date: 26-AUG-2020
+End Effective Date: 08-MAY-2023
+Last Modification: 28-FEB-2020 Law 21214
+
+
+ON PRIVACY PROTECTION
+Bearing in mind that the H. National Congress has
+given its approval to the following
+P r o j e c t
+
+PROTECTION OF PERSONAL DATA
+Preliminary Title General
+Provisions
+Article 1.- The processing of personal data in
+registers or data banks by public bodies or private
+parties shall be subject to the provisions of this law,
+with the exception of that carried out in the exercise
+of the freedom to express an opinion and to inform,
+which shall be regulated by the law referred to in
+Article 19, No. 12 of the Political Constitution.
+Any person may process personal data, provided that
+it is done in accordance with this law and for purposes
+permitted by law. In any case, the full exercise of the
+fundamental rights of the owners of the data and of the
+faculties recognized by this law must be respected.
+Article 2°.- For the purposes of this law, the
+following definitions shall apply:
+a) Data storage, the preservation or custody of data
+in a registry or data bank.
+b) Data blocking, the temporary suspension of
+any processing operation on stored data.
+c) Communication or transmission of data, making
+personal data known in any way to persons other than the
+owner, whether determined or undetermined.
+d) Outdated data, that which has lost its relevance due to
+The law, by the fulfillment of the condition or the
+expiration of the term indicated for its validity or, if
+there is no express norm, by the change of the facts or
+circumstances that it consigns.
+e) Statistical data, the data that, in its origin, or
+as a consequence of its processing, cannot be associated to
+an identified or identifiable owner.
+f) Data of a personal nature or personal data, that
+relating to any information concerning natural, identified
+or identifiable persons.
+g) Sensitive data, those personal data that refer to
+the physical or moral characteristics of individuals or
+to facts or circumstances of their private life or
+intimacy, such as personal habits, racial origin,
+ideologies and political opinions, religious beliefs or
+convictions, physical or psychological health conditions
+and sexual life.
+h) Deletion or cancellation of data, the destruction
+of data stored in records or data banks, and the
+data, regardless of the procedure used for this purpose.
+i) Publicly accessible sources, records or
+compilations of personal data, public or private, with
+access not restricted or reserved to applicants.
+j) Modification of data, any change in the content of
+the data stored in records or databases.
+k) Public bodies, the authorities, State bodies and
+agencies described and regulated by the Political
+Constitution of the Republic, and those included in the
+second paragraph of Article 1 of Law No. 18,575, Organic
+Constitutional Law of General Bases of State
+Administration.
+l) Data unlinkage procedure, any processing of
+personal data in such a way that the information
+obtained cannot be associated with a specific or
+identifiable person.
+m) Register or data bank, the organized set of personal
+data, whether automated or not and whatever the form or
+modality of its creation or organization, that allows the
+data to be related to each other,
+as well as to carry out all types of data processing.
+n) Responsible for the registry or database, the
+private natural or legal person, or the respective
+public body, who is responsible for the decisions
+related to the processing of personal data.
+ñ) Data subject, the natural person to whom the
+personal data refer.
+o) Data processing, any operation or complex of
+operations or technical procedures, whether automated or
+not, that make it possible to collect, store, record,
+organize, elaborate, select, extract, confront,
+interconnect, dissociate, communicate, assign, transfer,
+transmit or cancel personal data, or use them in any other
+way.
+Article 3°.- In any collection of personal data
+through surveys, market research or public opinion polls,
+or any other type of public opinion polls, the following
+shall apply similar instruments, without prejudice to the other rights
+and obligations regulated by this law, the persons must be
+informed of the mandatory or optional nature of the
+responses and the purpose for which the information is
+being requested. The communication of
+The results should omit any signs that may allow the
+identification of the persons consulted.
+The holder may object to the use of his personal data
+for advertising, market research or opinion polls.
+Title I
+On the use of personal data
+Article 4°.- The processing of personal data may
+only be carried out when authorized by this law or other
+legal provisions or when the owner expressly consents
+thereto.
+The authorizing person must be duly informed about
+the purpose of the storage of his or her personal data
+and its possible communication to the public.
+The authorization must be in writing.
+The authorization may be revoked, although without
+retroactive effect, which must also be done in writing.
+No authorization is required for the processing of
+personal data from or collected from sources accessible
+to the public, when they are of an economic, financial,
+banking or commercial nature, are contained in lists
+relating to a category of persons that are limited to
+indicating background information such as the
+individual's membership in that group, profession or
+activity, educational qualifications, address or date of
+birth, or are necessary for direct response commercial
+communications or direct marketing or sale of goods or
+services.
+The processing of personal data carried out by
+private legal entities for the exclusive use of
+themselves, their associates and the entities to which
+they are affiliated, for statistical, pricing or other
+purposes of general benefit to them, shall not require
+this authorization.
+Article 5º.- The person in charge of the registry or
+personal data bank may establish an automated transmission
+procedure, provided that the rights of the data subjects
+are safeguarded and the transmission is related to the
+tasks and purposes of the participating agencies.
+In the event of a request for personal data through an
+electronic network, the following must be recorded:
+a) The individualization of the applicant;
+b) The reason and purpose of the request, and
+c) The type of data being transmitted.
+The admissibility of the request will be evaluated by
+the person responsible for the database that receives it,
+but the responsibility for such a request shall be that
+of the person making the request.
+The recipient may only use the personal data for the
+purposes for which it was transmitted.
+This article shall not apply in the case of personal
+data accessible to the general public.
+This provision is also not applicable when personal
+data is transmitted to international organizations in
+compliance with the provisions of treaties and conventions
+in force.
+Article 6°.- Personal data shall be deleted or
+cancelled when their storage has no legal basis or when they
+have expired.
+They must be modified when they are erroneous,
+inaccurate, misleading or incomplete.
+Personal data whose accuracy cannot be established or
+whose validity is doubtful and for which deletion is not
+appropriate will be blocked.
+The person in charge of the personal data bank will
+proceed to the deletion, modification or blocking of the
+data, if necessary, without the owner's request.
+Article 7°.- The persons who work in the processing of
+personal data, both in public and private organizations, are
+obliged to keep them secret, when they come from or have
+been collected from sources that are not accessible to the
+public, as well as about
+The other data and background information related to the
+database, an obligation that does not cease because its
+activities in this field have been terminated.
+Article 8 - In the event that the processing of
+personal data is carried out by mandate, the general rules
+shall apply.
+The mandate must be granted in writing, with special
+mention of the conditions for the use of the data.
+The agent shall respect these stipulations in the
+performance of his duties.
+Article 9 - Personal data must be used only for the
+purposes for which they were collected, unless they come
+from or have been collected from sources accessible to the
+public.
+In any case, the information must be accurate,
+updated and truthful to the actual situation of the data
+subject.
+It is forbidden to make any kind of predictions or
+evaluations of commercial risk that are not based solely on
+objective information related to the delinquencies or
+protests of the natural or legal persons being reported.
+Infringement of this prohibition shall require the
+immediate deletion of such information by the person
+responsible for the database and shall give rise to the
+compensation for damages that corresponds to
+
+
+
+Article 10.- Sensitive data may not be processed,
+except when authorized by law, with the consent of the
+owner or when such data is necessary for the determination
+or granting of health benefits corresponding to their
+owners.
+Article 11.- The person responsible for the registers
+or bases where personal data are stored after their
+collection shall take care of them with due diligence, and
+shall be liable for damages.
+
+Title II
+
+Data subjects' rights
+Article 12.- Every person has the right to demand
+from whoever is responsible for a bank, whether publicly
+or privately engaged in the processing of personal data,
+information on the data relating to his person, their
+source and recipient, the purpose of storage and the
+identification of the persons or bodies to whom his data
+are regularly transmitted.
+In the event that the personal data is erroneous,
+inaccurate, misleading or incomplete, and is proven to
+be so, you have the right to have it amended.
+Without prejudice to the legal exceptions, it may
+also demand that they be eliminated in the event that
+their storage lacks legal grounds or when they are out
+of date.
+The same requirement for deletion or blocking of
+data, if applicable, can be made when you have
+voluntarily provided your personal data or they are used
+for commercial communications and you no longer wish to
+be included in the respective register, either
+permanently or temporarily.
+In the case of the preceding paragraphs, the
+information, modification or deletion of data shall be
+absolutely free of charge, and a copy of the altered
+record in the relevant part shall also be provided at
+the request of the owner. If new modifications or
+deletions of data are made, the holder may also obtain a
+copy of the updated record free of charge, provided that
+at least six months have elapsed since the previous
+occasion on which he made use of this right. The right
+to obtain a copy free of charge may only be exercised in
+person.
+If the deleted or modified personal data have been
+previously communicated to specific or identifiable
+persons, the person in charge of the database must
+notify them as soon as possible of the operation
+carried out. If it is not possible to determine the
+persons to whom it has been communicated, will place a
+notice that may be of general knowledge for those who
+use the information in the database.
+Article 13.- The right of individuals to information,
+modification, cancellation or blocking of their personal
+data may not be limited by means of any act or convention.
+Article 14.- If the personal data are in a
+The holder may request information from any of them, and the
+database can be accessed by different agencies.
+Article 15.- Notwithstanding the provisions of this
+Title, information, modification, cancellation or
+blocking of personal data may not be requested when it
+prevents or hinders the due fulfillment of the auditing
+functions of the requested public agency, or affects the
+confidentiality or secrecy established in legal or
+regulatory provisions, the security of the Nation or the
+national interest.
+Nor may the modification, cancellation or blocking of
+personal data stored by legal mandate be requested,
+outside the cases contemplated in the respective law.
+Article 16.- If the person responsible for the
+registry or data bank does not decide on the request of
+the applicant within two working days, or refuses it for
+a reason other than the security of the Nation or the
+national interest, the owner of the data shall have the
+right to appeal to the civil judge of the domicile of
+the person responsible, who is on duty according to the
+corresponding rules, requesting protection of the rights
+enshrined in the preceding article.
+The procedure shall be subject to the following
+rules:
+a) The complaint shall clearly state the infringement
+The complaint shall be accompanied by the means of
+evidence that may prove them, as the case may be.
+b) The court shall order that the claim be notified
+by a writ of summons, left at the domicile of the person
+responsible for the corresponding data bank. In the same
+manner, the judgment shall be notified.
+c) The person responsible for the databank must
+present its disclaimers within five working days and
+attach the means of evidence that prove the facts on
+which they are based. If they are not available, they
+shall state this circumstance and the court shall set
+a hearing within five working days in order to receive
+the evidence offered and not accompanied.
+d) The final judgment shall be rendered within
+the third day after the expiration of the term
+referred to in the preceding paragraph, whether or
+not the defense has been filed. If the court ordered
+a hearing of
+The time limit for proof shall run after the expiration
+of the time limit fixed for such proof.
+e) All resolutions, with the exception of the one
+indicated in letter f) of this subsection, shall be
+issued in sole instance and shall be notified by the
+daily state.
+f) The final judgment may be appealed in both
+effects. The appeal must be filed within five days
+from the date of notification of the final judgment.
+the party filing it, it must contain the factual and
+legal grounds on which it is based and the specific
+requests made.
+g) Once the appeal has been filed, the court shall
+immediately submit the case file to the respective
+Court of Appeals. Upon receipt of the case files at the
+clerk's office of the Court, the President shall order
+a preferential hearing of the appeal, without waiting
+for the appearance of any of the parties.
+h) The judgment rendered on appeal shall not be
+subject to cassation appeals.
+In the event that the cause invoked to deny the
+requesting party's request is the security of the Nation
+or the national interest, the complaint shall be filed
+before the Supreme Court, which shall request a report
+from the authority in question by whatever means it
+deems most expeditious, setting a time limit for the
+purpose, after which it shall resolve the controversy.
+If evidence is received, it shall be recorded in a
+separate and reserved file, which shall remain so even
+after the case has been settled if the petitioner's
+request is denied by an enforceable judgment.
+The chamber of the Supreme Court hearing the claim
+under the preceding subsection, or the chamber of the
+Court of Appeals hearing the appeal, in the case of the
+procedure established in the first and second
+subsections, may, if it deems it convenient or if it is
+requested with plausible grounds, order that the case
+be brought before it in order to hear the attorneys of
+the parties, in which case the case shall be added
+extraordinarily to the respective table of the same
+chamber. In claims on the grounds indicated in the
+preceding paragraph, the President of the Court shall
+order that the hearing shall not be public.
+If the claim is upheld, the same sentence will set
+a reasonable period of time to comply with the decision
+and may apply a fine of
+one to ten monthly tax units, or from ten to
+fifty monthly tax units in the case of
+of an infringement of the provisions of Articles 17
+and 18.
+Failure to deliver the information in due time
+or delay in making the modification, in the manner
+decreed by the Court, shall be punished with a fine
+of two to fifty monthly tax units and, if the person
+responsible for the required database is a public
+body, the court may sanction the head of the Service
+with the suspension of his position for a period of
+five to fifteen days.
+
+
+Title III
+
+On the use of personal data relating to economic,
+financial, banking and financial obligations.
+or commercial
+Article 17.- The persons in charge of the registries
+or personal data banks may only communicate information
+concerning obligations of an economic, financial, banking
+or commercial nature, when such obligations are contained
+in protested bills of exchange and promissory notes;
+checks protested for lack of funds, for having been drawn
+on a closed current account or for any other reason; as
+well as the noncompliance of obligations derived from
+mortgage loans and loans or credits from banks, financial
+companies, mortgage loan administrators, savings and
+credit cooperatives, public agencies and State companies
+subject to common legislation, and companies that
+administer credits granted for purchases in commercial
+houses. The information related to credits granted by the
+Instituto Nacional de Desarrollo Agropecuario to its
+users, and the information related to economic, financial,
+banking or commercial obligations insofar as they have
+been repacted, renegotiated or novated, or these are under
+any other type of obligation, are excepted.
+pending mode.
+obligations determined by the President of the
+Republic by supreme decree, which must be
+supported by instruments of payment or credit
+also be communicated
+validly issued, in which the
+express consent of the debtor or obligor to pay and its
+due date are stated The information may not be communicated
+related to debts contracted with public or private
+companies that provide electricity, water, telephone and
+gas services; nor debts contracted with institutions of
+higher education in accordance with laws numbers 18.591
+and 19.287, nor those acquired with banks or financial
+institutions in accordance with law No. 20.027, or within
+the framework of the
+The following may not be
+reported:
+any debt contracted for the purpose of receiving for itself
+or for third parties a formal educational service at any
+level;
+nor may
+debts contracted with the Ministry of Education, Science
+and Technology be reported.
+highway concessionaires for the use of their
+infrastructure.
+The responsible entities that managepersonal databanks
+not publish or communicate the
+information referred to in this article, in particular
+protests and defaults contained therein, when theseArt
+originated during the period of unemployment that
+affects the debtor.
+For these purposes, theSeveranceAdministrator
+communicate the data of its beneficiaries to
+Boletín de Informaciones Comerciales only while
+subsist their benefits for the purposes of blocking the
+the information concerning such persons.
+
+However, persons who are not covered by unemployment
+insurance must prove this condition before the Commercial
+Information Bulletin, accompanying the legally issued
+severance pay or, if there is a dispute, with the record of
+appearance before the Labor Inspectorate, for the purpose
+of claiming unemployment insurance.
+right for three months, renewable up to once. In order for
+such renewal to be effective, a sworn statement from the
+debtor stating that he/she is still unemployed must be
+attached.
+The blocking of data will be free of charge for the debtor.
+The blocking of data shall not apply to those who
+have made entries in the commercial information system
+during the year prior to the date of termination of their
+employment relationship.
+The entities responsible for the administration of
+personal data banks may not indicate under any
+circumstance, sign or characterization that the person is
+benefited by this law.
+
+Article 18.- In no case may the data referred to in the previous article be 
+communicated, provided they relate to an identified or 
+identifiable person, after five years have elapsed since
+the respective obligation became due and payable.
+Nor may data relating to such obligation continue
+to be communicated after it has been paid or otherwise
+legally extinguished.
+However, the information required by the courts in
+connection with pending lawsuits will be communicated
+to the courts of justice.
+Article 19.- The payment or extinction of these
+obligations by any other means does not cause the lapse or
+the loss of legal basis of the respective data for the
+purposes of Article 12, as long as they are
+pending the deadlines set forth in the preceding article.
+When payment is made or the obligation is
+extinguished by another means in which the creditor
+intervenes directly, the creditor shall notify such fact,
+at the latest within the following seven working days, to
+the person in charge of the registry or data bank
+accessible to the public that at the time communicated the
+protest or the delinquency, in order to enter the
+corresponding new data, upon payment of the fee if
+applicable, at the debtor's expense. The debtor may choose
+to directly request the modification to the data bank and
+release the creditor who provides sufficient proof of
+payment from compliance with this obligation; such
+decision must be expressed in writing.
+Those who process personal data coming from or
+collected from the aforementioned source accessible to the
+public must modify the data in the same sense as soon as
+the source communicates the payment or termination of the
+obligation, or within the following three days. If this is
+not possible, they shall block the data of the respective
+owner until the information is updated.
+Violation of any of these obligations shall be known
+and sanctioned in accordance with the provisions of
+Article 16.
+
+Title IV
+Data processing by public bodies
+Article 20.- The processing of personal data by a
+public agency may only be carried out by
+in respect of matters within its competence and subject
+to the foregoing rules. Under these conditions, it
+shall not require the consent of the owner.
+Article 21.- The public bodies that submit to
+processing personal data related to convictions for crimes,
+administrative infractions or disciplinary offenses, may not
+communicate them once the criminal or administrative action
+has expired, or once the sanction or penalty has been served
+or has expired.
+Except in cases where such information is requested by
+the courts of justice or other public bodies within the
+scope of their competence, which shall keep such information
+confidential or confidential.
+The provisions of articles 5, 7, 11 and 18 shall be
+applicable to them.
+Article 22.- The Civil Registry and Identification
+Service shall keep a registry of the personal data banks
+in charge of public agencies.
+This registry shall be public and shall contain, for
+each of these data banks, the legal basis for their
+existence, their purpose, the types of data stored and a
+description of the universe of persons included, all of
+which shall be defined in a regulation.
+The public agency responsible for the data bank shall
+provide this information to the Civil Registry and
+Identification Service when the bank's activities begin,
+and shall communicate any change in the elements indicated
+in the preceding paragraph within fifteen days of its
+occurrence.
+
+Title V
+Liability for violations of this law
+Article 23.- The private natural or juridical
+person or the public body responsible for the personal
+data bank shall indemnify the patrimonial and moral
+damage caused by the undue treatment of the data,
+without prejudice to proceed to delete, modify or block
+the data as requested by the owner or, as the case may
+be, as ordered by the court.
+The ensuing action may be brought jointly with the
+claim aimed at establishing the infringement, without
+prejudice to the provisions of Article 173 of the Code
+of Civil Procedure. In any case, infringements not
+contemplated in the articles
+16 and 19, including compensation for damages, shall be
+subject to the summary procedure. The judge shall take
+all the measures he deems appropriate to make effective
+the protection of the rights established by this law.
+The evidence shall be evaluated in conscience by the
+judge.
+The amount of the indemnity will be established
+prudentially by the judge, taking into consideration the
+circumstances of the case and the seriousness of the facts.
+
+Final Title
+Article 24.- The following new second and third
+paragraphs shall be added to Article 127 of the Sanitary
+Code:
+The medical prescriptions and analyses or
+examinations of clinical laboratories and health-related
+services are confidential. Their content may only be
+disclosed or copies of them given with the express
+written consent of the patient. Whoever unduly discloses
+their contents, or infringes the provisions of the
+following subsection, shall be punished in the manner
+and with the penalties established in Book Ten.
+The provisions of this article do not prevent
+pharmacies from disclosing, for statistical purposes,
+the sales of pharmaceutical products of any nature,
+including the denomination and quantity thereof. In no
+case shall the information provided by the pharmacies
+include the name of the patients to whom the
+prescriptions were issued, nor the names of the
+physicians who issued them, nor any data that may be
+used to identify them.
+Transitional provisions
+The provisions of this law, with the exception of
+Article 22, shall enter into force within sixty days
+from the date of its publication in the Official
+Gazette.
+The current registries or personal data banks of
+public agencies shall be adjusted to the provisions of
+this legal body, as of its entry into force.
+The provisions of Article 22 shall come into force
+one year after the publication of this law.
+Notwithstanding the foregoing, the public agencies in
+charge of personal data banks shall submit the
+background information referred to in said provision in
+advance, within the term set forth in the regulations.
+Article 2°.- The owners of personal data registered in
+data banks created prior to the entry into force of this law
+shall have the rights conferred by this law.
+Article 3°.- The norms that regulate the Commercial
+Information Bulletin created by Supreme Decree of the
+Treasury No. 950, of 1928, shall continue to be applied in
+all that is not contrary to the provisions of this law.
+Having complied with the provisions set forth in No. 1
+
+Article 82 of the Political Constitution of the Republic
+and inasmuch as I have had the good pleasure to approve
+and sanction it; therefore be it promulgated and enacted
+as a Law of the Republic.

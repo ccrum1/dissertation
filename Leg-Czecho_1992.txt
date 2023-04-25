@@ -1,0 +1,1566 @@
+
+Act on Protection of Personal Data
+in Information Systems
+of April 29,1992
+
+CZECHOSLOVAKIA
+
+
+The Federal Assembly of the Czech and
+Republic has passed the following Act:
+Part One
+
+Slovak Federative
+
+Field of Application
+Art. 1
+This Act shall govern the protection of personal data,
+particularly the duties connected with the protection of
+information during the operation of Information system dealing
+with personal data and the responsibility of the operator of
+information system and other natural and juristic persons who
+shall participate in the activities connected with the operation
+of such Information system.
+Art.2 
+This Act shall also apply to the information systems
+established by a special act/
+
+Part Two
+Information
+Art. 3
+Information relating to a certain person means personal data. 
+
+Art. 4
+
+Information
+
+system
+
+means
+
+a
+
+working
+
+complex
+
+securing
+
+purposive
+
+and systematic collection, processing and storing of
+information and making accessible the same.
+Any Information
+system includes an information basis,
+technical and programme
+means, technology, procedures and staff.
+
+Art. 5
+Operation of Information System
+The
+
+operation
+
+activities
+processing
+
+of
+
+focused
+of
+the
+
+information
+
+system
+
+means
+
+provision of
+
+on
+information collection ( assembllng),
+information at its
+input,
+storing the
+
+information in data basis, processing of information for internal
+purposes or
+
+for information services. The
+
+operation may include
+
+all or only some of the above mentioned activities.
+
+Art. 6
+Information Service
+performance of activities serv ing
+as
+information system connected,
+
+Information service means
+to supply
+a rule,
+
+of Information from
+vith
+
+the
+
+processing
+
+of
+
+information
+
+stored
+
+in
+
+thi
+
+Information system.
+
+Art. 7
+
+Information Processing
+
+Information processing means
+a) the adjustment of information
+
+in terms of technical procedure
+
+or content of information,
+b) the automated processing including
+performed
+
+by
+
+automated
+
+means,
+
+2
+
+operations fully or partly
+particularly
+
+storing
+
+of
+
+information
+
+and data,
+
+operations
+erasion.
+
+with information
+
+c) the
+
+incorporation
+
+of
+
+performance of
+
+logistic or arithmetic
+
+and data,
+
+information
+
+their adjustment
+
+into
+
+Information
+
+vithout
+
+its
+
+physical
+
+modification
+
+regarding its
+
+content or
+
+a
+
+change
+
+collection
+or
+
+and
+of
+
+without
+
+the incorporation
+
+of
+
+another communication which may be specified to serve to other
+purposes than provision of information service.
+
+Art. 8
+Liquidation of Information
+The liquidation of information means its erasion or physical
+breakdown
+
+in
+
+reassembled
+
+such
+again or
+
+a
+
+manner
+
+that
+
+the
+
+information
+
+it means
+
+the material
+
+cannot be
+
+destruction of the
+
+physical carrier to which it has been bound.
+
+Art. 9
+Participants in Information Exchange
+The participants
+
+in'information exchange
+
+of the information system
+only),
+
+user
+
+of
+
+mean the operator
+
+(hereinafter referred to as "operator"
+
+information
+
+services
+
+and information mediator
+
+(hereinafter referred to as "mediator" only).
+
+Art.10
+Person in Question
+The
+
+person
+
+in
+
+question
+
+means
+
+the
+
+individual natural
+
+person being referred to by the information.
+
+Art.11
+Operator
+(1) The
+
+operator means natural or
+
+the Information
+and acting
+
+processing or provision
+
+in respect to
+
+juristic person securing
+of information services
+
+other natural and
+
+3
+
+juristic persons as
+
+bearer of rights and obligations
+
+in relation to the operation of
+
+information system.
+(2)
+
+The
+
+following
+
+persons
+
+shall
+
+not
+
+be
+
+deemed
+
+to
+
+be
+
+within
+
+the
+
+scope
+
+of their labour or'
+
+in
+
+contact
+
+with
+
+information being
+
+operators 
+(a) natural
+
+persons
+
+who
+
+similar
+
+relation
+
+come
+
+subject of operation of a particular information system;
+
+(b) juristic persons performing activities during the operation
+of information system on the baslL of a contract concluded
+with the operator.
+
+Art.12
+User
+The
+
+user
+means a natural
+or juristic person
+using
+information acquired from an information system or requesting
+such information within the scope of information services granted
+by an information system.
+
+Art.13
+Mediator
+The
+
+mediator
+
+means
+
+a
+
+natural
+
+or
+
+juristic
+
+person
+
+ascertaining, collecting, processing or supplying information for
+the operator or user.
+
+Art.14
+Appropriate Method of Information Collection
+The
+
+appropriate
+
+method
+
+ascertaining
+
+the information
+
+purpose,
+
+covered
+
+not
+
+by
+
+of
+
+information
+
+which is
+
+another
+
+breach citizens’ rights and freedoms.
+
+collection
+
+not feigned
+
+activity
+
+means
+
+for another
+
+ana which does not
+
+Art.15
+Published Information
+The
+the
+
+pub1ished information
+
+public by
+
+means of
+
+means information
+
+mass communication
+
+introduced to
+
+media or electronic
+
+information services accessible to the public.
+
+Part Three
+Obligations in Connection with the Operation
+of Information System
+Art.16
+It is possible to operate
+with
+
+information regarding
+
+person
+
+in question,
+
+the personality
+
+his racial
+
+attitudes and membership in
+relation to
+property
+a special
+
+an information system which deals
+origin, nationality.
+
+act
+
+or
+
+with
+
+in the
+
+political
+
+the
+
+health, sexual life
+
+event that
+
+approval
+
+question having possibility to express
+If the condition
+
+of the
+
+political parties and movements, his
+
+religion, his criminality.
+
+relations only
+
+and privacy
+
+of
+
+and
+
+this is governed by
+the living person in
+
+his will to such purpose.
+
+of approval cannot be met,
+
+the information may
+
+only be disposed of under the presumption that the human dignity,
+personal honour,
+
+fair reputation of
+
+the person in
+
+question are
+
+preserved and his good name is protected.
+Art.17
+The operator shall be obliged
+a) to
+
+operate
+
+the
+
+information
+
+system
+
+in
+
+accordance with the
+
+purpose it has been established for,
+b) to acquire information adequate, in terms of its extent, to
+the purpose for which the system has been established,
+particularly to avoid collection of redundant data,
+c) to
+
+verify whether the
+
+information being subject
+
+operated by
+
+the information system
+
+is accurate and to update
+
+the same if
+
+necessary.
+d) to
+
+nark the
+
+inaccurate or
+
+riot verified
+
+information in
+
+the
+
+information system in an appropriate manner.
+e) not to store untrue information in the information system.
+f) to
+
+prevent channelizing
+
+serving to various
+otherwise.
+g) to
+
+purposes, unless
+
+gain Information
+
+manner:
+
+to
+
+gain
+
+purpose
+
+or
+
+by
+
+information and
+
+for
+
+a special
+
+information
+
+information
+another
+
+under
+
+activity
+
+information systems
+act provides
+
+systems in
+
+a suitable
+
+presumption
+
+of another
+
+admissible
+
+if this is
+
+is
+
+specified by a special act.
+h) to store Information enabling the identification of the person
+in question only during a period reasonable for the purpose of
+the information
+otherwise,
+
+system.
+
+i) to secure protection of
+system
+
+against
+
+unless
+
+special
+
+act
+
+provides
+
+information and the whole information
+
+incidental
+
+incidental damages
+
+a
+
+or
+
+unauthorized
+
+as well as against
+
+destruction,
+
+unauthorized access to
+
+or processing of the same,
+j) to
+
+stipulate
+
+the
+
+rights
+
+and
+
+obligations
+
+of
+
+natural
+
+and
+
+juristic persons having access to information system,
+k) to implement precautions that
+
+after termination of the labour
+
+or similar relation between a natural person and the operator
+the information being subject of operation of the particular
+information system may not be used by such person:
+he shall
+
+be obliged to implement
+
+in addition
+
+similar precautions against
+
+persons fulfilling their duties with the operator and being in
+contact or who
+
+may come in contact with
+
+information which is
+
+subject of operation of the particular information system,
+l) to furnish any
+
+person in question free of
+
+charge once a year
+
+and against a r~^sonable
+
+reimbursement whenever required with
+
+a report
+
+stored
+
+on formation
+
+in
+
+the information system,
+
+unless a special act provides otherwise.
+
+Art.18
+(1) When
+
+discontinuing the operation
+
+6
+
+of information system
+
+the operator shall be obliged
+
+to implement measures securing the
+
+information which is subject
+system not to be misused.
+
+of
+
+(2) In
+
+the event of breach
+
+the legitimate person
+satisfaction,
+
+operation of
+
+the Information
+
+of the obligation under
+
+shall be entitled to enforce
+
+removal
+
+of
+
+defects,
+
+haning
+
+Para 1
+
+his claim to
+
+over
+
+groundless
+
+enrichment from the person who has gained such enrichment and in
+addition the claim under Art.20, Letters d) and e).
+
+Art.19
+(1) The mediator is obliged to:
+a) verify whether the mediated information is accurate;
+b) properly mark
+
+the Inaccurate or not
+
+verified information and
+
+to remove the Inaccuracy if possible;
+c) gain information for information systems in a suitable manner;
+to gain information under presumption of another purpose or by
+another
+
+activity
+
+a special
+
+act,
+
+d) ensure
+
+the
+
+is
+
+admissible
+
+protection
+
+of
+
+incidental or unauthorized
+well as
+
+if
+
+this
+
+mediated
+
+specified
+
+information
+
+destruction,
+
+against unauthorized access
+
+is
+
+by
+
+against
+
+Incidental damages as
+
+to or processing
+
+of the
+
+same.
+(2) In the event of mediation of Information both for the user
+and
+
+operator
+
+information
+
+the
+
+mediator
+
+acquired in
+
+shall
+
+be
+
+obliged
+
+connection with
+
+to
+
+store
+
+the
+
+the mediation activity
+
+only for a period indispensably necessary and in the scope of the
+operator's author1zation.
+Art.20
+In the event of breach
+Art.17
+
+hereof the
+
+of obligations of the operator under
+
+legitimate natural
+
+person shall-
+
+be entitled
+
+against the operator to:
+a) refrain
+
+from such
+
+action, to
+
+remove defects,
+
+to hand
+
+over
+
+groundless enrichment
+
+to the person to
+
+the detriment of whom
+
+the
+
+been
+
+to
+
+enrichment
+
+has
+
+gained
+
+7
+
+and
+
+give satisfaction
+
+(apologies, corrections)
+
+at the cost
+
+person who has been injured
+
+of the operator
+
+to the
+
+by breach of the obligations. The
+
+claim to
+
+receive satisfaction shall not
+
+originate in case of
+
+breach of
+
+obligation under Art.17, Letters
+
+d), and e) unless
+
+the operator has broken his obligation under Art.17, Letter c)
+or he submits evidence that
+vlthln
+
+the limits
+
+the Information has been operated
+
+given by
+
+the approval
+
+of the
+
+person in
+
+question or if it is a published information,
+b) liquidate
+
+the
+
+operator has
+
+information
+
+this
+
+claim
+
+broken his duties under
+
+originates,
+
+if the
+
+Art.17, Letters a), b),
+
+d), e), g). and h). In addition, such claim originates in case
+of an information system operating published information, if
+it is evidenced,
+that this information has been published
+without authorization or it has been corrected;
+c) supplement the
+
+information which has
+
+been inserted into
+
+the
+
+information system with the approval of the person In question
+or if it is a published information;
+d) pay
+
+a
+
+reasonable
+
+preservation
+reputation
+unless
+
+of
+are
+
+reimbursement,
+human
+
+preserved
+
+the breach
+
+is
+
+if
+
+the
+
+person’s right to
+
+dignity,
+
+personal
+
+and
+
+good
+
+his
+
+inf1lctable
+
+honour,
+
+fair
+
+name is protected,
+
+by present
+
+civil-lav and
+
+commercial-law institutes;
+e) block
+
+the
+
+access
+
+to
+
+Information
+
+during
+
+the
+
+dispute
+
+(litigation), unless the organ appropriate for making decision
+in such dispute decides otherwise;
+
+the claim concerns only the
+
+information being subject of the dispute.
+Art.21
+The mediator shall be responsible for activities he performs
+for
+
+the operator
+
+or user
+
+within the
+
+limits of
+
+the operator’s
+
+respons1bi11ty.
+Art.22
+(1) Within
+scope
+
+of their
+
+their labour or
+public or
+
+similar relation or
+
+other function
+
+8
+
+( e.g.
+sworn expert.
+
+auditor
+
+etc.),
+
+natural
+
+contact
+
+with
+
+infornation
+
+information
+
+system
+
+persons
+
+or
+
+other
+
+being
+
+(hereinafter
+
+persons coning into
+
+operated
+
+referred
+
+to
+
+by
+
+appropriate
+
+only
+
+as "liable
+
+persons") shall be obliged to keep secrecy of such Infornation
+and must not enable access
+to then by other persons without
+approval
+
+of the
+
+operator nor
+
+use them
+
+for themselves,
+
+unless
+
+a special act provides otherwise.
+(2)
+
+The
+
+completion of
+
+obligations
+
+In the
+
+hereof the
+
+Para 1
+
+the labour or similar
+
+person and the operator or
+perform his function.
+(3)
+
+under
+
+event of
+
+continue
+
+after
+
+the
+
+relation between the liable
+
+after such
+breach of
+
+legitimate person shall
+
+1
+
+liable person ceases to
+obligations under
+
+be entitled to
+
+Para 1
+
+require from
+
+the liable person the following:
+a)
+
+to refrain from such actions, to remove defects, to hand over
+groundless
+
+enrichment
+
+and
+
+to
+
+give
+
+him
+
+satisfaction
+
+(apologies, corrections) at the cost of the liable person;
+b)
+
+to liquidate
+
+information which has
+
+c)
+
+used in an unauthorized way;
+to pay reasonable reimbursement,
+
+if the liable person, due to
+
+the
+
+such obligations, has caused
+
+fact that
+
+he has
+
+detriment particularly
+be
+
+inflicted by
+
+not met
+
+been made accessible
+
+of intangible character
+
+institutes of
+
+civil or
+
+or
+
+which cannot
+
+commercial lav and
+
+which cannot be connected with the fulfilment of other claims
+under this Para;
+d)
+
+to
+
+prevent the
+
+access
+
+to
+
+infornation during
+
+the dispute,
+
+unless the organ authorized to decide has set down otherwise;
+such claim refers only to infornation affected by dispute.
+(4) Have
+
+such obligations been broken
+
+by the liable person
+
+who has been in labour or similar relation to the operator, the
+operator shall be liable to reimbursement under Para 3. Letter c)
+hereof and to give satisfaction under Para 3, Letter a) hereof.
+(5) If anybody gains Information from information system due
+to his illicit action, the provisions of Para 1 and 3 shall apply
+to him by analogy.
+
+9
+
+Art.23
+Disputes
+
+following
+
+from
+
+the
+
+application
+
+of
+
+rights
+
+and
+
+obligations under this Act shall be settled by court.
+
+Registration
+
+Part Four
+Infornation Systen
+
+of
+of
+
+and
+
+Inspection
+
+Information Systen Operation
+Art.24
+
+Organs established
+perform
+
+by a special
+
+registration and
+
+act shall be competent to
+inspection of the infornation system*
+
+operation.
+Art.25
+Application for Registration
+(1) The
+
+organ under Art.24
+
+hereof shall keep
+
+files of the
+
+registered information systems for the period of their operation.
+The
+
+files
+
+shall
+
+be
+
+accessible
+
+for
+
+the public and officially
+
+published by this organ at December 31 of each year.
+(2) The operator
+
+shall be liable to inform
+
+Art.24. without any unnecessary delay.
+
+the organ under
+
+on the tern1nation of the
+
+Information system operation together with the date at which the
+infornation systen operation shall terminate. This does not appl4
+to
+
+information systems
+
+which
+
+are
+
+not subject
+
+of registration
+
+obiigat ion.
+Art.26
+The
+
+duty
+
+of
+
+registration
+
+.
+shall
+
+be
+
+applied
+
+only
+
+to
+
+information systems disposing of infornation under Art.16. unless
+they serve exclusively for internal requirements of the operator;
+exceptions regarding
+
+this duty shall
+
+be specified by
+
+a special
+
+act. The registration shall not be applied to infornation systems
+disposing exclusively of published infornation.
+Part Five
+Transitory and Final Provisions
+Art.27
+
+The information
+
+system established after the
+
+date this Act
+
+has come into effect can be operated only after fulfilment of the
+conditions under this Act;
+
+its operator shall be obliged to apply
+
+for registration within three months
+effect
+
+by
+
+which
+
+the
+
+organ
+
+under
+
+after the act has come into
+Art.24
+
+hereof
+
+has
+
+been
+
+establlshed.
+Art.28
+The Government
+
+of the Czech and
+
+Slovak Federative Republic
+
+may exceptionally stipulate the terms
+
+of operation of an already
+
+working information
+
+variance with this
+
+a period of
+
+system being at
+
+not more than
+
+into effect. This does not
+to
+
+apply for
+
+within the
+
+three years after
+
+this Act has
+
+come
+
+affect the obligation of the operator
+
+registration with
+
+period of three
+
+Act for
+
+the organ
+
+under Art.24
+
+months after the
+
+hereof
+
+act has come
+
+into
+
+effect by which this organ has been established.
+
+Art.29
+
+This
+
+Act
+
+shall
+
+come
+
+into
+
+effect on the day of its declaration. 

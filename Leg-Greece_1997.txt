@@ -1,0 +1,1012 @@
+Law 2472/1997
+on the Protection of Individuals with regard to the Processing of Personal Data
+(as amended)
+
+CHAPTER A
+GENERAL PROVISIONS
+
+Article 1
+Object
+
+The object of this law is to establish the terms and conditions under which the processing of personal data is to be carried
+out so as to protect the fundamental rights and freedoms of natural persons and in particular their right to privacy.
+
+Article 2
+Definitions
+
+For the purposes of this law:
+a)
+
+"Personal data" shall mean any information relating to the data subject. Personal data are not considered to be
+the consolidated data of a statistical nature whence data subjects may no longer be identified.
+
+b) "Sensitive data" shall mean the data referring to racial or ethnic origin, political opinions, religious or
+philosophical beliefs, trade-union membership, health, social welfare and sexual life, criminal charges or
+convictions as well as membership to societies dealing with the aforementioned areas.
+In particular, in cases of criminal charges or convictions, it is possible to allow their publication by the Public
+Prosecutor's Office for the offences referred to in item b, paragraph 2 of Article 3 following an order by the
+competent Public Prosecutor of the Court of First Instance or the chief Public Prosecutor if the case is pending
+before the Court of Appeal. The publication of criminal charges or convictions aims at the protection of the
+community, of minors and of vulnerable or disadvantaged groups, as well as at the facilitation of the punishment
+of those offences by the State.1
+c)
+
+"Data Subject" shall mean any natural person to whom such data refer and whose identity is known or may be
+found, i.e., his/her identity may be determined directly or indirectly, in particular by reference to an identity card
+number or to one or more factors specific to his/her physical, physiological, mental, economic, cultural, political
+or social identity.
+
+d) "Processing of personal data" ("processing") shall mean any operation or set of operations which is performed
+upon personal data by Public Administration or by a public law entity or private law entity or an association or a
+natural person, whether or not by automatic means, such as collection, recording, organisation, preservation or
+storage, alteration, retrieval, use, disclosure by transmission, dissemination or otherwise making available,
+alignment or combination, interconnection, blocking (locking), erasure or destruction.
+e)"Personal Data File" ("File") shall mean any structured set of personal data which are accessible on the basis of
+specific criteria 
+
+f)"Interconnection" shall mean a means of processing consisting in the possibility of co-relating the data from a
+file to the data from a file or files kept by another Controller or Controllers or with data from a file or files kept
+by the same Controller for another purpose.
+
+g) "Controller" shall mean any person who determines the purposes and means of the processing of personal data,
+such as any natural or legal person, public authority or agency or any other organisation. Where the purposes
+and means of processing are determined by national or Community laws or regulations, the Controller or the
+specific criteria for his/her nomination shall be designated by national or Community law.
+h) "Processor" shall mean any person who processes personal data on behalf of a Controller, such as any natural or
+legal person, public authority or agency or any other organisation.
+i)
+
+"Third party" shall mean any natural or legal person, public authority or agency or any other body other than the
+data subject, the Controller and the persons authorised to process the data, provided that they act under the direct
+supervision or on behalf of the Controller.
+
+j) "Recipient" shall mean any natural or legal person, public authority or agency or any other organisation to
+whom data are disclosed or transmitted, whether a third party or not.
+
+k) "The Data Subject's Consent" shall mean any freely given, explicit and specific indication of will, whereby the
+data subject expressly and fully cognisant signifies his/her informed agreement to personal data relating to him
+being processed. Such information shall include at least information as to the purpose of processing, the data or
+data categories being processed, the recipient or categories of recipients of personal data as well as the name,
+trade name and address of the Controller and his/her representative, if any. Such consent may be revoked at any
+time without retroactive effect.
+
+l)"Authority" shall mean the Authority for the Protection of Personal Data, which is established pursuant to
+Chapter D of this law.
+
+Article 3
+Scope
+
+1. The provisions of this law shall apply to the processing, in whole or in part, by automatic means as well as to the
+processing by non-automatic means, of personal data which form part of a file or are intended to form part of a file.
+2. The provisions of this law shall not apply to the processing of personal data, which is carried out:
+a)by a natural person in the course of a purely personal or household activity.
+
+b) by judicial-public prosecution authorities and authorities which act under their supervision in the framework of
+attributing justice or for their proper operation needs with the aim of verifying crimes which are punished as
+felonies or misdemeanors with intent, and especially with the aim of verifying crimes against life, against sexual
+freedom, crimes involving the economic exploitation of sexual life, crimes against personal freedom, against
+property, against the right to property, violations of legislation regarding drugs, plotting against public order, as
+well as crimes against minors.
+With regard to the above, the current essential and procedural penal provisions shall apply. In cases where
+citizens exercise their right to assemble, in accordance with Article 11 of the Constitution, the simple operation
+of sound or image recording devices or other technical means is allowed with a view to recording, subject to the
+conditions mentioned below. The recording of sound or image using special technical devices with a view to
+verifying the perpetration of crimes mentioned above shall only be allowed following an order by a Public
+Prosecutor representative and provided a serious danger to the public order and security is imminent. The aim of
+such a recording shall solely be to use the data to verify the perpetration of crimes as evidence in front of any
+public investigative authority, prosecution authority or court of law. The processing of data which are not
+necessary for the verification of crimes shall be prohibited, while the recordings shall be destroyed following an
+order by the Public Prosecutor.3
+c)
+
+by a public authority using special technical devices for the recording of sound or image in public areas with the
+aim of safeguarding the security of the state, national defense, public security, the protection of persons and
+property, the management of traffic for which they are competent. The material collected through the above
+mentioned devices (as long as it does not fall under point b of the present article) is stored for a period of seven
+(7) days, after which it is destroyed by the order of the public prosecution authority. Any breach of the above
+provisions shall be punished by imprisonment for a period of at least one year, a stricter punishment is provided
+for it in some other law.4
+
+3. The present law shall apply to any processing of personal data, provided that such processing is carried out:
+a)
+
+by a Controller or a Processor established in Greek Territory or in a place where Greek law applies by
+virtue of public international law.
+
+b) by a Controller who is not established in the territory of a member-state of the European Union or of a
+member of the European Economic Area (EEA) but in a third country and who, for the purposes of
+processing personal data, makes use of equipment, automated or otherwise, situated on the Greek territory,
+unless such equipment is used only for purposes of transit through such territory. In this case, the Controller
+must designate in writing, by a statement addressed to the Authority, a representative established in the
+Greek territory, who will substitute the Controller to all the Controller’s rights and duties, without prejudice
+to any liability the latter may be subject to. The same shall also apply when the Controller is subject to
+exterritoriality, immunity or any other reason inhibiting criminal prosecution.5
+
+CHAPTER B
+PROCESSING OF PERSONAL DATA
+
+Article 4
+Characteristics of personal data
+1. Personal data, in order to be lawfully processed, must be:
+a) collected fairly and lawfully for specific, explicit and legitimate purposes and fairly and lawfully processed in
+view of such purposes.
+b) adequate, relevant and not excessive in relation to the purposes for which they are processed at any given
+time.
+c) accurate and, where necessary, kept up to date.
+d) kept in a form which permits identification of data subjects for no longer than the period required, according
+to the Authority, for the purposes for which such data were collected or processed. Once this period of time is
+lapsed, the Authority may, by means of a reasoned decision, allow the maintenance of personal data for
+historical, scientific or statistical purposes, provided that it considers that the rights of the data subjects or even
+third parties are not violated in any given case. 6
+2. It shall be for the Controller to ensure compliance with the provisions of the previous paragraph. Personal data, which
+have been collected or are being processed in breach of the previous paragraph, shall be destroyed, such destruction
+being the Controller’s responsibility. The Authority, once such a breach is established, either ex officio or upon
+submission of a relevant complaint, shall order any such collection or processing ceased and the destruction of the
+personal data already collected or processed.7
+
+Article 5
+Conditions of processing
+
+1) Processing of personal data will be permitted only when the data subject has given his/her consent.
+2) Exceptionally, data may be processed even without such consent, only if:
+a) processing is necessary for the execution of a contract to which the data subject is party or in order to take
+steps at the request of the data subject prior to entering into a contract.
+b) processing is necessary for the compliance with a legal obligation to which the Controller is subject.
+c) processing is necessary in order to protect the vital interests of the data subject, if s/he is physically or legally
+incapable of giving his/her consent.
+d) processing is necessary for the performance of a task carried out in the public interest or a project carried out
+in the exercise of public function by a public authority or assigned by it to the Controller or a third party to whom
+such data are communicated.
+e) processing is absolutely necessary for the purposes of a legitimate interest pursued by the Controller or a third
+party or third parties to whom the data are communicated and on condition that such a legitimate interest
+evidently prevails over the rights and interests of the persons to whom the data refer and that their fundamental
+freedoms are not affected.
+3. The Authority may issue special data processing rules for the more usual categories of data processing and files, which
+do not evidently affect the rights and freedoms of the persons to whom such data refer. These categories will be specified
+by regulations enacted by the Authority and ratified by Presidential Decrees, issued upon a proposal by the Minister of
+Justice.
+6
+7
+
+Former last passage of point (d) was abolished by article 20 par. 1 of Law 3471/2006 (Official Gazette 133A/2006).
+The first passage was replaced as above by article 20 par. 2 of Law 3471/2006 (Official Gazette 133A/2006).
+
+Article 6
+Notification
+
+1. The Controller must notify the Authority in writing about the establishment and operation of a file or the
+commencement of data processing.
+2. In the course of the aforementioned notification, the Controller must necessarily declare the following:
+a)
+
+his/her name, trade name or distinctive title, as well as his/her address.8
+
+b) the address where the file or the main hardware supporting the data processing are established.
+c)
+
+the description of the purpose of the processing of personal data included or about to be included in the file.
+
+d) the category of personal data that are being processed or about to be processed or included or about to be
+included in the file.
+e)
+
+the time period during which s/he intends to carry out data processing or preserve the file.
+
+f)
+
+the recipients or the categories of recipients to whom such personal data are or may be communicated.
+
+g) any transfer and the purpose of such transfer of personal data to third countries.
+h) the basic characteristics of the system and the safety measures taken for the protection of the file or data
+processing.9
+3. The data referred to in the preceding paragraph will be registered with the Files and Data Processing Register kept by
+the Authority.
+4. Any modification of the data referred to in paragraph 2 must be communicated in writing and without any undue delay
+by the Controller to the Authority.
+
+Article 7
+Processing of sensitive data
+
+1. The collection and processing of sensitive data is prohibited.
+2. Exceptionally, the collection and processing of sensitive data, as well as the establishment and operation of the
+relevant file, will be permitted by the Authority10, when one or more of the following conditions occur:
+a)
+
+The data subject has given his/her written consent, unless such consent has been extracted in a manner contrary
+to the law or bonos mores or if law provides that any consent given may not lift the relevant prohibition.
+
+b) Processing is necessary to protect the vital interests of the data subject or the interests provided for by the law of
+a third party, if s/he is physically or legally incapable of giving his/her consent11.
+c)
+
+Processing relates to data made public by the data subject or is necessary for the recognition, exercise or defence
+of rights in a court of justice or before a disciplinary body.12
+
+d) Processing relates to health matters and is carried out by a health professional subject to the obligation of
+professional secrecy or relevant codes of conduct, provided that such processing is necessary for the purposes of preventive medicine, medical
+diagnosis, the provision of care or treatment or the management of health-care services.
+
+e)
+
+Processing is carried out by a Public Authority and is necessary for the purposes of aa) national security, bb)
+criminal or correctional policy and pertains to the detection of offences, criminal convictions or security
+measures, cc) protection of public health or dd) the exercise of public control on fiscal or social services.
+
+f)
+
+Processing is carried out exclusively for research and scientific purposes provided that anonymity is maintained
+and all necessary measures for the protection of the persons involved are taken.
+
+g) Processing concerns data pertaining to public figures, provided that such data are in connection with the holding
+of public office or the management of third parties' interests, and is carried out solely for journalistic purposes.
+The Authority may grant a permit only if such processing is absolutely necessary in order to ensure the right to
+information on matters of public interest, as well as within the framework of literary expression and provided
+that the right to protection of private and family life is not violated in any way whatsoever.
+3. The Authority shall grant a permit for the collection and processing of sensitive data, as well as a permit for the
+establishment and operation of the relevant file, upon request of the Controller. Should the Authority ascertain that
+processing of sensitive data is carried out, the notification of the existence of such a file pursuant to article 6 of this law is
+considered to be a request for a permit. The Authority may impose terms and conditions for a more effective protection
+of the data subjects’ or third parties’ right to privacy.14
+4. The permit will be issued for a specific period of time, depending on the purpose of the data processing. It may be
+renewed upon request of the Controller.
+5. The permit shall necessarily contain the following:
+a)
+
+The full name or trade name or distinctive title, as well as the address, of the Controller and his/her
+representative, if any.
+
+b) The address of the place where the file is established.
+c)
+
+The categories of personal data which are allowed to be included in the file.
+
+d) The time period for which the permit is granted.
+e)
+
+The terms and conditions, if any, imposed by the Authority for the establishment and operation of the file.
+
+f)
+
+The obligation to disclose the recipient or recipients as soon as they are identified.
+
+6. A copy of the permit shall be registered with the Permits Register kept by the Authority.
+7. Any change in the data referred to in paragraph 5 shall be communicated without undue delay to the Authority. Any
+change other than a change of address of the Controller or his/her representative shall entail the issuance of a new permit,
+provided that the terms and conditions stipulated by law are fulfilled.
+
+Article 7a
+Exemption from the obligation to notify and receive a permit
+
+1. The Controller is exempted from the obligation of notification, according to article 6, and hte obligation to receive a permit, according to article 7
+of the present Law in the following cases: 
+
+a.
+
+When the processing is carried out exclusively for purposes relating directly to an employment or project
+relationship or to the provision of services to the public sector and is necessary for the fulfilment of an obligation
+imposed by law or for the accomplishment of obligations arising from the aforementioned relationships, and upon
+prior announcement to the data subject.16
+
+b.
+
+When the processing involves clients’ or suppliers’ personal data, provided that such data are neither transferred nor
+disclosed to third parties. In order that this provision may be applied courts of justice and public authorities are not
+considered to be third parties, provided that such a transfer or disclosure is imposed by law or a judicial decision.
+Insurance companies, for all types of insurance, pharmaceutical companies, companies whose main activities
+involve trading of data, credit and financial institutions, such as banks and institutions issuing credit cards are not
+exempted from the obligation of notification.
+
+c.
+
+When the processing is carried out by societies, enterprises, associations and political parties and relates to personal
+data of their members or companies, provided that the latter have given their consent and that such data are neither
+transferred nor disclosed to third parties. Members and partners are not considered to be third parties, provided that
+said transfer is carried out among said members and partners for the purposes of the aforementioned legal entities or
+associations. Courts of justice and public authorities are not considered to be third parties, provided that such a
+transfer is imposed by law or a judicial decision.
+
+d.
+
+When the processing involves medical data and is carried out by doctors or other persons rendering medical services,
+provided that the Controller is bound by medical confidentiality or other obligation of professional secrecy, provided
+for in Law or code of practice, and data are neither transferred nor disclosed to third parties.17 In order for this
+provision to be applied, courts of justice and public authorities are not considered to be third parties, provided that
+such a transfer or disclosure is imposed by law or judicial decision. Legal entities or organisations rendering health
+care services, such as clinics, hospitals, medical centres, recovery and detoxication centres, insurance funds and
+insurance companies, as well as Controllers processing personal data within the framework of programmes of
+telemedicine or provision of health care services via Internet.
+
+e.
+
+When the processing is carried out by lawyers, notaries, land registrars and bailiffs or companies formed by the
+aforementioned and involves the provision of legal services to their clients, provided that the Controller and the
+members of the companies are bound by an obligation of confidentiality imposed by Law and that data are neither
+transferred nor disclosed to third parties, except for those cases where this is necessary and is directly related to the
+fulfilment of a client’s mandate.18
+
+f.
+
+When the processing is carried out by judicial authorities or services, with the exception of the authorities referred to
+under point b of paragraph 2 of article 3, in the framework of attributing justice or for their proper operation needs.
+
+2. In every case of paragraph 1 of the present article, the Controller is subject to all obligations specified by the present
+law and is obliged to conform with any special processing rules issued by the Authority pursuant to article 5 paragraph 3
+of the present law.
+3. The deadlines referred to in paragraphs 1, 2 and 3 of article 24 of Law 2472/1997 are prolonged until January 21st
+2001.
+
+Article 8
+Interconnection of files
+
+1. Interconnection of files is permitted only according to the terms and conditions set out in this article.
+2. Every interconnection will be communicated to the Authority by means of a declaration jointly submitted by the
+Controllers or the Controller who interconnects two or more files serving different purposes.
+3. If at least one of the files about to be interconnected contains sensitive data or if the interconnection results to the
+disclosure of sensitive data or if for the implementation of the interconnection a uniform code number is to be used, such
+an interconnection will be permitted only following a prior permit by the Authority (interconnection permit).
+4. The interconnection permit referred to in the preceding paragraph may be granted upon a prior hearing of the
+Controllers of such files and shall necessarily include the following:
+a.
+
+The purpose for which the interconnection is deemed necessary.
+
+b.
+
+The categories of personal data to which the interconnection refers.
+
+c.
+
+The time period for which the interconnection is permitted.
+
+d.
+
+The terms and conditions, if any, for the more effective protection of the rights and freedoms and, in
+particular, of the right to privacy of the data subjects or third parties.
+
+5. The interconnection permit may be renewed upon request of the Controllers.
+6. The declarations referred to in paragraph 2 of this article, as well as any copies of the interconnection permits, shall be
+registered with the Interconnections Register kept by the Authority.
+
+Article 9
+Transboundary flow of personal data
+
+1. The transfer of personal data is permitted:
+a) for member-states of the European Union,
+b) for a non-member of the European Union following a permit granted by the Authority if it deems that the country in
+question guarantees an adequate level of protection. For this purpose it shall particularly take into account the nature of
+the data, the purpose and the duration of the processing, the relevant general and specific rules of law, the codes of
+conduct, the security measures for the protection of personal data, as well as the protection level in the countries of
+origin, transit and final destination of the data. A permit by the Authority is not required if the European Commission has
+decided, on the basis of the process of article 31, paragraph 2 of Directive 95/46/EC of the Parliament and the Council of
+24 October 1995, that the country in question guarantees an adequate level of protection, in the sense of article 25 of the
+aforementioned Directive20.
+20
+
+Paragraph 1 was replaced as above pursuant to article 24 par. 1 of Law 3471/2006 (Official Gazette 133A/2006).
+
+2. The transfer of personal data to a state non member of the European Union which does not ensure an adequate level of
+protection is exceptionally allowed only following a permit granted by the Authority, provided that one or more of the
+following conditions occur:
+a.
+
+The data subject has consented to such transfer, unless such consent has been extracted in a manner contrary
+to the law or bonos mores.
+
+b.
+
+The transfer is necessary:
+i) in order to protect the vital interests of the data subject, provided s/he is physically or legally incapable of
+giving his/her consent, or
+ii) for the conclusion and performance of a contract between the data subject and the Controller or between
+the Controller and a third party in the interest of the data subject, if s/he is incapable of giving his/her
+consent, or
+iii) for the implementation of precontractual measures taken in response to the data subject’s request.21
+
+c) The transfer is necessary in order to address an exceptional need and safeguard a superior public interest,
+especially for the performance of a co-operation agreement with the public authorities of the other country,
+provided that the Controller provides adequate safeguards with respect to the protection of privacy and
+fundamental liberties and the exercise of the corresponding rights.
+d) The transfer is necessary for the establishment, exercise or defence of a right in court.
+e) The transfer is made from a public register which by law is intended to provide information to the public and
+which is accessible by the public or by any person who can demonstrate legitimate interest, provided that the
+conditions set out by law for access to such register are in each particular case fulfilled.
+f) The Controller shall provide adequate safeguards with respect to the protection of the data subjects' personal
+data and the exercise of their rights, when the safeguards arise from conventional clauses which are in
+accordance with the regulations of the present law. A permit is not required if the European Commission has
+decided, on the basis of article 26, paragraph 4 of Directive 95/46/EC, that certain conventional clauses offer
+adequate safeguards for the protection of personal data.22
+3. In the cases referred to in the preceding paragraphs, the Authority shall inform the European Commission and the
+respective Authorities of the other member-states a) when it considers that a specific state does not ensure an
+adequate protection level and b) for the permits granted pursuant to paragraph 2, point f.23
+
+Article 10
+Confidentiality and security of processing
+
+1. The processing of personal data shall be confidential. It shall be carried out solely and exclusively by persons acting
+under the authority of the Controller or the Processor and upon his/her instructions.
+2. In order to carry out data processing the Controller must choose persons with corresponding professional qualifications
+providing sufficient guarantees in respect of technical expertise and personal integrity to ensure such confidentiality.
+
+3. The Controller must implement appropriate organisational and technical measures to secure data and protect them
+against accidental or unlawful destruction, accidental loss, alteration, unauthorised disclosure or access as well as any
+other form of unlawful processing. Such measures must ensure a level of security appropriate to the risks presented by
+processing and the nature of the data subject to processing. Without prejudice to other provisions, the Authority shall
+offer instructions and issue regulations in accordance with article 19 paragraph 1 k involving the level of security of data
+and of the computer and information infrastructure, the security measures that are required for each category and
+processing of data as well as the use of privacy-enhancing technologies.24
+4. If the data processing is carried out on behalf of the Controller, by a person not dependent upon him, the relevant
+assignment must necessarily be in writing. Such assignment must necessarily provide that the Processor carries out such
+data processing only on instructions from the Controller and that all other obligations arising from this article shall
+mutatis mutandis be borne by him.
+
+CHAPTER C
+THE DATA SUBJECT’S RIGHTS
+
+Article 11
+Right to information
+1. The Controller must, during the stage of collection of personal data, inform25 the data subject in an appropriate and
+express manner of the following data:
+a) his/her identity and the identity of his/her representative, if any,
+b) the purpose of data processing,
+c) the recipients or the categories of recipients of such data,
+d) the existence of a right to access.
+2. If the Controller, in order to collect personal data, requests the data subject's assistance, s/he must inform him
+specifically and in writing of the data referred to in paragraph 1 of this article as well as of his/her rights according to
+articles 11-13 of this law. By means of such notification the Controller shall also inform the data subject whether s/he is
+obliged to assist in the collection of data, on the basis of which provisions, as well as of any sanctions resulting from
+his/her failure to co-operate.
+3. If the data are to be disclosed to third parties, the data subject will be kept informed of such disclosure before it is
+effected.
+4. By virtue of a decision by the Authority, the obligation to inform, pursuant to paragraphs 1 and 3, may be lifted in
+whole or in part, provided that data processing is carried out for reasons of national security or for the detection of
+particularly serious crimes. In a state of emergency said obligation may be lifted by way of a provisional, immediately
+enforceable judgement by the President, who shall convene as soon as possible the Board in order that a final judgement
+on the matter may be issued.
+
+5. Without prejudice to the rights arising from paragraphs 12 and 13, the right to inform does not exist when such
+collection is carried out solely for journalistic purposes and refers to public figures.
+6. Specifically, data files processed by the Ministry of Finance or the Ministry of Labour and Social Security concerning
+non-satisfaction of payment of taxes, duties and social security contributions, and in case these files are to be published
+for reasons of public interest and include data for over a thousand (1.000) of natural persons, data subjects may,
+according to par. 3, be informed by public announcements, through the media and the internet, by which data subjects
+shall be invited to fulfil their obligations within a deadline set in said invitation but not before the lapse of eight (8) days
+from the aforementioned public announcement.
+
+Article 12
+Right to access
+
+1. Everyone is entitled to know whether personal data relating to him are being processed or have been processed. As to
+this the Controller must answer in writing.
+2. The data subject shall be entitled to request and obtain from the Controller, without undue delay and in an intelligible
+and express manner, the following information:
+a) All the personal data relating to him as well as their source.
+b) The purposes of data processing, the recipient or the categories of recipients.
+c) Any developments as to such processing for the period since s/he was last notified or advised.
+d) The logic involved in the automated data processing.
+e) The correction, deletion or locking of data, the processing of which is not in accordance with the provisions
+of the present law, especially due to the incomplete or inaccurate nature of data and
+f) The notification to third parties, to whom the data have been announced, of any correction, deletion or locking
+which is carried out in accordance with case (e), taken that the notification is not impossible or does not
+demand disproportionate efforts.28
+3. The right referred to in the preceding paragraph and the rights arising from article 13 are exercised by means of a
+relevant application to the Controller and the simultaneous payment of an amount of money, the amount of which, the
+method of payment as well as any other relevant matter will be regulated by a decision of the Authority.29 This amount
+will be returned to the applicant if his/her request to rectify or delete data is considered valid by the processor or the
+Authority, in case of an appeal before it. The Controller must in this case provide the applicant without undue delay, free
+of charge and in an intelligible form, a copy of the rectified part of the data relating to him.
+4. Should the Controller not reply within a period of fifteen (15) days or should his/her answer be unsatisfactory, the data
+subject shall be entitled to appeal before the Authority. In the event the Controller refuses to satisfy the request of the
+party concerned, s/he must notify the Authority as to his/her response and inform the party concerned as to his/her right
+of appeal before it.
+5. By virtue of a decision by the Authority, upon application by the Controller, the obligation to inform, pursuant to
+paragraphs 1 and 2 of the present article, may be lifted in whole or in part, provided that the processing of personal data
+is carried out on national security grounds or for the detection of particularly serious crimes. In this case the President of
+the Authority or his/her substitute carries out all necessary acts and has free access to the files.
+6. Data pertaining to health matters will be communicated to the data subject by means of a medical doctor.
+
+Article 13
+Right to object
+
+1. The data subject shall be entitled to object at any time to the processing of data relating to him. Such objections shall
+be addressed in writing to the Controller and must contain a request for a specific action, such as correction, temporary
+non-use, locking, non-transfer or deletion. The Controller must reply in writing to such objection within an exclusive
+deadline of fifteen (15) days. His/her response must advise the data subject as to the actions s/he carried out or,
+alternatively, as to the grounds for not acceding to his/her request. In case the objection is rejected, the relevant response
+must also be communicated to the Authority.
+2. If the Controller does not respond within the specified time limit or his/her reply is unsatisfactory, then the data subject
+has the right to appeal before the Authority and request that his/her objections are examined. Should the Authority
+consider that such objections are reasonable and furthermore there is a risk of serious damage being caused to the data
+subject as a result of the processing, it may order the immediate suspension of the processing until a final decision on the
+objections is issued.
+3. Any person shall be entitled to declare to the Authority that s/he does not wish data relating to him to be submitted to
+processing in order to promote the sale of goods or long distance services. The Authority shall keep a register for the
+identification of such persons. The Controllers of the relevant files must consult the said register prior to any processing
+and delete from their files the persons referred therein.
+
+Article 14
+Right to provisional judicial protection
+
+1. Everyone is entitled to request from the competent court the immediate suspension or non-application of an act or
+decision affecting him, issued by an administrative authority or public law entity or private law entity or association or
+natural person solely on automated processing of data intended to evaluate his/her personality and especially his/her
+effectiveness at work, creditworthiness, reliability and general conduct.
+2. The right referred to in this article may also be satisfied even when the other substantive conditions for provisional
+judicial protection, as stipulated from time to time, do not occur.
+
+CHAPTER D
+PERSONAL DATA PROTECTION AUTHORITY
+
+Article 15
+Establishment - Task - Legal Nature
+
+1. A Personal Data Protection Authority (hereinafter: the Authority) is hereby created with the task to supervise the
+implementation of this law and all other regulations pertaining to the protection of individuals from the processing of
+personal data as well as to the exercise of the duties assigned to it each time.
+2. The Authority constitutes an independent public authority and will be assisted by its own Secretariat. The Authority
+shall not be subject to any administrative control. In the course of their duties the members of the Authority shall enjoy
+personal and functional independence. The Authority reports to the Minister of Justice and its seat is in Athens.
+3. All necessary appropriations for the operation of the Authority shall be entered in a special code which shall be
+integrated in the annual Budget of the Ministry of Justice. The authorizing officer for the expenditure is the President or
+his substitute.30
+
+Article 16
+Composition of the Authority
+
+1. The Authority shall be composed of a judge of a rank corresponding at least to that of a Conseiller d’Etat as President
+and six members as follows:
+a) A University, full or associate, professor specialised in law.
+b) A full or associate University professor or professor in the higher technical education specialised in
+information technology.31
+c) A University, full or associate, professor.
+(d, e, f) Three persons of high standing and experience in the field of the protection of personal data.
+The judge-President and the professors-members may be on active service or not.
+It is allowed for the members of the Data Protection Authority to exercise duties as members of a University faculty on a
+full or part-time basis.32
+(2. The President of the Authority shall be employed on a full and exclusive time basis and will be appointed by a
+Presidential Decree issued upon proposal of the Cabinet following a report by the Minister of Justice. If a judge on
+active service is selected for the position of the President, then a decision of the competent Supreme Judicial Council is
+also required. The same procedure is to be followed for the selection and appointment of the President’s substitute.
+3. The members of the Authority will be appointed by means of the following procedure: the Minister of Justice submits
+to the Speaker of the Parliament a proposal for the appointment of the six ordinary members of the Authority and an
+equal number of substitutes. The proposal shall include a double number of candidates. The Speaker will then forward
+the proposal to the Committee on Institutions and Transparency, which renders an opinion. The ordinary members of the
+Authority and their substitutes are selected by the Conference of the Presidents of the Parliament. The persons selected
+are then appointed by virtue of a presidential decree issued following a proposal by the Minister of Justice and published
+
+4. The President and members of the Authority will be appointed for a specific term of office. Their term of office will be
+of four years and may be renewed only once. None may serve for a total period exceeding eight (8) years. Half of the
+Authority's six members will be renewed every two years. In the first application of these presents the term of office of
+the six (6) members of the Authority shall be of four years. After the second composition of the Authority, a draw will
+take place among the six ordinary members so as to decide which three of them will serve for a four-year period and
+which for a two-year period.34
+5. The President and members of the Authority shall be appointed with an equal number of substitutes who must have the
+same status and qualifications. Especially, the substitutes for the professors who are ordinary members may not have the
+same status but must hold a doctorate and have adequate experience in the field of data protection.35 The substitutes for
+the President and the members will participate in the meetings of the Authority only if the corresponding ordinary
+member is provisionally absent or unable to participate. By means of a decision the President of the Authority may
+delegate special duties to the substitutes. “Therefore the latter shall participate in the meeting and shall have the right to
+vote even if the ordinary member is present”.36 The term of office of each substitute will equal the term of office of the
+corresponding ordinary member.
+
+Article 17
+Impediments - Incompatibilities of the members of the Authority
+
+1. No one may be appointed as a member of the Authority:
+
+a) If s/he is a Minister, Assistant Minister, Secretary-General to a Ministry or to an independent Secretariat
+General or a Member of Parliament.
+b) If s/he is a governor, manager, administrator, member of the Board of Directors or a person performing
+managerial duties, in general, in an enterprise producing, manufacturing, selling or trading in materials being
+used in information technology or telecommunications or rendering services in connection to information
+technology, telecommunications or personal data processing, as well as persons bound by a work contract to
+such an enterprise.
+2. Membership of the Authority is automatically forfeit for anyone who, following his/her appointment:
+a) acquires one of the positions impeding membership of the Authority by virtue of the preceding paragraph.
+b) performs any acts or undertakes any tasks or projects or acquires any other position which, at the Authority’s
+discretion, is incompatible with his/her duties as a member of the Authority.
+3. Evidence on the incompatibility, pursuant to the preceding paragraph, is taken by the Authority without the
+participation of the member, whose position may be incompatible. The Authority shall decide having previously heard
+the said member. The procedure may be initiated either by the President of the Authority or by the Minister of Justice.
+4. The loss of the qualifications on the basis of which a member of the Authority was appointed, pursuant to article 16
+paragraph 1 of this law, shall entail his/her automatic forfeiture, if due to an irrevocable disciplinary or criminal
+conviction.
+
+Article 18
+Duties and rights of the members of the Authority
+
+1. When exercising their duties the members of the Authority are subject to their conscience and the law. They have a
+duty of confidentiality. As witnesses or expert witnesses they may testify only on facts exclusively and solely pertaining
+to the observance of the provisions of this law by Controllers. The duty of confidentiality continues to exist even after the
+members of the Authority are in any way retired.
+2. The monthly wages of the President of the Authority correspond to those of the President of the Legal Council of the
+State and the monthly wages of the members of the Authority equal to forty per cent (40%) of those of the President
+notwithstanding any other provision. The substitutes of the President and the members of the Authority will be paid 1/3
+of the monthly wages paid to the President and the ordinary members of the Authority provided that the President
+certifies that they have rendered services during the month other than participating in the Authority’s meetings. The
+remuneration of the President, the members of the Authority and the Secretary for each session in which they participate
+shall be stipulated by a joint decision by the Ministers of Justice and Finance. The provisions applicable from time to
+time regarding travel expenses of persons travelling upon official instructions in the exercise of their duties shall also
+apply for travel by the members of the Authority and employees of the Secretariat of the Authority. The President of the
+Authority shall issue the relevant travel mandates. The aforementioned provisions shall come into force on the date of the
+commencement of the operations of the Authority.37
+3. For any breach of their duties arising from this law the members of the Authority are held disciplinarily liable. The
+disciplinary procedure will be initiated before the Disciplinary Council by the Minister of Justice with regard to the
+President and the members of the Authority and by the President of the Authority with regard to its members. The
+Disciplinary Council consists of a Vice-President of the Conseil d’Etat as Chairman, an Areios Pagos (Supreme Court)
+judge, a Councillor of the Court of Auditors and two University law professors. An employee of the Authority shall
+perform the duties of the Secretary to the Council. The Chairman, the members and the Secretary of the Council will be
+appointed along with an equal number of substitutes. For those members of the Council who are judges a decision of the
+competent Supreme Judicial Council is also required. The Council is established by virtue of a decision by the Minister
+of Justice with a three-year term of office. The Council is in session when at least four of its members are present, among
+which necessarily the President or his/her substitute, and decides by the absolute majority vote of those present. In case
+of split vote, the Chairman's vote shall prevail. In case of more than two opinions, those of the lesser dissent, must accede
+to one of the two prevailing ones. The Disciplinary Council shall decide at first and last instance whether the defendant is
+released of all charges or discharged from the service. The compensation payable to the President, the members and the
+Secretary of the Council is specified by a joint decision of the Ministers of Finance and Justice, notwithstanding any
+other provision.
+4. A member of the Authority who, in breach of this law, discloses in any way whatsoever personal data accessible to
+him in the course of his/her duties or allows such data to become known to a third party shall be punished by
+imprisonment for a period of at least two (2) years and a fine amounting between two million Drachmas (GRD
+2,000,000) and ten million Drachmas (GRD 10,000,000). If, however, s/he has committed the act with the purpose of
+gaining unlawful benefit on his/her behalf or on behalf of another or for the purpose of causing harm to another person,
+then s/he will be punished by confinement in a penitentiary. If the act referred to in the first section of this paragraph has
+been committed as a result of negligence, then the perpetrator will be punished by imprisonment for a period of at least
+three (3) months and a fine.
+
+Article 19
+Competence, operation and decisions of the Authority
+
+1. The Authority shall mainly have the following powers:
+a.
+
+It shall issue instructions for the purpose of a uniform application of the rules pertaining to the protection of
+individuals against the processing of personal data.
+
+b.
+
+It shall call on and assist trade unions and other associations of legal and natural persons keeping personal
+data files in the preparation of codes of conduct for the more effective protection of the right to privacy and
+in general the rights and fundamental liberties of all natural persons active in their field.
+
+c.
+
+It shall address recommendations and instructions to Controllers or to their representatives, if any, and shall
+publicise them, at its discretion.
+
+d.
+
+It shall grant the permits provided for in this law and shall stipulate the amount of the relevant fees.
+
+e.
+
+It shall denounce any breach of the provisions of this law to the competent administrative and judicial
+authorities.
+
+f.
+
+It shall impose the administrative sanctions stipulated in article 21 of this law.
+
+g.
+
+It shall assign to one or more of its members the conduct of administrative examinations.
+
+h.
+
+It shall proceed ex officio or following a complaint to administrative reviews, in the framework of which the
+technological infrastructure and other means, automated or not, supporting the processing of data are
+reviewed. It shall have, to that effect, the right of access to personal data and the right to collect any kind of
+information for the purposes of such review, notwithstanding any kind of confidentiality. Exceptionally, the
+Authority shall not have access to identity data relating to associates and contained in files kept for reasons
+of national security or for the detection of particularly serious crimes. Such review is carried out by one or
+more members of the Authority or an employee of the Secretariat, duly authorised to that effect by the
+President of the Authority. In the course of reviewing files kept for reasons of national security the President
+of the Authority shall be present in person.
+
+i.
+
+It shall deliver opinions with respect to any rules relating to the processing and protection of personal data.
+
+j.
+
+It shall issue regulations pertaining to special, technical and detailed matters to which the present law refers.
+
+k.
+
+It shall communicate to the Parliament any breach of the rules relating to the protection of individuals from
+the processing of personal data.
+
+l.
+
+It shall draw up every year a report on the performance of its duties over the previous calendar year. The
+report shall also point out any legislative changes required in the area of the protection of individuals from
+the processing of personal data. The report will be submitted by the President of the Authority to the Speaker
+of the Parliament and to the Prime Minister and it will be published in the Official Gazette, care of the
+Authority, who may also decide to publicise the report in any other way.
+
+m. It shall examine the complaints of data subjects relating to the implementation of the law and the protection
+of the applicants' rights when such rights are affected by the processing of data relating to them. It shall also
+examine applications by the Controller requesting checks on the lawfulness of such processing. The
+Authority can file applications or complaints which are deemed broadly vague, unfounded or are submitted
+misappropriately or anonymously. The Authority shall notify the data subjects and the applicants of its
+actions. The Authority shall examine petitions, complaints and questions by priority on the basis of their
+importance and general interest of the issue.
+n.
+
+It shall co-operate with the respective authorities of other member states of the European Union and the
+Council of Europe on matters relevant to the exercise of its powers.
+
+o.
+
+It carries out an independent review of the national section of the Schengen Information System, pursuant to
+article 114, paragraph 1 of the Convention Implementing the Schengen Agreement(Law 2514/1997, Official
+Gazette 140 A), it exercises the duties of the national supervisory authority as laid down in article 23 of the
+EUROPOL Convention (Law 2605/1998, Official Gazette 88 A) and the duties of the national supervisory
+authority as laid down in article 17 of the Convention for the use of Information Technology for customs
+purposes (Law 2706/1999, Official Gazette 77 A), as well as the duties that arise from any international
+agreement.40
+
+2. The Authority shall hold regular sessions upon an invitation by its President. It shall hold extraordinary sessions upon
+an invitation by the President or an application by at least two of its members. The Authority will decide by the majority
+vote of at least four of its members. In case of split vote, the President's vote or that of his/her substitute shall prevail.
+3. The Authority shall adopt its rules of procedure, thus regulating more specifically the allocation of duties among its
+members, the prior hearing of interested parties, matters relating to the disciplinary procedure, and the methods of
+carrying out the reviews stipulated in paragraph 1 case (h) of the present article.
+“The Authority may also hold meetings in sections, comprised of at least three regular or substitute members presided by
+the President of the Authority or his/her substitute. The rules of procedure of the Authority further regulate the
+composition, the terms of operation of the sections and the allocation of duties between the plenum and the sections. Any
+decisions of the sections may be amended or revoked by the plenum”.41
+4. The Authority shall keep the following registries:
+a.
+
+the Files and Processing Register, which contains the files and processing communicated to the Authority.
+
+b.
+
+the Permits Register, which contains the permits issued by the Authority for the establishment and operation
+of files containing sensitive data.
+
+c.
+
+the Interconnections Register, which contains the declarations and permits issued by the Authority for the
+interconnection of data
+d.
+
+the Register of Persons, who do not want to be included in files for the purposes of promoting the sale or
+goods or long distance services.
+
+e.
+
+the Transfer Permits Register, which contains the permits for the transfer of personal data.
+
+f.
+
+the Secret Files Register, which contains, following a decision of the Authority upon application by the
+competent Controller, files kept by the Ministry of National Defence, the Ministry of Public Order and the
+National Intelligence Service for reasons of national security or for the detection of particularly serious
+crimes. The Secret Files Register also contains all interconnections with at least one file of this category.
+
+5. Everyone shall have access to the registries under a), b), c), d) and e) of the previous paragraph. Following an
+application by the party concerned and a decision by the Authority access may also be permitted, in whole or in part, to
+the Secret Files Register. Following an application by the Controller or his/her representative and by virtue of a decision
+of the Authority access to the Transfer Permits Register may be prohibited, in whole or in part, if it may jeopardise the
+privacy of a third party, national security, the detection of particularly serious crimes and the performance of obligations
+of the state arising out of international treaties.
+6. The President will represent the Authority before all other authorities as well as before committees and groups, in
+sessions and conferences of institutions of the European Union and of any other international organisation and institution
+created by an international convention or in which representatives of similar authorities of other countries participate.
+The President may delegate the representation of the Authority to one of its members, a substitute or even an employee
+of the Auditors branch of the Secretariat.
+7. The President bears responsibility for the operation of the Authority as well as for the operation of the Secretariat. The
+President may authorise a member of the Authority or the person in charge of the Secretariat or the person in charge of a
+department of the Secretariat to sign "by order of the President" documents, payment warrants or other acts. The
+President shall be the Administrative Head of the personnel of the Secretariat. S/he shall exercise disciplinary power over
+them and may impose disciplinary sanctions, at most a fine equal to half the monthly wages of the defendant.
+7a. In the event that the protection of an individual with regard to the processing of personal data calls for immediate
+decision-making, the President may, upon request of the party concerned, issue a provisional order for immediate
+suspension of the processing or the file operation, in whole or in part. Said order shall apply until the Authority issues a
+final judgement. The Authority shall be equally responsible when dealing with the matter.42
+8. The regulations issued by the Authority shall be published in the Official Gazette. All other decisions of the Authority
+shall come into force as of the date of their issuance or as of the date they were notified to their recipients.
+9. Remedies against the decisions of the Authority may also be filed by the State. Such remedy shall be initiated by the
+competent Minister as the case may be.
+In every trial relating to a decision issued by the Authority, the party to the legal proceedings shall be the latter
+represented by the President. The appearer in court shall be either a member of the Legal Council of the State or a
+member of the Authority, regular or substitute, or an auditor, who is attorney-at-law and acts by order of the President,
+without remuneration.43
+10. All public authorities shall render assistance to the Authority.
+
+Article 20
+The Secretariat of the Authority
+
+1. The Authority shall be assisted by a Secretariat. The Secretariat operates at the Directorate level. The status of its
+employees will be governed by the provisions applicable from time to time on administrative civil servants.
+2. The organisation of the Secretariat, its division into departments and services and the competence thereof, the number
+of personnel by branch and speciality as well as any other necessary detail are stipulated by a presidential decree issued
+upon a proposal by the Ministers of the Interior, Public Administration and Decentralisation, Finance and Justice
+following a report by the Authority delivered within two months from its establishment. The same decree provides for
+the establishment, as an administrative unit within the Secretariat, of a Department of Auditors, whose method of
+employment and status shall also be determined, notwithstanding any other provisions in force from time to time. The
+person in charge of the Secretariat shall necessarily come from the Auditors branch. The number of positions of the
+Secretariat of all categories shall not exceed thirty (30).44
+Lawyers may also be employed in the Auditors Department of the Authority’s Secretariat. However, without
+relinquishing their capacity as lawyers, they may not practice law during their term of office.45
+3. Vacancies in the Secretariat Section will be filled according to the provisions applicable from time to time on civil
+servants. The employees of the Auditors branch in particular shall be employed by the Secretariat, upon selection or by
+an examination procedure following a relevant advertisement.
+4. Matters pertaining to the employment status of the personnel of the Secretariat shall be subject to a Service Council
+established by a decision of the President of the Authority and comprising two of its members, one employee appointed
+by it and two elected representatives of the employees. In all other matters the provisions applicable from time to time to
+the Service Councils for civil servants and the personnel of legal entities of public law shall apply.
+5. Ordinary employees of the Authority's Secretariat will be subject, as to their secondary social security, to the
+Assistance Fund for Employees Supervised by the Ministry of Justice. Those coming from other agencies may continue
+to be covered by the social security funds of their previous position. The employees of the Secretariat shall be necessarily
+registered with the Lawyers' Pension Fund under the same terms and conditions applicable on salaried lawyers covered
+by it. The provisions of this paragraph shall also apply to employees transferred to the Secretariat of the Authority from
+legal entities of private law.
+6. For the first time the positions of the persons in charge of service units of the Secretariat, with the exception of the
+Auditors Department, shall be filled following an advertisement by the Authority either by a transfer of civil servants or
+employees of legal entities of public law of grade A or equivalent thereof or by appointment. The appointment procedure
+shall take place only for those positions not filled by transfer. The selection of those to be transferred or appointed is
+carried out by the Authority. Those selected are appointed by a decision of the Minister of Justice and those transferred
+by a decision of the same and the competent Minister. For such transfer to be effected it is not necessary to have an
+opinion by the competent Service Council of the department of origin. The person in charge of the Secretariat is selected
+by the Authority among the employees of the Auditors Department, notwithstanding any other provision.
+7. For the first time the remaining positions of the Secretariat shall be filled under the terms and conditions and according
+to the procedure stipulated in the preceding paragraph. Candidates with a proven experience in information technology
+shall be preferred. Regarding the employees of the Auditors Department the provisions of paragraph 3 of this article
+apply.
+8. Regarding persons transferred from legal entities of public or private law prior service time shall be deemed as actual
+service time entailing all lawful consequences.
+9. The provisions of paragraph 4 of article 18 shall also apply regarding the employees of the Secretariat.
+10. In addition to the monthly wages, and other benefits paid to the ordinary employees of the Ministry of Justice, an
+extra pay may be granted to the personnel of the Secretariat of the Authority, depending on each category, upon a joint
+decision of the Ministers of Finance and Justice.46
+11. Notwithstanding the legislation in force, the temporary transfer of up to ten employees of university degree from
+public agencies, legal entities of public law, local government agencies and legal entities of the broader public sector is
+allowed with the aim for them to acquire expertise in data protection issues. The employees shall be selected by a joint
+decision of the Authority and their original employer and shall be temporarily transferred by a decision of the Minister of
+Justice, Transparency and Human Rights and the competent Minister depending on the case. The transfer shall be of two
+years; the transferred employees shall be paid from their original employer and shall receive the salary and bonuses of
+their classified post which shall not correlate with the actual exercise of their duties. Upon expiration of the transfer
+period, they shall return ipso jure to their original post.47
+
+CHAPTER E
+SANCTIONS
+Article 2148
+Administrative Sanctions
+
+1. The Authority may impose on the Controllers or on their representatives, if any, the following administrative sanctions
+for breach of their duties arising from this law as well as from any other regulation on the protection of individuals from
+the processing of personal data:
+a) a warning with an order for the violation to cease within a specified time limit.
+b) a fine amounting between three hundred thousand Drachmas (GRD 300,000) and fifty million Drachmas
+(GRD 50,000,000).
+c) a temporary revocation of the permit.
+d) a definitive revocation of the permit.
+e) the destruction of the file or a ban of the processing and the destruction, return or locking of the relevant data
+
+Article 2250
+Penal Sanctions
+
+1. Anyone who fails to notify the Authority, according to the provisions of article 6 of this law, of the establishment or
+the operation of a file or any change in the terms and conditions regarding the granting of the permit referred to in
+paragraph 3 of article 7 of this law, will be punished by imprisonment for up to three (3) years and a fine amounting
+between one million Drachmas (GRD 1,000,000) and five million Drachmas (GRD 5,000,000).
+2. Anyone who, in breach of article 7 of this law, keeps a file without permit or in breach of the terms and conditions
+referred to in the Authority's permit, will be punished by imprisonment for a period of at least one (1) year and a fine
+amounting between one million Drachmas (GRD 1,000,000) and five million Drachmas (GRD 5,000,000).
+3. Anyone who, in breach of article 8 of this law, proceeds to the interconnection of files without notifying the Authority
+accordingly will be punished by imprisonment for up to three (3) years and a fine amounting between one million
+Drachmas (GRD 1,000,000) and five million Drachmas (GRD 5,000,000). Anyone who proceeds to the interconnection
+of files without the Authority's permit, wherever such permit is required, or in breach of the terms of the permit granted
+to him, will be punished by imprisonment for a period of at least one (1) year and a fine amounting between one million
+Drachmas (GRD 1,000,000) and five million Drachmas (GRD 5,000,000).
+4. Anyone who unlawfully interferes in any way whatsoever with a personal data file or takes notice of such data or
+extracts, alters, affects in a harmful manner, destroys, processes, transfers, discloses, makes accessible to unauthorised
+persons or permits such persons to take notice of such data or anyone who exploits such data in any way whatsoever, will
+be punished by imprisonment and a fine and, regarding sensitive data, by imprisonment for a period of at least one (1)
+year and a fine amounting between one million Drachmas (GRD 1,000,000) and ten million Drachmas (GRD
+10,000,000), unless otherwise subject to more serious sanctions.
+5. Any Controller who does not comply with decisions issued by the Authority in the exercise of the right of access,
+pursuant to paragraph 4 of article 12, in the exercise of the right to object, pursuant to paragraph 2 of article 13, as well as
+with acts imposing the administrative sanctions provided under c, d and e of paragraph 1 of article 21 shall be punished
+by imprisonment for a period of at least two (2) years and a fine amounting between one million Drachmas (GRD
+1,000,000) and five million Drachmas (GRD 5,000,000). By the sanctions referred to in the preceding sentence shall also
+be punished any Controller who transfers personal data in breach of article 9 as well as the person who does not comply
+with the court decision referred to in article 14 of this law.
+6. If the perpetrator of the acts referred to in paragraphs 1-5 of this article purported to gain unlawful benefit on his/her
+behalf or on behalf of another person or to cause harm to a third party, then s/he shall be punished with confinement in a
+penitentiary for a period of up to ten (10) years and a fine amounting between two million Drachmas (GRD 2,000,000)
+and ten million Drachmas (GRD 10,000,000).
+7. If the acts referred to in paragraphs 1-5 of this Article have jeopardised the free operation of democratic governance or
+national security, then the sanction imposed shall be confinement in a penitentiary and a fine amounting between five
+million Drachmas (GRD 5,000,000) and ten million Drachmas (GRD 10,000,000).
+8. If the acts referred to in paragraphs 1-5 of this Article were committed as a result of negligence, then imprisonment for
+a period of at least three (3) months and a fine shall be imposed.
+9. For the purposes of the present article, if the Controller is not a natural person, then liable shall be the representative of
+the legal entity or the head of the public authority or agency or organisation, provided s/he also carries out in effect
+administrative or managerial duties.
+10. Regarding the offences of the present article, the President and the members of the Authority as well as the
+employees of the Secretariat's Auditors Department who are especially authorised to that effect shall be deemed as
+special investigating officers having all the powers invested to them by the Code of Criminal Procedure. They shall be
+entitled to carry out a preliminary investigation, even without an order by the Public Prosecutor, in case of an act caught
+in flagrante delicto, a misdemeanour, or if there is risk in any delay.
+11. Regarding the offences referred to in paragraph 5 of this article as well as in any other case where an administrative
+review has been previously carried out by the Authority, the President of the same shall notify the competent Public
+Prosecutor in writing as to any eventuality that became the object of an investigation by the Authority and shall forward
+to him all the relevant records and evidence.
+12. The preliminary investigation for the offences referred to in this article shall be completed within a period of
+maximum two (2) months since charges were brought and, provided that there is reasonable cause to remand the
+defendant to trial, the court date shall be set at a date no later than three (3) months since the preliminary investigation
+was completed or, if remand was effected by means of an order of the Judicial Council, within two (2) months since the
+date such order became irrevocable. In the event the case is sent to trial by direct summons, no appeal will be permitted
+against the writ of summons.
+13. No continuation is allowed with regard to the offences referred to in this article, except for extremely important
+reasons and only once. In this case, the court is adjourned for a specific day within no more than two (2) months and the
+case shall, exceptionally, be heard first.
+14. The felonies, provided for in this law, shall be subject to the jurisdiction of the Court of Appeal.
+
+Article 23
+
+Civil Liability
+
+1. Any natural person or legal entity of private law, who in breach of this law, causes material damage shall be liable for
+damages in full. If the same causes non pecuniary damage, s/he shall be liable for compensation. Liability subsists even
+when said person or entity should have known that such damage could be brought about.
+2. The compensation payable according to article 932 of the Civil Code for non pecuniary damage caused in breach of
+this law is hereby set at the amount of at least two million Drachmas (GRD 2,000,000), unless the plaintiff claims a lesser
+amount or the said breach was due to negligence. Such compensation shall be awarded irrespective of the claim for
+damages.
+3. The claims referred to in the present Article shall be litigated according to articles 664-676 of the Code of Civil
+Procedure, notwithstanding whether the Authority has issued a relevant decision or whether criminal charges have been
+brought or suspended or postponed on any grounds whatsoever. The decision of the Court shall be issued within a period
+of two (2) months since the first hearing in court.
+
+CHAPTER F
+FINAL - TRANSITIONAL PROVISIONS
+
+Article 24
+Responsibilities of the Controller
+
+1. The Controllers of files operating on the date this law enters into force must submit to the Authority the notification of
+operation referred to in article 6 within six (6) months from the date the Authority commenced operations.
+2. The same obligation applies to Controllers of sensitive data files operating on the date this law enters into force, in
+order to have the permit referred to in paragraph 3 of article 7 issued.
+3. Regarding files operating and processing carried out on the date this law enters into force, Controllers must inform the
+data subjects, according to paragraph 1 of article 11, within six (6) months from the date the Authority commenced
+operations. In the event such information pertains to a large number of data subjects, it may also be carried out through
+the press. In this case the relevant details shall be determined by the Authority. The provisions of paragraph 4 of article
+11 shall also apply in this instance.
+4. Regarding wholly non-automated files the deadlines referred to in the preceding paragraphs will extend to one (1)
+year.
+5. The provisions of articles 11, 12, 13 and 19 paragraph 1 of this law shall not apply on criminal records and the official
+records kept by the competent judicial authorities in order to meet the operational needs of criminal justice and in the
+context thereof.52
+
+Article 25
+Commencement of the operation of the Authority
+
+1. Within a period of sixty (60) days since this law enters into force, the President of the Authority and his/her substitute
+shall be appointed. Within the same time limit the Minister of Justice shall submit to the Speaker of Parliament a
+proposal for the appointment of the four ordinary members of the Authority and an equal number of substitutes.
+2. The time of commencement of the operation of the Authority shall be determined by a decision of the Minister of
+Justice issued no later than four (4) months since the Authority was established. For the period between the appointment
+of its members and the recruitment of its Secretariat, according to article 20 paragraphs 6 and 7 of the present Law, the
+Authority shall be served by personnel temporarily seconded to it by means of its own decision, notwithstanding any
+other provision.53
+3. Until such time as the Authority operates according to the preceding paragraph, the administrative control of its
+expenses shall be effected by the Department of Finance of the Central Service of the Ministry of Justice at the expense
+of the budget of the Ministry of Justice.
+4. The decision of the Minister of Justice, pursuant to paragraph 2 of this article, whereby the date of commencement of
+the operations of the Authority is determined shall be published in the Official Gazette and in at least four (4) daily
+political newspapers of broad circulation published in Athens and Thessaloniki and in at least two (2) daily financial
+newspapers.
+
+
+Article 26
+Entry into force
+
+1. The provisions of Articles 15, 16, 17, 18 and 20 of this law shall enter into force on the date the present law is
+published in the Official Gazette.
+2. The remaining provisions shall enter into force on the date of the commencement of the operations of the Authority,
+pursuant to the preceding article.

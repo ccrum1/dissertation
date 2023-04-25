@@ -1,0 +1,625 @@
+COMPUTER-PROCESSED PERSONAL DATA PROTECTION LAW
+Promulgated on 11 August 1995
+Disclaimer: This translation is unofficial as a point of reference only and should not be regarded as a substitute for proper legal advice.
+Chapter 1: General Principles
+Chapter2: Data Processing by Public Institutions
+Chapter 3: Data Processing of Non-Public Institutions
+Chapter 4: Compensation for Damages and Other Remedies
+Chapter 5: Penalty
+Chapter 6: Ancillary Provisions
+Enforcement Rules
+
+CHAPTER 1: GENERAL PRINCIPALS
+ARTICLE 1
+This Law is enacted to regulate the computerized processing of personal data so as to avoid any
+infringement of the rights appertaining to an individual's personality and facilitate reasonable use of
+personal data.
+ARTICLE 2
+Protection of personal data shall be based on this Law; however, where other laws provide otherwise, the
+said laws shall apply.
+ARTICLE 3
+Definitions of terms used herein are as follows:
+1.The term "personal data" means the name, date of birth, uniform number of identification card, special
+features, finger print, marriage, family, education, profession, health condition, medical history, financial
+condition, and social activities of a natural person as well as other data sufficient to identify the said
+person.
+2.The term "personal data file" means a collection of personal data stored in an electromagnetic recorder
+or other similar media for specific purposes.
+3.The term "computerized processing" means to use computers or automatic machines for input, storage,
+compilation, correction, indexing, deletion, output, transmission, or other processing of data.
+4.The term "collection means" acquisition of personal data for establishment of personal data files.
+5.The term "use" means that a public institution or a non-public institution uses the personal data file
+maintained by it for internal use or provides the personal data file for use by a third party other than a
+concerned party.
+6.The term "public institution" means any agency at central or local government level performing official
+authorities by law.
+7.The term "non-public institution" means the following enterprises, organizations, or individuals other
+than the public institution prescribed in Subparagraph 6 above:
+
+
+Any credit investigation business or organization or individual whose principal business is to
+make the collection or computerized processing of personal data.
+Any hospital, school, telecommunication business, financial business, securities business,
+insurance business, and mass media.
+Other enterprises, organizations, or individuals designated by the Ministry of Justice and the
+central government authorities in charge of concerned end enterprises.
+
+8.The term "concerned party" means the person whose personal information is a subject matter.
+9.The term "specific purpose" means the purpose which shall be determined by the Ministry of Justice in
+conjunction with the central competent authorities having the primary jurisdiction over the enterprise
+concerned.
+ARTICLE 4
+Any concerned party shall not waive in advance or limit with special conditions the following rights to be
+exercised hereunder in respect of his/her personal data:
+1.Inquiry and request for review.
+2.Request for duplicates.
+3.Request for supplements or amendments.
+4.Request for cease of computerized processing and use.
+5.Request for deletion.
+ARTICLE 5
+In respect of any organization or individual entrusted by a public institution or a non-public institution with
+the work of data-processing, the person who does the work of data-processing shall be deemed as a
+member of the entrusting institution within the scope of application of this Law.
+ARTICLE 6
+Collection and use of personal data shall be made in good-faith and with consideration of rights and
+interests of the concerned party and shall not transgress the scope of necessity for a specific purpose.
+back to the top
+CHAPTER 2: DATA PROCESSING BY PUBLIC INSTITUTIONS
+ARTICLE 7
+Any public institution shall not make collection or computerized processing of personal data unless for
+specific purposes and in conformity to any one of the following circumstances:
+Within the scope of necessity for its official functions as provided in laws and/or ordinances.
+With the written consent of a concerned party.
+No potential harm to be done to the rights and interests of a concerned party.
+ARTICLE 8
+Use of personal data by a public institution shall be within the scope of necessity for its official functions
+as provided in laws and/or ordinances and in conformity to the specific purposes of collection; however,
+use beyond the specific purposes may be made under any one of the following circumstances:
+1.Expressly provided by law.
+2.With legitimate cause and for internal use only.
+3.To protect national security.
+4.To enhance public interest.
+5.To avoid emergent danger to the life, body, freedom, or property of a concerned party.
+6.Necessary for preventing grave damages to rights and interests of others.
+7.Necessary for academic research without harm to the major interests of others.
+8.Favorable to rights and interests of a concerned party.
+9.With written consent of a concerned party.
+
+ARTICLE 9
+International transmission and use of personal data by public institution shall be in accordance with
+relevant laws and ordinances.
+ARTICLE 10
+Any public institution maintaining a personal data file shall publish the following information and its
+changes in the official gazette or in other proper manners:
+1.Name of the personal data file.
+2.Name of the public institution maintaining the file.
+3.Name of the public institution using the personal data file.
+4.Basis and specific purposes of maintaining a personal data file.
+5.Classification of personal information.
+6.Scope of personal information.
+7.Collection method of personal data.
+8.Places where personal information is usually transmitted to recipients and recipients thereof. 9.Direct
+recipients of international transmission of personal information.
+10.Name and address of the public institution accepting applications for inquiry, amendment, and review
+of personal data.
+The classification of personal information mentioned in Subparagraph 5 of the preceding paragraph shall
+be stipulated by the Ministry of Justice and the central government authorities in charge of concerned end
+enterprises.
+ARTICLE 11
+The following personal data files may not be subject to application of provisions in the preceding Article:
+1.Relating to national security, diplomatic and military secret, overall economic interest, or other grave
+interest of the country.
+2.Relating to cases under examination by Grand Justices of Judicial Yuan, cases under examination by
+Committee on the Discipline of Public Functionaries, and matters concerning court investigation, trial,
+judgment, execution, or processing of non-litigation affairs.
+3.Relating to crime prevention, criminal investigation, execution, corrective - protective measures of the
+offenders, or prisoner's after-jail protection.
+4.Relating to administrative punishment and compulsory execution thereof.
+5.Relating to administration of border entrance and exit, security examination or refugee examination.
+6.Relating to taxes and collection thereof.
+7.Relating to personnel, daily duties, salary, sanitation, welfare, or relevant affairs of government
+agencies.
+8.Specially provided for test of computerized processing.
+To be deleted before publication in official gazette.
+9.Relating only to the name, residence, money and article exchange relations of a concerned party for the
+need of official business contact. Made individually for internal use by government staff solely in carrying
+out its personal duties.
+10.Others specially provided in laws.
+ARTICLE 12
+A public institution shall, upon request by a concerned party, reply inquiries on, permit review of, and
+make duplicates of the personal data file maintained by it except for any one of the following
+circumstances:
+1.The personal data file may not be published under the preceding Article.
+2.Likely to cause interference with public functions.
+3.Likely to undermine the great interest of a third party.
+
+ARTICLE 13
+A public institution shall maintain personal information with accuracy and make timely amendments or
+supplements ex officio or upon request by a concerned party.
+Where there is a dispute about accuracy of personal information, a public institution shall cease
+computerized processing and use of concerned personal information ex officio or upon request by the
+concerned party except that the said personal information is required for carrying out official duty and the
+dispute is noted or the consent of the concerned party has been obtained. When the specific purpose of
+computerized processing of personal information no longer exists or the time limit there of expires, a
+public institution may, ex officio or upon request by a concerned party, delete or cease computerized
+processing and use the said information except that the said information is required for carrying out
+official duties, change of purpose is made hereunder, or the written consent of the concerned party has
+been obtained.
+ARTICLE 14
+A public institution shall maintain books and records to register information published under Paragraph 1,
+Article 10 hereof for public consult.
+ARTICLE 15
+A public institution shall process request made by a concerned party hereunder within thirty (30) days
+upon receipt of such request or advise in writing the requester of reasons if process of the request can
+not be completed within said time limit.
+ARTICLE 16
+In respect of a request for inquiry on, review of or duplicates of personal information, a public institution
+may charge a proper amount of fees therefor.
+ARTICLE 17
+A public institution maintaining a personal data file shall designate a special staff to take exclusive charge
+of maintenance of safety in accordance with relevant laws and ordinances so as to prevent personal data
+from burglary, alteration, destruction, extinction, or disclosure.
+back to the top
+CHAPTER 3 - DATA PROCESSING OF NON-PUBLIC INSTITUTIONS
+ARTICLE 18
+Unless for a specific purpose and satisfying any of the following requirements, a non-government
+organization should not collect or process by computer the personal data:
+1.Upon written consent from the party concerned;
+2.Having a contractual or quasi-contractual relationship with the party concerned and having no
+3.potential harm to be done to the party concerned;
+4.Such personal data is already in public domain and having no harm to the major interest of the party
+concerned;
+5.For purpose of academic research and having no harm to the major interest of the party concerned; or
+6.Specifically provided by the relevant laws in Article 3 (7) ii and other laws.
+ARTICLE 19
+A non-public institution not registered with the government authority in charge of concerned end
+enterprises and issued with a license shall not engage in collection, computerized processing,
+international transmission, and use of personal data.
+
+A credit investigation business and any organization or individual whose principal business is to make
+collection or computerized processing of personal data shall obtain permission from the government
+authority in charge of concerned end enterprises and register therewith and issued with a license.
+Registration procedures, conditions precedent of permission, and criteria of charges in relation to the
+preceding two paragraphs shall be stipulated by the central government authorities in charge of
+concerned end enterprises.
+ARTICLE 20
+Application for registration prescribed in the preceding Article shall be made in writing with description of
+the following information:
+1.Applicant's name, place of residence or domicile. If the applicant is a juridical person or non-juridical
+organization, its names, principal office, branch office(s), or business operation office(s) and its
+representative's or administrator's name, place of residence or domicile.
+2.Name of the personal data file.
+3.Specific purposes of maintaining a personal data file.
+4.Classification of personal information.
+5.Scope of personal information.
+6.Period to maintain a personal data file.
+7.Collection method of personal data.
+8.Scope of use of personal data file.
+9.Direct recipients of international transmission of personal information.
+10Name of person responsible for preserving personal data file.
+11Safety maintenance plan of personal data file.
+Change of registration shall be applied for within fifteen (15) days after any change of the above said
+information. Termination of registration shall be applied for within one (1) month from occurrence of cause
+of business termination.
+When termination of registration is applied for under the preceding paragraph, method of disposal of the
+personal data maintained by the applicant shall be reported to the government authorities in charge of
+concerned end enterprises for approval.
+The specific purposes and classification of information mentioned in Sub-paragraph 3, Paragraph 1
+above shall be stipulated by the Ministry of Justice and the central government authorities in charge of
+concerned end enterprise. Criteria of safety maintenance plan of personal data file mentioned in
+Subparagraph 11, paragraph 1 and the method of disposal mentioned in paragraph 3 above shall be
+stipulated by government authorities in charge of concerned end enterprises.
+ARTICLE 21
+When registration is approved, information prescribed in Subparagraphs through 10, Paragraph 1 of the
+preceding Article shall be published in an official gazette and local newspapers.
+ARTICLE 22
+A non-public institution shall maintain books and records to register information prescribed in
+Subparagraphs 1 through 10, Paragraph 1, Article 20 for public consultation.
+ARTICLE 23
+Use of personal information by a non-public institution shall be within the scope of necessity for the
+specific purpose of collection; however, use beyond the specific purpose may be made under any one of
+the following circumstances:
+1.To enhance public interest;
+2.To avoid emergent danger to the life, body, freedom, or property of a concerned party;
+3.Where it is necessary for preventing grave damages to rights and interests of others; or
+4.With written consent of a concerned party.
+ARTICLE 24
+Under any one of the following circumstances, the government authorities in charge of concerned end
+enterprises may restrict international transmission and use of personal information by non-public
+institutions hereunder:
+1.Involving great interest of this country.
+2.Specially provided in an international treaty or agreement.
+3.Where the receiving country lacks proper laws and/or ordinances to adequately protect personal data
+and where are apprehensions of injury to the rights and interests of a concerned party.
+4.To indirectly transmit to and use from a third country personal information so as to evade control of this
+Law.
+ARTICLE 25
+A government authority in charge of concerned end enterprises may, if necessary, dispatch officials with
+identification documents to order a non-public institution under its control in respect of permission or
+registration to provide relevant data or give other necessary cooperation in relation to matters provided
+herein and visit the said non-public institution to conduct inspections. If any data violating this Law is
+found, the data may be seized. The non-public institution shall not evade, hinder or refuse any order,
+inspection, or seizure under the above paragraph.
+ARTICLE 26
+Articles 12, 13, 15, Paragraph 1, Article 16, and Article 17 shall apply mutatis mutandis to non-public
+institution. The charge criteria of a non-public institution applying mutatis mutandis Paragraph 1, Article
+16 shall be stipulated by the central government authorities in charge of concerned end enterprises.
+back to the top
+Chapter 4: Compensation for Damages and Other Remedies
+ARTICLE 27
+A public institution violating provisions herein thus causing damages to the rights and interests of a
+concerned party shall be liable for compensation for damages except that the damage is due to acts of
+God, accidents, or other causes of force majeure.
+The aggrieved party though having suffered non-pecuniary damage still may claim for monetary
+compensation in a proper amount and, if having suffered any damage in reputation, for proper measures
+to rehabilitate his/her reputation.
+The total amount of compensation for damages prescribed in the preceding two paragraphs shall be not
+less than NT$20,000 and not more than NT$ 100,000 for each event to each person unless there is
+evidence to prove a higher amount of damages.
+In case of compensation for damages in favor of a number of injured parties due to one single cause, the
+aggregated sum of compensation amount shall be limited to NT$20,000,000.
+The claim for compensation as prescribed in Paragraph 2 above shall not be transferred or inherited,
+except in case of a claim for monetary compensation which has been acknowledged by contract or upon
+which an action has been commenced.
+
+ARTICLE 28
+A non-public institution violating provisions herein thus causing damages to the interests of a concerned
+party shall be liable for compensation for damages except that it can prove that it has no intention or fault.
+Provisions in Paragraphs 2 through 5 of the preceding Article shall be applicable to request except that it
+can prove that it has no intention or fault. Provisions in Paragraphs 2 through 5 of the preceding Article
+shall be applicable to request for compensation set forth in the above paragraph.
+ARTICLE 29
+The claim for compensation for damages shall extinguish after two (2) years from the time when the
+injured party becomes aware of the damage and the obliger to make compensation or after five (5) years
+from the time of occurrence of the damage.
+ARTICLE 30
+In respect of compensation for damages, in addition to application of this Law, the National Liability Law
+shall apply to government agencies and the Civil Code to non-public institution.
+ARTICLE 31
+Where a concerned party is refused or a request is not attended within the time limit prescribed in Article
+4 by a public institution, the concerned party may, within twenty (20) days after the refusal or expiry of the
+time limit, request in writing the supervising authority to take proper action.
+ARTICLE 32
+Where a concerned party is refused the exercised rights of those prescribed in Article 4 by a non-public
+institution or after the expiry of the fixed period for reply, the concerned party may, within twenty (20) days
+after the refusal, request in writing the government authorities in charge of concerned end enterprises to
+take proper action. The government authorities in charge of concerned end enterprises mentioned above
+shall inform, within two (2) months after the receipt of the request, the requesting party of the result of its
+action. If the request is found with merits, a demand on the non-public institution to correct within a limited
+time period shall be made.
+back to the top
+CHAPTER 5 - PENALTY
+ARTICLE 33
+A person, with an intention to seek profits, who violates Articles 7, 8, 18 and 19, Paragraphs 1, and 2,
+Article 23, or a restriction order issued under Article 24 of this Law and thereby causing damages to
+others, shall be punished with imprisonment for not more than two years, detention, or, or in addition
+thereto a fine of not more than NT$40,000.
+ARTICLE 34
+A person, with an intention to acquire illegal interests for its personal or third party's benefit, or damage
+other's interests, who makes illegal output, interference, alteration, and deletion of a personal data file or
+impedes the accuracy of a personal data file causing damages to others shall be punished with
+imprisonment for not more than three (3) years, detention, or a fine of not more than NT$50,000.
+ARTICLE 35
+A public official who takes advantage of his authority, opportunity or means afforded by his official
+position to commit an offence provided by the preceding two Articles shall be subject up to one and a half
+times punishment prescribed for such offense as provided in the preceding two Articles.
+ARTICLE 36
+Prosecution for any offence specified in this Chapter may be instituted only upon complaint.
+
+ARTICLE 37
+Any more severe punishment stipulated in any other laws against any offence specified in this Chapter
+shall be applicable.
+ARTICLE 38
+Where a concerned institution meets any one of the following circumstances, the responsible person of
+the said institution shall be punished by the government authorities in charge of the concerned end
+enterprise with a fine of not less than NT$20,000 and not more than NT$100,000, a time limit for
+correction shall also be prescribed. In case no correction is made within the given time limit, the
+preceding fine will be imposed on the responsible person of a concerned institution for each violation until
+correction is made. 1. Violation of Article 18 of this Law 2. Violation of Paragraphs 1 or 2, Article 19 of this
+Law. 3. Violation of Article 23 of this Law 4. Violation of restriction order issued under Article 24 of this
+Law.
+In case of a serious violation of Subparagraphs 1, 3, or 4 of the preceding paragraph, the permission
+granted or registration made hereunder may be revoked or canceled.
+ARTICLE 39
+Where a concerned institution meets any one of the following circumstances, it shall be prescribed by the
+government authorities in charge of concerned end enterprises a time limit for correction. In case no
+correction is made within the given time limit, the responsible person of the said concerned organization
+shall be punished with a fine of not less than NT$10,000 and not more than NT$50,000 for each violation
+until correction is made.
+1.Violation of Paragraph 2, Article 20 of this Law.
+2.Violation of Article 21 of this Law regarding publication in local newspapers.
+3.Violation of Article 22 of this Law.
+4.Violation of Paragraph 1, Article 26 for which Articles 12, 13, 15 and 17 are applicable mutatis
+mutandis.
+5.Violation of charge criteria of Paragraph 2, Article 26 of this Law.
+In case of a serious violation of Subparagraphs 1, 2, 3 or 4 of preceding paragraph, the permission
+granted or registration made hereunder may be revoked or canceled.
+ARTICLE 40
+Where a concerned organization institution, the responsible person of the said institution meets one of the
+following circumstances shall be punished by the government authorities in charge of concerned end
+enterprises with a fine of not less than NT$10,000 and not more than NT$50,000 for each violation until
+correction is made.
+1.Failure to comply with the method of disposal approved by the government authorities in charge of
+concerned end enterprises under Paragraph 3, Article 20 of this Law.
+2.Violation of Paragraph 2, Article 25 of this Law.
+Violation of the official order for correction within a time limit under Paragraph 2, Article 32 of this 3.Law.
+In case of a serious violation of Subparagraphs 2 or 3 of the preceding Paragraph, the permission
+granted or registration made hereunder may be revoked or canceled.
+ARTICLE 41
+Where a fine imposed under this Law which has not been paid within the time limit given in a notice, shall
+be transferred to the court for compulsory execution.
+back to the top
+CHAPTER 6 - ANCILLARY PROVISIONS
+
+ARTICLE 42
+The Ministry of Justice shall be responsible for coordination and contact of matters relating to execution of
+this Law and rules governing such coordination and contact shall be enacted by the said Ministry. In case
+there is no government authority in charge of a certain end enterprise, matters to be handled by a
+government authority in charge of concerned end enterprises as provided herein shall be handled by the
+Ministry of Justice. The Ministry of Justice and government authorities in charge of concerned end
+enterprises may, if necessary, entrust any public welfare body with the administration of registration,
+publication, or other matters relating to collection, computerized processing, and use of personal data by
+non-public institutions.
+ARTICLE 43
+For operations of collection or computerized processing of personal data already occurred before
+promulgation of this Law, registration or permission thereof, if required hereunder, shall be
+supplementarily applied for within one (1) year from the date of promulgation of this Law. Enterprises,
+organizations, or individuals designated by the Ministry of Justice and the central government authorities
+in charge of concerned end enterprises under Item 3, Subparagraph 8, Article 3 of this Law, shall apply
+for registration or permission within six (6) months from the date of designation. Failure to file an
+application within the time limit prescribed in the preceding two paragraphs or rejection of an application
+shall be deemed that no approval of registration or permission is given.
+ARTICLE 44
+The Enforcement Rules of this Law shall be enacted by the Ministry of Justice.
+ARTICLE 45
+This Law shall come into force on the date of promulgation.
+THE ENFORCEMENT RULES OF COMPUTER PROCESSED PERSONAL DATA PROTECTION LAW
+Promulgated on 1 May 1996
+Disclaimer: This translation is unofficial as a point of reference only and should not be regarded as a
+substitute for proper legal advice.
+Article 1
+These Enforcement Rules are enacted pursuant to Article 44 of the Computer Processed Personal Data
+Protection Law (hereinafter referred to as the Act).
+Article 2
+The individual as referred to herein shall mean a specific or identifiable living natural person.
+Article 3
+The electromagnetic recorders or other similar media mentioned in Item 2, Article 3 of the Act shall mean
+material objects with electromagnetic records stored thereon, including magnetic disks, magnetic tapes,
+photoelectric disks, magnetic-bubble records, magnetic drums and objects made of other materials and
+capable of storing electromagnetic records. The electromagnetic records mentioned in the preceding
+Paragraph shall mean those records made, for the purpose of computer - processing, via electronic,
+magnetic and other methods which enable such records not to be directly recognizable with the human
+eye.
+Article 4
+The personal data files referred to in Item 2, Article 3 of the Act shall include back-up files.
+Article 5
+The automatic machine referred to in Item 3, Article 3 of the Act shall mean a machine having similar
+functions to procedure or progress originally needed to be conducted in a step by step sequence, into an
+automatic progression.
+Article 6
+The third party referred to in Item 5, Article 3 of the Act shall mean any natural person, juridical person or
+organization other than a public institution or a private entity, which keeps personal data files, but not
+including the organization or individual entrusted with data processing.
+Article 7
+The enterprise, organization or individual referred to in Sub-item 3, Item 7, Article 3 of the Act shall mean
+any of the former whose business data involving computerized processing massive personal data
+sufficiently affects the rights and interests of a data subject and thus needs to be regulated.
+Article 8
+When a data subject exercises the right provided in Article 4 of the Act toward a public institution,
+procedures should be stipulated by the public institution. When a data subject exercises the right provided
+in Article 4 of the Act toward a private entity, procedures should be stipulated by the central competent
+authority which has the primary jurisdiction over such entity.
+Article 9
+When a data subject exercises the rights provided in Items 1 and 2, Article 4 his or her personal data
+shall be limited to those, which can be printed out from the personal data file.
+Article 10
+The deletion referred to in Item 5, Article 4 of the Act shall mean to erase the personal data which has
+been stored in the personal data file and make said data unidentifiable pursuant to provisions in Para. 3,
+Article 13 of the Act.
+Article 11
+An organization or individual entrusted with data processing by a public institution or private entity shall
+process personal data pursuant to provisions of the Act. Under the above said circumstance, the data
+subject shall exercise the rights provided in the Act toward the entrusting party.
+Article 12
+The phrase "advantageous to the interests of a data subject" as set forth in Item 8, Article 8 of the Act
+shall mean the situation where the circumstances obviously favor the data subject and that the data
+subject would not refuse if he/she learns the situation.
+Article 13
+The international transmission and utilization referred to in Articles 9 and 24 of the Act shall mean
+transmission and utilization via cable, radio, optical or other electromagnetic system over communication
+networks, bur not including transmission by mail, hand-carried microfilms, perforated cards, computer
+reports or printouts, or electromagnetic records.
+Article 14
+Public announcements made by a public institution under Para. 1, Article 10 of the Act shall be made
+within one month after a personal data file is put on line for use. In case of any alteration of data, public
+announcement thereof shall be made within one month after the alteration. The methods of making public
+announcement as referred in the preceding Paragraph shall be specified and avoided from being
+changed at will.
+Article 15
+The "other proper methods" referred to in Para. 1, Article 10 of the Act shall mean using television,
+newspaper, magazine or other media that is available to the public to make public announcements. The
+period of a public announcement shall not be less than two days.
+Article 16
+The names of organizations authorized to use personal data files under Item 3, Para. 1, Article 10 of the
+Act may be announced publicly by listing the general scope and total number of authorized organizations
+thereof; however, if any organization uses data beyond the specific purpose, the name of such
+organization and its use which conforms with one of the conditions provided in Article 8 of the Act shall be
+stated in the public announcement.
+Article 17
+The "basis" referred to in Item 4, Para. 1, Article 10 of the Act shall mean the legal or executive project
+basis for maintaining personal data file.
+Article 18
+For the "place" referred to in Item 8, Para. 1, Article 10 of the Act, the address thereof shall be given; if
+the "recipient" referred to in the same Item is a juridical person or an entity, its title and the name of the
+representative shall be stated and if it refers to an individual, his/her name shall be given. For the "direct
+recipient" referred to in Item 9, Para. 1, Article 10 and Item 9, Article 20 of the Act, the address thereof
+shall be given; if it is a juridical person or an entity, the nationality, the name and the name of its
+representative shall be stated and if it refers to an individual, his/her nationality and name shall be given.
+If the agency prescribed in Item 10, Para. 1, Article 10 of the Act is the same as that which retain personal
+data files, said agency need not publicly announce the matters provided in said Item.
+Article 19
+Affairs of entry and exit control as referred to in Item 5, Article 11 of the Act shall included personal
+passport affairs. Personnel matters referred to in Item 7, Article 11 of the Act shall mean basic personal
+data and the relevant data concerning selection and appointment of all civil servants, which are kept and
+stored by public institutions at various levels and the authority in charge of the selection and appointment
+of officials, including administration matters, such as curricula vitae, examination records or other ratings
+of trainees kept by government training authorities. Any doubt about the identification of the data as
+referred in the preceding Paragraph shall be clarified by competent authorities.
+Article 21
+The phrase "exclusively for experimental computer - processing" referred to in Item 8, Article 11 of the Act
+shall mean the personal data files exclusively for temporary use for experiments and tests and be subject
+to destruction within six months.
+Article 22
+The phrase "injuring the major interests of a third party" referred to in Item 3, Article 12 of the Act shall
+mean one of the following circumstances:
+1.Detrimental to the life, body, freedom, property or other major interests of a third party; or
+2.Said personal data is obtained from a third party and disclosure of it to the data subject will do harm to
+the relationship of assistance or trust relationship between the data keeping agency and said third party.
+Article 23
+The "correctness" referred to in Para. 1, Article 13 of the Act shall mean that when used within the scope
+of a specific purpose, personal data must be used as precise, complete and up-to-date as possible. The
+language "timely" referred to in Para. 1, Article 13 of the Act shall mean that the public institution
+concerned shall make correction or supplements as soon as possible. The phrase "carrying out official
+duties" referred to Para. 2 and 3, Article 13 of the Act shall mean that public institutions perform their
+duties in accordance with the laws and regulations; or private entities operate their businesses or perform
+acts in line with its purpose of establishment. The phrase "extinction of a specific purpose" referred to in
+Para. 3, Article 13 of the Act shall mean one of the following circumstances:
+1.The public institution concerned has been deactivated or reorganized;
+2.The private entity concerned has changed its business items, suspended its business, wound up or
+dissolved;
+3.The specific purpose has been fulfilled and there are no need for further use; or
+4.There are other matters sufficient to indicate that the said specific purpose can not be achieved.
+Article 24
+Where a public institution corrects, supplements, deletes any data or ceases computerized processing
+and utilization thereof, it shall notify the agencies, organizations or individuals which, to its knowledge,
+have received said data.
+The personal data mentioned in the preceding Paragraph includes computer printed statements or other
+recordable articles. However, if the Act or other laws provide otherwise, such special provisions shall
+supersede.
+Article 25
+In requesting a public institution for a supplement or correction of personal data pursuant to Para. 1,
+Article 13 of the Act, a data subject shall submit sufficient evidence for such requested supplement or
+correction.
+Article 26
+The registers and books prescribed in Articles 14 & 22 of the Act may be substituted with computer
+terminal equipment or related equipment or documents of the said agency, which can be used by a data
+subject to check and view. The registers and books kept by a public institution pursuant to Article 14 and
+by a private entity pursuant to Article 22 of the Act, other than matters prescribed in Para. 1, Article 10
+and Item 1 through 10, Para. 1, Article 20 of the Act, shall also include information concerning the
+duration under which the data will be kept and whether it has been disclosed. The in-charge
+administration units and the places where data file review for registers and books shall be designated by
+public institutions and private entities.
+Article 28
+Fees that are charged by a public institution and/or a private entity for personal data file review and
+copying services should reflect the actual cost thereof.
+Article 29
+Where a Private entity applies for registration under Para. 1, Article 20 of the Act, more than two specific
+purposes may be registered. Article 30 The "written consent from a data subject" referred to in Item 1,
+Article 18 of the Act shall mean according to the papers executed between a private entity and a data
+subject, it sufficiently indicates consent from said party. In order to obtain written consents from a data
+subject a private entity, for a specific purpose, shall at the time of the initial contact, deliver to said data
+subject in person or to his/her statutory representative relevant data for collection, computerized
+processing or use within the specific purpose, together with papers requesting for expression of
+objections thereto within a specified period; if no objection is made in such specified period, it shall be
+presumed that the data subject has given his/her written consent.
+Article 31
+The "agreements" referred to in Item 2, Article 18 of the Act shall not be limited to those executed after
+implementation of the Act.
+Article 32
+The "quasi-contractual relationship" referred to in Item 2, Article 18 of the Act shall mean one of the
+following relations:
+The special relationship of trust formed through contacts and discussions for the propose of executing an
+agreement or of entering into a transaction between a private entity and a data subject before an
+agreement is executed; or
+The special relationship of contact formed between a private entity and a data subject for the purpose of
+exercise of rights, performance of obligations or ensuring completeness of personal data when an
+agreement no longer exists because of invalidation, cancellation, termination or performance.
+The "data in the public domain" referred to in Item 3, Article 18 of the Act shall mean the personal data
+that can be legally obtained or learned by any non-specific third party.
+Article 33
+The "rates of fees" referred to in Para. 3, Article 19 of the Act shall mean the amounts of fees of
+examination, registration, license, etc. charged by the government authorities which have the primary
+jurisdiction over the enterprises concerned at various levels for receiving registration, granting permission
+and issuing license in accordance with the Act.
+Article 34
+A public institution which keeps personal data files shall stipulate rules of safety protection of computer
+processed personal data, the contents of which shall include data safety and examination, equipment
+management and other safety protection measures.
+Article 35
+The provision of Para. 1, Article 24, Article 25 and Article 34 shall apply mutatis mutandis to private
+entities.
+Article 36
+The report of handling methods submitted by a private entity under Para. 3, Article 20 of the Act shall
+include the following information in accordance with each method:
+Destruction.
+i.Means of destruction.
+ii.Time and place of destruction.
+iii.Evidence of destruction.
+Transfer Reason of transfer, such as selling, giving out or other reasons.
+i.Transferee, including its nature, i.e. a public institution or a private entity and, in case of the latter, the
+type of its business.
+ii.Basis and evidence to support that the transferee is entitled to keep said personal data file. iii.Method,
+time and place of transfer.
+The competent authority which has the primary jurisdiction over the enterprise concerned may, if
+necessary, dispatch personnel to supervise over the destruction or transfer.
+After completing the destruction or transfer as referred in the first Paragraph, a private entity shall submit
+evidence of the same to the government authority having the primary jurisdiction over the enterprise
+concerned.
+Article 37
+When a private entity makes a public announcement under Article 21 of the Act, the announcement shall
+be made within two months after approval of its registration or of its change of registration.
+Article 38
+The "publication in local newspapers" provided in Article 21 of the Act shall run at least for a period of no
+less than two days.
+Article 39
+The following information may be excluded from the public announcement made by the private entity,
+published in local newspapers in accordance with Article 21 of the Act:
+1.The personnel, services, salary, hygiene, welfare or other related matters of said private entity.
+2.For test purpose of computerized processing only.
+3.To be deleted before public announcement.
+4.Other laws' special provisions.
+Article 40
+The expression "if necessary" referred to in Para. 1, Article 25 of the Act shall mean that there are facts
+sufficiently proving the violation or likelihood of violation of Articles 18 through 24 of the Act by a private
+entity. The certification documents provided in Para. 1, Article 25 of the Act shall cover the following
+information: The name of the inspection authority. The name and title of inspector. Basis of inspection.
+The inspecting authority shall keep secrets and consider the reputation of the inspected party.
+Article 41
+When making an inspection in accordance with Article 25 of the Act, requesting the inspected to provide
+information, written statements or other things, or seizing anything, the competent authority having the
+primary jurisdiction over the enterprise concerned shall issue a receipt stating the name, quantity and
+owner of the seized items, and the place and time for such seizure. The competent authority having the
+primary jurisdiction over the enterprise concerned shall, after conducting an inspection, maintain a record
+thereof stating the inspection procedures, information requested, results of inspection and other related
+measures as well as, in case of anything seized, the particulars required are to be stated in the receipt
+prescribed in the preceding Artide.
+If made on the spot, the record referred in the preceding paragraph shall be read and signed by the
+inspected, who may separately make written comments thereto. However, if the records are made
+afterwards, a copy of the record shall be sent to the inspected with a note that comments thereto may be
+made while the inspected may comment in writing upon receipt thereof. If the competent authority having
+the primary jurisdiction over the enterprise concerned determines that the inspected is in violation of the
+laws based on the inspection report and in consideration of comments made by the inspected, proper
+action shall be taken in accordance with the laws. Those seized articles, which need not be kept in
+custody, shall be returned.
+Article 42
+Compensation claims made under Articles 27 or 28 of the Act shall be limited to those claims resulting
+from any illegal acts conducted with injuries occurring both after implementation of the Act.
+Article 43
+After accepting a request made by a data subject under Para. 1, Article 31 of the Act and deeming that
+the request is illegal or without merit the supervising authority of a public institution shall dismiss the
+request with reasons stated or, if deeming the request is proper, order said public institution to make
+corrections as requested by the data subject within a deadline specified by the data subject as notified
+thereof.
+Article 44
+The "public welfare organizations" referred to in Para. 3, Article 42 of the Act shall mean the public
+welfare associations, foundations, other special forms of associations, and non-juridical entities approved
+by the central competent authorities having the primary jurisdiction over the enterprises concerned, which
+are organized under the Civil Code or other special laws and ordinances to engage in public welfare
+activities relating to said type of personal data.
+Article 45
+A private entity already engaging in the collection or computerized processing of personal data before the
+promulgation and implementation of the Act and who having applied registration or permission in
+accordance with the Act, having told the same to the data subject, and who expresses no objections
+thereto, may continue to collect or process by computer said personal data within the period prescribed in
+Para. 1, Article 43 of the Act. Article 46 These Rules shall come into force as of the date of promulgation.
+Last Updated: January 10, 1999

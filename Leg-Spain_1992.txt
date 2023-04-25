@@ -1,0 +1,1257 @@
+SPAIN
+
+ORGANIC LAW 5/1992, OF OCTOBER 29 , REGULATING THE
+AUTOMATED PROCESSING OF PERSONAL DATA . _
+
+Title I
+General provisions
+
+Article 1. Purpose.
+
+The purpose of this Organic Law , pursuant to the provisions of paragraph 4 of
+
+article 18 of the Constitution, is to limit the use of computers and other
+techniques and means for the automated processing of personal data _ _ _
+
+with a view to guaranteeing the honour, personal and family privacy of natural persons ,
+as well as the full exercise of their rights.
+
+Article 2. Scope .
+
+1. This Act applies to personal data stored in _ _ _
+public and private sector automated files , as well as any use _ _
+subsequent , even non - automated , personal data recorded on a
+
+material support such as to allow automated processing . _
+
+2. The personal data protection regime provided for in this _ _
+
+law does not apply :
+a) To automated files of public ownership and whose purpose , in accordance with the law,
+
+is to store data to make it generally public .
+b ) To files kept by natural persons for purposes exclusively _
+
+personal.
+
+I
+
+c ) To files containing technological or commercial information
+reproducing data already published in bulletins , newspapers or directories _ _ _
+
+officials.
+d ) Legal computer files accessible to the public , insofar as they are
+
+only reproduce provisions or court decisions already published in _ _ _ _ _ _
+newspapers or in official directories .
+e ) Files maintained by political parties , trade unions , churches ,
+denominations and religious communities , provided that the data only concerns _ _
+their associates , or members and former members , without prejudice to the transfer of
+data, under the terms of article 11 of this law, except that, taking into account the data
+personal data contained therein , the provisions of Article 7 would apply.
+
+3. Are subject to the rules contained in the specific provisions the
+
+re:
+
+a) Files covered by the legislation on the electoral system .
+b ) Files subject to the provisions on classified materials .
+c) Files from the Civil Status Register and the Criminal Record .
+
+d ) Files created for exclusively statistical purposes and covered by the Law _
+12/1989, of May 9 , of the Official Statistical Service , without prejudice to the provisions of
+
+section 36.
+
+e ) Automated files whose purpose is to store data contained in _ _
+personal relationships governed by article 68 of Law 17/1989 , of July 19 , of
+
+Regulation of the Professional Military Personnel Regime .
+
+Section 3. Definitions. For the purposes of this Act :
+
+a ) " personal data " means any information relating to
+
+natural persons , identified or identifiable;
+b ) " automated file " means any organized set of personal data
+
+personal subject to automated processing , regardless of the form of their _ _
+creation , storage , organization and access to them ; _
+
+c) " data processing " means any set of operations and procedures
+
+technical, automated or not, allowing the collection, recording, storage ,
+the development, modification , blocking and deletion, as well as the transfer of
+data resulting from communications , consultations , interconnections and _
+
+transfers;
+d) "responsible for the file" means the natural or legal person of a public nature
+
+or private, and the administrative body deciding on the purpose, content and use of the
+
+treatment;
+
+e) " data subject" means the natural person who is the holder of the data
+the purpose of the processing within the meaning of sub-paragraph c) of this article;
+
+f) " anonymization procedure" means any processing of personal data
+
+made in such a way that the resulting information cannot be associated with a person
+determined or determinable.
+
+Title II
+
+Principles of data protection _ _
+
+Article 4. Data quality .
+
+1. Personal data is only collected for the purpose of processing _ _ _
+
+automated or subjected to such processing only when they are adequate, relevant and not
+excessive in relation to the area and the legitimate purposes for which they were
+obtained.
+
+Only criteria that do not allow illegal practices can be used to 
+data classification . 
+
+2. Personal data subject to automated processing shall not 
+are not used for purposes other than those for which the data was 
+collected.
+
+3. The data must be accurate and kept up to date so that it corresponds
+really with the real situation of the person concerned.
+
+4. If stored personal data proves to be inaccurate in whole or in
+in part, or incomplete , they are erased , and rectified or completed data are
+automatically substituted , without prejudice to the faculties that article 15 grants to persons
+
+concerned.
+
+5. Personal data is erased when it is no longer _ _
+necessary or relevant for the purpose for which they were requested and _
+
+recorded.
+
+Data is only stored in such a way as to identify the person concerned for
+a period not exceeding the time necessary for the purposes for which they were
+requested or recorded.
+
+Implementing regulations set the procedure for deciding on the conservation _
+
+integral of data determined in exceptional cases , taking into account the values
+history relating thereto in accordance with the specific legislation .
+
+6. The data must be stored in such a way as to allow the exercise of the right
+
+access by the data subject .
+
+7. The collection of data by fraudulent , unfair or illicit means is
+prohibited.
+
+Article 5. Right to information when collecting data . _
+
+1. The data subjects to whom personal data are _ _
+requested must be informed in advance , expressly , precisely and not
+
+equivocal, on:
+
+a ) the existence of an automated file of personal data , the purpose
+their collection and the recipients of the information ;
+
+(b) the mandatory or optional nature of their response to the questions asked;
+
+(c) the consequences of obtaining the data or refusing to provide them ;
+
+d) the possibility of exercising the rights of access, rectification and erasure;
+e) the identity and address of the person responsible for the file.
+
+2. When questionnaires or other forms are used for data collection _
+of the data, the requirements set out in the previous paragraph must appear therein in such a way
+clearly legible.
+
+3. The information referred to in paragraph 1 is not necessary if its content results
+clearly of the nature of the personal data requested or the circumstances in
+which the data is requested.
+
+Article 6. Consent of the data subject .
+
+1. Automated processing of personal data may only take place _ _ _ _
+
+if the person concerned has given his consent , unless the law provides otherwise .
+
+2. Consent is not required when the data is collected from _
+sources accessible to the public, when collected for the purpose of carrying out the
+functions relating to public administrations within the framework of their competences, nor
+
+when the data concerns persons linked by a commercial relationship , a
+employment relationship , an administrative relationship or by contract , provided that the data
+are necessary to ensure the maintenance of relations or the performance of the contract.
+
+3. The consent referred to in this article may be revoked where one exists .
+justification and if no retroactive effect is attributed to it .
+
+Article 7. Data benefiting from special protection .
+
+1. In accordance with the provisions of paragraph 2 of article 16 of the Constitution,
+
+no one can be forced to declare their ideology , religion or beliefs . _
+
+When, with regard to the data referred to above , the consent referred to in
+the following paragraph is requested, the person concerned must be informed of his right not to
+give consent .
+
+2. Personal data revealing ideology , religion or beliefs _ _ _
+
+beliefs are subject to automated processing only if the data subject has given _
+his express consent in writing.
+
+3. Personal data concerning racial origin , health and life _ _ _ _
+
+information are only requested, automatically processed and communicated when , for
+for reasons of general interest a law has so provided , or if the person concerned consents thereto
+
+expressly.
+
+4. Files whose sole purpose is to store personal data _ _ _ _ _
+personal revealing ideology , religion , beliefs , racial origin or sex life
+
+are prohibited.
+
+5. Personal data concerning the commission of offenses 
+criminal or administrative are only included in automated files of 
+
+Competent public administrations and in the cases provided for by the provisions
+
+applicable.
+
+Article 8. Health data .
+
+Without prejudice to the provisions of article 11 relating to the transfer of data, the
+institutions and health centers , public and private, as well as the professionals concerned ,
+
+may automatically process personal health data of
+
+persons requesting their services or requiring their medical treatment , 
+
+in accordance with the provisions of articles 8, 10, 23 and 61 of Law 14/1986, of April 25 ,
+general health ; 85.5 , 96 and 98 of Law 25/1990, of December 20 , on medicine; 2,
+3 and 4 of Organic Law 3/1986 , of April 14 , of special health measures 
+
+public and other health laws .
+
+Article 9. Data security .
+
+1. The person responsible for the file takes technical and organizational measures in order to
+
+to ensure the security of personal data and to prevent their alteration ,
+loss, or their unauthorized treatment or access , taking into account the state of technology ,
+
+the nature of the data stored and the potential risks arising either from the action of
+man either from the physical or natural environment .
+
+2. Personal data is only stored in files _ _ _ _
+automated only in accordance with the conditions to be set by the implementing regulations in
+
+with regard to their integrity and security and the integrity and security of the data centers
+processing , premises , equipment , systems and software .
+
+3. Implementing regulations lay down the formalities and conditions which must _
+
+be filled in by the automated files containing the data covered by the article
+
+7, as well as by the persons in charge of the operations to be carried out within the framework of the
+automated processing of said data.
+
+Article 10. Duty of secrecy.
+
+The person responsible for the automated file and persons acting at any stage
+of the processing of personal data are obliged to maintain secrecy _ _
+
+professional and to preserve it , even after termination of their relationship with the holder of the
+automated file or, where appropriate , with the person responsible for the file.
+
+Article 11. Transfer of data.
+
+1. Personal data subject to automated processing shall not _ _ _
+
+are transferred only to accomplish purposes directly related to the legitimate functions _ _ _
+of the transferor and the transferee, provided that the person concerned has given his consent.
+
+2. The consent required in the previous paragraph is not necessary:
+
+(a) where a law provides otherwise ;
+
+(b) in the case of data collected from publicly available sources ;
+c) when the establishment of the automated file stems from the free acceptance and
+
+legitimacy of a legal relationship , the development, execution and control of which involve
+necessarily the connection of the file with files of third parties, the assignment not being
+
+legitimate in this case only insofar as it is limited to the purpose which justifies it ; _
+d) when the data is transferred to the Defender of the People, the Public Ministry , the
+Judges or Courts of Justice , within the framework of their functions ; _ _
+
+e ) when the data is transferred by Public Administrations in the cases
+provided for in section 19;
+
+f ) when the transfer of personal data concerning health is _ _
+necessary to deal with an emergency situation , the solution of which includes access to a
+
+automated file , or to carry out epidemiological studies within the meaning of article 8 of
+
+Law 14/1986, of April 4 , general health .
+
+3. Consent Is Void Where Not Given for a Specific Assignee _ _
+or determinable or if the purpose of the consented assignment is not clearly established .
+
+4. Consent to transfer personal data is also _ _ _ _
+
+revocable.
+
+5. The assignee of the personal data undertakes by virtue of the assignment _
+
+compliance with the provisions of this Law .
+
+6. If the assignment is made after the anonymization procedure , the provisions of the
+
+preceding paragraphs are not applicable .
+
+Title III
+Rights of persons
+
+Article 12. Opposition to assessments based exclusively on automated data . _
+
+The data subject may object to administrative or private decisions _
+implying an assessment of his behavior based solely on processing _
+automated processing of personal data giving a definition of the characteristics or
+
+of the personality of the person concerned.
+
+Article 13. Right to information.
+
+Any person may know, and request to this effect from the General Register
+
+of Data Protection the relevant information , the existence of automated files of
+personal data , their purposes and the identity of the person responsible for the file. There
+Consultation of the General Register is public and free.
+
+Article 14. Right of access.
+
+1. The data subject has the right to request and obtain information about _
+
+his personal data contained in automated files . _ _
+
+2. The information is obtained by means of the only consultation of the files using
+
+displaying the data, or by means of the communication of the data made in writing ,
+
+by means of copy, fax or photocopy, certified true or not, in a legible and
+
+intelligible, the use of conventional codes being permitted only if the interpretation can
+be made without the aid of specific mechanical devices .
+
+3. The right of access referred to in this article shall only be exercised at intervals whose
+
+duration does not exceed twelve months , unless the data subject demonstrates an interest _ _
+legit. In this case, the right can be exercised before.
+
+Article 15. Right of rectification and erasure.
+
+1. Implementing regulations determine the term in which the person responsible for the file
+
+is bound to fulfill the obligation to make effective the exercise of the right of rectification
+
+or erasure by the data subject .
+
+2. Personal data that proves to be inaccurate or incomplete are _
+rectified or deleted, as appropriate .
+
+3.
+
+If rectified or erased data has been transferred previously , the
+
+responsible for the file must communicate its rectification or deletion to the assignee.
+
+4. The data will not be erased if their erasure would harm interests _ _
+legitimate interests of the affected person or third parties, or where there is an obligation to
+
+retain data .
+
+5. Personal data is kept for the time provided for by _ _
+the applicable provisions or, where applicable , by the contractual relationships binding the person
+
+or the entity responsible for the file and the person affected.
+
+Article 16. Access procedure .
+
+1. Implementing regulations lay down the procedure for exercising the right of access ,
+
+as well as for the exercise of the right of rectification and erasure.
+
+2. No compensation is permitted for the rectification or erasure of
+personal data . _
+
+Article 17. Protection of rights and damages.
+
+1. Data subjects may contact the Data Protection Agency for _
+
+all complaints against acts contrary to the provisions of this Law , by means of
+the procedure to be established for this purpose by implementing regulations .
+
+2. A contentious-administrative appeal against the decisions of the Agency is open
+of Data Protection .
+
+3. Data subjects whose property has been damaged or whose rights _ _ _ _
+have been harmed as a result of the non -compliance with the provisions of this Law by the
+
+responsible for the file are entitled to compensation for damages .
+
+4. In the case of files with public owners , the responsibility arises
+in accordance with the legislation concerning the liability of Public Administrations .
+
+5. In the case of files with private owners , the action for liability is brought
+
+in the courts of the judiciary .
+
+Title IV
+Sectoral provisions
+
+Chapter I
+
+Files in public ownership
+
+Article 18. Establishment, modification and deletion.
+
+1. Automated files of Public Administrations are only established , modified
+or deleted only by means of a regulatory act published in the "Boletm Oficial del
+
+Estado" or in the corresponding official gazette .
+
+2. Regulatory acts establishing or modifying files include : _
+
+a) The purpose of the file and the intended uses .
+b) The persons or populations on which the collection of data to be
+personal character is envisaged or who are obliged to provide them .
+
+c ) The procedure for collecting personal data . _ _
+
+d) The basic structure of the automated file and the categories of data to be
+
+personal character contained therein . 
+
+e ) The planned transfers of personal data , if any .
+
+f) The administrative bodies responsible for the automated file .
+g) The services or units in which the rights of access, rectification and
+
+erasure are exercised.
+
+3. Regulatory acts enacted to delete automated files _ _
+provide for the subsequent destination of these or, where applicable , the requirements concerning
+
+their destruction.
+
+Article 19. Transfer of data between Public Administrations .
+
+1. Personal data collected or processed by Administrations
+public authorities for the exercise of their powers are not ceded to other
+
+Public administrations for the exercise of different competences or _ _
+competences concerning different matters , except when the transfer has been provided for by
+
+the regulatory act establishing the file or by subsequent rules , of the same rank or
+
+of a higher rank , dealing with the use of data.
+
+2. Personal data obtained or processed by Administrations _ _ _ _
+to other Public Administrations may in any case be subject to _
+of the assignment.
+
+3. Notwithstanding the provisions of Article 11.2.b ) , data collected from sources
+
+accessible to the public are transferred to files with private owners only with the consent
+of the person concerned or if the law provides otherwise .
+
+Article 20. Files of the Security Forces and Bodies .
+
+1. The automated files established by the Security Forces and Bodies and _ _
+containing personal data collected for administrative purposes and intended 
+to permanent registration , are subject to the general regime of this Law.
+
+2. The collection and automated processing of personal data for purposes 
+
+police purposes made by the Security Forces and Bodies without the consent of the 
+
+affected persons are limited to cases and categories of data that are 
+necessary for the prevention of a real danger to public security or the repression of 
+criminal offences . The data must be stored in specific files established _
+for this purpose , and classified according to their degree of reliability.
+
+3. The data referred to in paragraphs 2 and 3 of article 7 are only collected and
+
+processed by the Security Forces and Bodies only in cases where the collection and 
+processing is absolutely necessary for the purposes of a particular investigation .
+
+4. Personal data stored for police purposes is deleted _ _ _
+when they are no longer necessary for the purposes of the investigations for which they were
+
+recorded.
+
+To this end , the age of the affected person and the _ _
+categories of the stored data , the need to keep the data until the conclusion
+
+of a specific investigation or prosecution , the pronouncement of a final decision and
+
+including acquittal , pardon , pardon and limitation of liability .
+
+Article 21. Derogations from the rights of access, rectification and erasure.
+
+1. Those responsible for files containing data referred to in paragraphs 2 , 3 and
+
+4 of the previous article may refuse access , rectification or erasure depending
+any dangers that may result therefrom for the security of the State or the security
+
+public, the protection of the rights and freedoms of others or the needs of investigations in
+course.
+
+2. The persons in charge of the files of the Tax Administration can also
+refuse the exercise of the rights referred to in the previous paragraph when their exercise is
+
+likely to encroach on the administrative operations ensuring the payment of
+
+
+tax obligations and, in any case, if the person concerned is the subject of an investigation of
+the Finance Inspectorate .
+
+3. The data subject having been refused the exercise of the rights referred to in the
+previous paragraphs may submit a complaint to the Director of the Agency for the Protection of
+
+Data, or of the competent body of the respective Autonomous Community if it is
+automated files held by Police Corps of the Autonomous Community or 
+by the tax authorities thereof . _ The Director ensures their validity .
+
+Article 22. Other Derogations from the Rights of Affected Persons .
+
+1. The provisions of paragraphs 1 and 2 of article 5 do not apply to the collection
+
+data when informing the data subject interferes with the performance of the _
+functions of control and verification of Public Administrations or renders the execution thereof
+
+seriously difficult , or affects National Defense , Public Security or Law Enforcement
+
+criminal or administrative offences .
+
+2. The provisions of Article 14 and Article 15 do not apply if _
+the assessment of the interests of the parties concerned reveals that the rights deriving from said
+
+arrangements for those affected must yield to the public interest or to _ _ _
+
+prevailing interests of third parties. The administrative body responsible for the automated file
+
+invokes the provisions of this paragraph only if he justifies the reasons therefor and if he informs the
+data subject of his or her right to file with the Director of the Protection Agency
+
+Data or, where appropriate , the competent body of the Autonomous Communities a
+complaint against the refusal of the exercise.
+
+Chapter Q
+
+Private Owner Files _
+
+Article 23. Establishment.
+
+Automated files with private owners and containing personal data _ _ _
+
+personnel may be established when necessary to accomplish the activity or purpose _
+legitimacy of the person , company or entity holder and that the guarantees provided _
+by this law for the protection of persons are respected.
+
+Article 24. Notification and registration of files.
+
+1. Natural or legal persons using automated files _ _ _ _
+of personal data notify the Agency of this in advance . _ _ _
+Data Protection .
+
+2. Implementing regulations establish the information to be included in the
+
+notification. The information on the files must mention the _
+responsible , purpose , location , category of personal data that _ _
+are contained therein , the security measures , as well as, where applicable , the transfers of data
+
+of a personal nature considered.
+
+3. Any changes to the purpose , manager and location of the file _
+
+are communicated to the Data Protection Agency .
+
+4. The General Data Protection Register only registers files _ _
+automated only if the notification complies with the required formalities .
+
+If the notification is not in conformity, the Registry may have it supplemented or rectified
+
+the information.
+
+5. If after filing the application for registration of the file a month has passed
+and that no decision has been notified by the Data Protection Agency , the file
+
+automated is deemed to be recorded for all purposes.
+
+Article 25. Communication of the transfer of data.
+
+1. When the data is first transferred , the person responsible for the file informs
+the persons concerned and indicates the purpose, as well as the categories of data transferred
+and the name and address of the assignee.
+
+2. The obligation referred to in the previous paragraph does not exist in the cases provided for in
+paragraphs 2, letters c), d) and e), and 6, of article 11, as well as in the cases in which the transfer is
+
+imposed by law .
+
+Article 26. Data on subscribers to telecommunications services . _ _ _
+
+The numbers of telephones and other telecommunications services , as well as
+additional data may be in publicly available repositories , but _
+
+the data subject may request its exclusion.
+
+Article 27. Provision of automated personal data processing services _ _ _ _
+
+1. Those who , on behalf of third parties , provide processing services
+automated personal data may not apply or use for any purpose _ _ _
+
+different from those appearing in the service contract the resulting data , _ _ _
+or assign them , even for the purpose of conservation.
+
+2. After performance of the contractual service , the data to be
+personal character that have been processed are destroyed. If the master of the contract gives
+
+the express authorization with a view to reasonably probable subsequent contracts , the data
+
+can be stored for a period of five years , under satisfactory conditions in
+regarding data security . _ _ _
+
+Article 28. Provision of credit and credit information services . _ _ _
+
+1. Anyone who provides credit and credit information services shall not _ _ _
+
+may automatically process personal data only if the data has been _ _ _
+obtained from publicly available sources or derived from information provided by the
+data subject or with their consent. Personal data may _ _ _
+
+be processed if they relate to the performance or non -performance of obligations to pay
+
+sums of money and whether they were provided by the creditor or by persons acting _
+
+on their behalf or in their interest. In these cases the data subjects on whom
+
+data has been recorded in automated files receive within _ _ _ _ _
+thirty days from the recording of the data a notification containing a statement
+recorded data and information about their right to request information about _ _
+
+all data recorded, in accordance with the provisions of this law.
+
+2. The person responsible for the file communicates to the person concerned, on request,
+all data and all evaluations and assessments that have been transferred within six months _
+antecedents, as well as the name and address of the assignee.
+
+3. Only personal data which may _ _ _ _ _ _ _
+to be decisive in assessing the economic solvency of the persons concerned ,
+
+provided that the data being adverse goes back to a period not exceeding six years.
+
+Article 29. Files for advertising purposes .
+
+1. Anyone who collects addresses or distributes documents , or exercises _
+
+advertising or direct selling activities or other similar activities , uses lists _ _
+processed automatically containing names and addresses or other personal data _
+
+when the data appear in documents accessible to the public or when they have been
+provided by the data subjects or have been obtained with their consent .
+
+2. Data subjects have the right to know the origin of their data
+personal character , as well as to be removed from the automated file , immediately and without
+
+deadline , and to have all the information concerning them recorded there erased .
+
+Article 30. Files relating to investigations or research .
+
+1. Personal data is only used in opinion polls , _ _ _
+
+market studies , scientific or medical research , and in other activities _
+analogous, only if the person concerned has freely given his consent to this effect.
+
+2. The personal data processed automatically within the framework _ _
+of said activities may not be used for a different purpose or transferred in such a way as to
+
+can be put in touch with a specific person .
+
+Article 31. Type codes .
+
+1. Those responsible for files held by private owners may , through sectoral agreements
+
+consultation or by company decisions , draft standard codes regulating _ _ _
+
+organizational conditions , operating systems , procedures , standards _ _
+of safety concerning the environment, the software or the materials, the obligations of the
+persons responsible for the processing and use of personal information , as well as
+the guarantees provided in their respective fields with regard to the exercise of the rights
+
+of persons , while fully respecting the principles and provisions of this _ _
+Law and its implementing regulations .
+
+The above codes may contain specific operational rules of each _
+system as well as technical application standards .
+
+If business rules or application standards are not integrated into _ _ _
+the code , instructions or orders in fixing the use must respect the principles
+code .
+
+2. Model codes are codes of ethics or good practice _ _
+professional and must be filed or registered in the General Register for the Protection of
+Data. Registration may be refused when the General Register for the Protection of
+Data considers that they do not comply with legal and regulatory provisions
+
+applicable. In this case, the Director may order the interested parties to make the
+corrections.
+
+Title V
+International data movement _
+
+Article 32. General rule .
+
+Personal data which has undergone automated processing or _ _ _ _
+collected with a view to being subjected to such processing cannot be transferred as _
+
+temporary or permanent to countries whose level of data protection cannot be _ _ _ _ _
+
+pari passu with the level of this Law , except where the provisions of this Law are
+complied with and if the prior authorization of the Director of the Data Protection Agency
+has been obtained. Authorization is given only if adequate guarantees are obtained .
+
+Article 33. Exceptions.
+
+The provisions of the previous article do not apply :
+
+a ) where the international transfer of personal data results from _
+
+the application of treaties or conventions to which Spain is a party,
+b) where the transfer of data is made for the purpose of filing or executing
+
+requests for international legal assistance ,
+c ) when the purpose of the transfer is to exchange medical data between
+doctors or between health institutions and when the medical care of the person _ _ _
+
+concerned or epidemiological research of diseases or onsets _ _
+
+of epidemics require the exchange of data,
+d ) when the transfer concerns remittances , in accordance with the legislation
+
+applies.
+
+Title VI
+
+Data Protection Agency _ _
+
+Article 34. Nature and legal regime .
+
+1. The Data Protection Agency is created .
+
+2. The Data Protection Agency is a body governed by public law with the
+of legal personality and capable of all legal acts , public and private . She
+does not exercise its functions under any constraint of the Public Administrations . She is governed
+
+by the provisions of this Law, by the provisions of a statute to be issued by the
+Government, as well as by the provisions applicable in accordance with article 6-5 of
+the General Budget Law .
+
+3. The Data Protection Agency exercises its functions in accordance with the Law
+of the Administrative Procedure , except that this Law or the implementing regulations
+
+contain specific provisions . It acquires goods and enters into contracts _
+in accordance with common law .
+
+4. The workstations of the bodies and services integrating the Protection Agency _ _
+
+of the Data are occupied by civil servants of the Public Administrations or by
+contractual staff , depending on the nature of the tasks of each workstation . These
+personal are obliged to maintain the secrecy of the personal data that they _
+know in the performance of their duties.
+
+5. The following assets and economic resources are assigned to the Agency for
+Data protection in order to ensure the fulfillment of its purposes :
+
+a) transfers to be included each year in the General State Budget ;
+b) goods and securities forming part of its patrimony, as well as their products and
+income;
+
+c ) other property and resources allocated to it in accordance with the law.
+
+6. The Data Protection Agency draws up and annually approves the prior
+draft Budget and forwards it to the Government with a view to integrating it separately into the
+
+General State Budget .
+
+Article 35. The Director.
+
+1. The Director of the Data Protection Agency manages the Agency and exercises _
+the representation. He is appointed, among the members of the Consultative Council , by Decree
+Royal, for a period of four years.
+
+2. H performs his duties with full independence and objectivity and is not _
+
+not subject to guidelines regarding exercise . _ _ _ _
+
+3. The Director of the Data Protection Agency is not discharged _ _ _
+before the expiration of the period referred to in paragraph 1, only upon request, by resolution passed by
+
+the Government after investigation, heard the other members of the Advisory Council , for
+
+serious non-observance of his obligations, for incapacity arising for the exercise of his
+functions, for incompatibility or in the event of a criminal conviction for an intentional offence .
+
+4. The Director of the Data Protection Agency has the quality of high _
+authority.
+
+Article 36. Functions.
+
+The functions of the Data Protection Agency consist of :
+
+a ) ensuring compliance with and monitoring data protection legislation _ _ _
+
+the application, in particular with regard to the rights of information, access ,
+
+rectification and erasure of data,
+b ) give all authorizations provided for by law or in regulations
+application thereof ,
+
+c) give, where appropriate , and without prejudice to the powers of other bodies,
+all instructions with a view to ensuring the adequacy of automated processing with the principles
+
+of this Law ,
+d) receive all requests and complaints filed by data subjects ,
+e ) instruct all persons of their rights with regard to the processing
+
+automated personal data , _ _
+f ) order the cessation of all processing of personal data and the _
+deletion of all files if they do not comply with the provisions of this Law ,
+
+g) exercise the power to sanction, in accordance with the provisions of Part VII
+
+of this Law ,
+h ) be consulted on all draft implementing regulations of the _
+
+this Law,
+
+
+i) ask those responsible for the files for any collaboration and information
+likely in his opinion to be necessary for the performance of his duties,
+
+j ) to publicize the existence of automated personal data files _ _
+
+personnel and to this end periodically publish statements containing all the _ _
+additional information that the Director of the Agency will decide,
+k) draw up an annual report and submit it to the Ministry of Justice ,
+l ) provide oversight of all international movements of data and _
+
+give all authorizations relating thereto , as well as ensure international cooperation
+with regard to the protection of personal data , _ _
+
+m) ensure compliance with the provisions of the law on the public statistics service
+
+concerning the collection of statistical data and statistical secrecy , and give all the
+instructions, advise on the security of files created for the sole purpose of statistics and
+exercise the power provided for in Article 45,
+
+n ) exercise all the functions attributed to it by laws or regulations .
+
+Article 37. Advisory Council .
+
+The Director of the Data Protection Agency is assisted by a Board _
+Advisory with the following composition :
+
+- A deputy, proposed by the Congress of Deputies.
+
+- A senator, proposed by the respective Chamber .
+- A representative of the central Administration , appointed by the Government.
+
+- A representative of the Municipal Administration , proposed by the Federation
+
+Spanish for Communes and Provinces .
+- A member of the Royal Academy of History, proposed by the latter.
+- An expert in the subject, proposed by the High Council of Universities.
+
+- A representative of users and consumers , chosen in accordance with
+application regulations .
+- A representative of the Autonomous Communities , whose proposal is made to the
+means of the procedure to be fixed by implementing regulations .
+
+- A representative of the private files sector , whose proposal is made to the
+
+means of the procedure to be fixed by implementing regulations .
+
+Implementing regulations set the operating procedure of the Board _
+Advisory.
+
+Article 38. The General Data Protection Register . _
+
+1. The General Data Protection Register is created , as an integrated body _
+
+in the Data Protection Agency .
+
+2. The following are registered in the General Data Protection Register :
+
+a ) Automated files whose holders are Public Administrations . _
+
+b) Automated files with private ownership .
+c) The authorizations provided for in this Law .
+d) The type codes provided for in Article 31 of this Law .
+e) The data necessary to exercise the rights of information, access ,
+
+rectification and erasure.
+
+3. Implementing regulations set the procedure for entering in the Register _
+
+general of Data Protection the files with public holder and those with private holder and _
+determine the content, modification and cancellation of registrations , as well as the
+procedure for complaints and appeals against the corresponding resolutions and _ _
+
+any other related matters .
+
+Article 39. Power of inspection.
+
+1. The Data Protection Agency may inspect files subject to _ _
+
+of this Law and request all the information required to perform its task .
+
+To this end, it may request the exhibition or delivery of all documents and
+
+data and examine them on site. It can inspect the hardware and software used
+
+in the processing of data and enter the premises where they are installed .
+
+2. The officials responsible for the inspection tasks referred to above shall have the capacity
+
+of authority while carrying out their mission.
+
+They are obligated to keep secret all the information they know in _ _
+exercise of the said functions, even after having been relieved of them .
+
+Article 40. Competent bodies of the Autonomous Communities .
+
+1. The functions which, in accordance with the provisions of Article 36 , correspond
+
+to the Data Protection Agency may be exercised by bodies of the _
+Autonomous Communities benefiting from appropriate guarantees of independence and
+objectivity in carrying out their tasks , with regard to automated files of
+personal data established or managed by each Community within the framework of _ _
+its competences, with the exception of the functions provided for in sub -paragraphs j), k) and 1), as well as
+
+in sub -paragraphs f) and g) and in Articles 45 and 48 .
+
+2. The Autonomous Communities may create and maintain file registers _ _
+
+public bodies with a view to exercising the powers attributed to them , with regard to the
+automated personal data files of which the Autonomous Communities or their
+Historical territories are the holders.
+
+3. The Director of the Data Protection Agency may convene _
+regularly the competent bodies of the Autonomous Communities for the purpose of cooperation
+
+institutional and coordination of criteria or guidelines . _ _ _ The Director of
+the Data Protection Agency and the competent bodies of the Autonomous Communities
+may ask each other for all the information required to fulfill their
+functions.
+
+Article 41. Files of the Autonomous Communities concerning matters within their exclusive
+competence .
+
+1. When the Director of the Data Protection Agency finds that a
+
+automated file pertaining to the Autonomous Communities is kept or used, within the framework
+
+of the exclusive jurisdiction of the latter, in contravention of a provision of this Law,
+
+he can summon the Administration concerned to take specific corrective measures _
+within a time limit to be expressly set in the summons.
+
+2. If the summons of the Director of the Data Protection Agency is not
+executed by the Public Administration concerned, the Director may challenge the resolution
+
+taken by it.
+
+V.H. title
+Offenses and Penalties
+
+Article 42. Persons in charge.
+
+1. Those responsible for the files are subject to the sanctions regime provided for by the
+
+this Act.
+
+2. In the case of files whose managers are Public Administrations _ _
+the provisions of article 45 , paragraph 2, apply with regard to the procedure and the
+penalties.
+
+Article 43. Types of offences.
+
+1. The offenses are minor, serious or very serious.
+
+2. Offenses which consist of : _ _
+
+a) Not to rectify or erase from files , ex officio or at the request of
+
+persons or institutions authorized by law , errors , deficiencies or _ _ _
+formal inaccuracies . _
+
+(b) Failure to comply with instructions given by the Director of the Agency of
+
+Data Protection or not to provide information requested by it , _
+concerning non - substantial aspects of data protection . _
+c ) Failing to update personal data maintained in _ _ _ _ _
+automated files .
+d ) All other offenses concerning formal or documentary aspects and
+
+not capable of being qualified as a serious or very serious infringement 
+
+3. Offenses which consist of : _ _
+
+a ) Establish automated files in public ownership or begin the collection of
+personal data in order to save them in the said files , without having _
+been authorized by regulatory act published in the “Boletfn Oficial del Estado” or in
+
+other relevant official journals .
+b ) Establish private owner files , or start collecting data from _ _
+
+personal character in order to save them in the said files, for purposes other than
+than those arising from the legitimate purposes of the company or entity concerned .
+
+c ) Collect personal data without asking for consent _ _
+
+express data subjects in cases where consent must be requested , or _ _
+without providing data subjects with the information provided for in Article 5 of this
+
+Law.
+
+d ) Processing personal data by automated procedures or by _ _
+
+make subsequent use , in violation of the principles and guarantees provided for in the
+
+this Law, or without respecting the protective rules provided for in the regulations
+
+of application, when the facts are not likely to be qualified as offenses
+very serious.
+e ) Prevent or obstruct the exercise of the right of access , and refuse to provide
+information requested .
+
+f ) Maintaining inaccurate personal data or failing to make _ _ _
+rectifications or deletions provided for by law if this infringes on the rights of _
+
+persons protected by this Law .
+g ) Do not keep the secret , unless the facts are not likely to be
+
+classified as very serious offences .
+h ) Maintain files , premises , software or materials containing _ _
+
+personal data without respecting the security measures that will be set by _ _
+implementing regulations .
+i ) Failing to notify the Data Protection Agency _ _ _ _
+provided for by this Law or by the implementing regulations , and failing to provide in a timely manner
+
+documents or information required or requested by the Agency .
+j) Obstructing the exercise of inspection functions .
+
+4. Offenses which consist of : _ _ _
+
+a) Collect data in a deceptive and fraudulent manner .
+b ) Communicate or cede personal data outside the authorized cases . _
+
+c ) Requesting and processing personal data using automated procedures _ _
+personnel provided for in paragraph 2 of article 7, without the express consent of the person
+
+concerned; request and process through automated procedures data provided for in _
+
+paragraph 3 of article 7 if a law does not allow it or if the person concerned has not
+
+given his express consent , or fail to comply with the prohibition of paragraph 4 of article
+7.
+
+d) Not putting an end to the illegitimate use of automated data processing
+
+personal data when notified by the Director of the Agency of _ _ _ _
+
+Data Protection or by persons with the right of access .
+
+e ) Transfer , temporarily or permanently , personal data _ _
+which have been subject to automated processing or which have been collected with a view to being submitted
+
+to such processing, intended for countries that do not provide a comparable level of protection ,
+without the prior authorization of the Director of the Data Protection Agency .
+
+f ) Processing by automated procedures personal data of _ _ _
+illegitimately or in disregard of the applicable principles and guarantees , if this prevents or
+
+undermines the exercise of fundamental rights .
+g ) Not to keep secret the personal data provided for in paragraphs _ _
+2 and 3 of article 7.
+
+Article 44. Types of sanctions.
+
+1. Minor offenses are subject to a fine of 100,000 to 10,000,000,000
+pesetas.
+
+2. Serious offenses are subject to a fine of 10,000,001 to 50,000,000
+pesetas.
+
+3. Very serious offenses are subject to a fine of 50,000,001 to 100,000,000
+of pesetas.
+
+4. The quantum of sanctions is determined according to the nature of the rights
+personnel affected , the volume of processing carried out, the profit derived therefrom , the degree
+intentionality and recidivism . _
+
+5. The Government periodically updates the quantum of sanctions by _ _
+
+relative to changes in price indices .
+
+Article 45. Offenses committed by Public Administrations .
+
+1. If the offenses referred to in Article 43 are committed on files whose _
+
+responsible are the Public Administrations , the Director of the Agency for the Protection of
+Data takes a resolution ordering the measures to be adopted with a view to stopping or
+to rectify the effects of the breach. The resolution is notified to the person responsible for the file,
+to the body to which it belongs and to the persons concerned, where applicable .
+
+2. The Director of the Agency may also propose disciplinary measures , if necessary
+applicable. The procedure and sanctions provided for in the legislation on the disciplinary regime
+
+Public Administrations are applicable .
+
+3. The resolutions taken in the above cases are communicated to the Agency.
+
+4. The Director informs the Defender of the People of all measures and resolutions
+
+taken in application of the above provisions .
+
+Article 46. Limitation.
+
+1. Very serious offenses are prescribed by three years , serious ones by two years ,
+and the slight ones by a year.
+
+2. The limitation period begins to run from the day on which the infringement was
+committed.
+
+3. The statute of limitations is interrupted when the sanction procedure has been
+commenced and the party concerned becomes aware of it . The prescription is reopened if the
+sanction procedure remains suspended for more than six months due to non - attributable causes
+
+to the alleged offender .
+
+4. Sanctions imposed for very serious misconduct are time- barred after three years ,
+
+those pronounced for serious faults by two years , and those pronounced for faults
+slight by one year.
+
+5. The limitation period for penalties begins on the day following the day _
+at which the decision pronouncing the sanction has become enforceable.
+
+6. Prescription is interrupted when the enforcement procedure has been _
+
+commenced and the party concerned becomes aware of it . The prescription is reopened if the
+enforcement proceedings remain suspended for more than six months for causes not attributable to
+the perpetrator of the offence.
+
+Article 47. Penalty procedure .
+
+1. Implementing regulations lay down the procedure for determining infringements _
+and take the sanctions provided for in this Title.
+
+2. An administrative contentious appeal is open against the resolutions taken by
+the Data Protection Agency or by the competent bodies of the Communities
+autonomous.
+
+Article 48. Power to freeze files.
+
+In cases likely to qualify as very serious offences , and _
+consisting of the unlawful use or transfer of personal data preventing _
+
+seriously the exercise of the rights of citizens and the free development of personality
+guaranteed by the Constitution and by law , the Director may exercise the power to sanction
+
+and in addition summon those responsible for the automated personal data files _
+personal, public or private holder , to put an end to the illicit use or transfer of
+
+data. If the summons of the Director is not carried out, the Agency may order, by
+justified resolution , the immobilization of the automated files with the only fms to put in
+state the rights of data subjects .
+
+First additional provision . Non- application of Titles V7 and VII.
+
+The provisions of Titles VI and VH do not apply to files whose _
+holders are the Cortes Generales, the Defender of the People, the Court of Auditors, the
+General Council of the Judiciary and the Constitutional Court .
+
+Second additional provision . Files prior to the entry into force of the law.
+
+1. Within one year of the entry into force of this Organic Law , all
+
+previously existing files and automated processing of personal data _ _
+and included in its scope must be notified to the Agency for the Protection of
+Data.
+
+2. Within one year of the entry into force of this Organic Law , the
+
+Public administrations responsible for already existing automated files must
+approve a regulatory act establishing the file or adapt, if necessary , the act
+regulations already in force.
+
+
+Third additional provision . Skill of the Defender of the People.
+
+The provisions of this Organic Law do not derogate from the competence of the
+
+Defender of the People and similar bodies of the Autonomous Communities .
+
+Single transitional provision . Complex adaptations to the provisions of the Act.
+
+When the adaptation of automated files to the principles and rights provided for by
+this Law includes the adoption of complex technical measures or the processing of
+
+large volumes of data , adaptation or data processing must be carried out
+within one year from the date of entry into force of the Law , subject to _
+to observe, for the rest, the provisions thereof .
+
+Single derogatory provision . Repeal of the first transitional provision of Organic Law
+1/1982 .
+
+The first transitional provision of Organic Law 1/1982 , of Civil Protection
+of the right to honour , to personal and family privacy and to the image is repealed .
+
+
+First final provision . Approval of application.
+
+The Government enacts all provisions required for the application of this
+Law and to regulate the organic structure of the Data Protection Agency .
+
+Second final provision . Extending Law Enforcement to Files _ _ _ _
+
+conventional.
+
+The Government, on the prior opinion of the Director of the Agency for the Protection of
+Data , may extend the application of this Law and make any modifications and
+
+adaptations required, to files containing data stored in the form
+conventional and which are not subject to automated processing or are not _ _ _
+intended to be submitted to it .
+
+Third final provision . Provisions having the status of ordinary law .
+
+Articles 18, 19, 23 , 26, 27, 28, 29, 30 , 31, Titles VI and VII, the first
+and second additional provisions , and the first final provision have the quality of
+ordinary law .
+
+Fourth final provision . Entry into force.
+
+This Organic Law enters into force three months after its publication in the _
+"Boletfn Oficial del Estado”.

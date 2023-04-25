@@ -1,0 +1,245 @@
+
+LAW May 23, 1995 No. 70 (published June 1, 1 995)
+REFORM OF LAW MARCH 1, 1983 NO. 27 REGULATING
+COMPUTERIZED COLLECTION OF PERSONAL DATA
+
+CHAPTEr
+GENERAL PRINCIPLES
+Art. 1
+(Scope of application)
+Any application in the field of information technology, which implies the establishment or use in
+the territory of San Marino of magnetic or otherwise automized archives containing data named or
+in any way referring to clearly identifiable legal entities, by the State, Public Entities or natural or
+legal persons, is subject to the requirements of this law.
+Art. 2
+(Purpose)
+The computer applications referred to in Article 1 have the primary function of a service for the
+benefit of all citizens. Therefore, they shall in no way prejudice respect for human rights and
+fundamental individual and public freedoms, nor shall they undermine the dignity and identity of
+the human person, whose privacy isinviolable.
+Art. 3
+(Definitions)
+For the purpose of the application of this law, the terms below shall have the following meanings:
+a) named or personal data: all information relating to identified or otherwise clearly
+identifiable natural or legal persons;
+b) databases or magnetic archives: all collections of information recorded on special computer
+media;
+c) Third party: any person other than the owner or manager of the database.
+Art. 4
+(Guarantees)
+Natural or legal persons are protected against the misuse of personal data when such data:
+a) Are collected as part of computer applications and programs;
+b) Are recorded on appropriate informaitci media;
+c) Are subject to self-motivated processing and treatment;
+d) are subject, individually or globally or synthetically, to sorting, evaluation or transmission to
+private or public entities.
+Except in cases expressly provided for by law, no judicial or administrative measure involving an
+appreciation of the individual behavior of citizens may be based solely on the computer processing
+of d a t d i f r o m which a profile of the personality of the person concerned may emerge.
+Any natural or juridical person has the right to co nsider and challenge, for possible rectification,
+data and information collected, processed, and used in computer applications, the results of which
+are affixed to him or her or concern him or her personally.
+Any entity or person proceeding to the collection,processing or use of nominative data is obliged, in
+addition to respecting the obligation of professional secrecy, to take all necessary precautionary
+measures for the purpose of preserving the security and confidentiality of the information and, in
+particular, to prevent it from being deformed, tampered with or brought to the attention of
+unauthorized persons. Disclosure of the same is permissible with the consent of the person
+concerned or if it is data from public records, acts or documents knowable by all.
+The transfer out of the territory of data concerning San Marino natural or legal persons is subject
+to the prior and reasoned authorization of the Guarantor referred to in Article 15.
+CHAPTER II
+ESTABLISHMENT AND USE OF DATABASES
+Art. 5
+(Databases of the State and Public Bodies)
+The automated collection, processing and use of personal data by the State and Public Entities
+are permitted only in the event of the establishment, by specific regential decree, of a special
+State database in the territory of San Marino, which shall be issued after obtaining the opinion
+of the Guarantor referred to in Article 15.
+Art. 6
+(Private databases)
+The collection, processing, and automated use of named data with related purposes by private
+individuals or legal entities shall be subject to the prior authorization of the State Congress and
+the Supervisor referred to in Article 15, who shall decide in this matter by reasoned resolutions.
+The procedural modalities pertaining to the application for and issuance of individual
+authorizations will be defined by the regental decree referred to in Article 5, which will also
+regulate the establishment, at the Secretariat of State for Internal Affairs, of a special directory of
+authorized databases.
+Political, social and cultural organizations t h a t intend to collect, process or use personal data
+concerning their members and pertaining to their specific purposes with the help of automated
+databases or archives that are not beyond the control of the members themselves, but whose data
+cannot be brought to the knowledge of third parties, must notify the Guarantor referred to in
+Article 15 for acknowledgement and registration in the register referred to in the preceding
+paragraph.
+Authorization from the State Congress and the Supervisor is not required when processing:
+a) relates to data held under a legal obligation;
+b) Is necessary for the performance of obligations under a contract to which the interested party is a
+party;to
+c) concerns data from public records, lists, acts or documents that are knowable by anyone.
+CHAPTER III
+REGULATION OF DATA COLLECTION
+Art. 7
+(Prohibitions)
+The collection of data performed by use of fraudulent, illegal or unfair means is prohibited. It is also
+forbidden to collect, process, or use data, where not esprsesely permitted by the individuals
+concerned or by the statutes of individual Bodies or Associations, relating to political, trade union, or
+religious opinions or activities.
+In any case, the collection, processing or use of personal data pertaining to the sphere of intimate
+private life is prohibited.
+Art. 8
+(Prescriptions)
+Anyone asked to collectpersonal data for computer applications must be made aware:
+a) Of the purposes pursued by data collection;
+b) Of the compulsory or optional character of irsposts;
+c) Of the consequences, with respect to themselves, of any failure to respond;
+d) of the destination of the information collected, which may be public, confidential, or extended
+to well-identified third parties;
+e) of the existence of the right, guaranteed by law,to access and rectify the data collected.
+If the data collection is done with the help of questionnaires, the questionnaires should expressly
+state the above requirements.
+These requirements do not apply to the collection of data and information performed as part of the
+investigation of criminal or administrative offenses i.
+Art. 9
+(Confidential Databases)
+The collection and processing of data intended for the State and the com petent public agencies
+that hold exclusive ownership thereof are reserved for the State within the framework of the laws
+and regulations in force and in accordance with the modalities established by the Regimental
+Decree referred to in Article 5:
+a) to the keeping and updating of the registry and electoral files of the entire resident
+population and of all San Marino citizens residing abroad;
+b) To the keeping and updating of criminal records;
+c) To the keeping and updating of atitnent records of the health and tax registers of the
+population.
+CHAPTE
+R IV
+RIGHT OF ACCESS AND RECTIFICATION
+Art. 10
+(Access to the national directory)
+Any person, on the basis of an appropriate request in signed cartalegal and addressed to the
+Guarantor, may ascertain whether the databases entered in the directoryreferred to in Article 6 or
+those managed by the State and Public Entities have collected or processed personal data
+concerning him personally.
+Art. 11
+(Access to databases)
+Each person may obtain copies of data and information concerning him or her personally under the
+following conditions:
+a) That the application, on legal paper, be signed by the same owner or his legal representative
+be in each case accompanied by the details of a valid personal identity document;
+b) That the information collected is not found to be protected by law by absolute secrecy.
+The right of access to health information may be exercised only by trmaite ofa physician employed
+by or contracted with the Social Security Instiut to, whose name shall be indicated in the
+application; it is within the physician's authority to disclose all or only part of the information to
+the patient.
+Access to the voter file is allowed unconditional full equality to all political parties under the
+supervision of the Election Commission, which may delegate this task to the Chief Electoral Officer.
+Art. 12
+(Right of Rectification)
+The holder of the right of access has the right to request, by means of an application on legal paper
+addressed to the Guarantor, that data and information concerning him personally that are
+inaccurate, incomplete, equivocal, out of date, or the collection, processing, transmission or
+storage of which is prohibited be corrected, supplemented, clarified, updated or eliminated.
+In the same application, the person concerned may request irlissue of a transcript of the corrected
+data, which is then forwarded to him or her free of charge.
+If the erroneous information has been brought to the knowledge of third parties, they should also
+be notified of the rectification or cancellation.
+Art. 13
+(Further Findings)
+Anyone who has, in the exercise of the right of access, serious reasons to doubt that the data
+brought to his knowledge are not in accordance with those collected and processed, may send a
+written report, on legal paper, to the Guarantor.
+The Guarantor, who is required to provide a response enrto sixty days from the receipt of the
+request, may carry out, if deemed necessary, appropriate administrative inadgini or request the
+intervention of the Judiciary.
+Art. 14
+(Ex officio correction)
+A personal data file must be rectified, supplemented or updated ex officio when the Entity or the
+person managing it becomes aware of the inaccuracy or incompleteness of the data collected or
+processed. Notification of the rectification, supplementation or updating of personal data must be
+given free of charge to the direct interestsia.
+CHAPTER V
+DATA PRIVACY GUARANTOR PERSONAL
+Art. 15
+(Guarantor for the Protection of Personal Data Privacy)
+A Magistrate of the Administrative Court indicated by the Pro-Tempore Executive assumes the
+function of Data Protection Supervisor referred to in this Law and Law No. 71 of 23/05/1995
+"Discipline of the Collection of Statistical Data and Public Information Technology Expertise." In
+carrying out his activities, he shall rely on the support of the administrative apparatus of the Court
+Registry and the Data Processing and Statistics Center of the Economic Planning Office.
+Acts pertaining to it, affecting the activity of the Public Administration and related or agreed
+activities, shall be notified to the political autoirty and adopted through the prescribed hierarchical
+ways.
+Appeals against the decisions of the Guarantor may be made to the Administrative Court, which will
+proceed without entrusting the judgment to the judge who es plete functions of the Guarantor.
+The Supervisor is appointed for a term of three years.
+Art. 16
+(Functions of the Guarantor)
+In particular, it is the responsibility of the Guarantor:
+a) Issue mandatory opinion about applications for authorization of private databases;
+b) Ensure that public and private databases strictly adhere to legal compliance;
+c) To examine complaints brought by any natural or legal person concerning the application of
+this Law and in any case where there is a violation of the confidentiality of personal data collected
+by the State or private parties for computer or statistical purposes and to decide on the same in
+the first instance, without prejudice to the right of recourse to the ordi nary or administrative
+jurisdiction in the prescribed forms;
+d) To formulate mandatory opinions about decrees and regulations to be issued in
+application of this law also with reference to the inmatter constraints arising from
+international agreements and conventions;
+e) Report all detected infractions to the Judicial Authority;
+f) Authorize access to database information by Entities, Offices and persons who do not have the
+right of access;
+g) To express a binding opinion for the issuance by the IT authority under Law No. 71 of
+23/05/1995 of regulatory rules for d i s t i b r uction of data to third parties;
+h) Issue regulations on the degrees of confidentiality of personal data referred to in this Law and
+the special protection to be given to some of them, confidentiality to which all those who have
+availability of the data for institutional, managerial or concessionary reasons are bound.
+
+CHAPTER VI
+CRIMINAL PROVISIONS
+Art. 17
+(Infractions and criminal penalties)
+Anyone who creates, operates or uses a database without the prescribed prior authorization
+referred to in Article 6, first paragraph, shall be punished by a finea days.
+Whoever, during the collection or processing of personal data, makes or permits its distorted use in
+relation to the purposes established by the law or the decree referred to in Article 5 or resulting
+from the authorization referred to in Article 6, first paragraph, shall be punished by arrest or a fine of
+daily.i
+Any person who uses fraudulent means to gain access to information that is confidential to the
+holders of the right of access shall be punished by imprisonment for three months or fined for
+days.
+Anyone who has collected or caused to be collected, recorded or caused to be recorded, stored or
+caused to be stored personal data in violation of the provisions stipulated in Articles 7, 8 and 9 shall
+be punished by a fine of days.
+The acts referred to in the preceding paragraphs shall be punished by imprisonment in the first
+degree or by a fine of days in the third degree if they were committed to procure for oneself or
+others an advantage or to cause harm to others.
+Anyone who obstructs or prevents without justifiable reason the right of access or rectification
+referred to in Articles 10, 11, 12, 13, shall be punished by imprisonment or a fine of days in I
+degree.
+In the cases referred to in the preceding paragraphs, the Judge may also impose a 1st degree
+disqualification on the operator engaged in the collection, processing or use of data.
+However, this is without prejudice to the more serious penalties provided for the same acts by the
+Penal Code or other laws of the state.
+Art. 18
+(Administrative Penalties)
+In the event of conviction for any of the offenses referred to in the preceding article, the State
+Congress may suspend the authorization referred to in Article 6, first paragraph, for a maximum
+time of three months.
+In case of recidivism or continuation, the suspension referred to in the preceding paragraph shall be
+immediately ordered by the State Congress.
+In case of further recidivism, the State Congress shall without fail order the revocation of the
+authorization.
+CHAPTER VII
+TRANSITIONAL AND FINAL PROVISIONS
+Art. 19
+(Amnesty)
+Owners, operators or users of databases whose conditions already existed on the date of the
+entry into force of the foregoing law are required to adapt to the new provisions of the law
+within a maximum period of one year.
+Art. 20
+(Correlation with previous regulations)
+This law replaces Law No. 27 of 1983 and repeals any other conflicting regulations.
+Royal Decrees No. 27 of 1984, No. 67 of 1986 and No. 140 of 1987, which were issued in
+implementation of the law replaced by this one, remain intact insofar as they are compatible with
+the new regulations.
+Art. 21
+(Entry into force)
+This law shall enter into force on the fifth day following its legal publication.

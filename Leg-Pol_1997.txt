@@ -1,0 +1,344 @@
+﻿ACT
+of 29 August 1997
+on the protection of personal data 1)
+Chapter 1
+General provisions
+Article 1. [ Protection of personal data and the admissibility of their processing] 1. Everyone has the right to the protection of personal data concerning him.
+2. Processing of personal data may take place for the sake of the public good, the good of the data subject, or the good of third parties in the scope and mode specified by the Act.
+Article 2. [ Substantive Scope] 1. The Act lays down rules of conduct for the processing of personal data and the rights of natural persons whose personal data are or may be processed in datasets.
+2. The Act applies to the processing of personal data:
+1. in records, books, books, inventories, and other records,
+2) in IT systems, also in the case of processing of data outside of the data set.
+3. With regard to the files of personal data compiled on an ad hoc basis, only for technical, training or teaching reasons in higher education establishments, and after their use shall be removed or anonymized immediately, the application of Chapter 5 only.
+Article 3. [ Subjective range] 1. The Act applies to state bodies, local government bodies and to state and municipal organizational units.
+2. The Act also applies to:
+1) non-public entities carrying out public tasks,
+2) natural persons and legal persons and organizational units not legal persons, if they process personal data in connection with commercial, professional or for the fulfilment of statutory objectives
+-which have their registered office or place of residence in the territory of the Republic of Poland or in a third country, provided that they process personal data using technical means located in the territory of the Republic of Poland.
+Article 3a. [ Exemption of application of the law] 1. The Act does not apply to:
+1) natural persons who process the data solely for personal or domestic purposes,
+2) entities established or resident in a third country, using technical measures located on the territory of the Republic of Poland exclusively for the transmission of data.
+2. The Act, with the exception of the provisions of Art. 14-19 and art. 36 ust. 1, does not apply also to the press activities of journalistic activities within the meaning of the Act of 26 January 1984. r. -Press law (Dz. U. Nr 5, pos. 24, with late. zm.) and to literary or artistic activities, unless the freedom to express their views and disseminate information significantly violates the rights and freedoms of the data subject.
+Article 4. [ Exemption of application of the law] The provisions of the Act do not apply if the international agreement, to which the Republic of Poland is a party, provides otherwise.
+Article 5. [ Apply Separate Laws] Where the provisions of the separate laws which relate to the processing of data provide for their protection further than is apparent from this Act, the provisions of those laws shall apply.
+Article 6. [ The concept of personal data] 1. Within the meaning of the Act, personal data shall be considered to be any information concerning the identified or identifiable natural person.
+(2) A person whose identity may be identified, directly or indirectly, in particular by reference to an identification number, or one or more specific factors determining the physical characteristics, shall be identified as identifiable, to be identified, physiological, mental, economic, cultural or social.
+3. Information shall not be considered as permitting the identification of a person if it would require excessive costs, time or actions.
+Article 7. [ Definitions] Whenever there is a law in the law:
+1) a set of data, which is understood by each structure of a set of data of a personal nature, available according to specific criteria, whether or not the set is distributed or functionally divided,
+2) processing of the data-it is understood by this any operations performed on personal data, such as collecting, perpetuating, storing, warehousing, altering, making available and deleting, and especially the ones that are performed in systems IT
+(2a) IT system-this is understood by the team of cooperating devices, programs, information processing procedures and software tools used to process the data,
+(b) the security of data in an information system shall mean the implementation and operation of appropriate technical and organisational measures to ensure data protection against unauthorised processing,
+3) deletion of data-this is understood by the destruction of personal data or the modification of personal data, which will not allow the identity of the data subject to be determined,
+4) the data administrator-this is understood by the body, organizational unit, entity or person referred to in art. 3, deciding on the purposes and means of processing personal data,
+5) the consent of the data subject is understood by this statement of will, the content of which is the consent to the processing of personal data of who submits a statement; consent shall not be presumed or implied by the declaration of will of other content; the consent may be revoked at any time,
+6) the data recipient shall be understood by any of whom the personal data are available to whom the data are available, excluding:
+(a) the data subject,
+(b) the person authorised to process the data,
+(c) the representative referred to in Article 31a,
+(d) the entity referred to in Article 31,
+(e) the public authorities or local authorities to whom the data are made available in connection with the conduct of the proceedings,
+(7) a third country, which shall be understood by the non-Member State of the European Economic Area.
+Chapter 2
+Personal data protection authority
+Article 8. [ Appointment and convocation of the Inspector General] 1. The authority for personal data protection is the General Inspector of Personal Data Protection, hereinafter referred to as the "General Inspectorate".
+2. The General Inspector appoints and appeals to the Sejm of the Republic of Poland with the consent of the Senate.
+3. At the position of the General Inspector may be appointed to one who jointly meets the following conditions:
+1) is a Polish citizen and is constantly residing in the territory of the Republic of Poland,
+2) is distinguished by high moral authority,
+3) has a higher legal education and relevant professional experience,
+4) he was not punished for the crime.
+4. The Inspector General in the performance of his duties shall be subject only to the Act.
+5. The General Office of the Inspector lasts 4 years, counting from the day of the submission of the pledge. After the expiry of the term of office, the Supervisor shall fulfil his duties until the appointment of the new General Inspector.
+6. The same person cannot be the General Inspectorate more than two terms.
+7. The General Office of the Inspector shall expire at the moment of his death, cancellation or loss of Polish citizenship.
+8. The Sejm, with the consent of the Senate, shall refer the General Inspector if:
+(1) he has renounced his position,
+(2) he has become permanently incapable of carrying out his duties as a result of illness,
+3) squabble on the pledge of the oath,
+4) has been convicted of a final court sentence for committing a crime.
+Article 9. [ Pledging General Inspector] Before commencing the duties, the Inspector General shall deposit the following oath before the Sejm:
+" Taking the position of the General Inspector of Personal Data Protection solemnly solemnly pledge allegiance to the provisions of the Constitution of the Republic of Poland, beware of the right to the protection of personal data, and the duties entrusted to me to fulfil conscientiously and impartially. "
+The vow can be made with the addition of the words "So help me God".
+Article 10. [ Prohibition of occupancy of other positions, pursuit of other professional activities and party affiliation] 1. The Inspector General shall not be able to take any other position, except for the position of a professor of higher education, or to carry out other professional activities.
+2. The Inspector General shall not belong to a political party, a trade union or conduct a public activity which is not compatible with the dignity of his office.
+Article 11. [ Immunity Of Inspector General] The General Inspector may not be without the prior consent of the Sejm held criminally liable or deprived of liberty. The Inspector General shall not be detained or arrested, except in the case of an offence of offence and if his detention is necessary to ensure the proper course of the proceedings. The detention shall be notified immediately to the Marshal of the Sejm, who may order the immediate release of the detainee.
+Article 12. [ Inspector General's tasks] The Inspector General shall, in particular, be:
+1) control of the conformity of processing of data with the provisions on the protection of personal data,
+2) to issue administrative decisions and to deal with complaints in matters of enforcement of the provisions on the protection of personal data,
+3) ensuring execution by the obliged non-monetary duties resulting from the decisions referred to in point 2 by the application of enforcement measures provided for in the Act of 17 June 1966. on enforcement proceedings in the administration (Dz. U. of 2005 No. 229, item. 1954, with late. zm.),
+4) keeping a register of datasets and providing information about registered collections,
+5) opinion of draft laws and regulations concerning the protection of personal data.
+6) initiating and undertaking projects in the field of improvement of the protection of personal data,
+7) to participate in the work of international organizations and institutions dealing with the protection of personal data.
+Art. 12a. [ Deputy General Inspector] 1. At the request of the General Inspector, the Marshal of the Sejm may appoint a Deputy General Inspector. The appeal of the Deputy General Inspector shall take place in the same mode.
+2. The Inspector General shall determine the scope of the duties of his alternate.
+3. The Deputy General of the Inspector should meet the requirements laid down in Art. 8 ust. 3 points 1, 2 and 4 and have a higher education and relevant professional experience.
+Article 13. [ Office of the Inspector General] 1. The Inspector General shall carry out his tasks with the assistance of the Office of the Inspector General for Personal Data Protection, hereinafter referred to as the Office.
+1a. The Inspector General, in cases justified by the nature and number of personal data protection cases in the field concerned, may carry out his tasks with the assistance of units of the Office's office.
+2. (repealed).
+3. The President of the Republic of Poland, after consulting the General Inspector, by means of a regulation, gives the statute of the Biuru, specifying his organization, rules of operation and the headquarters of the units and the scope of their properties territorial, with a view to creating optimal organisational conditions for the proper implementation of the Office's tasks.
+Article 14. [ Inspector General] For the performance of the tasks referred to in Article 12 (1) and (2), the General Inspector, the Deputy General Inspector or his authorised staff, hereinafter referred to as 'inspectors', shall have the right to:
+1) Preliminary, in hours from 6 00 22 00 , on presentation of an imitation authorisation and a service ID, to the room where the data file is located, and the room where data is processed outside of the data set, and to carry out the necessary tests or other activities. control in order to assess the compliance of data processing with the Act,
+2) request the submission of written or oral explanations and call upon and interview persons to the extent necessary to determine the facts,
+3. access to any documents and any data which have a direct link with the object of the control and the drawing up of copies thereof,
+4) conducting the visual inspection of the devices, media and IT systems used for processing data,
+5) commission the drawing up of expert opinions and opinions.
+Article 15. [ Obligations of the controlled entity] 1. The head of the controlled organisational unit and the controlled natural person who is the controller of the personal data shall be obliged to enable the inspector to carry out the checks and, in particular, to enable the operation to be carried out and to fulfil the requests referred to in Article 14 points 1 to 4.
+2. In the course of the control of the collections referred to in art. 43 par. 1 point 1a, the inspecting inspector shall have the right to inspect a file containing personal data only through an authorised representative of the orderly business unit.
+3. The control shall be carried out after the presentation of the imitation authorization together with the official ID card.
+4. The Imienne entitlement should contain:
+1) an indication of the legal basis for carrying out checks
+2) the designation of the control authority,
+(3) the name, business position of the person empowered to carry out the checks and the number of its official identity card,
+4. determination of the scope of the control concerned,
+(5) the designation of the subject of scrutiny or of the data set or the place of inspection,
+6) indication of the start date and the expected date of completion of the inspection,
+7) signature of the General Inspector,
+8) instructing the controlled entity of its rights and obligations,
+9) the date and place of issue of the imitated entitlement.
+Article 16. [ Protocol from controlled actions] 1. The inspector shall draw up a protocol, one copy of which shall be served by the controlled administrator of the data controller.
+(1a) The control protocol should contain:
+1) the name of the controlled entity in the full version and its address,
+2) first and last name, business position, service ID number and the authorization number of the inspector,
+(3) the name of the person representing the controlled entity and the name of the body representing that entity,
+4) the date of commencation and completion of the control activities, with the release of days of breaks in control,
+5) determination of the subject matter and scope of control,
+6) a description of the facts established in the course of the inspection and other information relevant to the assessment of the conformity of data processing with the provisions on the protection of personal data,
+7) specify the annexes constituting the component of the Protocol,
+8) a discussion of the amendments, creations and additions made to the minutes,
+(9) the paraphrase of the inspector and the person representing the controlled entity on each of the minutes,
+10) mention of the service of the copy of the minutes to the person representing the controlled entity,
+(11) an indication of the lodging or failure to raise objections and notes to the Protocol,
+12. the date and place of the signature of the minutes by the inspector and by the person or body representing the controlled entity.
+2. The protocol shall be signed by the inspector and the controlled administrator of the data which may bring to the protocol motivated objections and observations.
+3. In the event of a refusal to sign the protocol by the controlled administrator of the data, the inspector shall make this mention in the protocol, and the refusing the signature may, within 7 days, present his position in writing to the General Inspector.
+Article 17. [ Consequences of violation of the personal data protection regulations] 1. If on the basis of the results of the inspection the inspector finds a violation of the provisions on personal data protection, he/she shall request the General Inspector for the application of the measures referred to in art. 18.
+2. On the basis of the findings of the inspection, the inspector may request the initiation of disciplinary proceedings or any other prescribed legal proceedings against the persons guilty of admission to the defect and inform him, within a specified time limit, of the results of that proceedings and actions taken.
+Article 18. [ Decision ordering the restoration of the lawful status] 1. In the event of a breach of the provisions on the protection of personal data, the General Inspector of the Office or at the request of the person concerned, by means of an administrative decision, shall order the restoration of the lawfully lawful status, and in particular:
+1) the removal of the deficiencies,
+2) the addition, updating, rectification, making available or non-availability of personal data,
+3) the application of additional security measures collected personal data,
+4) withholding the transfer of personal data to a third country,
+5. the security of data or the transfer of data to other entities,
+6) deletion of personal data.
+2. The decisions of the General Inspector, referred to in paragraph 1. 1, may not limit the freedom of action of the notifying candidates or the list of candidates in elections for the office of the President of the Republic of Poland, to the Sejm, to the Senate and to the authorities of the local government, and also in the elections to the Parliament Between the day of the election and the day of voting, of the European Parliament.
+2a. The decisions of the General Inspector referred to in paragraph 1. 1, with regard to the harvest referred to in Article 43 par. Article 1 (1) (a) shall not require the deletion of personal data collected in the course of operations and reconnalials under the law.
+3. Where the provisions of other laws govern separately the performance of the activities referred to in paragraph 1. 1, the provisions of those laws shall apply.
+Article 19. [ Notice of a criminal offence] Where it is found that the act or omission of the head of the business unit, employee or other natural person who is the controller of the data controller shall exhaust the criminal offence referred to in the law. The General Inspector shall refer to the body responsible for the prosecution of criminal offences a notification of the commission of a criminal offence, accompanied by evidence of suspicion.
+Art. 19a. [ Occurrences of the General Inspector aiming at ensuring effective protection of personal data] 1. In order to carry out the tasks referred to in art. 12 point 6, General Inspector can direct to the state bodies, bodies of local authorities, state and municipal agencies, non-public entities carrying out public tasks, natural and legal persons, entities organisational non-legal persons and other entities with a view to ensuring effective protection of personal data.
+2. The Inspector General may also apply to the competent authorities with requests to take a legislative initiative or to issue or amend legal acts in matters relating to the protection of personal data.
+3. The entity to which the occurrence or application referred to in paragraph is addressed. 1 and 2, shall be obliged to address this occurrence or request in writing within 30 days from the date of its receipt.
+Article 20. [ Report on the activities of the Inspector General] The General Inspector shall submit to the Sejm, once a year, a report on his activity together with the conclusions arising from the state of compliance with the provisions on the protection of personal data.
+Article 21. [ Application for reconsideration of the case] 1. The Party may request the General Inspector to reconsider the case.
+2. On the decision of the Inspector General on the application for reconsideration of the case, the party shall be entitled to an administrative court.
+Article 22. [ Application of K. p.a regulations.] The proceedings in matters governed by this Act shall be carried out in accordance with the provisions of the Code of Administrative Procedure, unless the provisions of the Act provide otherwise.
+Article 22a. [ Delegation] The Minister responsible for the public administration shall determine, by means of a regulation, the model of the authority and the service ID referred to in Article. Article 14 (1), having regard to the necessity of the indication of the inspector general of the Office of the Inspector General of Personal Data Protection.
+Chapter 3
+Rules for processing personal data
+Article 23. [ Permissibility of data processing] 1. Data processing is allowed only if:
+1) the data subject shall give its consent, except as regards the deletion of the data relating to it,
+2) it is necessary for the exercise of the powers or the fulfilment of the obligation arising from the provision of the law,
+3) it is necessary for the performance of the contract, when the data subject is a party to it or where it is necessary to take action before the conclusion of the contract at the request of the data subject,
+4) is necessary for the exercise of the defined rights of tasks carried out for the public good,
+5. this is necessary for the fulfilment of the legitimate objectives pursued by the controllers or the recipients of the data, and the processing does not affect the rights and freedoms of the data subject.
+2. The consent referred to in the paragraph. 1 point 1 may also cover the processing of data in the future, if the purpose of processing does not change.
+3. Where the processing of data is necessary for the protection of the vital interests of the data subject and the fulfilment of the condition set out in paragraph. 1 point 1 is not possible, you can process the data without the consent of this person, until the consent is possible.
+4. For the legitimate purpose referred to in the paragraph. In particular, point 5 shall be considered as follows:
+1) direct marketing of own products or data administrator services,
+2) an investigation of claims from the business activity.
+Article 24. [ Information to be given to the person to whom the data is collected] 1. In the case of collection of personal data from the person to whom they concern, the data controller shall be obliged to inform that person about:
+1) the address of its registered office and the full name, and in the case where the data administrator is a natural person-about the place of his/her residence and the name and surname,
+2) the purpose of collecting data, and in particular of known to it at the time of providing information or anticipated recipients or categories of recipients of data,
+3) the right to access and rectify the contents of their data,
+4) a voluntary obligation or an obligation to provide data, and if such an obligation exists, of its legal basis.
+2. The provision of the paragraph. 1 shall not apply if:
+1) the provision of another law allows the processing of data without revealing the actual purpose of their collection,
+2. the data subject shall have the information referred to in paragraph 1. 1.
+Article 25. [ Collection of data not from the person to whom they relate] 1. In the case of collection of personal data not from the person concerned, the data controller shall be obliged to inform that person, immediately after the fixation of the collected data, o:
+1) the address of its registered office and the full name, and in the case where the data administrator is a natural person-about the place of his/her residence and the name and surname,
+2) the purpose and scope of data collection, and in particular of the recipients or categories of recipients of the data,
+3) a data source,
+4) the right to access and rectify the contents of their data,
+5) the powers deriving from art. 32 par. 1 points 7 and 8.
+2. The provision of the paragraph. 1 shall not apply if:
+1) the provision of another law provides or permits the collection of personal data without the knowledge of the data subject,
+2) (repealed),
+3) these data are necessary for scientific, didactic, historical, statistical or public opinion surveys, their processing does not infringe on the rights or freedoms of the data subject and the fulfilment of the requirements set out in the paragraph. 1 would require excessive inputs or would jeopardise the objective of the study,
+4) (repealed),
+5) the data shall be processed by the administrator referred to in art. 3 para. 1 and paragraph 2 (1), on the basis of the provisions of law,
+6. the data subject shall have the information referred to in paragraph 1. 1.
+Article 26. [ Duty of special care in protecting the interests of persons] (1) The controller of the data processor should take special care in order to protect the interests of the data subjects and, in particular, shall be required to ensure that the data are:
+1) processed in accordance with the law,
+2) collected for the marked, lawful purposes and not subject to further processing which is incompatible with those purposes, subject to the paragraph. 2,
+3) substantively correct and adequate in relation to the purposes in which they are processed,
+4) stored in a form enabling the identification of the persons to whom they relate, no longer than is necessary to achieve the purpose of processing.
+2. Processing of data for purposes other than the one for which they have been collected shall be admissible if it does not violate the rights and freedoms of the data subject, and shall follow:
+1) for the purposes of scientific, didactic, historical or statistical research,
+2) subject to the provisions of Article 23 and 25.
+Art. 26a. [ Definitive decision of the individual case] 1. The final determination of the individual case of the data subject shall be inadmissible if its content is exclusively the result of an operation on personal data carried out in the IT system.
+2. [ 1] The provisions of the paragraph 1 shall not apply where the decision has been taken during the conclusion or execution of the contract and shall take account of the request of the data subject, or where the provisions of law which also provide for measures of protection are permitted to be taken into account. the interests of the data subject.
+Article 27. [ The admissibility of processing of certain data] 1. The processing of data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, religious or party affiliation or trade union, as well as health data, genetic code, shall be prohibited, addictions or sexual life, and data on convictions, punishment and criminal fines, as well as other judgments handed down in judicial or administrative proceedings.
+2. Processing of the data referred to in paragraph. 1, however, it shall be admissible if:
+1) the data subject shall give its consent in writing, unless it is a deletion of the data relating to it,
+2) the special provision of the other law permits the processing of such data without the consent of the data subject, and creates full guarantees of their protection,
+3) the processing of such data is necessary to protect the vital interests of the data subject or other person when the data subject is not physically or legally capable of giving consent, pending the establishment of a legal guardian or Curator,
+4) it is necessary for the performance of the statutory tasks of churches and other religious associations, associations, foundations or other non-profit organizations or institutions with political, scientific, religious, philosophical or trade purposes, under the condition that the processing of data relates only to the members of those organisations or institutions or persons who maintain a permanent relationship with them in connection with their activities and provide full guarantees of the protection of the data processed,
+5) processing relates to the data which are necessary for the investigation of the rights before the court,
+6) processing is necessary for the performance of the tasks of the controller of the data relating to the employment of employees and other persons, and the scope of processed data is specified in the Act,
+7) processing is carried out in order to protect the state of health, to provide medical services or to treat patients by the persons who are professionally involved in the treatment or provision of other medical services, management of the provision of medical services and are comprehensive guarantees for the protection of personal data,
+8) processing refers to data which have been made public by the data subject,
+9) it is necessary for the conduct of scientific research, including the preparation of a hearing required to obtain a higher education degree or a scientific degree; the publication of scientific research results cannot be followed in such a way that identification of persons whose data have been processed,
+10) the processing of data shall be carried out by the party in order to implement the rights and obligations arising from the decision rendered in the judicial or administrative proceedings.
+Article 28. [ Ordinal Numbers] 1. (deleted).
+2. The ordinal numbers used in the records of the population may contain only the description of the sex, the date of birth, the grant number and the number of the control.
+3. It is forbidden to give hidden meanings to the elements of order numbers in the systems of the records of natural persons.
+Article 29. (repealed).
+Article 30. (repealed).
+Article 31. [ Agreement for the entrusts to another data processing entity] 1. The data controller may entrust to another entity, by means of a contract concluded in writing, the processing of data.
+2. The subject referred to in paragraph 2. 1, may process the data only in the scope and purpose provided for in the contract.
+3. The subject referred to in paragraph. 1, shall be required prior to the processing of data to safeguard the set of data referred to in Article 3. 36-39, and meet the requirements laid down in the regulations referred to in art. 39a. In respect of compliance with these provisions, the entity shall be liable as the controller.
+4. In the cases referred to in paragraph. 1-3, the responsibility for complying with the provisions of this Act rests with the Data Administrator, which does not exclude the liability of the entity that has entered into the contract for processing of data not in accordance with this agreement.
+5. To control the conformity of the processing of data by the entity referred to in paragraph. 1, with the provisions on the protection of personal data, the provisions of art shall apply accordingly. 14-19.
+Art. 31a. [ Representative] In the case of processing of personal data by entities established or resident in a third country, the controller of the data shall be obliged to appoint its representative in the Republic of Poland.
+Chapter 4
+Rights of the data subject
+Article 32. [ Right to control data processing] 1. Each person shall have the right to control the processing of the data relating to him, contained in the datasets, and in particular the right to:
+1) obtain an exhaustive information, whether such a set exists, and to determine the controller of the data, the address of its registered office and the full name, and in the case where the data administrator is the natural person-its place of residence, and the name,
+2) obtaining information about the purpose, scope and manner of processing of the data contained in such a set,
+3. to obtain the information from when the data relating to it are processed in the file and to be given in a widely understood form of the content of that data,
+4) obtain information about the source from which the data is derived from it, unless the data controller is obliged to maintain in this respect the secrecy of classified information or the preservation of professional secrecy,
+5) obtain information about the way the data is made available, and in particular the information about the recipients or categories of recipients to whom the data are made available,
+(5a) obtain information on the reasons for the decision referred to in Article 4 (5). 26a (a) 2,
+6) request to supplement, update, rectify personal data, temporary or permanent cessation of their processing or removal thereof, if they are incomplete, outdated, untrue or have been collected in violation of the Act or are no longer necessary to achieve the purpose for which they were collected,
+7. the transfer, in the cases referred to in Article 23 (1) 1 (4) and (5), a written, reasoned request to stop the processing of its data on account of its particular situation,
+8) to object to the processing of its data in the cases referred to in art. 23 (1) 1 points 4 and 5, where the controller intends to process them for marketing purposes or to the transfer of personal data to another data controller,
+9) to bring to the controller the data of the request again, the individual consideration of the case settled in violation of Art. 26a (a) 1.
+2. Where the request referred to in paragraph is lodged. In accordance with Article 1 (1), the controller shall cease processing the personal data in question or, without undue delay, transmit the request to the General Inspectorate, who shall issue a decision.
+3. In the event of an objection referred to in paragraph 1. Point 8, further processing of the disputed data is inadmissible. However, the data controller may leave the name of the person and the name of the person and the PESEL number or address in order to avoid the re-use of the person's data for the purposes of opposition.
+3a. In the event of a request referred to in Article 4, 32 par. 1 point 9, the controller shall examine the case without undue delay or forward it together with the reasons for its position to the General Inspectorate, who shall issue the relevant decision.
+4. If the data are processed for scientific, didactic, historical, statistical or archival purposes, the controller of the data may waiver the information of persons about the processing of their data in cases where it would entail lectures not commensorally with the intended purpose.
+5. The person concerned may exercise the right to the information referred to in the paragraph. 1 points 1 to 5, not more than once every 6 months.
+Article 33. [ Obligation to inform the person of its rights.] 1. At the request of the data subject, the data controller shall be obliged, within 30 days, to inform about the rights of the data subject and to provide, with regard to her personal data, the information referred to in Article. 32 par. 1 points 1 to 5a.
+2. At the request of the data subject, the information referred to in paragraph 1 shall be provided. 1, shall be given in writing.
+Article 34. [ Refusal to provide information to the data subject] The data controller shall refuse the data subject to provide the information referred to in Article 4. 32 par. 1 points 1 to 5a, if this would result in:
+1) disclosure of messages containing classified information,
+2) the threat to the defense or security of the state, life and health of people or security and public order,
+3) a threat to the fundamental economic or financial interest of the State,
+4) a significant breach of personal property of the data subjects or other persons.
+Article 35. [ Request to improve the content of personal data] 1. In the event of a demonstration by the person whose personal data concern that they are incomplete, outdated, untrue or have been collected in violation of the Act or are unnecessary to achieve the purpose for which they have been collected, the data controller is required, without undue delay, to supplement, update, rectify the data, temporarily or permanently suspend the processing of the disputed data or delete it from the file, unless it concerns personal data in respect of which the mode of operation is their completion, updating or correcting them shall be determined by separate statutes.
+2. In the event of failure by the controller to comply with the obligation referred to in paragraph. 1, the data subject may request to the General Inspector to order the completion of this obligation.
+3. The data controller shall be obliged to inform without undue delay other administrators to whom he has made available a set of data, of the updated or rectification of the data.
+Chapter 5
+Protection of personal data
+Article 36. [ The obligation to use technical and organisational measures to provide protection] 1. The data controller is obliged to apply technical and organizational measures ensuring the protection of processed personal data appropriate to the risks and categories of data subject to protection, and in particular should secure the data before make them available to unauthorised persons, taken by a person not entitled to, processing in violation of the Act, and alteration, loss, damage or destruction.
+2. The data controller shall keep records describing how the data are processed and the measures referred to in paragraph 1. 1.
+3. The data controller shall appoint an information security administrator to supervising compliance with the security rules referred to in paragraph. 1, unless it performs these tasks itself.
+Article 37. [ Authorisation for data processing] Only those authorized by the data administrator may be allowed to process the data.
+Article 38. [ Audit] The data controller is obliged to provide control over what personal data, when and by whom they are put into the file and to whom they are transferred.
+Article 39. [ Records of persons authorised to process the data] 1. The data controller shall keep a record of the persons authorised to process them, which should contain:
+1) the name of the authorized person,
+2) the date of grant and termination and the scope of the authorization to process personal data,
+3) identifier, if the data is processed in the IT system.
+2. The persons who have been authorized to process the data shall be obliged to keep these personal data in secret and the means of their security.
+Article 39a. [ Delegation] The Minister responsible for public administration in agreement with the Minister responsible for IT shall determine, by means of a regulation, the method of conduct and the scope of the dossier referred to in Article. 36 ust. 2, and the basic technical and organisational conditions to which the equipment and information systems used for the processing of personal data should correspond, taking into account the protection of the personal data processed appropriate to the risks and the categories of data subject to protection, as well as the requirements for the recording of the provision of personal data and the security of the data processed.
+Chapter 6
+Registration of personal data files
+Article 40. [ Data Set Registration] The data controller is obliged to report a set of data for registration to the General Inspectorate, except in the cases referred to in art. 43 par. 1.
+Article 41. [ Submission of data set for registration] 1. The application of the set of data to be registered shall contain:
+1) an application for the file to be entered in the register of personal data files,
+2) the designation of the data controller and the address of its registered office or place of residence, including the registration number of the register of entities of the national economy, if given to it, and the legal basis authorizing the file to be conducted, and in the case of to entrust the processing of the data to the body referred to in Article 31, or the appointment of the entity referred to in Article 31a, the designation of the entity and the address of its seat or place of residence,
+3) the purpose of data processing,
+(3a) a description of the categories of data subjects and the scope of the data processed,
+4) the way of collecting and making available data,
+4a) information on the recipients or categories of recipients to whom the data may be transmitted,
+5) a description of the technical and organisational measures applied for the purposes specified in art. 36-39,
+6) information on how to fulfil the technical and organizational conditions, specified in the regulations referred to in art. 39a,
+(7) information on the possible transmission of data to a third country.
+2. The data controller shall be obliged to report to the General Inspectorate any change of information referred to in paragraph. 1, within 30 days from the date of making the change in the dataset, subject to the paragraph. 3.
+3. If the amendment of the information referred to in paragraph Point 3a (1) refers to the extension of the scope of the data processed for the data referred to in Article 3 (1) 27 ust. 1, the administrator of the data is required to report it before making a change to the file.
+4. The provisions on the registration of data sets shall apply mutatis mutandis to the notification of amendments.
+Article 42. [ Register of personal data files] 1. The Inspector General conducts a nationwide open register of personal data files. The register should contain the information referred to in Article 41 par. 1 points 1-4a and 7.
+2. Everyone has the right to review the register referred to in paragraph. 1.
+3. At the request of the controller, a certificate may be issued about the registration of the data set reported by him, subject to the paragraph. 4.
+4. The Inspector General shall issue to the controller the data referred to in Article 4. 27 ust. 1, a certificate of registration of a set of data immediately after the registration.
+Article 43. [ Exemption from the obligation to register a dataset] 1. Data controllers shall be exempt from the obligation to register the data set:
+1) containing classified information,
+1a) which have been obtained as a result of operational and reconnational activities by the officers of the bodies authorized to these activities,
+2) processed by the competent authorities for the purposes of legal proceedings and on the basis of the provisions of the National Criminal Register,
+2a) processed by the General Inspector of Financial Information,
+2b) processed by the competent authorities for the purposes of the participation of the Republic of Poland in the Schengen Information System and the Visa Information System,]
+2c) [ 2] processed by the competent authorities on the basis of information exchange with the law enforcement authorities of the Member States of the European Union,
+3) concerning the persons belonging to the church or other religious affiliation, about the regulated legal situation, processed for the purposes of this church or the religious union,
+4) processed in connection with the employment of them, the provision of services on the basis of civil-law contracts, as well as on persons associated with them or learners,
+5) concerning persons using their medical services, notarial support, advocate, legal counsel, patent ombudsman, tax adviser or statutory auditor,
+6) created on the basis of the regulations concerning elections to the Sejm, the Senate, the European Parliament, the councils of the communes, the councils of powiats and seismics of the voivodships, elections for the office of the President of the Republic of Poland, the mayor, the mayor, the president of the city concerning a nationwide referendum and a local referendum,
+7) concerning persons deprived of liberty on the basis of the Act, to the extent necessary for the execution of the temporary arrest or imprisonment,
+8) processed exclusively for the purpose of issuing an invoice, an account or conducting financial reporting,
+9) commonly available,
+10) processed in order to prepare the hearing required to obtain a higher education degree or a scientific degree,
+11) processed in the scope of minor current affairs of everyday life.
+2. [ 3] For the harvests referred to in paragraph 1. 1 (1) and (3), and the harvests referred to in paragraph 1. 1 point 1a, processed by the Internal Security Agency, the Intelligence Agency, the Military Counterintelligence Service, the Military Intelligence Service and the Central Anti-Corruption Bureau, the General Inspectorate shall not be entitled to the powers specified in the Article. 12 point 2, art. 14 (1) and (3) to (5) and Article 14 15 -18.
+Article 44. [ Decision not to register the dataset] 1. The Inspector General shall issue a decision to refuse the registration of a dataset if:
+(1) the requirements laid down in Article 4 are not fulfilled. 41 par. 1,
+2) the processing of data would violate the rules laid down in Art. 23-28,
+3) devices and IT systems serving to process a set of data submitted for registration do not meet the basic technical and organizational conditions, specified in the regulations referred to in art. 39a.
+2. Deny the registration of a data set. The General Inspector, by way of administrative decision, instructs:
+1) limitation of processing of all or certain categories of data exclusively for their storage or
+2) the application of other measures referred to in art. 18 (1) 1.
+3. (repealed).
+4. The data controller may report again the set of data to be registered after the removal of defects which were the reason for refusal to register the file.
+5. If the file is resubmitted for registration, the data administrator can begin processing them after the file is registered.
+Article 44a. [ Strikeout from the register of personal data files] The deletion of personal data files from the register shall be made by administrative decision if:
+1) stop processing data in a registered file,
+2) registration was made in violation of the law.
+Article 45. (repealed).
+Article 46. [ Start processing data in file] 1. The data controller may, subject to the paragraph. 2, start processing them in a dataset after reporting this collection to the General Inspector, unless the Act exempts it from this obligation.
+2. The controller of the data referred to in art. 27 ust. 1, may start their processing in the dataset after registration of the file, unless the Act exempts it from the obligation to notify the file for registration.
+Article 46a. [ Delegation] The Minister responsible for public administration shall determine, by means of a regulation, the model of notification referred to in Article. 41 par. 1, taking into account the obligation to include the information necessary to establish the conformity of data processing with the requirements of the Act.
+Chapter 7
+Transfer of personal data to a third country
+Article 47. [ Transferring personal data to a third country] 1. [ 4] The transfer of personal data to a third country may take place if the target country provides an adequate level of protection for personal data within its territory.
+1a. [ 5] The appropriate level of protection of personal data referred to in paragraph 1. 1, shall be assessed taking into account all the circumstances relating to the data transfer operation, in particular taking into account the nature of the data, the purpose and duration of the proposed data processing operations, the country of origin and the country of final the purpose of the data and the laws in force in the third country concerned and the security measures and professional rules applicable in that country.
+2. [ 6] The provisions of the paragraph 1 shall not apply when the transfer of personal data results from the obligation imposed on an administrator of the data by law or the provisions of a ratified international agreement, guaranteeing an adequate level of protection of such data.
+3. The data controller may, however, transfer personal data to a third country, if:
+(1) the data subject has given its consent in writing to that effect,
+2. the transfer is necessary for the performance of the contract between the controller and the data subject, or is undertaken at the request of the data controller,
+3. the transfer is necessary for the performance of an agreement concluded in the interests of the data subject, between the controller and the other entity,
+4) the transfer is necessary for reasons of public good or to demonstrate the legitimacy of legal claims,
+5. the transfer is necessary for the protection of the vital interests of the data subject,
+6) data is generally available.
+Article 48. [ Obligation to obtain the consent of the Inspector General] In cases other than those referred to in Article 47 para. 2 and 3 transfer of personal data to a third country, which does not give a guarantee of protection of personal data at least such as that apply to the territory of the Republic of Poland, may occur after obtaining the consent of the General Inspector, under condition that the data controller will provide adequate safeguards for the protection of privacy and the rights and freedoms of the data subject.
+Chapter 8
+Penal provisions
+Article 49. [ Processing of personal data in a manner contrary to the law] 1. Whoever processes personal data in the collection, although their processing is not acceptable or for which processing is not entitled, is subject to a fine, punishable by restriction of liberty or imprisonment by the years 2.
+2. If the act referred to in paragraph. 1 refers to data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, religious affiliation, party or union membership, health status, genetic code, addictions or sexual life, the perpetrator is subject to a fine, punishable by restriction of liberty or imprisonment by the age of 3.
+Article 50. (repealed).
+Article 51. [ Providing data to unauthorised persons] 1. Whoever administers the collection of data or being obliged to the protection of personal data shall make it available or allows access to them to unauthorised persons shall be subject to the fine, punishing the restriction of liberty or imprisonment to the years 2.
+2. If the perpetrator acts inadvertently, shall be subject to a fine, punishable by restriction of liberty or imprisonment by the year.
+Article 52. [ Negligence of the obligation to protect the data] Whoever administers the data violates even inadvertently the obligation to protect them from being taken by unauthorised persons, damage or destruction, shall be subject to a fine, punishable by restriction of liberty or imprisonment by the year.
+Article 53. [ Negligence of the obligation to notify data for registration] Those who are not required to register a dataset shall be subject to a fine, a penalty of restriction of liberty, or a term of imprisonment.
+Article 54. [ Negligence of the obligation to provide certain information] Who administers the data set does not fulfil the obligation to inform the data subject of his or her rights or to provide that person with information enabling him to exercise the rights conferred on it by this Act, shall be subject to a fine, punishable the restriction of liberty or imprisonment by the year.
+Art. 54a. [ Foiling or obstruction of the inspector's control action] A person who inspects or impedes the exercise of control activities shall be subject to a fine, restriction of liberty or imprisonment of up to 2 years.
+Chapter 9
+Amendments to the provisions in force, transitional and final provisions
+Article 55. (bypassed).
+Article 56. (bypassed).
+Article 57. (bypassed).
+Article 58. (bypassed).
+Article 59. (bypassed).
+Article 60. (bypassed).
+Article 61. [ Obligation to submit an application for registration] 1. Entities referred to in art. 3, leading on the date of entry into force of the Act personal data sets in IT systems, have an obligation to submit applications for the registration of these collections in accordance with the mode set out in Art. 41, within 18 months from the date of its entry into force, unless the Act exempts them from this obligation.
+2. Until the registration of the set of personal data in the mode specified in Art. 41, the entities referred to in paragraph. 1, they may carry out these files without registration.
+Article 62. [ Entry into force] The Act shall enter into force six months after the day of the announcement, with the following:
+1. 8-11, art. 13 and 45 shall enter into force after 2 months from the date of the announcement,
+2. Article 55-59 shall enter into force after 14 days from the date of the announcement.
+
+1. This Act shall be subject to the implementation of Directive 95 /46/EC of the European Parliament and of the Council of 24 October 1995 on the implementation of Directive 95 /46/EC. on the protection of individuals with regard to the processing of personal data and the free movement of such data (Dz. Urz. EC L 281, 23.11.1995, p. 31, of late. zm.; Dz. Urz. EU Polish Special Edition, rozdz. 13, t. 15, str. 355, of late. zm.).
+[ 1] Art. 26a (a) 2 in the version set by the Article. 30 point 1 of the Act of 16 September 2011. about the exchange of information with the law enforcement authorities of the Member States of the European Union (Journal of Laws No. 230, item. 1371). The amendment entered into force on 1 January 2012.
+[ 2] Article 43 (1) 1 point 2c added by art. 30 point 2 of the Act of 16 September 2011. about the exchange of information with the law enforcement authorities of the Member States of the European Union (Journal of Laws No. 230, item. 1371). The amendment entered into force on 1 January 2012.
+[ 3] On the basis of the judgment of the Constitutional Court of 23 June 2009. (Journal of Laws No 105, pos. 880) art. 43 par. 2 in the version given by the Article. 178 of the Act of 9 June 2006. o Central Anti-Corruption Bureau (Journal of Laws No 104, item. 708; ost. zm.: Dz.U. z 2009 r. Nr 18, pos. 97), is in accordance with art. 2, art. 47 and art. 51 in connection with art. 31 par. 3 of the Constitution of the Republic of Poland and with the preamble and art. 6 Convention No 108 of the Council of Europe on the protection of individuals with regard to automatic processing of personal data, drawn up in Strasbourg on 28 January 1981. (Journal of Laws of 2003 No 3, pos. 25; ost. zm.: Dz.U. z 2006 r. No 3, pos. 15).
+[ 4] Article 47 (1) 1 in the wording set by Article 1. 30 pt. 3 lit. (a) of the Act of 16 September 2011. about the exchange of information with the law enforcement authorities of the Member States of the European Union (Journal of Laws No. 230, item. 1371). The amendment entered into force on 1 January 2012.
+[ 5] Article 47 (1) 1a added by art. 30 pt. 3 lit. (b) of the Act of 16 September 2011. about the exchange of information with the law enforcement authorities of the Member States of the European Union (Journal of Laws No. 230, item. 1371). The amendment entered into force on 1 January 2012.
+[ 6] Article 47 (1) 2 in the version set by the Article. 30 pt. 3 lit. c) of the Act of 16 September 2011. about the exchange of information with the law enforcement authorities of the Member States of the European Union (Journal of Laws No. 230, item. 1371). The amendment entered into force on 1 January 2012.
+

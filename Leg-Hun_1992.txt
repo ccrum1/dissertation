@@ -1,0 +1,1666 @@
+
+Act on Protection of Personal Data and
+Disclosure of Data of Public Interest
+Act No LXIII of 1992
+
+REPUBLIC OF HUNGARY
+
+ACT ON -PROTECTION OF PERSONAL DATA AND DISCLOSURE
+OF DATA OF PUBLIC INTEREST
+
+
+
+Act No LXIII of 1992
+
+National Assembly hereby
+enacts the following act on the fundamental rules governing
+the protection of personal data and the implementation of
+the right of access to data of public interest.
+
+Chapter I
+General Provisions
+Purpose of the Act
+Article 1
+(1) The purpose of this Act is to guarantee the right
+
+of everyone to excercise control over his personal data and
+to
+
+have
+
+access
+
+to
+
+data
+
+of
+
+public
+
+interest,
+
+except
+
+as
+
+otherwise provided by law under this Act.
+(2) Derogation from the provisions of this Act shall be
+allowed when such derogation is specifically provided for by
+this Act.
+(3) Exceptions under this Act shall be made only for
+specific types of data and data controller together.
+Definitions
+Article 2
+For the purposes of this Act:
+1.
+“’personal data" means any data relating to a
+specified natural person (hereinafter called data subject)
+and any conclusion drawn from such data in respect to him.
+As long as data subject can be indentified by the data it
+preverses this personal characteristic;
+2. “special categories of data'* means any personal data
+relating to
+a)
+
+racial
+
+origin,
+
+nationality,
+
+national
+
+or
+
+ethnic
+
+origin, political opinion or party affiliation, religious or
+other belief,
+
+b)
+
+health,
+
+2
+
+-
+
+pathological
+
+criminal conviction;
+3. "data of public
+
+addiction,
+
+interest1'
+
+sexual
+
+means
+
+any
+
+life
+
+and
+
+information
+
+under
+
+processing of authorities performing functions of
+state or local self-goverment, except for personal data and
+
+those
+
+information
+
+which
+
+specialized under this Act;
+4.
+"data processing"
+process
+
+and
+
+use
+
+(including
+
+are
+
+subject
+
+to
+
+exceptions
+
+includes
+
+recording,
+
+transfer
+
+and
+
+storage,
+
+disclosure)
+
+of
+
+personal data, irrespective of the technical means employed,
+as
+
+well
+
+as
+
+alteration
+
+of
+
+data
+
+and
+
+prevention
+
+of
+
+their
+
+further use;
+5. "transfer" means access by specified third person to
+such data;
+6. "disclosure" means access by anyone to such data;
+7.
+"data
+controller"
+means
+any person
+or body
+responsible
+
+for
+
+operations
+
+defined
+
+in
+
+para.
+
+performing
+others;
+
+the
+
+operations
+
+himself
+
+or
+
+entrusted
+
+B.
+
+4.,
+
+either
+them
+
+to
+
+"deletion" includes any steps taken for data being
+
+unidentified, with no possibility of their restaining;
+9. "law" is the Act, and the degree of local self­
+government in para (1) of Art. 1, para (1) of Art. 6, para
+(1) of Art. 12, Art. 24, Art. 25 para (2) of Art. 28.
+Chapter II.
+Protection. of Personal Data
+Data Processing
+Article 3.
+(1) Personal data shall not be processed unless as
+a) consented by data subject;
+b) ordered by law or - under special provisions of law
+- by decree of local self-government.
+(2) Special categories of data she],] not be processed
+unless as
+a) consented in writing by data subject;
+
+3
+
+b)
+
+ordered
+
+by
+
+law
+
+in
+
+respect
+
+of
+
+international
+
+agreements or enforcement of basic rights guaranteed by the
+Constitution, as weel as the interest of national security,
+prevention of crimes or criminal investigation;
+c) in all other cases ordered by law.
+(3) Disclosure of specifically determined categories of
+personal data may be ordered by law in respect of public
+interest. In all other cases, disclosure of such data shall
+be subject to the consent or as to special categories of
+data the written consent of data subject.
+
+In case of doubt
+
+the lack of such consent shall be presumed.
+(4)
+
+No
+
+special
+
+consent
+
+is
+
+required
+
+personal data let known by data subject
+
+with
+
+regard
+
+to
+
+in the course of
+
+public appearance or turned over by him with the purpose of
+disclosure.
+(5)
+
+Consent
+
+to processing of relevant data shall be
+
+presumed in proceedings commenced at the request of the data
+subject, who shall be advised of such presumption.
+
+Unless
+
+otherwise
+
+Article 4.
+provided by
+
+law,
+
+the
+
+right
+
+of
+
+individuals to protection of personal data and privacy shall
+not
+
+be
+
+impaired
+
+by
+
+processing, including
+interest. (Art. 19.)
+
+other
+the
+
+interests
+disclosure
+
+involved
+of
+
+data
+
+in
+of
+
+data
+public
+
+Purpose of Data processing
+Article 5
+(1) Personal
+specified purpose,
+
+data shall be processed only for a
+in exercise of a right or in compliance
+
+with an obligation. In course of the entire processing this
+purpose shall be complied.
+(2) No personal data shall be processed other than
+those indispensably required for satisfying the purpose of
+processing and only in a way compatible with that purpose.
+
+4
+
+Data
+
+shall
+
+not
+
+be
+
+used
+
+excessively
+
+required for that purpose.
+(3) Data processing based
+
+and
+
+longer
+
+than
+
+is
+k
+
+on
+
+compulsory
+
+supply
+
+of
+
+information shall be ordered in favour of public interest.
+
+#
+
+Article 6
+(1) Before collecting the data the data subject shall
+be advised whether it is voluntary or compulsory. In case of
+compulsory supply the source of law ordering data processing
+shall also be named.
+(2) Data subject shall be informed of the purpose of
+processing and of the controllers. This communication can be
+accomplished
+
+by
+
+law
+
+providing
+
+for
+
+data
+
+collection
+
+from
+
+existing file due to transfer and file connection.
+Quality of Data
+Article 7
+(1) Personal data undergoing processing shall be:
+a) obtained and processed fairly and lawfully,
+to)
+
+accurate,
+
+complete and where necessary kept up to
+
+c)
+
+preserved in a form which permits identification of
+
+date.
+data subject for no longer than is required for the purpose
+for which these data are stored.
+(2)
+Unlimited,
+general
+and
+identification code shall not be used.
+
+uniform
+
+personal
+
+Data Transfer and Connection of files
+Article 8
+(1) Data shall not be transferred and files shall not
+i
+
+be connected unless consented by data subject or provided by
+law.The conditions for data processing shall meet in each
+case with regard to each personal data.
+(2)
+Connection
+of
+files
+processed by
+the
+same
+controller, as well as those of state organization and selfgovernments shall likewise be governed as in para 1.
+
+Data Transfer Abroad
+Article 9
+Personal data shall not be transferred from the country
+to foreign data controller, whatever the data medium or the
+mode of transmission is,
+subject
+
+or
+
+permitted
+
+except when consented to by data
+
+by
+
+law,
+
+provided
+
+principles
+
+of data protection shall be
+controller abroad in respect of each data.
+
+that
+
+the
+
+obeyed
+
+same
+
+by
+
+the
+
+data
+
+security
+
+and
+
+organizational
+
+measures
+
+and
+
+Data Security
+Article 10.
+(1)
+shall
+
+Data
+
+take
+
+all
+
+controller
+
+shall
+
+technical
+
+and
+
+insure
+
+develop rules of procedure
+
+required to the enforcement of
+
+Act
+
+concerning
+
+and
+
+other
+
+regulations
+
+data protection and
+
+secrecy.
+(2) Data shall be protected in particular against
+unauthorized access, alteration, disclosure or deletion and
+damage or destruction.
+Individual Rights and Implementation thereof
+Article 11
+(1) Data subject may
+a) request for communication on the processing of his
+personal data (Arts 12 and 13),
+b) request for rectification of his personal data or
+deletion thereof (Arts 14 to 16),
+according to provisions of law.
+
+except
+
+those processed
+
+(2) Anyone may inspect the data protection register
+(para (1) of Art, 28), make notes and request for extracts
+thereof. A fee shall be payed for the extracts.
+Article 12
+(1) Data controller shall inform the data subject, at
+his request, of the processing of personal data, the purpose
+of the processing* its legal basis and the duration of
+processing, as well of who received or will receive data and
+for what purpose. The length of records on transfer and, in
+the
+
+same
+
+measure,
+
+information,
+to
+
+duration
+
+of
+
+obligation
+
+shall not
+
+personal
+
+data
+
+and
+
+be
+
+less
+
+less
+
+than
+
+give
+
+than
+
+five
+
+years with
+
+twenty
+
+years with
+
+regard to special categories of data.
+(2)
+Data controller shall furnish
+writing,
+
+to
+
+may be restricted by law on data processing.
+
+This restriction
+regard
+
+the
+
+in an intelligible form,
+
+information
+
+in
+
+within 30 days from the
+
+submission of a request.
+(3) Information referred to in para (2) is free, except
+for those repeatedly requested on the same area at the same
+controller within a year.
+Article 13.
+(1) Data controller shall not deny information to data
+subject except provided so by lav; in accordance with Art.
+16.
+(2) Data controller shall state the reason for denial
+of the information requested.
+(3)
+
+The
+
+controller
+
+shall
+
+annually
+
+report
+
+on
+
+applications which have been denied to the Data Protection
+Ombudsman.
+Article 14.
+(1) Data controller shall correct inaccurate data.
+(2) Personal data shall be deleted if
+a) the processing is unlawful;
+b) requested so by data subject in accordance with para
+(1) b) of Art. 11;
+c) the purpose of processing has ceased.
+(3)
+Personal data which
+shall
+be
+presented for
+repository storage under law on portection of archivalia are
+not subject to deletion.
+
+Article 16
+Data subject and any other person
+
+to whom data were
+
+be
+informed
+transferred for processing shall
+rectifications and deletions.
+Such information
+
+of any
+may be
+
+dispensed with, in view of the purpose of processing, if the
+legitimate
+
+interest
+
+of
+
+data
+
+subject
+
+ic
+
+not
+
+infringed
+
+thereby.
+Article 16.
+Individual rights of data subject (Arts 11 to 15) may
+be restricted by law in,
+
+the interest of the external and
+
+internal
+
+security
+
+of the
+
+State,
+
+defence,
+
+national
+
+security,
+
+investigation,
+
+in
+
+crime
+
+the
+
+area
+
+of
+
+national
+
+prevention
+
+or
+
+criminal
+
+as well as in the monetary interest of the
+
+State and of the local self-government,
+
+or protecting the
+
+rights of data subject or of others.
+Judicial Enforcement
+Article 17
+(1) In case of infringement of his rights data subject
+may institute court proceedings against the controller.
+(2) Data controller shall prove
+have complied with provisions of law.
+
+that
+
+the
+
+processing
+
+(3) The court in the place of the controller s business
+shall have jurisdiction over the case.
+
+A person otherwise
+
+incapable of suing or being sued may also be a party to the
+lawwsuit.
+(4) If the application is granted, the court shall
+order the controller to provide the information requested,
+or to correct or delete the data involved, or oblige the
+Data Protection Ombudsman to enable inspection of the Data
+Protection Register.
+(5) Court may order to record its decision to the data,
+protection register if necessary in respect of the interest
+of data protection principles and of significance number of
+persons whose rights protected by this Act.
+
+Compensation
+Article 18
+controller shall pay
+
+(1) Data
+
+compensation
+
+for
+
+any
+
+damage caused to data subject with processing of his data or
+by
+
+violation
+
+protection.
+upon
+
+of
+
+the
+
+technical
+
+Controller
+
+proving
+
+that
+
+requirements
+
+shall be discharged
+
+the
+
+damage
+
+was
+
+of
+
+from
+
+caused
+
+data
+
+liability
+
+inevitable
+
+by
+
+reasons beyond control of data processing.
+(2) No compensation shall be paid for that part of damage
+caused
+
+by
+
+the
+
+injured
+
+person's
+
+intentional
+
+or
+
+seriuosly
+
+negligent conduct.
+Chapter III
+Disclosure of Data of Public Interest
+Article 19
+(1) The person or body performing function of state or
+local self-government (hereinafter referred to as authority)
+shall,
+
+within
+
+its
+
+sphere
+
+of
+
+competence
+
+,
+
+including
+
+its
+
+management, promote accurate and prompt information for the
+general public.
+(2) The authority shall regularly publish or otherwise
+enable access to most important data relating to its
+activity in particular to the authority, competence and
+structure of it, as well as the categories of data possessed
+by it and the law governing its activity.
+(3) The authority shall grant accees for anyone to the
+data of public interest processed by it, except for those
+data which are classified as state or official secret by
+authorities
+provided
+
+entitled
+
+that
+
+interest is
+interest of
+
+right
+not
+
+to
+to
+
+do
+access
+
+specifically
+
+so
+
+under
+
+of
+
+certain
+
+restricted
+
+law,
+
+furthermore
+
+data of
+
+public
+
+by
+
+in
+
+law
+
+a) national defence,
+b) national security,
+c) criminal investigation and crime prevention,
+d) men, etary and currency policy,
+
+the
+
+e) international relations and relations to
+international organisations.
+f) .judicial procedure.
+Article 20
+(1)
+interest
+
+An
+
+application
+
+©hall
+
+be
+
+for
+
+granted
+
+access
+
+in an
+
+to
+
+data
+
+inteligible
+
+of
+
+public
+
+form by the
+
+authority, as soon as possible after being notified, but at
+the latest within 15 days. The applicant, bearing the
+charges, may ask for a copy of the document or a part of it
+containing the data regardless of the way of
+
+its storage.
+
+(2) The applicant shall be notified in writ in/3, within
+8
+
+days,
+
+of
+
+the
+
+rejection of his
+
+application
+
+and of
+
+the
+
+reasons therefor.
+(3) The head of the authority may charge expenses, to
+the actual extent thereof, for the communication of data of
+public interest.
+The applicant upon request shall be
+informed about the amount of expenses in advance.
+(4) The authority 'shall annualy report on application
+which have been denied and the reasons therefor to the Data
+Protection Ombudsman.
+Article 21
+(1)
+
+The
+
+applicant
+
+may
+
+apply
+
+to
+
+the
+
+court
+
+if
+
+his
+
+application for data of public interest is refused,
+(2) The authority shall prove that the refusal wa
+reasonable and in accordance with law.
+(3) Proceedings may be taken within 30 days from the
+notification of refusal, against the organ which denied the
+infromnation requested.
+(4) A person otherwise incapable of suing or being sued
+may also be a party to the case.
+(5) Lawsuit
+competence shall
+metropolitan)
+
+against an
+be decided
+
+court.
+
+authority with nationwide
+by the
+county
+(Budapest
+
+Cases within the competence of local
+
+courts shall be decided by the local court in the seat of
+the county court or by the Central District Court of Pest in
+Budapest. The jurisdiction of the court shall be determined
+by the seat (place of business) of the authority refusing to
+communicate data.
+(6) The court shall give priority to proceeding.
+(7) If the application is granted, the court
+order
+
+the
+
+authority to communicate
+
+the
+
+shall
+
+requested data of
+
+public interest.
+Article 22
+The
+
+provisions
+
+of
+
+this
+
+Chapter
+
+shall
+
+not
+
+apply
+
+to
+
+communication of data from authentic records as regulated by
+separate provisions of law.
+Chapter IV
+Data Protection Ombudsman and the Data Protection Register
+Data Protection Ombudsman
+Article 23
+(1) In order to protect the constitutional rights to
+protection of personal data and to disclosure of data of
+public
+
+interest,
+
+the
+
+National
+
+Assembly
+
+shall
+
+elect
+
+an
+
+ombudsman for data protection from among Hungarian citizens
+with university degree,
+
+with clean record,
+
+with excellent
+
+academic knowledge or with at least lo years of professional
+practice,
+who
+are
+of
+experience
+in
+conducting
+and
+supervising proceedings involving data
+related sciences and are well respected.
+
+protection
+
+or
+
+in
+
+(2) Subject to the exceptions made by this Act, the
+Data Protection Ombudsman shall governed by the provisions
+of the Act on Parliamentary Ombudsman for Civic Rights.
+Article 24
+The Data Protection Ombudsman shall
+a) observe the implementation of this Act
+laws on data processing;
+
+and
+
+other
+
+b) examine complaints lodged with him;
+c) ensure the maintenance of data protection register.
+
+Article 2b
+M)
+
+The
+
+Data
+
+Protection Ombudsman
+
+shall
+
+monitor
+
+the
+
+existence of conditions for protection of personal data and
+for disclosure of data of public interest, prevent proposal
+for adoption or modification of legislation concerning data
+processing and disclosure of data of public interest and
+give opinion on such draft legislation.
+(2) The Data Protection Ombudsman observing an unlawful
+processing of
+data,
+shall request the controller to
+discontinue the
+
+processing.
+
+The controller shall take the
+
+necessary measures without delay and inform the Data
+Protection Ombudsman in writing within 30 days thereof.
+(3) The Data Protection Ombudsman shall announce to the
+general public the existence of data processing unlawfully
+undertaken,
+the identity of data controller,
+and the
+categories of data processed, if the data controller does
+not stop unlawful processing.
+Article 26
+(1)
+
+In
+
+exercising his
+
+functions
+
+the
+
+Data
+
+Protection
+
+Ombudsman
+
+may request the controller to furnish him
+information on any matter, and may inspect any documents and
+
+records likely to bear on personal data or data of public
+interest.
+(2) The ombudsman for data protection may enter any
+premises where data are processed.
+(3) State secrets and official secrets shall not
+prevent the Data Protection Ombudsman from excercising his
+rights stated
+in this Article, but the provisions on
+secrecy shall bind him as well.
+The Data Protection
+Ombudsman shall exercise his rights in person in the case of
+processing affecting state secrets or official secrets in
+the
+
+armed
+
+agencies.
+
+forces,
+In
+
+the
+
+performing
+
+police
+his
+
+and
+
+the
+
+functions
+
+national
+
+security
+
+at
+
+national
+
+the
+
+security agencies the Data Protection Ombudsman shall have
+
+no access to documets other than records of data specified
+by separate provisons of law.
+Article 27
+(1) Anyone may apply to the Data Protection Ombudsman
+in
+
+cases
+
+thereof,
+his
+
+violation of his
+
+rights,
+
+or of a direct danger
+
+concerning the processing of his personal data or
+
+access
+
+to
+
+data
+
+of
+
+public
+
+interest,
+
+except
+
+when
+
+the
+
+particular case is in the course of judicial procedure.
+(2) No one shall suffer any prejudice on grounds of his
+application
+
+to
+
+shall
+
+the
+
+have
+
+Data
+same
+
+Protection
+
+Ombudsman.
+
+protection
+
+as
+
+the
+
+The
+
+applicant
+
+persons
+
+making
+
+communications of public interest.
+Data Protection Register
+Article 28.
+(1) Prior to commencment of his activity, the data
+controller shall notify the Data Protection Ombudsman, for
+registration
+a) the prupose of tha data processing;
+b) the
+therefor;
+
+type
+
+of
+
+processed
+
+data
+
+and
+
+the
+
+legal
+
+basis
+
+c) the range of data subjects;
+d) the source of data;
+c) the type of transferred data, the recipients of such
+date, and the legal basis of transfer;
+f) the deadlines for deletion of certain types of data;
+g) the name and address of data controller and the
+place of actual data processing.
+(2) Notice of data processing that is ordered by law
+shall be made by the competent minister, head of national
+agency,
+
+or
+
+mayor,
+
+chief
+
+mayor,
+
+or
+
+the
+
+president
+
+of
+
+the
+
+county assembly, within 15 days of the entry into force of
+the relevant legislation.
+(3) The national security agencies shall notify the
+purpose of, and the legal basis for, their data processing.
+
+Article 29
+(1) At initial registration, the data controller shall
+receive a registry number. The registry number shall be
+indicated at every transfer and disclosure of data, as well
+as their communication to the data subject.
+(2) Notice of any change in data specified in psara (1)
+of
+
+Art.
+
+28
+
+shall
+
+be
+
+reported
+
+Ombudsman within 8 days
+
+to
+
+the
+
+Data
+
+Protection
+
+and the registrr shall be modified
+
+accordingly.
+Article 30
+Registration is not required with regard to data
+processing that
+a) covers the data of persons maintaining employment,
+membership,
+controller;
+
+student
+
+or
+
+business
+
+relations
+
+with
+
+the
+
+data
+
+b) is governed by internal rules of churches, religious
+denominations or religious communities;
+c)
+
+covers personal data relating to
+
+health of persons receiving medical care,
+medical
+
+treatment
+
+or
+
+preservation
+
+of
+
+the
+
+sickness or
+
+for purposes of
+
+health
+
+or
+
+claiming
+
+social insurance benefits;
+d) covers data for the purpose of granting financial
+and other social benefits to a person;
+e)
+
+covers
+
+personal
+
+data
+
+relative
+
+to
+
+conduct
+
+administrative, prosecutorial and Judicial proceedings;
+f) covers personal data for the purpose of official
+statistics, provided that the possibility to identify an
+individual with such data can be conclusively eliminated in
+a manner specified by separate provisions of law;
+g) covers data processed by companies and agencies
+under the Press Law for their unique informative activity;
+h) serves the purposes of scientific research if
+relevant data are unpublished;
+
+i) were transferred from the controller to archives, if
+data processing was closed more than 30 years ago;
+j) serves the sole purpose of a natural person.
+Data Protection Office
+Article 31
+(1) The Data Protection Ombudsman shall be assisted in
+his work by an Office, the regulation thereof is to be
+established by the Ombudsman and to be ratified by the
+President of the Republic.
+(2) The Data Protection Office shall be governed by the
+rules relative to the Office of the Parliamentary Ombudsman
+for Civic Rights.
+Chapter V
+Special Provisions
+Data Processing in Research Institutes
+Article 32
+(1)
+
+Data
+
+collected
+
+and
+
+stored
+
+for
+
+purposes
+
+of
+
+scientific research shall not be used for other purposes.
+(2)
+regard
+
+Personal
+to
+
+the
+
+data,
+
+as
+
+research,
+
+soon
+
+as
+
+it
+
+is
+
+possible
+
+with
+
+shall
+
+be
+
+unindentified.
+
+Data
+
+suitable to identify a specified or specifiable natural
+person shall be stored separately. These data shall not be
+connected with others except it is required so for the
+purpose of research.
+(3) An organ or a person performing scientific research
+shall publish personal data if
+‘
+a) concented by .the data subject or
+b) required to display the result of research relative
+to historic events.
+
+Chapter VI
+Final Provisions
+Amendments to Laws
+Article 33
+Para (1) of Art. 83 of Act IV of 1959 on the Civil Code
+shall be superseded by the following provision:
+
+(1) The management and processing of data by computer or
+
+otherwise shall not infringe individual rights."
+Entry into Force
+Article 34
+(1) This Act - with the exception of paras 2 and 3 shall
+
+enter
+
+into
+
+force
+
+on the
+
+1st day
+
+of the
+
+6th month
+
+following the date of the promulgation of this Act.
+(2) Chapter III (Arts 19 to 22) of this Act shall enter
+into
+
+force
+
+on
+
+the
+
+15th
+
+day
+
+promulgation.
+(3) Chapter IV (Arts 23 to 31)
+
+following
+
+the
+
+date
+
+of
+
+of this Act shall enter
+
+into force concurently with the entry into force of the Act
+on Parliamentary Ombudsman for Citizen s Rights.
+Article 35
+(1) Regulations by law referred to in this Act shall,
+except for para (3) of Art. 3, Art. 4. para (1) of Art.13
+be prepared by 31 December 1992.
+(2) Legal guidelines for data processing shall cease to
+be applicable after the promulgation of this Act,
+Article 36
+(1) The Data Protection Ombudsman shall be elected
+within 2 months from the entry into force of Chapter IV
+(Arte 23 to 31) of this Act and the regulations of Data
+Protection Office shall be presented for ratification within
+an additional 2 months.
+(2) Data processing at the date of entry into force of
+this Act shall be reported at the data protection register
+by data controller within 3 months of the election of the
+Data Protection Ombudsman.
+
+
+Article 37
+Minister of Finance is entitled to determine the fee
+referred to in para (2) of Art.
+thereof.

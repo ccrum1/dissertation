@@ -1,0 +1,947 @@
+
+     Law No. 1.165 of December 23, 1993 on the protection of personal information
+
+
+     Chapter I - Automated processing of personal information
+
+     Section I - Principles and definitions
+     Title replaced from April 2009 the law of December 2008 count 1st n° 1.353 4 by
+
+
+     Article 1
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     Automated or non-automated processing of personal information must not infringe the fundamental rights and freedoms enshrined in
+     Title III of the Constitution.
+     Nominative information, in any form whatsoever, is that which makes it possible to identify a specific or determinable natural
+     person. A person who can be identified, directly or indirectly, in particular by reference to an identification number or to one
+     or more specific elements, specific to his physical, physiological, psychological, economic, cultural or social identity, is deemed
+     to be determinable.
+     The processing of personal information is any operation or set of operations relating to such information, regardless of the
+     process used. These relate to the collection, recording, organization, modification, storage, extraction, consultation or
+     destruction of information, as well as the use, interconnection or reconciliation, communication of information by transmission,
+     dissemination or any other form of making available.
+
+
+     The controller is the natural or legal person, governed by private or public law, the public authority, the service or any other body which
+     determines, alone or jointly with others, the purpose and means of the processing and which decide on its implementation.
+
+
+     The recipient of the processing is the natural or legal person, governed by private or public law, the public authority, the service or any
+     other body which receives the communication of data, other than the data subject, the controller, the subcontractor. processor and the
+     persons who, placed under the direct authority of the controller or processor, are authorized to process the data.
+
+
+     The person concerned by the processing of personal information is the person to whom the information that is the subject of the
+     processing relates.
+
+     Section II - The personal information control authority
+
+     Title replaced on April 1, 2009 by Law No. 1.353 of December4, 2008 counted by
+
+
+     Section 2
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     A control authority called the nominative information control commission has been created, whose mission is to control and verify
+     compliance with the legislative and regulatory provisions relating to the protection of personal information. This commission
+     is responsible, in complete independence, under the conditions determined by this law:
+
+
+          1°) to receive the declaration of implementation of processing by natural persons or persons
+             morals of private law provided for in Article 6;
+          2°) to give a reasoned opinion when processing must be carried out by the persons referred to in Article 7
+             ;
+          3°) to give a reasoned opinion when the purpose of processing is to carry out research in the field of health, under the conditions
+             provided for in the first paragraph of Article 7-1; 4°) to authorize the automated
+          processing implemented within the framework of Article 11-1; 5°) to authorize the transfer of
+          personal information to countries or organizations that do not ensure a level of
+             adequate protection, provided that the data controller, or his representatives, offer sufficient guarantees to ensure respect for
+            the protection of the fundamental rights and freedoms of the data subjects as well as the exercise of the corresponding rights
+            by the recipients concerned;
+          6°) establishing and updating the directory of automated processing referred to in Article 10; 7°) to
+          control, under the conditions defined by this law, the operation of automated processing, to investigate complaints and
+            petitions addressed to it, as well as requests for verification of information to which interested persons cannot have
+            access directly;
+          8°) to report to the public prosecutor the facts constituting offenses of which it becomes aware in the exercise of
+             his missions ;
+
+          9°) to propose to the competent authorities the provisions to be enacted in order to fix either general measures
+             suitable for ensuring the control and security of processing, or special or circumstantial measures including, exceptionally, the
+             destruction of information media;
+          10°) to formulate all recommendations falling within the scope of the missions conferred on it by law; 11°) to inform the persons
+          concerned of the rights and obligations resulting from this law, in particular by communicating on request to any person, or by
+            publishing, if the commission deems it useful for informing the public, of its deliberations, opinions or recommendations
+            of a general nature, except when such communication or publication would be likely to undermine public security or the respect
+            due to private and family life;
+
+
+          12°) issue warnings or formal notices to the address of a data controller, for the purposes and under the conditions provided for by
+            this law;
+          13°) to be a party to legal proceedings for the purposes and under the conditions provided for
+          by this law; 14°) to make all public reports on the application of this law and the texts adopted for its application; an annual activity
+             report of the commission is submitted to the Minister of State and to the President of the National Council; this report is published.
+
+
+     The commission is consulted by the Minister of State during the development of legislative or regulatory measures relating to the
+     protection of the rights and freedoms of individuals with regard to the processing of personal information and may be consulted for any other
+     measure likely to affect those rights and freedoms.
+
+
+     Section 3
+     Replaced from April 2009 the law n° 1.353 of December2008 counting 1st 4 by
+     Any natural or legal person whose rights conferred by this law or the texts taken for its application have been disregarded, or those having
+     reason to presume that these rights have been disregarded, may refer the matter to the chairman of the commission for the control of personal
+     information. , for the purposes, where appropriate, of implementing the measures provided for in Chapter III.
+
+
+
+     Section 4
+     Replaced on April 1, 2009, Law No. 1.353 of December 4, 2008, amended OrdinanceNo. 7.774 of 8 count by; by November2019
+
+
+     The commission is composed of six members proposed, because of their competence, as follows:
+
+          1°) one member by the National Council; 2°)
+          one member by the Council of State; 3°)
+          one member by the Minister of State; 4°) a
+          member having the status of magistrate by the director of judicial services; 5°) one member by the
+          Communal Council; 6°) one member by the
+          Economic, Social and Environmental Council.
+
+     The proposals are made outside the authorities, councils and institutions concerned and according to the procedures set by sovereign
+     order.
+
+
+     Section 5
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     The members of the nominative information control commission are appointed by a sovereign order for a period of five years, renewable
+     once. The commission elects from among its members, by absolute majority, a chairman and a vice-chairman.
+
+
+     In the exercise of their powers, the members of the commission do not receive instructions from any authority.
+     Except resignation or impediment, it cannot be put an end to the functions of a member of the commission.
+     The chairman's vote is decisive in the event of a tie vote. The other operating rules of the [2] commission are set by sovereign
+     order                                                            .
+
+
+     Section 5-1
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     The members of the commission as well as any person whose assistance it secures are bound by professional secrecy under
+     the conditions provided for in article 308 of the penal code. They are also bound by the obligation of secrecy for all matters relating to the
+     facts and information of which they become aware in the performance of their duties.
+
+     Section 5-2
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     The commission has departments headed by the president and placed under his authority. The services of the commission include the
+     secretary general and the staff of the secretariat.
+     The secretary general is responsible for the operation and coordination of the services.
+
+
+     Section 5-3
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     Except for specific legal or regulatory provisions, the staff of the commission are subject to the general rules applicable to civil
+     servants and agents of the State.
+     However, hierarchical and disciplinary powers are exercised over them by the chairman of the commission.
+
+
+     Section 5-4
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+     The appropriations necessary for the functioning of the commission for the control of personal information are entered in
+     a specific chapter of the state budget.
+     Within the framework of the preparation of the preliminary or amending draft budget of the State, the president of the commission for
+     the control of nominative information sends to the Minister of State the proposals concerning income and expenditure.
+
+
+     Expenses are authorized by the President or the Secretary General. The commission's accounts must be audited annually under the
+     conditions set by sovereign order.
+
+
+     Section 5-5
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     The chairman of the commission concludes all contracts necessary for the proper functioning of his services.
+
+
+     Section 5-6
+     Created in April 2009 the law n ° 1.353 of December 4, 2008 count 1st by
+
+     In the event of absence or impediment of the president, his replacement is ensured by the vice-president.
+
+
+     Section III - Implementation of processing
+
+
+     Section 6
+     Replaced from April 2009 the law n° 1.353 of December4, 2008 counting1st by
+     With the exception of those covered by the provisions of Articles 7, 7-1 and 11-1, the automated processing of personal information,
+     implemented by data controllers, natural or legal persons under private law, is the object of a declaration to the chairman of the nominative
+     information control commission. The declaration includes the commitment that the processing meets the requirements of the
+     law. The chairman of the nominative information control commission issues a receipt. Receipt of the receipt allows processing to be
+     implemented without exonerating the declaring data controller from liability.
+
+                                                                        [3]
+     However, standards may be enacted by ministerial order taken on the proposal or after the opinion of the commission for the control of
+     personal information, setting the characteristics to which the determined categories of processing must comply which clearly do
+     not involve any infringement of fundamental rights and freedoms. This processing may be the subject of a simplified declaration of
+     conformity, or be exempt from any obligation to [4] declare, under the conditions provided for by the aforementioned ministerial order.
+
+
+
+     Section 7
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     The implementation of automated processing of personal information by data controllers, legal persons governed by public law,
+     public authorities, private law bodies entrusted with a mission of general interest or concessionaires of a public service included on a list
+     established by ministerial decree, is decided by the authorities or by the competent bodies after reasoned opinion of the commission for the
+     control of personal information.
+
+
+     This decision and the reasoned opinion that accompanies it are published in the under the conditions of the sovereign order. With regard to
+     the processing referred to in Article 11, only the meaning of the opinion of the commission and the decision of the competent authority or
+     body are published.
+     If the opinion of the commission is unfavorable, the competent authority or body may only implement the processing after having been
+     authorized to do so by reasoned order of the Minister of State or the director of judicial services.
+     Before April 1 of each year, a general list of the processing carried out by the persons referred to in the first [5] paragraph is published by
+     ministerial order.                               
+
+
+     Section 7-1[6]
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     Data controllers, natural or legal persons, may only implement automated processing of personal information for the purpose of
+     research in the field of health after a reasoned opinion from the personal information control commission. Prior to the delivery of this opinion,
+     the latter may, under conditions set by sovereign order, consult a competent public service in the field of health. This consultation suspends
+     the time allowed for the commission for the control of personal information to issue its opinion.
+
+
+     If the committee's opinion is unfavourable, the data controller may only implement it after having been authorized to do so by reasoned
+     ministerial order.
+     These provisions do not apply to data controllers acting in the context of biomedical research as defined in Law No. 1.265 of 23
+     December 2002 relating to the protection of individuals in biomedical research. The processing implemented in this context remains subject,
+     as the case may be, to the provisions of Articles 6 or 7.
+
+
+     In all cases, the file produced in support of the request for an opinion or the declaration must include, in addition to the elements
+     provided for in Article 8, mention of the objective of the research, the population concerned , the method of observation or
+     investigation chosen, the justification for using the personal information processed, the duration and methods of organizing the research, the
+     method of data analysis, as well as, if where applicable, the opinion issued by the advisory committee on ethics in the field of biomedical
+     research instituted by law n° 1.265 of December 23, 2002. The commission for the control of personal information is bound by the terms of
+     this opinion.
+
+     Section 7-2
+     Created in April the law of December counting 1st 2009 n° 1.353 4 2008 by
+
+     The nominative information control commission, seized within the framework of articles 7 and 7-1, makes a decision within two months of
+     receipt of the complete file. This period may be renewed once for an identical period on the reasoned decision of the president.
+
+
+     The opinion requested from the commission, which is not given at the end of the period provided for in the preceding paragraph, renewed if
+     necessary, is deemed to be favourable.
+
+     Section 8
+
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     Declarations, requests for advice and requests for authorization addressed to the commission for the control of personal information must, to
+     be admissible, include the following information:
+
+          1°) the identity of the signatory as well as that of the data controller and, where applicable, that of his representative at
+             Monaco which makes the declaration, the request for an opinion or the request for authorisation; 2°)
+          the functionalities, the purpose, the justification within the meaning of Article 10-2, and if applicable the name of the processing; 3°) the
+          name of the service or the identity of the persons in charge of its operation and the measures taken to allow the exercise of the right of
+            access to information;
+          4°) the categories of persons who, because of their functions, have access to the information; 
+
+5°) the
+          categories of information and the information subject to the processing, their origin, the duration of their storage, the categories of persons
+             concerned by the processing and the categories of recipients authorized to receive communication of the information;
+
+
+          6°) reconciliations, interconnections or any other forms of linking information as well as their transfers to third parties;
+
+
+          7°) the measures taken to ensure the security of processing and information and the guarantee of protected secrets
+             by the law ;
+          8°) the indication, where applicable, that the processing is intended for the communication of information abroad, even
+             in the event that it is carried out from operations previously carried out outside Monaco.
+
+     Section 9
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     Any modification occurring in one of the elements set out in the previous article must be the subject, as the case may be, of a declaration, a
+     request for an opinion or a request for authorisation.
+
+     The personal information control commission is notified of the deletion of the processing.
+     Unless otherwise provided by law, information must not be kept in nominative form beyond the duration provided for in the request for opinion,
+     declaration or authorization request, except with a view to being processed for historical, statistical or scientific. However, the committee may:
+             set a shorter retention period than that provided for in the declaration, the request for an opinion or the request for authorisation;
+             authorize the
+
+             storage beyond the duration provided for in the declaration, the request for an opinion or the request for authorization.
+
+
+
+     Section IV - List of treatments
+
+     Section 10
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     The processing directory includes:
+
+          1°) the date of the declaration, the request for an opinion or the request for authorization relating to the implementation of a
+             treatment ;
+
+          2°) the information given on the declaration, on the request for an opinion or on the request for authorization, with the exception of the
+             measures taken to ensure the security of the processing and information, as well as the name of the service or the the identity
+             of the persons in charge of its operation;
+          3°) the date of issue of the receipt for the declaration, the date of the notice or that of the authorisation; 4°) the dates
+          and wording of the changes made to the information referred to in point 2° above; 5°) the date of cancellation of the
+          processing and that, where applicable, of the cancellation of the registration.
+
+     The directory can be consulted by any natural or legal person.
+     The automated processing operations referred to in Article 11 are not registered in the directory
+
+
+     Chapter II - Personal information
+
+     Section I - Principles relating to the quality of personal information and
+     conditions of lawfulness of processing
+
+     Title replaced from April the law of December counting 1st 2009 n° 1.353 4 2008 by
+
+
+     Section 10-1
+     Created in April the law of December counting 1st 2009 n° 1.353 4 2008 by
+     Personal information must be:
+
+             collected and processed fairly and lawfully; collected
+             for a specific, explicit and legitimate purpose, and not further processed in a manner incompatible with that purpose; adequate,
+             relevant and not excessive in relation
+             to the purpose for which they are collected and for which they are further processed; accurate and, if necessary, updated; all
+             reasonable measures must be taken to ensure that
+             data which is inaccurate or incomplete, with regard to the purpose for which it was collected or for which it is further processed, is
+             erased or rectified;
+
+
+             kept in a form allowing the identification of the persons concerned for a period not exceeding that necessary to achieve the purpose for
+             which they are collected or for which they are subsequently processed.
+
+
+
+     The controller or his representative must ensure compliance with these provisions.
+
+
+
+     Section 10-2
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     Processing of personal information must be justified:
+
+             by the consent of the person(s) concerned, or; by compliance with a
+             legal obligation to which the controller or his representative is subject, or; for reasons of public interest, or; through the performance
+             of a contract or pre-contractual
+             measures with the data subject, or; by the achievement of a legitimate interest pursued by the controller or his
+             representative or by the recipient, provided that the interest or the fundamental rights and freedoms of the person concerned are
+             not disregarded.
+
+
+
+     Section 11
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     Can only be implemented by the judicial authorities and the administrative authorities, within the exclusive framework of the missions which
+     are legally conferred on them, the processing, automated or not, with or without biometric data:
+
+             of interest to public safety; relating to
+             offences, convictions or security measures;
+             having as their object the prevention, research, observation or prosecution of criminal offenses or the execution of criminal convictions
+             or security measures
+
+
+     Section 11-1
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     By way of derogation from the provisions of the previous article, data controllers other than judicial and administrative authorities may
+     implement automated processing of personal information:
+
+             relating to suspicions of illicit activities, offences, security measures; containing biometric data
+             necessary to verify the identity of individuals;
+             implemented for monitoring purposes.
+
+
+     Said processing can however only be implemented with the prior authorization of the commission for the control of personal information when
+     it is necessary for the pursuit of an essential legitimate objective and that the rights and freedoms mentioned in article 1 of the persons
+     concerned are respected.
+     The nominative information control commission makes a decision within two months of receipt of the complete file. This period may
+     be renewed once for an identical period on the reasoned decision of the president.
+
+
+     The authorization requested from the commission, which is not returned at the end of the period provided for in the preceding
+     paragraph, renewed if necessary, is deemed favorable.
+
+
+     Section 12
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     No one may carry out processing, whether automated or not, revealing, directly or indirectly, opinions or political, racial or ethnic, religious,
+     philosophical or trade union affiliations, or even data relating to health, including data genetics, sexual life, mores, measures of a
+     social nature.
+
+
+     The provisions of the first paragraph do not apply in the following cases: when the person
+     concerned has freely given his written and express consent, in particular within the framework of law n° 1.265 of December 23, 2002 relating
+     to the protection of persons in the biomedical research, except where the law provides that the prohibition referred to in the first paragraph
+     cannot be lifted with the consent of the person concerned.
+     The latter may, at any time, revoke its consent and request that the person responsible or the user of the processing destroy or erase
+     the information concerning it;
+
+             when a reason of public interest justifies it, to the processing referred to in Article 7, the implementation of which is decided by the
+             competent authorities or bodies after a reasoned opinion from the commission for the control of personal information;
+
+
+             when the processing concerns the members of an ecclesial institution or of a political, religious, philosophical,
+             humanitarian or trade union group, within the framework of the statutory or social object of the institution or group and
+             for the needs of its operation, provided that the processing relates only to the members of this body or to persons having
+             regular contact with it related to its purpose and that the information is not communicated to third parties without the consent of
+             the persons concerned;
+
+
+             where the processing is necessary for the purposes of preventive medicine, medical diagnosis, the administration
+             of care, medication or the management of health and social welfare services, or in the interest of research and that the
+             processing of this data is carried out by a health practitioner subject to professional secrecy or by another person also subject
+             to an obligation of secrecy; when the processing relates to information clearly made public by the data
+             subject; when the processing is necessary for the establishment, exercise or defense of legal claims or meets a legal
+             obligation.
+
+
+
+     Section 13
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     Every natural person has the right:
+
+             to object, for legitimate reasons, to the processing of personal information concerning them , except in the case where it is
+             implemented, within the exclusive framework of their missions of general interest, by the data controllers referred to in Article
+             7; to access, under the conditions provided for in section II,
+             the information concerning it, and to obtain that it be modified if necessary.
+
+
+     Unless otherwise provided by law, the ascendant, the descendant up to the second degree, or the surviving spouse of a deceased
+     person, may, if he proves an interest, exercise the rights provided for in the preceding paragraph, with regard to information
+     about that person.
+     Any legal person has the right:
+
+             to object, for legitimate reasons, to the processing of personal information concerning it, or to object, with the agreement of its
+             members, to the processing of personal information concerning them. the purpose of the processing, except in the case where
+             it is implemented, within the exclusive framework of their missions of general interest, by the data controllers referred to in
+             Article 7; to access, under the conditions provided for in section II, information
+             concerning it or, with the agreement of its members, to access personal information concerning them, and to obtain that it
+             be modified if there is place.
+
+
+     The provisions of this article do not apply to the processing referred to in article 11.
+
+
+     Section 14
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     Persons from whom personal information is collected must be informed:
+
+             the identity of the data controller and, where applicable, that of his representative in Monaco; the purpose of the
+             processing;
+             whether answers are mandatory or optional; the
+             consequences for them of a failure to respond; the identity of
+             the recipients or categories of recipients; their rights of opposition, access
+             and rectification with respect to information concerning them; their right to oppose the use on behalf of third
+             parties, or the communication to third parties of personal information concerning them for prospecting purposes, in particular
+             commercial.
+
+     When the personal information is not collected directly from the person concerned, the controller or his representative must
+     provide him with the information provided for in the previous paragraph, unless the information of the person concerned has
+     already been carried out, proves impossible, or involves disproportionate measures with regard to the interest of the
+     process or if the collection or communication of information is expressly provided for by legislative or regulatory provisions.
+
+
+     The provisions of this article do not apply to the processing referred to in article 11.
+
+     Section 14-1
+     Created in April the law of December counting 1st 2009 n° 1.353 4 2008 by
+
+     Everyone has the right not to be subject to a decision producing legal effects concerning them or affecting them significantly, taken
+     on the sole basis of automated processing of information intended to define their profile or to evaluate certain aspects of his personality.
+
+
+     A person may, however, be subject to a decision mentioned in the previous paragraph if this decision:
+
+             is taken in connection with the conclusion or execution of a contract, provided that the request for conclusion or execution of the
+             contract, introduced by the data subject, has been satisfied or that appropriate measures, such as the possibility of
+             presenting their point of view and having their request re-examined, guarantee the safeguard of their legitimate interest;
+             or is authorized by legal or regulatory provisions which
+             specify the measures guaranteeing the safeguard of the legitimate interest of the data subject.
+
+
+
+     Section 14-2
+     Created in April 2009 the law n ° 1.353 of December 4, 2008 count 1st by
+
+     The use of electronic communications networks with a view to storing information or accessing information stored in the terminal
+     equipment of a subscriber or user must be preceded by clear and complete information for the user. or the subscriber, on the
+     purpose of the processing and on the means at his disposal to oppose it.
+
+
+     Electronic communications networks are defined as transmission systems and, where applicable, switching or routing equipment
+     as well as other resources which allow the routing of signals by cable, by radio, by optical means or by other electromagnetic means.
+
+
+     It is prohibited to make access to a service available on an electronic communications network subject to the acceptance, by the
+     subscriber or user concerned, of the processing of information stored in his terminal equipment, unless the storage or technical access
+     are intended exclusively to carry out or facilitate the transmission of a communication by means of an electronic communications network, or
+     are strictly necessary for the provision of a service expressly requested by the subscriber or user.
+
+
+
+     Section 14-3
+     Created the law of August modified the law of December n° 1.383 2 2011 n° 1.482 17 2019 by; by
+
+     Except with the express consent of the person concerned, the personal information collected by trust service providers for the purposes
+     of issuing and storing certificates linked to electronic signatures must be collected directly from the person concerned and cannot
+     be processed only for the purposes for which they were collected.
+
+
+
+     Section II - Access to information
+
+     Section 15
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 amended by Law No. 1.454 of October 30, counting by; by 2017
+
+
+     Any person proving his identity can obtain from the controller or his representative:
+
+          1°) information relating at least to the purpose of the processing, the categories of information to which it relates and the recipients or
+             categories of recipients to whom the information is communicated;
+          2°) confirmation that information concerning it is, or is not, processed; 3°) communication
+          of this information in a written form, not coded and in conformity with the content of the
+              recordings; information concerning health may only be communicated by the data controller or his representative to the persons
+              to whom it may be communicated pursuant to the provisions of the legislation relating to consent and information in medical matters
+              and according to the methods that 'they foresee;.
+
+
+          4°) information on the automated reasoning leading to the decision referred to in Article 14-1.
+
+     Unless there are specific legislative provisions, the communication must be made within one month of receipt of the request. However, the
+     chairman of the nominative information control commission may, after receiving a favorable opinion from the latter, grant response times or
+     dispense with the obligation to respond to requests that are abusive by their number, their repetitive or systematic nature, the duly notified
+     person concerned.
+
+
+     Section 15-1
+     Created modified
+             in April the
+                        thelaw
+                             lawofn°December  modified the
+                                     1.503 of December  23,law of counting
+                                                             2020 by       1st 2009 n° 1.353 4 2008 n° 1.462 28 June 2018 by; by ;
+
+
+     The person concerned by nominative information contained in the processing operations mentioned in article 11 may submit a request to the
+     nominative information control commission to verify said information.
+
+     The chairman of the commission appoints the member having the status of magistrate or, in the event of his/her impediment, the member
+     proposed by the Council of State, to carry out all the verifications and to have the necessary modifications made, if necessary. . The latter may
+     be assisted by a duly commissioned and sworn official of the supervisory authority.
+
+
+     The chairman of the committee informs the person concerned that the verifications have been carried out. In agreement with the data controller
+     or his representative, he may bring to his attention any information whose communication does not jeopardize public security.
+
+
+     The person concerned by nominative information contained in the processing referred to in the second paragraph of article 25 of law n° 1.362
+     of August 3, 2009, as amended, may submit a request to the Commission for the Control of Nominative Information to verify said
+     information. . This request is examined under the conditions provided for in the second paragraph.
+
+
+     Personal information may be communicated to the applicant when the commission finds, in agreement with the Service d'Information et de
+     Contrôle sur les Circuits Financiers, and after consulting the controller, that their communication is not likely to call into question the purpose of
+     the processing of the fight against money laundering and the financing of terrorism or to reveal: - the existence of one of the declarations
+     provided for in articles 36, 40 to 42 and 53 of law n ° 1.362 of
+     August 3, 2009, modified ; - the action taken on one of the declarations referred to in the preceding indent; - requests for information or
+     documents, as well as any exchange of information provided for in Article 50 of Law No. 1.362 of
+     3 August 2009, as amended.
+
+
+     When the communication of personal information is likely to call into question the purpose of the processing, the commission, seized by the
+     applicant, informs him that the necessary checks have been carried out.
+
+
+     Section 15-2
+     Created on April 1, 2009 by law no. 1.353 of December4, 2008 counting by
+
+     The controller or his representative is required to take specific measures to:
+
+          1°) automatically complete or modify information that is incomplete or erroneous when he becomes aware of their incompleteness or
+             inaccuracy; 2°) automatically delete the information which
+          would have been obtained by fraudulent, unfair or illicit means,
+            when he becomes aware of these terms and conditions;
+          3°) delete the nominative form of the information at the end of the retention period set in the declaration, the request for an opinion or the
+             authorization request, or at the end of the period set by the commission, in accordance with l 9
+
+
+     Section 16
+     Amendedfrom April 1, 2009 to Law No. 1.353 of December4, 2008 counting by
+
+     The interested party may demand that the information concerning him or her be rectified, completed, clarified, updated or deleted
+     when it has proven to be inaccurate, incomplete, ambiguous, outdated or if its collection, recording, communication or storage is prohibited. .
+
+
+     At his request, a copy of the recording of the amended information is delivered to him free of charge.
+     If there has been communication to recipients, the modified information or its deletion must be notified to them, unless dispensation has
+     been granted by the chairman of the commission for the control of personal information.
+
+
+     Section III - Security and confidentiality of processing
+
+     Section 17
+     
+     The controller or his representative is required to provide appropriate technical and organizational measures to protect personal
+     information against accidental or unlawful destruction, accidental loss, alteration, dissemination or unauthorized access, in
+     particular when the processing includes transmissions of information in a network, as well as against any other form of unlawful
+     processing.
+     The measures implemented must ensure an adequate level of security with regard to the risks presented by the processing and the
+     nature of the data to be protected.
+     When the data controller or his representative uses the services of one or more service providers, he must ensure that the latter are able
+     to meet the obligations prescribed in the two preceding paragraphs.
+     The carrying out of processing by a service provider must be governed by a written contract between the service provider and the controller
+     or his representative which stipulates in particular that the service provider and the members of his staff act only on the sole instruction of the
+     controller or of his representative and that the obligations referred to in the first two paragraphs of this article are also incumbent on him.
+
+
+     If the service provider wishes to use the services of one or more subcontractors for the performance of all or part of the services provided for
+     in the aforementioned contract, the provisions of the preceding paragraph apply to the latter.
+
+
+     Section 17-1
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     When processing is carried out pursuant to Articles 11 and 11-1, the processing manager also takes special technical and organizational
+     measures intended to guarantee data protection. The list of measures likely to be taken to this end is set by sovereign order.
+
+
+     These measures tend in particular to determine by name the list of authorized persons who alone have access, for the strict purposes of
+     carrying out their missions, to the premises and installations used for processing, as well as to the information processed.
+
+
+     The controller also ensures that the recipients to whom the processed information is transmitted can be clearly identified.
+
+     Chapter III - Control of the regularity of processing
+     Title replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counted by
+
+
+     Section 18
+ 
+
+     The Commission for the Control of Personal Information carries out the verifications and investigations necessary for the control of the
+     implementation of the processing either by its members, or by agents of its secretariat, or by investigators appointed by the President on a
+     proposal from the Commission and subject to the obligations prescribed in Article 5-1. Agents and investigators are commissioned and
+     sworn for this purpose.
+     The agents or investigators mentioned in the preceding paragraph must be in possession of a mission letter from the President of the Personal
+     Information Control Commission expressly specifying the name and address of the natural or legal person concerned, as well as the purpose
+     of the the mission.
+     Control operations can only be carried out between 6 a.m. and 9 p.m. or, outside these hours, when public access is authorized or
+     when an activity is in progress.
+     During the said operations, the agents or the investigators can carry out all the necessary checks, consult any processing, request
+     communication, whatever the medium, or take a copy, by any means, or of any professional document and collect, from any competent
+     person, the information relevant to their mission. They can access computer programs and information and request their transcription, by any
+     appropriate processing, into documents that can be used directly for control purposes.
+
+
+     However, only a doctor designated by the Chairman of the Commission for the Control of Nominative Information from among the doctors
+     appearing on a list drawn up by the Council of the Order of Physicians of Monaco and containing at least five names can request the
+     communication of medical information. included in a treatment necessary for the purposes of preventive medicine, medical research, medical
+     diagnosis, the administration of care or treatment or the management of health services, and which is implemented by a member of a health
+     profession. The doctor thus appointed transmits to the Commission for the Control of Nominative Information only the information necessary
+     for the purposes of the control without mentioning, in any way, the individual medical information to which he had access.
+
+
+
+     As part of the Commission's monitoring mission, the people questioned are required to provide the information requested except
+     in cases where they are bound by professional secrecy as defined in Article 308 of the Penal Code.
+
+
+     Apart from on-the-spot checks and when summoned, the agents or investigators may make any useful findings; they may in
+     particular, from an online public communication service, consult the data freely accessible or made accessible, including by recklessness,
+     negligence or by the act of a third party, if necessary by accessing and maintaining in automated information processing systems the time
+     required for findings; they can transcribe the data by any appropriate processing into documents that can be used directly for control
+     purposes.
+
+
+     A report is drawn up of the findings, verifications and visits carried out pursuant to this article. This report is drawn up contradictorily when the
+     checks and visits are carried out on the spot or on invitation.
+
+
+     Section 18-1
+     Created the law of December n° 1.420 1st 2015 by
+
+     For the exercise of the missions mentioned in the preceding article, the said agents or investigators may, after having informed the person
+     in charge of the private professional premises or his representative of his right of opposition, access the places, premises, enclosures,
+     installations or establishments serving to the implementation of the processing of personal information and which are for professional
+     use, excluding the parts thereof assigned to the private home. The operations take place in the presence of the person in charge of the
+     premises or his representative.
+     When the right of opposition is exercised, the operations can only take place after the authorization of the President of the Court of First
+     Instance, seized on request by the President of the Commission. The President of the Court rules taking into account in particular the reason
+     or absence of reason justifying the opposition.
+     The provisions of point 3° of article 22 are not applicable to the exercise of said right of opposition.
+     However, when the urgency or an imminent risk of destruction or disappearance of items or documents justifies it, the operations
+     mentioned in the first paragraph may take place without the person in charge of the premises or his representative being able to oppose
+     the control operations. In this case, any interested person adversely affected by the said operations may ask the President of the Court of
+     First Instance, seized and ruling as in the matter of summary proceedings, to declare the nullity of these operations and of the evidence
+     gathered during them, which will have to be destroyed.
+
+
+     Section 18-2
+     Created December the law n° 1.420 of 1st 2015 by
+
+     When there are reasons to suspect that the implementation of the processing does not comply with the provisions of this law, the said agents or
+     investigators may, with the prior authorization of the President of the Court of First Instance, seized by the President of the Nominative
+     Information Control Commission, and ruling by order on request, gain access to the premises.
+
+
+     The request sets out the elements of fact and law likely to justify the said operations and to enable the President of the Court of First Instance
+     to assess their merits.
+     The order authorizing the operations is enforceable at the sole sight of the minute. It may be the subject of the appeal mentioned in
+     article 852 of the Code of Civil Procedure within eight days of the control. This appeal is not suspensive.
+
+
+     When granted, the President of the Court of First Instance may declare the nullity of these operations and of the evidence gathered during
+     them, which must be destroyed.
+     All of these operations take place in the presence of the person in charge of the premises or his representative or, in the event of
+     impediment or impossibility, of at least one witness, required for this purpose by the persons referred to in the first paragraph of Article 18 and
+     not being placed under their authority.
+
+
+     Section 19
+     Replaced on April 1, 2009 by Law No. 1.353 of December4, 2008 countingby; December 2015 replaced Law No. 1.420 of the 1st by
+
+
+     When irregularities are detected against a data controller, the President of the Personal Information Control Commission has one of its
+     members draw up a report which is notified to the data controller. The latter may, within one month of this notification, make observations to the
+     Chairman.
+
+
+     At the end of this adversarial procedure, the President of the Personal Information Control Commission may decide to send a warning to
+     the controller. He may also send him a formal notice to put an end to the irregularities or to remove their effects.
+
+
+     Irregularities constituting criminal offenses are immediately reported to the Attorney General.
+     If the formal notice remains unsuccessful at the end of the period it has set, the President of the Commission may, after having previously
+     invited the data controller to provide him with explanations within a further period of one month, issue an injunction to end the treatment or
+     eliminate its effects. At the end of this period, if the injunction has not been acted upon, the President of the Commission may ask the President
+     of the Court of  first instance, seized and ruling as in summary proceedings, whether it orders the cessation of treatment or
+    that it orders the cessation of the processing or to remove its effects, without
+     prejudice to the penal sanctions incurred or the requests for compensation from the persons concerned who have suffered damage. The
+     decision may be accompanied by a penalty payment.
+     The decisions taken by the President of the Commission in application of this article must be substantiated.
+     The provisions of the fourth paragraph do not apply to legal persons governed by public law for which the President of the Commission
+     may require the Minister of State to take all necessary measures to put an end to the irregularities observed or to their effects be removed.
+     With regard to the administrative authorities not coming under the Minister of State, the latter refers the matter to the competent
+     administrative bodies for the same purposes and may, in the event that the appropriate measures are not taken, proceed to do so ex officio
+     in compliance with the provisions of Article 6 of the Constitution.
+
+
+     The Chairman of the Personal Information Control Commission may decide to publish the decisions he takes pursuant to this article.
+     Publicity measures may, in the event of serious and disproportionate harm to public security, to respect for private and family life or
+     to the legitimate interests of the persons concerned, be the subject of an appeal before the President of the Court of First instance, seized
+     and ruling as in summary proceedings, for the purpose of ordering the deletion of the publication.
+
+
+
+
+     Chapter III bis - Transfer of personal information
+     Chapter created on April 1, 2009 by Law No. 1.353 of December4, 2008 counting by
+
+
+     Rule 20
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     The transfer of personal information outside the Principality can only take place provided that the country or organization to which
+     the transfer takes place has an adequate level of protection.
+     The adequacy of the level of protection offered by the third country must be assessed with regard to all the circumstances
+     relating to a transfer of personal information, in particular the nature of the information, the purpose, the duration of the processing(s)
+     envisaged, the rules of law in force in the country in question as well as the professional rules and safety measures which are
+     respected there.
+     Without prejudice to the preceding provisions, the commission for the control of personal information makes available to any
+     interested party the list of countries having, within the meaning of the preceding paragraph, an adequate level of protection.
+
+
+     Section 20-1
+     Created in April 2009 the law n ° 1.353 of December 4, 2008 count 1st by
+
+     The transfer of personal information to a country or an organization which does not ensure, within the meaning of the second paragraph
+     of Article 20, an adequate level of protection may however take place if the person to whom the information relates has consented
+     to their transfer or if the transfer is necessary:
+
+             to safeguard that person's life; safeguarding the
+             public interest; compliance with
+             obligations to ensure the establishment, exercise or defense of a legal right; the consultation, under regular conditions, of a
+             public register which, by virtue of legislative or regulatory provisions, is intended for the information of the public and is open to
+             consultation by the latter or by any person justifying a legitimate interest; the performance of a contract between the data
+             controller or his representative and the data
+             subject, or of pre-contractual measures taken at the latter's request; the conclusion or performance of a contract concluded or to
+             be concluded, in the interest of the data subject, between
+             the controller or his representative and a third party.
+
+
+     Without prejudice to the provisions of the preceding paragraph, the control commission may authorize, on the basis of a duly
+     substantiated request, a transfer of personal information to a country or an organization that does not ensure an adequate level of
+     protection within the meaning of the second paragraph of Article 20, when the data controller, or his representative, as well as the
+     recipient of the information offer sufficient guarantees to ensure compliance with the protection of the freedoms and rights mentioned in
+     Article 1. These guarantees may in particular result from appropriate contractual clauses.
+
+     The data controller is required to comply with the decision of the commission.
+
+
+     Chapter IV - Penalties
+     Section 21
+     Replaced from April the law of December from 1st 2009 n° 1.353 4 2008 by
+     Are punished by imprisonment of one to six months and the fine provided for in number 3 of article 26 of the penal code or one of
+     these two penalties only:
+
+          1°) those who implement or attempt to implement automated processing of personal information or who pursue or attempt to
+             pursue the implementation of this processing without having carried out the prior formalities or obtained the
+             authorizations provided for in Articles 6, 7, 7-1 and 11-1;
+          2°) those who, except for the derogations provided for by law, voluntarily abstain from communicating to an interested person the
+             personal information concerning him, from modifying or deleting that of this information which has proved to be inaccurate,
+             incomplete, ambiguous or collected in violation of the law;
+          3°) those who, as a result of imprudence or negligence, do not preserve or cause to be preserved the security of personal
+             information or disclose or allow to be disclosed information having the effect of damaging the reputation of a person or his
+             private or family life;
+          4°) those who keep personal information beyond the period indicated in the declaration, the request
+             of opinion or the request for authorization or the deadline set by the commission for the control of personal information;
+          5°) those who, except in the cases provided for in Articles 20 and 20-1, transfer or cause to be transferred information
+             personal data to countries or organizations that do not have adequate protection;
+          6°) those who, in disregard of article 14, collect personal information without the person
+             concerned has been informed, unless informing this person proves impossible or involves disproportionate efforts, or if the
+             collection or communication of information is expressly provided for by the applicable legislative or regulatory provisions;
+             7°) those who disregard the provisions of article 14-2.
+
+
+
+     Section 22
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     Are punished by imprisonment from three months to one year and the fine provided for in number 4 of article 26 of the Penal Code
+     or one of these two penalties only:
+
+          1°) those who, except for the derogations provided for by law, collect or cause to be collected, record or cause to be recorded,
+             keep or cause to be kept, use or cause to be used personal information reserved for certain authorities, establishments,
+             organizations and natural persons or information likely to reveal political, racial or ethnic, religious, philosophical or
+             trade union opinions or affiliations or relating to health, including genetic data, sex life, mores or measures of a social nature;
+
+
+
+          2°) those who collect or cause to be collected personal information by employing or having employed
+             fraudulent, unfair or unlawful means;
+          3°) those who voluntarily prevent or hinder the investigations carried out for the application of the law or do not
+             not provide the requested information or documents;
+          4°) those who knowingly communicate or cause to be communicated inaccurate information or documents either to
+             interested persons or those responsible for carrying out the necessary investigations;
+          5°) those who collect or cause to be collected, record or cause to be recorded, keep or cause to be kept, use or cause to be
+             used personal information despite the opposition of the person concerned, except in the cases provided for by law;
+
+
+          6°) those who, with the exception of the competent authorities, knowingly collect or cause to be collected, record or cause to
+             be recorded, keep or cause to be kept, use or cause to be used personal information with or without biometric data
+             concerning offences, convictions or security measures or whose purpose is the prevention, investigation, observation or
+             prosecution of criminal offenses or the execution of criminal convictions or security measures; 
+
+7°) those who knowingly
+             collect or cause to be collected, record or cause to be
+          recorded, keep or cause to be kept, use or cause to be used personal information relating to suspicions of illicit activities, offences,
+             security measures or containing data biometrics necessary to check the identity of persons or intended for surveillance purposes
+             without having obtained the authorization provided for in Article 11-1; 
+8°) those who knowingly communicate to persons
+             not qualified to receive information the disclosure of which may harm the reputation of a natural person or his private
+          and family life;
+
+          9°) those who knowingly use or cause to be used personal information for a purpose other than that mentioned in the declaration,
+             the request for an opinion or the request for authorization
+
+
+     Section 23
+     Modified from April 2009 to Law No. 1.353 of December 4, 2008 counting 1st by
+
+     Any conviction pronounced pursuant to the two previous articles entails, as of right, the cessation of the effects of the declaration or
+     authorization and the removal from the directory of automated processing.
+     The court may, in addition, order the confiscation and destruction, without compensation, of the supports of the incriminated personal
+     information and prohibit the re-registration in the directory for a period which may not exceed three years nor be less than six months.
+
+
+     He may also order that the legal person under private law be held jointly and severally with its statutory representative to pay the fine
+     imposed on the latter.
+
+
+     Rule 23-1
+     Created in April the law of December counting 1st 2009 n° 1.353 4 2008 by
+
+     No interconnection can be made between the criminal record and any other file or processing of personal information held by any person or
+     by a service not dependent on the direction of the judicial services.
+
+
+
+
+     Chapter V - Scope
+     Title replaced on April 1, 2009 by Law No. 1.353 of December4, 2008 counted by
+
+
+     Section 24
+     Replaced on April 1, 2009 by Law No. 1.353 of December 4, 2008 counting by
+     The provisions of this law are applicable to the automated processing of personal information:
+
+              implemented by a data controller established in Monaco; implemented in
+              Monaco, even if this processing is only intended for use abroad; whose controller is established abroad, but uses
+             processing facilities located in Monaco; in this case, the data controller must appoint a representative established in Monaco, who
+             makes the declaration, the request for an opinion or the request for authorization and who is responsible for the obligations
+             provided for by law, without prejudice to actions that could be brought against the data controller himself.
+
+
+     When the automated processing of personal information implemented abroad is only accessible for consultation in Monaco by automatic
+     means, their users in the Principality are subject to the provisions of this law, with the exception of those of sections III and IV of the
+     first chapter
+
+
+     Section 24-1
+     Created on April 1, 2009 by law no. 1.353 of December 4, 2008 counting by
+
+     The provisions of this law, with the exception of those of sections III and IV of chapter I, are applicable to the nominative information
+     contained or intended to appear in a non-automated or computerized file, namely in a structured set of nominative information accessible
+     according to specific criteria.
+
+
+     Rule 24-2
+     Created in April the law of December counting 1st 2009 n° 1.353 4 2008 by
+
+     The provisions of the law are not applicable:
+
+          1°) processing carried out within the framework of Article 15 of the Constitution; 2°) to the
+          processing implemented by the judicial authority for the purposes of the procedures carried out before the various jurisdictions as
+             well as the procedures for international legal assistance;
+          3°) automated processing and non-automated files of personal information implemented by a
+             natural person in the exclusive context of his personal or domestic activities
+
+
+     Section 25
+   
+     The provisions of Articles 12, 13, 14, 15, 15-2 and 16 as well as those of Chapter III do not apply bis to automated processing or to
+     non-automated or mechanical files of personal information implemented for the sole purpose of expressing literary and artistic, or
+     for the sole purpose of exercising the activity of journalist, in compliance with the applicable laws and ethical rules, insofar as these
+     exemptions and derogations are necessary to reconcile the right to privacy with the rules governing freedom of expression.
+
+
+     The provisions of the preceding paragraph do not preclude the application of the laws relating to the written or audiovisual
+     press which provide for the conditions for exercising the right of reply and which prevent, limit, remedy and, if necessary, punish
+     violations of privacy and reputation of individuals
+
+
+     Section 25-1
+     Created in April 2009 the law n ° 1.353 of December4, 2008 count 1st by
+     The terms of application of this law are set by sovereign order.
+
+
+     Rule 26
+     Replaced from April 2009 the law n° 1.353 of December 2008 counting 1st 4 by
+     The authorizations issued by the Commission for the Control of Personal Information under Articles 9, 11-1 and 20-1 may, in order to
+     ensure the interests protected by this law, be subject to specific conditions.
+     They may be withdrawn when the beneficiary infringes the provisions of the said law or the texts adopted for its application,
+     exceeds the limits of the authorization issued to him or disregards the conditions mentioned therein.
+     Prior to any decision, the person concerned is heard in his explanations or duly called upon to provide them.
