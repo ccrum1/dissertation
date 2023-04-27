@@ -23,7 +23,7 @@
 > corpus <- tm_map(corpus, removeNumbers)
 > corpus <- tm_map(corpus, removeWords, stopwords("english"))
 
-# progressively run through the cleaned corpus ([[1]], [[2]] etc.) to save content for each text as a .txt file with the proper naming convention
+#progressively run through the cleaned corpus ([[1]], [[2]] etc.) to save content for each text as a .txt file with the proper naming convention
 #if anyone has thoughts on automating this, I am all ears 
 > content_text <- corpus[[1]]$content
 > file_name <- "Leg-Country_year.txt"
