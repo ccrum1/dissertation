@@ -76,7 +76,7 @@
 + cexRow = 0.6,
 + cexCol = 0.6)
 
-## Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
+#Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
 
 #OPTION2 (short version with pre-cleaned texts)
 #load the required packages 
@@ -126,4 +126,4 @@
 + cexRow = 0.6,
 + cexCol = 0.6)
 
-## Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
+#Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
