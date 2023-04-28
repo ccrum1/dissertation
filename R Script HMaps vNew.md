@@ -1,8 +1,8 @@
-#this workflow has two options; option 2 is shorter but requires manual cleaning
+#this workflow has two options; option 1 is quicker but option 2 allows manual cleaning
 
 #OPTION1
 #batch convert PDF to .txt using "pdftools" package
-#this step makes workflow much faster but eliminates control by eliminating the possibility for manual cleaning of the .txt file
+#this step makes workflow much faster but eliminates control by eliminating manual cleaning of the .txt file
 
 > library(pdftools)
 > library(tm)
@@ -23,7 +23,7 @@
 > corpus <- tm_map(corpus, removeNumbers)
 > corpus <- tm_map(corpus, removeWords, stopwords("english"))
 
-# using the for function to loop through the object, corpus, and extract content and then iteratively use the writeLines function to save the content as a plaint text file 
+#use the for function to loop through the object "corpus," extract content and then iteratively use the writeLines function to save the content as a plaint text file 
 > for (i in seq_along(corpus)) {
 +     content_text <- corpus[[i]]$content
 +     file_name <- paste0("Leg-Country_year", i, ".txt")
@@ -77,7 +77,7 @@
 + cexRow = 0.6,
 + cexCol = 0.6)
 
-## Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
+##Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
 
 #OPTION2 (short version with pre-cleaned texts)
 #load the required packages 
@@ -127,4 +127,4 @@
 + cexRow = 0.6,
 + cexCol = 0.6)
 
-## Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
+##Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
