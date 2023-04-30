@@ -128,4 +128,4 @@
 + cexCol = 0.6)
 
 ##Rowv and Colv can be changed to TRUE if hierarchical ordering by similarity is desired
-##In all cases, it is a good idea to maximize your plot window in R in order to show all bits
+##In all cases, it is a good idea to maximize your plot window in R in order to show all pixels
