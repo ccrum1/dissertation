@@ -48,7 +48,7 @@
 + leg_year <- c(leg_year,year)
 + }
 
-#use Cbind function to add metadata to legislative_texts
+#use cbind function to add metadata to legislative_texts
 > legtext <- cbind(legtext,leg_country)
 > legtext <- cbind(legtext,leg_year)
 
@@ -102,6 +102,7 @@
 + year <- as.numeric(strsplit(leg_name,"_")[[1]][2]) 
 + leg_year <- c(leg_year,year)
 + }
+
 #use cbind function to add metadata to legtext object
 > legtext <- cbind(legtext,leg_country)
 > legtext <- cbind(legtext,leg_year)
