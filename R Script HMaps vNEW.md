@@ -102,9 +102,10 @@
 + year <- as.numeric(strsplit(leg_name,"_")[[1]][2]) 
 + leg_year <- c(leg_year,year)
 + }
+#use cbind function to add metadata to legtext object
 > legtext <- cbind(legtext,leg_country)
 > legtext <- cbind(legtext,leg_year)
-> legtext <- legtext[order(legtext$leg_year),]
+
 
 #check your values to make sure symmetrical and correct
 > show(leg_year)
