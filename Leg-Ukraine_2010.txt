@@ -1,0 +1,493 @@
+                                               law  ukraine
+                                    protection  personal data
+            scope  law
+           law shall regulate legal relations involving protection  processing  personal data
+ aim  protect  fundamental rights  freedoms  natural persons particularly  right 
+privacy  relation   processing  personal data
+          law shall apply  personal data processing activities performed fully  partially 
+ use  automated means  well  processing  personal data stored   file folder 
+assigned   included     use  nonautomated means
+          law shall  apply  data processing activities performed   natural person solely 
+personal  domestic needs
+          provisions   law shall  apply  data processing activities performed   creative
+ literature professional particularly  journalist  professional purposes provided  
+appropriate balance  ensured   right  privacy   right  freedom  expression
+           term definitions
+            law following terms shall   meaning hereunder assigned  
+           base  personal data shall mean  named aggregate  organized personal data 
+electronic form andor   form   filing system
+          controller  personal data shall mean  natural  legal entity   obtained  right 
+processing   data according   law    consent   personal data subject 
+approves  purpose   processing  personal data   base  personal data establishes 
+content   data   procedures   processing  case   prescribed  legislation
+          state register   base  personal data   joint state informational system 
+accumulation collection  processing  information concerning  registered personal base 
+personal data
+          personal data subjects consent shall mean  voluntary declaration  will   natural
+person provided heshe   properly informed  grant permission  process hisher personal
+data  accordance   purpose  processing stated  writing     form  allows 
+conclude   permission   granted
+          depersonalization  personal data shall mean withdrawal  information  allows directly
+ indirectly identifying  person
+          filing system shall mean  structured set  personal data   accessible according
+ specific criteria whether centralized decentralized  dispersed   functional  geographical
+basis
+          processing  personal data hereinafter referred   processing shall mean 
+operation  set  operations   collection registration accumulation storage adaptation
+alteration updating use  dissemination distribution sale transfer depersonalization 
+destruction  personal data  may involve  use  information automated systems
+          recipient shall mean  natural  legal person including  third party   personal
+data  disclosed
+
+           personal data shall mean information  aggregate information   natural person 
+ identified  may  identified
+           processor  personal data shall mean  natural person  legal entity  obtained 
+right  process  data  behalf   controller  personal data  according   law
+           subject  personal data shall mean natural person whose personal data  preceded 
+legislation
+           third person shall mean  person except subject  personal data controller  processor
+ personal data  authorizes state body  personal data protection   controller 
+processor  personal data transfers  data according  legislation
+            legislation  protection  personal data
+          legislation  protection  personal data consists   constitution  ukraine  law 
+laws  ukraine  information  protection  information  informational 
+telecommunication systems  laws  normative  legal acts international treaties 
+ukraine   approved  binding   verkhovna rada  ukraine
+            subjects  relations connected  personal data
+   subjects  relations connected  personal data   following
+ personal data subject
+ controller  personal data
+ processor  personal data
+ third person
+ authorized state body  matters  personal data protection
+  state undertakings public utilities  private companies bodies  state  local power private
+entrepreneurs  process personal data  accordance  legislation may  entitled  
+controllers  processors  personal data
+   processor  personal data   owned   state power body   local selfgovernment
+body may   legal entity  acts   sphere  administration   body
+  personal data controller may authorize personal data processor  process personal data 
+accordance   contract executed  writing
+  personal data processor may process personal data solely   purpose    extent
+established   contract
+            objects  protection
+  objects  protection  personal data
+  personal data except depersonalized one   data  restricted access
+             general requirements  regard  personal data processing
+
+            purpose  processing  personal data must  clearly formulated  legal  
+normative acts regulations constitutive   documents  regulate activity   controller 
+personal data  conform  legislation  personal data protection
+         personal data shall  processed   open  transparent manner using  means 
+methods   adequate   established purposes   processing
+          case  purpose  processing  personal data  changed  subject   personal
+data shall give new permission  processing   personal data according   new purpose 
+case   new purpose  processing  incompatible   previous one
+          personal data shall  accurate authentic  updated  necessary   stated
+purpose   processing
+           composition  content  personal data shall  relevant adequate  non
+excessive  regard   purpose   processing
+          primary sources  information   natural person shall   documents issued  
+persons name documents signed   person information   person provides 
+himselfherself
+           processing  personal data shall  conducted  concrete  legal purposes
+determined   consent  subject  personal data   certain cases prescribed  law
+           processing  data   natural person shall  prohibited without  persons
+consent except   cases stipulated   law     interests  national safety
+economic welfare  human rights
+             moment   possible  obtain  consent   subject  personal data  may
+ proceeded without consent    subject  case   necessary  protect hisher vital interests
+           personal data shall  processed   form  permits identification   natural person
+  concern within  term      necessary according   legal purpose
+           personal data may  processed  historical statistical  scientific purposes  
+condition  adequate level   protection  ensured
+           standard procedure  processing personal data stored  bases  personal data shall
+ adopted   central executive agency responsible  development   governments personal
+data protection policy
+          order  processing  personal data   sphere  operation   deposit guarantee
+system  approved  deposit guarantee fund
+           particular requirements  regard  processing  personal data
+            processing  personal data shall  prohibited   data   racial  ethnic
+origin political views religious   convictions membership  political parties  trade unions
+criminal charges  convictions  well  data  regard  health  sexual life
+           provisions  part one    shall  apply  processing  personal data
+            implemented  case  personal data subject gives  welldefined consent  process
+ data
+
+           necessary  performance  duties   controller   sphere  labor relations
+according   law  case    adequate level  protection  ensured
+            necessary  protection   vital interests   personal data subject   
+person  case  incapability  limitation  civil capability   personal data subject
+            carried   adequate protection safeguards  religious  civil organization 
+religious orientation  political party  trade union created according  national legislation  case
+ processing concerns  personal data  members   associations  persons   
+constant touch    regard   nature   activity   personal data  
+transferred   third party without consent  personal data subjects
+            necessary  substantiation satisfaction  protection  legal claim
+            necessary   purposes  health protection medical diagnosis provision  care
+medical treatment  services provided   data  processed   health professional  another
+employee   health care institution responsible  personal data protection     laws
+ medical confidentiality apply
+           concerns accusations  crimes court sentences implementation   authorities  
+state body  defined   law  regard  execution  tasks  operational  search 
+counterintelligence activity antiterrorism
+           concerns  data   disclosed   personal data subject
+             rights  personal data subject
+           personal nonproperty rights  personal data   natural person  shall 
+integral  inviolable
+           personal data subject shall   right 
+           know   location  base  personal data  contains hisher personal data 
+purpose  name location andor place  residence staying   controller  processor  
+personal data   issue  respective proxy   authorized persons except  cases established
+  law
+           receive  information concerning  conditions  access  personal data  particular
+information  third persons  obtain hisher personal data
+           access hisher personal data
+           receive  response  regard  whether hisher personal data  stored   respective
+base  personal data  well   receive  content  hisher personal data hich  stored 
+ base  personal data  longer    days period   moment  request  
+received  case   prescribed  law
+           submit motivated requests   personal data controller objecting  processing hisher
+personal data
+           provide  motivated request  regard  change  destruction  hisher personal data
+  controller  processor   personal data   data  processed illegally  
+inaccurate
+
+          protect  hisher personal data  illegal processing  accidental loss destruction
+damage due   deliberate concealing failure  provide   provision   data  delay
+ well   protection  provision  information   inaccurate   disgraceful  
+honor dignity  business reputation   natural person
+          lodge complaints regarding  processing  hisher personal data  government
+agencies  officials responsible  personal data protection  directly   court
+          apply measures  legal protection  case  violation  legislation  protection 
+personal data
+           granting consent make reservations  restrict  right  process hisher personal
+data
+          withdraw consent  personal data processing
+           informed   procedure  automated processing  personal data
+                safeguarded   automated decision  legal implications  
+person
+         disposal  personal data   natural person   restricted civil capacity  
+adjudged incapable shall  performed   persons legal representative
+           registration  bases  personal data
+            base  personal data shall  registered  obligatory order  entering 
+appropriate information   state register   bases  personal data  authorized state
+body  personal data protection
+         regulation  state register   bases  personal data shall  adopted  
+cabinet  ministers  ukraine
+          registration   bases  personal data shall  performed   principle  filing
+         personal data controller shall  relieved   duty  register  following bases 
+personal data
+        databases used  supporting  managing labor relations
+        membership databases  nongovernmental  religious organizations trade unions
+         political parties
+          controller  personal data shall submit  application  registration   base 
+personal data   authorized state body  personal data protection
+         application shall contain
+    <U+F02D>     appeal  enlisting   base  personal data   state register   bases 
+        personal data
+
+     <U+F02D>     information concerning  controller  personal data
+     <U+F02D>     information concerning  name  location   base  personal data
+     <U+F02D>     information concerning  purpose  processing  personal data formulated  accordance
+           articles      law
+     <U+F02D>     information  composition  personal data  processed
+     <U+F02D>     information   third parties   personal data  transferred
+     <U+F02D>     information  cross border transfers  personal data
+     <U+F02D>     information concerning  processors  personal data
+     <U+F02D>      confirmation   obligation  execution   requirements  protection  personal
+          data laid    legislation  protection  personal data
+            authorized state body  protection  personal data  order established   cabinet
+ ministers  ukraine shall
+           make  decision concerning  registration   base  personal data within thirty days
+period
+          controller  personal data shall receive  appropriate document confirming registration 
+ base  personal data   state register
+            authorized state body  protection  personal data may refuse  registration  
+base  personal data  case  application   meet  requirements   point   
+
+            use  personal data
+           use  personal data means  actions   controller   personal data  regard 
+processing   data  protection  provision  partial  full right  process  personal
+data   subjects  relations related  personal data   performed according  
+consent   personal data subject  according   law
+             use  personal data   controller  personal data shall  performed  case
+heshe fulfils  conditions  protection   data  controller   personal data shall 
+disclose information   personal data subjects whose personal data  accessed  
+subjects  relations related   data
+              use  personal data   employees   subjects  relations related  personal
+data shall  performed  according   professional  official  labor duties 
+employees shall undertake  prevent disclosure  personal data   entrusted   
+became known   due  performance  official  labor duties   possible way 
+liability shall  valid  termination   activity related  personal data except  cases
+established   law
+              information   private life   natural person shall   used  factor 
+may confirm  disprove hisher business skills
+
+        grounds  processing  personal data
+           grounds  processing  personal data shall   following
+           personal data subjects consent  hisher personal data processing
+           permission  processing personal data granted   personal data controller 
+accordance   law solely   purpose  exercising hisher functions
+          conclusion  performance   legal contract    personal data subject   party
+   concluded  favor   personal data subject   perform actions leading  
+conclusion   legal contract   request   personal data subject
+          protection  vital interests   personal data subject
+          protection  legitimate interests  personal data controllers  third parties except  
+personal data subject requests  stop processing hisher personal data   need  protect
+personal data overrides  interests
+           collection  personal data
+          collection  personal data shall   element   process  provides  actions 
+select   arrange information   natural person
+             moment  personal data collection   cases stipulated    section 
+paragraphs    law  personal data subject shall within ten working days   day 
+collection  hisher personal data  informed   personal data controllers identity 
+composition  content   personal data collected  rights   data subject established 
+ law  purpose  data collection   persons   hisher personal data 
+transferred
+           accumulation  storage  personal data
+            accumulation  personal data shall provide actions  regard  unification 
+systematization  information   natural person   group  natural persons  placement 
+ data   base  personal data
+            storage  personal data shall provide actions  regard  ensuring  integrity 
+proper mode  access  
+           spreading  personal data
+           spreading  personal data shall provide actions  regard  transference  information
+  natural person   consent   personal data subject
+           spreading  personal data without  consent   personal data subject   person
+authorized  himher shall  permitted  cases determined   law    necessary 
+ interests  national safety economic welfare  human rights
+
+           execution  requirements  established protection mode  personal data shall 
+provided   party  spreads  data
+            party    personal data  transferred shall previously take measures 
+regard  execution   requirements   law
+           removal  destruction  personal data
+           personal data shall  deleted  destroyed according   procedure established 
+legislation
+          personal data shall  destroyed  following cases
+           termination  period  data storage determined   consent   personal data
+subject  processing   data  determined  law
+           termination  legal relationships   personal data subject   controller 
+processor   personal data unless otherwise stipulated   law
+           enforcement   court decision  regard  withdrawal  data   natural person
+           personal data collected  violations  requirements   law shall  destroyed
+according   procedure established   legislation
+           personal data collected  execution  tasks  operational  search activity 
+counterintelligence activity antiterrorism actions will  according   requirements   law
+           mode  access  personal data
+           access  personal data  third parties shall  determined   permission terms
+  base  personal data subject   controller   base  personal data  
+processing  data  according   access mode established   law
+           access  personal data  third parties shall   granted    party refuses 
+take liabilities  regard  provision   provide execution  requirements   law 
+unable  provide  execution   requirements
+            subject  relations related  personal data shall submit  inquiry  access 
+personal data hereinafter referred   inquiry   controller  processor  personal data
+           inquiry shall contain  following information
+           surname name  patronymic place  residence  information   identifying
+document   person  submits inquiry  natural personapplicant
+           name place  location   legal entity  submits  inquiry position surname name
+ patronymic   person  certifies  inquiry confirmation  conformity   content 
+inquiry   authorities  legal entity  legal entitiesapplicants
+           surname name  patronymic  well   data  enable identification   natural
+person    inquiry  submitted
+           information  personal data  regard    inquiry  made  information
+  controller  processor   personal data
+           list  personal data    required
+
+           purpose  andor legal grounds   inquiry
+            term  consideration   inquiry  regard   satisfaction shall  exceed ten
+days   day   received
+         within  term  controller  processor  personal data shall inform  person 
+submits  inquiry   inquiry shall  satisfied    respective personal data  
+subject  provision  notification   basis specified   respective normative  legal act
+           inquiry shall  satisfied within one calendar month unless otherwise stipulated  
+law
+           personal data subject shall  entitled  reception   information 
+himselfherself   subject  relations related  personal data provided  heshe presents
+ information specified  section  paragraph       prescribed  law
+           deferment  refusal  grant access  personal data
+           deferment  refusal  grant access  personal data shall   allowed
+          deferment  access  personal data  third parties shall  permitted  
+necessary data   provided within one month period   common period  providing 
+access  personal data  third parties shall  exeed  fourty five days term
+         notification  deferment shall  presented   third party  made  inquiry  writing
+ explanation   procedure  appeal   decision
+           notification  deferment  access shall contain  following
+           surname name  patronymic   official
+           date  sending
+           reason  deferment
+            term    inquiry shall  satisfied
+          refusal  grant access  personal data shall  allowed   access    prohibited
+according   law
+            notification  refusal shall contain  following
+           surname name  patronymic   official
+           date  sending
+           reason  refusal
+           appeal  decision  deferment  refusal  grant access 
+personal data
+
+            decision  postponement  refusal  access  personal data can  appealed 
+court
+            inquiry  made   personal data subject   case  liability  proving 
+lawfulness  deferment  refusal  grant access  personal data  court shall  imposed  
+controller   processor  personal data  received  particular inquiry
+           payment  access  personal data
+          access   personal data subject   data  himher shall  free  charge
+           access   subjects  relations connected  personal data  personal data  
+particular natural person   group  persons may reqiure payment   case  requires 
+conditions prescribed   law  work related  processing  personal data  well  
+work  regard  consulting  organization  access  respective data may  paid 
+           amount  payment  services  granting access  personal data   state power
+bodies shall  determined    cabinet  ministers  ukraine
+           state power bodies  local selfgovernment institutions shall  entitled  free
+access  personal data according  competence delegated  
+           changes  supplements  personal data
+           controllers  processors  personal data shall  binded  make changes 
+supplements  personal data   basis  reasoned written requirement   subject  personal
+data
+           changes  personal data shall also  permitted upon request   subjects 
+relations related  personal data   personal data subject gave hisher consent     
+respective change  made according   court decision  entered  legal force
+           changes  personal data  case   incorrect shall  performed immediately  
+incorrection  noticed
+           notification  actions  personal data
+            controller  personal data shall inform  personal data subject  transfer 
+personal data   third party within  days period    required   conditions   consent
+ unless otherwise established   law
+           abovementioned notifications shall   performed   following cases
+            transfer  personal data upon requests  execution  tasks  operational 
+investigative activities  counterintelligence activity  antiterrorist actions
+          performance  state power bodies   bodies  local selfgovernment  
+authorities stipulated   law 
+           processing  personal data  historical statistical  scientific purposes
+
+           controller  personal data shall inform  personal data subject   subjects 
+relations related  personal data   changes  supplements  restriction  access  
+data   transferred   subjects within ten days period
+           personal data subject  notified  accordance   requirements established 
+  section    law
+           control  observance  legislation  protection  personal data
+          control  ciomplience  legislation   sphere  protection  personal data shall
+within  competence  exercised   following bodies
+           authorized state power body  matters  personal data protection
+            state bodies
+          parliamentary control   observance  human rights  protection  personal data
+shall  exercised   ombudsman   verkhovna rada  ukraine  matters  human rights
+according   law
+           authorized state body  personal data protection
+           authorized government agency  personal data protection shall mean  central
+executive agency responsible  implementation   governments personal data protection policy
+          authorized government agency  personal data protection shall independently exercise
+ powers established   law
+           main powers   authorized state body  personal data protection shall
+           ensure  performance  state policy   sphere  personal data protection
+           registers  bases  personal data
+           maintains  state register   bases  personal data
+           controls  execution  legislation  matters  protection  personal data  means 
+onsite  distance inspection  personal data controllers andor processors  provision  access
+  premises  processing  personal data  performed according  legislation
+           issues  requests  illumination  violations   legislation  data protection 
+requests  obligatory  execution
+           considers propositions inquiries appeals claims  complaints  natural persons 
+legal entities
+           organizes  provides  interaction  subjects  foreign relations related  personal
+data issues
+           participates   international organizations  matters  personal data protection
+
+          inform personal data controllers  processors  well  personal data subjects  
+rights  responsibilities
+          monitor new practices trends  technologies used  personal data protection
+          issue recommendations  practical application   legislation  personal data
+protection
+          submit  accordance   legally established procedure proposals  
+development  personal data protection policy
+          approve  accordance    part    law corporate codes  ethics
+           head   authorized government agency  personal data protection  hisher
+deputies shall  appointed  accordance   legally established requirements
+          position charts  budgets   authorized government agency
+          personal data protection shall  approved   head  coordination   ministry 
+finance  ukraine
+          head   authorized government agency  personal data protection shall 
+accordance   established procedure decide upon  distribution  budget allocations
+managed   authorized government agency  personal data protection
+           report  completion  tasks  work plans   authorized government agency 
+personal data protection shall  made public published   official website  submitted  
+president  ukraine  cabinet  ministers  ukraine   verkhovna rada  ukraine
+           provision  protection  personal data
+           state guarantees protection  personal data
+           subjects  relations related  personal data shall undertake  provide protection 
+ data  unauthorized processing including  loss illegal  accidental destruction  well 
+ unauthorized access
+          provision  personal data protection  bases  personal data shall  performed  
+controller   personal data
+          state power bodies  bodies  local selfgovernment institutions  enterprises  
+property forms shall appoint  structural department   responsible person  organizes  work
+related  protection  personal data   processing
+            limitations  application  particular articles   law
+           limitations  rights stipulated  articles       law shall  implemented
+   interests 
+           national safety economic welfare  human rights
+           protection  rights  freedoms  natural persons whose personal data  
+processed  rights   subjects  relations related  personal data  well    purpose
+ anticriminal activity
+
+           provision  subjects  relations connected  personal data   drawn 
+depersonalized information  regard  personal data according  legislation
+          subjects  relations connected  personal data shall exercise  authorities within 
+frameworks established   constitution   laws  ukraine
+            financing  works  personal data protection
+         financing  works  measures  provide  protection  personal data shall 
+performed   expense   state budget  ukraine  local budgets funds   subjects 
+relations related  personal data
+           application  provisions   law
+          provisions  regard  protection  personal data specified   law may 
+supplemented  defined  clearly  special laws provided   establish requirements 
+regard  protection  personal data    contradict  requirements   law
+           professional associations can  approval   authorized government agency 
+personal data protection develop corporative codes  behavior   purpose  providing  
+efficiency  protection  rights  personal data subjects assistance  application  legislation 
+regard   matters taking  account  specifics  processing  data   natural person
+ different spheres
+            liability  violation  legislation  personal data protection
+          violation  legislation  personal data protection shall lead  liability established  
+law
+            international cooperation  transfer  personal data
+          cooperation  foreign subjects  relations related  personal data shall  regulated 
+ constitution  ukraine  law  normative  legal acts  international treaties 
+ukraine
+            international treaty  ukraine   made binding   verkhovna rada 
+ukraine establishes  regulations   stipulated  legislation  ukraine  regulations 
+ international treaty shall apply
+           personal data may  transferred  foreign parties  relation  personal data  
+cases stipulated  law   international treaty  ukraine   condition   adequate level
+ personal data protection  ensured   relevant foreign state
+         member states   european economic area  well  states signatory   council 
+europe convention   protection  individuals
+          regard  automatic processing  personal data
+         shall  assumed  ensure  adequate level  personal data protection
+          cabinet  ministers  ukraine shall compile  list   states  ensure  adequate
+level  personal data protection
+         personal data may   distributed   purpose    one
+              collected
+
+         personal data may also  transferred  foreign parties  relation  personal data 
+case   following
+          personal data subjects explicit consent   transfer
+          need  conclude  perform  legal agreement   personal data controller
+  third party    personal data subject   benefit   personal data subject
+          need  protect vital interests  personal data subjects
+          need  protect public interests  establish pursue  enforce  legal claim
+          personal data controller  provided  required guarantees  nonintrusion  
+private  family life   personal data subject
+          final provisions
+                                                   st
+          law shall enter  force    january 
+          normative  legal acts shall  valid   part    contradict  law 
+  brought  line   law
+           cabinet  ministers  ukraine within six months   day  enforcement  
+law shall   following
+          provide  adoption  normative  legal acts stipulated   law
+          provide  bringing   normative  legal acts  line   law
+          determine  authorized state power body  matters  personal data protection
+

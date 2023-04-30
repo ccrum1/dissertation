@@ -1,0 +1,1053 @@
+                         bangladesh national parliament
+                      dhaka  ashwin  october 
+       following act undertaken   parliament received approval  
+president   ashwin  corresponding   october   thus published
+  public 
+                                  act     year 
+       act prepared  provide legal recognition  security  information 
+               communication technology  rules  relevant subjects
+      since   plausible  necessary  provide legal recognition  security 
+information  communication technology  prepare rules  relevant subjects
+      thus hereby  following act   created
+                                                
+                                            preliminary
+       short title extent  commencement  act may  called  information 
+communication technology act 
+          shall extend   whole  bangladesh
+       definitions   act unless  context otherwise requires
+           digital signature means data   electronic form 
+                    related    electronic data directly  logically 
+                  b  able  satisfy  following conditions  validating  digital signature
+                        affixing   signatory uniquely
+                       ii capable  identify  signatory
+                       iii created  safe manner  using  means   sole control  
+                             signatory 
+                       iv related   attached data    manner   capable  identify
+                              alteration made   data thereafter
+           digital signature certificate means  certificate issued  section 
+           electronic means electrical digital magnetic wireless optical electromagnetic 
+                 technology  equivalent  capability
+           electronic data interchange means transferring data  one computer  another
+                computer electronically  following  standard   purpose  organizing
+                information
+           electronic form  reference  information means  information generated sent
+                received  stored  media magnetic optical computer memory microfilm computer
+                generated microfiche  similar device  technology
+           electronic gazette means  official gazette published   electronic form 
+                addition  official printed  published gazette
+           electronic record means data record  data generated image  sound stored
+                received  sent   electronic form  microfilm  computer generated microfiche
+           internet means   international computer network   users  computer
+                cellular phone    electronic system around  globe can communicate 
+
+     one another  interchange information  can browse  information presented 
+      websites
+ electronic mail means information generated electronically  transmitted using
+     internet
+   data means  representation  information knowledge facts concepts 
+       instructions    prepared    prepared   formalized manner
+         intended   processed   processed    processed  
+       computer system  computer network  may    form including computer
+       printouts magnetic  optical storage media punch cards punched tapes  stored
+       internally   memory   computer
+   data message means electronic electronic data interchange including optical
+       electronic mail telegram telex fax telecopy short message  created something
+       similar sent received  stored information
+   website means document  information stored  computer  web server 
+       can  browsed  seen   user  internet
+   computer means  electronic magnetic optical   highspeed data
+       processing device  system  performs logical arithmetical  memory
+       functions  manipulations  electronic magnetic  optical impulses  includes
+        input output processing storage computer software  communication facilities
+         connected  related   computer   computer system  computer
+       network
+   computer network means  interconnection  one   computers  
+       use  satellite microwave terrestrial line wireless equipment wide area network
+       local area network infrared wifi bluetooth   communication media 
+       terminals   complex consisting  two   interconnected computers whether
+          interconnection  continuously maintained
+   subscriber means  person  whose name  digital signature certificate 
+       issued
+   chairman means  chairman appointed  cyber appeal tribunal  section  
+        act
+   civil procedure means code  civil procedure  act v f 
+   penal code means penal code  act xlv  
+   prescribed means prescribed  rules
+   secure signature generating machine  technology means  signature generating
+       machine  technology subject   conditions illustrated  section 
+   addressee  reference  data message means  person   intended  
+       originator  receive  electronic record    include  intermediary
+   verification means  procedure used  identify signatory  authentication 
+       data message
+   originator  reference  data message means  person  sends  prepares
+       data message  preservation  causes  date message   sent generated
+       stored  transmitted    include  intermediary
+   regulation means regulation prepared   act
+   criminal procedure means code  criminal procedure  act v  
+   person relates  unique person   natural entity partnership business
+       union company body corporate cooperatives
+   adjudicating officer means  adjudicating officer  cyber tribunal constituted
+        section    act
+    rule means rule prepared   act
+                                                                                           
+
+                medium means  person sending receiving advancing  saving  data
+                    message   service rendering   data message  behalf    person
+                      particular data message
+                licence means  licence granted  section    act
+                authentication service provider means certificate issuing authority   person
+                    rendering service related  digital signature
+                certifying authority means  person  authority    granted  licence
+                     section    read  section    act  issue  digital signature
+                    certificate
+                certification practice  description  procedure means certification practice 
+                    description  procedure defined   regulation  practices  procedures
+                     written  issuing digital signature certificate
+                member means  member  cyber appeal tribunal constituted  section  
+                     act
+                signatory means  person providing signature generated  signature
+                    generating machine  procedure
+                signature verification machine means software  hardware used  verifying
+                    signature
+                signature generating machine means software  hardware used generating data
+                     creating signature
+                cyber tribunal  tribunal means  cyber tribunal constituted  section  
+                     act
+                cyber appeal tribunal means  cyber appeal tribunal constituted  section  
+                     act
+           domination   act   law provides whatever anything  contained 
+rules   act shall   force
+           interstate application   act   person commits offence  contravention
+  act outside  bangladesh   punishable   act   commits  
+bangladesh   act shall apply    commits offence  contravention  bangladesh
+             person commits offence  contravention  bangladesh   act  outside
+bangladesh using  computer computer system  computer network located  bangladesh  
+act shall apply    entire process   offence  contravention took place  bangladesh
+             person  within bangladesh commits offence  contravention outside 
+bangladesh   act   act shall apply      entire process  
+offence  contravention took place  bangladesh
+                                                ii
+                  digital signature  electronic records
+         authentication  electronic records  digital signature subject   provision 
+subsection    section  subscriber may authenticate  electronic record  affixing 
+digital signature
+            authentication  electronic record shall  effected   use  technology neutral
+system  standard authentic signature generating machine  strategy
+         legal recognition  electronic recordswhere  law provides  information  
+ matter shall   writing    typewritten  printed form  notwithstanding anything
+contained   law  information  matter  rendered  made available   electronic form
+        provided   information  matter  accessible     usable   subsequent
+reference
+                                                                                                         
+
+        legal recognition  digital signatureswhere  law provides 
+                 information    matter shall  authenticated  affixing  signature
+                    
+               b  document shall  authenticated  signature  bear  signature   person
+           notwithstanding anything contained   law  information  matter 
+authenticated  means  digital signature affixed  defined manner     case  
+document
+        use  electronic records  electronic signatures  government   agencies
+  law provides 
+                 filing   form application    document   office authority
+                    body  agency owned  controlled   appropriate government   particular
+                    manner
+               b  issue  grant   licence permit sanction approval  order  whatever
+                    name called   particular manner
+               c  receipt  payment  money   particular manner
+           notwithstanding anything contained   law filing issue grant   document 
+receipt  payment  money   case may   effected  means  prescribed electronic form
+            manner  format    electronic records shall  filed created  issued
+  manner  methods  payment   fee  charges  creation  filing shall  fixed 
+ rules  fulfilling  purposes   section
+        retention  electronic records   law provides   document record 
+information shall  retained   specific period   requirement shall  deemed  
+ satisfied   documents records  information   case may   retained  
+electronic form   following conditions  satisfied
+                 information contained therein remains accessible     usable  
+                    subsequent reference
+               b  electronic record  retained   format     originally generated
+                    sent  received    format  can  demonstrated  represent accurately 
+                    information originally generated sent  received
+               c  information    enables  identification   origin  destination 
+                     electronic record   date  time    sent  received  retained
+       provided   subclause   apply   information   automatically generated
+solely   purpose  enabling  electronic record   dispatched  received
+            person may satisfy  requirements referred   subsection    section 
+using  services    person   conditions  clauses   c   subsection 
+complied 
+           nothing   section shall apply   law  expressly provides   retention 
+documents records  information
+        electronic gazette   law requires   law rule regulation order byelaw
+notification    matter shall  published   official gazette   requirement shall
+ deemed    satisfied   law rule regulation order byelaw notification   
+matter  published   official gazette  electronic gazette
+       provided    law rule regulation order byelaw notification    matter 
+published   official gazette   electronic gazette  date  publication shall  deemed 
+  date   gazette   first published   form
+         liability  government  accept documents  electronic formnothing contained
+  act shall   compel  ministry  department   government   authority 
+body established     law  controlled  funded   government  accept issue
+create retain  preserve  document   form  electronic records  effect  monetary
+transaction   electronic form
+                                                                                                          
+
+        power  government  make rules  respect  digital signaturesthe government
+may  notification   official gazette   additionally optionally   electronic gazette
+make  following rules       prescribe   purposes   act
+                 type  digital signature
+               b  manner  format    digital signature shall  affixed
+               c  manner  procedure  facilitates identification   person affixing 
+                   digital signature
+               d  control processes  procedures  ensure adequate integrity security 
+                   confidentiality  electronic records  payments 
+               e   matter   necessary  give legal effect  digital signatures
+                                               iii
+          attribution acknowledgement  despatch 
+                                     electronic records
+        attribution    electronic record shall     originator   sent  
+originator 
+              originator   addressee  electronic record shall  deemed  
+   originator    sent
+                  person    authority  act  behalf   originator  respect  
+                   electronic record 
+               b   information system programmed    behalf   originator  operate
+                   automatically
+              originator   addressee  addressee shall  entitled  regard 
+electronic record      originator   act   assumption 
+                 order  ascertain whether  electronic record     originator 
+                   addressee properly applied  procedure previously agreed    originator  
+                   purpose 
+               b  information  received   addressee resulted   actions   person
+                   whose relationship   originator    agent   originator enabled 
+                   person  gain access   method used   originator  identify  electronic
+                   records   
+           subsection    section shall  apply
+                  time   addressee  received notice   originator  
+                   electronic record      originator   reasonable time  act
+                   accordingly
+               b   case   clause b  section    section   time  
+                   addressee knew     known  using reasonable care  using agreed
+                   procedure   electronic record      originator
+               c    circumstances   case   unconscionable   addressee  regard
+                    electronic record      originator   act   assumption
+             electronic record     originator   deemed     
+originator   addressee  entitled  act   assumption     originator  
+addressee  addressee shall  entitled  regard  electronic record received    
+originator intended  send   act   assumption
+                                                                                                          
+
+           whatever    subsection    section  addressee shall    entitled
+  addressee knew    known  exercising reasonable care  using  agreed
+procedure   transmission resulted   error   electronic record  received
+            addressee shall  entitled  regard  electronic record received  separate
+electronic record   act   assumption however  shall   applicable   following
+electronic records
+                duplicates   electronic records created   addressee 
+               b  addressee knew    known  exercising reasonable care  using
+                    agreed procedure   electronic record   duplicate
+        acknowledgement  receipt  subsections       section shall apply
+    sending  electronic record   means   electronic record  originator
+ requested   agreed   addressee  receipt   electronic record  acknowledged
+          originator   agreed   addressee   acknowledgement  given
+  particular form    particular method  acknowledgement may  given 
+                 communication   addressee automated  otherwise 
+            b     conduct   addressee sufficient  indicate   originator  
+                   electronic record   received
+          originator  stipulated   electronic record shall  conditional  receipt
+  acknowledgement    acknowledgement   received  electronic record
+shall  deemed    never sent   originator
+          originator   stipulated   electronic record shall  conditional 
+receipt   acknowledgement   acknowledgement    received   originator
+within  time specified  agreed    time   specified  agreed within  reasonable time
+ originator
+                may give notice   addressee stating   acknowledgement   received
+                    specifying  reasonable time    acknowledgement must  received
+                   
+            b      acknowledgement  received within  time specified  clause    sub
+                   section may  giving notice   addressee treat  electronic record 
+                   though   never  sent
+          originator receives  addressees acknowledgement  receipt  shall 
+presumed   related electronic record  received   addressee   presumption shall
+ imply   content   electronic record corresponds   content   record received
+          received acknowledgement states   related electronic record met technical
+requirements either agreed upon  set forth  applicable standards  shall  presumed  
+requirements   met
+        time  place  dispatch  receipt  electronic record   save  otherwise
+agreed    originator   addressee
+                 time  dispatch   electronic record shall  determined   enters 
+                   computer  electronic machine  resource  side  control   originator
+            b     time  receipt   electronic record shall  determined  follows namely
+                         addressee  designated  electronic device  resource   purpose
+                           receiving electronic records receipt occurs
+                                time   electronic record enters  designated electronic
+                                  device  resource
+                             b   electronic record  sent   electronic device  resource  
+                                  addressee    designated electronic device  resource  
+                                  time   electronic record  retrieved  addressee
+                                                                                                           
+
+                   ii     addressee   designated  electronic device  resource along 
+                           specified timings   receipt occurs   electronic record enters
+                           electronic device  resource
+            c     electronic record  deemed   dispatched   place   originator 
+                    place  business   deemed   received   place   addressee
+                     place  business
+              provision  subsection  b   section shall apply notwithstanding  
+                place   computer resource  located may  different   place  
+                electronic record  deemed    received  subsection  c  
+                section
+               purposes   section
+                      originator   addressee    one place  business 
+                        principal place  business shall   place  business
+                   b   originator   addressee     place  business  usual
+                        place  residence shall  deemed    place  business
+explanation principal place  business  usual place  residence  relation   body
+corporate  body incorporated means  place    registered
+                                               iv
+          secure electronic records  digital signatures
+        secure electronic record   security procedure   applied   electronic
+record   specific point  time   record shall  deemed   secure electronic record 
+ point  time   time  verification
+        secure digital signature    application   security procedure agreed   
+parties concerned  can  verified   digital signature   time   affixed 
+               unique   person affixing 
+              b capable  identifying  person affixing  
+              c created  manner  using  means   sole control   person affixing
+        digital signature shall  deemed    secure digital signature  per subsection 
+                despite  fact  subsection   digital signature   invalidated  
+electronic record  altered relating    digital signature
+                                                v
+                    controller  certifying authorities
+        certifying authorities controller   officers    purpose   act 
+government may  notification   official gazette  additionally optionally  electronic
+gazette appoint  controller   number  deputy controllers  assistant controllers  
+deems fit within  days   enactment   law
+           controller shall discharge  functions   vested     act 
+ general superintendence  control   government
+           deputy controllers   assistant controllers shall perform  functions  
+assigned     controller   general superintendence  control   controller
+                                                                                                          
+
+            qualifications experience  terms  conditions  service  controller deputy
+controllers  assistant controllers shall    may  prescribed   service code
+            head office   controller shall  located  dhaka    government may
+think fit may establish branch offices   places  fixed time duration  permanently
+            shall   seal   office   controller  will  used  places approved
+  government   defined areas
+             purpose  preserving  electronic records   act  shall   room 
+ office  controller  will  named  electronic records repository room
+         functions   controllerthe controller may perform      following
+functions namely
+               exercising supervision   activities   certifying authorities
+              b laying   standards   maintained   certifying authorities
+              c specifying  qualifications  experience  employees   certifying
+                   authorities  possess
+              d specifying  conditions subject    certifying authorities shall conduct
+                    business
+              e specifying  contents  written printed  visual materials  advertisements 
+                   may  used  respect   digital signature certifying
+              f specifying  form  content   digital signature certificate
+              g specifying  form  manner   accounts shall  maintained  
+                   certifying authorities
+              h specifying  terms  conditions subject   auditors may  appointed 
+                    remuneration   paid    auditing  certifying authorities
+               facilitatining  establishment   electronic system   certifying authority
+                   either solely  jointly   certifying authorities  regulation  
+                   systems
+              j specifying  manner    certifying authorities shall conduct 
+                   dealings   subscribers
+              k resolving  conflict  interests   certifying authorities  
+                   subscribers
+              l laying   duties  responsibilities   certifying authorities
+              m maintaining computer based databases 
+                    contain  disclosure record  every certifying authority containing 
+                   particulars  may  specified  regulations 
+                   ii shall  accessible   member   public
+              n perform   function   act  codes prepared   act
+         recognition  foreign certifying authorities  subject   conditions 
+restrictions  may  specified  regulations  controller may   previous approval  
+government   notification   official gazette  additionally optionally  electronic
+gazette recognize  foreign certifying authority   certifying authority   purposes  
+act
+             certifying authority  recognized  subsection    section 
+digital signature certificate issued   certifying authority shall  valid   purposes  
+act
+            controller may    satisfied   certifying authority  contravened  
+ conditions  restrictions subject     granted recognition  subsection   
+section  reasons   recorded  writing  notification   official gazette  additionally
+optionally  electronic gazette revoke  recognition
+                                                                                                         
+
+         controller  act  repository   controller shall   repository   digital
+signature certificates issued   act
+            controller shall ensure   secrecy  security   digital signature 
+assured   order    shall make use  hardware software  procedures   secure 
+intrusion  misuse  follow  standards  may  prescribed
+         licence  issue digital signature certificate  subject   provision  sub
+section    section  person may make  application   controller   licence  issue
+digital signature certificates
+            licences shall  issued  subsection    section unless  applicant
+fulfills  requirements  respect  qualification expertise manpower financial resources 
+ infrastructure facilities   necessary  issue digital signature certificates
+            licence granted  subsection    section
+               shall  valid  certain period
+              b shall  delivered subject  fulfilling defined terms  conditions 
+              c shall   transferable  heritable
+         application  licence  every application  issue   licence shall  submitted 
+ prescribed form
+           every application  subsection    section shall  accompanied 
+                certification practice statement
+              b necessary documents  respect  identification   applicant
+              c evidence  payment  defined fees
+              d   documents  may  prescribed
+         renewal  licencelicence issued   act shall  renewed automatically  
+certain period subject  paying fees   prescribed procedure
+         procedure  grant  rejection  licencethe controller may  receipt 
+application  subsection   section    act  considering  documents
+accompanying  application    factors   deems fit grant  licence  reject 
+application
+        provided   application shall  rejected   section unless  applicant  
+given  reasonable opportunity  presenting  case
+         revocation  suspension  licence  controller may suspend  revoke 
+licence   act    satisfied  making  inquiry   may think fit   certifying
+authority 
+               made statement    relation   application   issue  renewal  
+                   licence   incorrect  false  material particulars
+              b failed  comply   terms  conditions subject    licence 
+                   granted
+              c failed  main  standards specified  section    act
+              d contravened  provisions   act rules regulations  orders made thereunder
+               licence shall  revoked unless  certifying authority   given reasonable
+opportunity  showing cause   proposed revocation  subsection    section
+               controller may    reasonable cause  believe     ground 
+revoking  licence  subsection    section   suspend  licence temporarily
+pending  completion   enquiry ordered  
+               licence shall  suspended   period exceeding  fourteen days unless 
+certifying authority   given  reasonable opportunity  showing cause   propose
+suspension  subsection    section
+                                                                                                           
+
+               certifying authority whose licence   suspended temporarily shall  issue
+ digital signature certificate   period   suspension
+         notice  revocation  suspension  licence   licence   certifying
+authority  revoked  suspended temporarily  controller shall publish notice   revocation 
+suspension   case may    database maintained  
+               one   repositories  specified  controller shall publish notices 
+ temporarily revocation  suspension   case may     repositories
+          provided   database containing  temporarily notice   revocation  suspension
+  case may  shall  made available electronically including website    medium
+ shall  accessible round  clock
+         power  delegatethe controller may  writing authorize  deputy controller
+assistant controller    officer  exercise    power   controller   act
+         power  investigate contraventions  controller   officer authorized  
+  behalf shall take   investigation  contravention   provisions   act rules 
+regulations made thereunder
+                  controller   officer authorized     behalf shall   purposes
+ subsection    section    power   vested   civil court   code 
+civil procedure  trying  suit  respect   following matters namely
+                      discovery  inspection
+                 b     enforcing  attendance   person  examining   oath 
+                         affirmation
+                 c     compelling  production   document 
+                 d     issuing commissions   examination  witness
+         access  computers  data without prejudice   provisions  section  
+ act  controller   officer authorized   shall    reasonable cause  suspect 
+ contravention   provisions   act  rules  regulations made thereunder  
+committed  access   computer system  apparatus data    material connected
+  system   purpose  searching  causing  search   made  obtaining 
+information  data contained   available   computer system
+                   purpose  subsection    section  controller   officer
+authorized   may  order direct  person  charge   otherwise concerned  
+operation   computer system data apparatus  material  provide    reasonable
+technical   assistance   may consider necessary
+                  authorization   given   person  authorized person shall oblige 
+assist  instructed  subsection    section
+         certifying authority  follow certain proceduresevery certifying authority shall
+                make use  hardware software  procedures   secure  intrusion 
+                   misuse
+               b provide  reasonable level  reliability   services   reasonable suited 
+                    performance  intended function   act
+               c adhere  security procedures  ensure   secrecy  privacy  digital
+                   signatures  assured 
+               d observe   standards  may  specified  regulations
+         certifying authority  ensure compliance   act rules regulations etcevery
+certifying authority shall ensure  every person employed  otherwise engaged   complies 
+ course   employment  engagement   provisions   act rules regulations 
+orders made thereunder
+         display  licenceevery certifying authority shall display  licence   conspicuous
+place   premises    carries   business
+                                                                                                        
+
+        surrender  licenceevery certifying authority whose licence  revoked  suspended
+  case may  shall immediately   revocation  suspension   case may 
+surrender  licence   controller
+        disclosures every certifying authority shall disclose   manner specified 
+regulations
+                digital signature certificate used   certifying authority  digitally sign
+                   another digital signature certificate
+               b  certification practice statement relevant thereto
+               c notice   revocation  suspension   certifying authority certificate  
+                   
+               d   fact  materially  adversely affects either  reliability   digital
+                   signature certificate   certifying authority  issued   certifying
+                   authoritys ability  perform  service
+                   opinion   certifying authority  event  occurred  
+                   situation  arisen  may materially  adversely affect  integrity  
+                   computer system   conditions subject    digital signature certificate
+                    granted   certifying authority shall use reasonable efforts  notify 
+                   person   likely  affected   occurrence  act  accordance  
+                   procedure specified   certification practice statement  deal   event 
+                   situation
+        issue  certificatethe certifying authority may issue  certificate   prospective
+subscriber    certifying authority
+                 received  application   prescribed form requesting  issuance  
+                   certificate   prospective subscriber
+            b        certification practice statement complied     practices 
+                   procedures set forth   certification practice
+            c      prospective subscriber   person   listed   certificate   issued
+            d      information   certificate   issued  correct 
+            e    whether  prospective subscriber paid  fees  may  prescribed  issuance
+                    certificate
+        representations upon issuance  certificate  issuing  certificate  certifying
+authority represents   person  reasonably relies   certificate  digital signature
+described   certificate   certifying authority  issued  certificate  accordance 
+ applicable certification practice statement incorporated  reference   certificate   
+ relying person  notice
+                  absence   certification practice statement mentioned  subsection  
+ section  certifying authority represents    confirmed 
+                 certifying authority  complied   applicable requirements   act
+                     rule  regulations made thereunder  issuing  certificate   
+                   certifying authority  published  certificate  otherwise made  available 
+                    relying person   subscriber listed   certificate  accepted 
+               b  information   certificate  accurate unless  certifying authority 
+                   stated   certificate  incorporated  reference   certificate  statement 
+                    accuracy  specified information   confirmed
+               c  certifying authority   knowledge   material fact     
+                   included   certificate  adversely effect  reliability   representations
+                    clauses   b   subsection
+                    applicable certification practice statement   
+incorporated  reference   certificate     relying person  notice subsection  
+ section shall apply   extent   representations   inconsistent   certification
+practice statement
+                                                                                                            
+
+         revocation  digital signature certificatea certifying authority shall revoke 
+digital signature certificate issued  
+                 subscriber   person authorized   makes  request   effect
+                    
+              b upon  death   subscriber 
+              c   subscriber   firm   company     dissolved  wound  
+                     otherwise ceased  exist
+                 subject   provisions  subsection    section  without prejudice 
+ provisions  subsection    section  certifying authority may revoke  digital signature
+certificate    issued     time     opinion 
+                material fact represented   digital signature certificate  false   
+                    concealed
+              b  requirement  issuance   digital signature certificate   satisfied
+              c  certifying authoritys identificationsecurity system  compromised  
+                    manner materially    whole affecting  digital signature certificates
+                    reliability
+              d  subscriber   declared insolvent   competent court  authority
+                  digital signature certificate shall   revoked unless  subscriber  
+given  opportunity   heard   matter
+                  revocation   digital signature certificate   section  certifying
+authority shall communicate     subscriber
+         suspension  digital signature certificate subject   provisions  subsection
+   section  certifying authority   issued  digital signature certificate may
+suspend  digital signature certificate
+                  receipt   request   effect   subscriber listed   digital signature
+                    certificate   person duly authorized  act  behalf   subscriber
+            b        opinion   digital signature certificate   suspended  public
+                    interest
+               digital signature certificate shall   suspended   period exceeding  thirty
+days without giving  subscriber  notice  subsection  b   section
+              certifying authority can suspend  digital signature certificate   authority 
+satisfied   ground   explanation given   subscriber  response   notice  sub
+section    section   acceptable
+               suspension   digital signature certificate   section  certifying
+authority shall communicate     subscriber
+         notice  revocation  suspension   digital signature certificate  revoked
+ section    act  suspended  section    act  certifying authority shall
+publish  notice   revocation  suspension   case may    repository specified  
+digital signature certificate  publication   notice
+                  one   repositories  specified  certifying authority shall publish
+notices   revocation  suspension   case may     repositories
+                                                vi
+                                     duties  subscribers
+         application  security procedurethe subscriber shall apply required security procedure
+ ensure  purity  digital signature certificate issued   certifying authority
+                                                                                                           
+
+         acceptance  digital signature certificate  subscriber shall  deemed  
+accepted  digital signature certificate   publishes  authorizes  publication   digital
+signature certificate  one   persons    repository
+          accepting digital signature certificate  subscriber certifies    reasonably rely
+  information contained   digital signature certificate 
+               representations made   subscriber   certifying authority   materials
+                  relevant   information contained   digital certificate  true 
+             b  information   digital signature certificate   within  knowledge  
+                  subscriber  true
+         presumption  represented information  obtaining digital signature certificate
+ material representations made   subscriber   certifying authority  purposes  obtaining
+ certificate including  information known   subscriber  represented   digital signature
+certificate shall  accurate  complete   best   subscribers knowledge  belief
+regardless  whether  representations  confirmed   certifying authority
+         control  safety measure  subscriber every subscriber shall exercise reasonable
+care  retain control  using  digital signature certificate  take  steps  prevent  disclosure
+  person  authorized  affix  digital signature   subscriber
+           security  digital signature certificate   compromised  disobeying 
+rules  subsection    section  subscriber shall communicate   without  delay 
+ certifying authority   issued  digital signature certificate   agreed manner
+                                               vii
+                   breaching rules prevention penalties etc
+         power  controller  give directionsthe controller may  order direct  certifying
+authority   employee    certifying authority  take  measure  cease carrying 
+ activities  specified   order    necessary  ensure compliance   provisions
+  act  rules  regulations made thereunder
+         power  controller  give directions  emergencyif  controller  satisfied  
+ necessary  expedient      interest   sovereignty integrity  security  bangladesh
+friendly relations  bangladesh   states public order   preventing incitement 
+commission   cognizable offence  reasons   recorded  writing  order direct 
+agency   government  intercept  information   transmitted   computer
+resource
+                  subscriber   person  charge   computer resource shall  called
+upon   agency   direction   issued  subsection    section extend 
+facilities  technical assistance  decrypt  information
+         power  announce protected systems  controller may  notification  
+official gazette   electronic gazette declare  computer computer system  computer network
+   protected system
+                  controller  order  writing authorize  persons   authorized 
+secure access  protected systems notified  subsection    section
+         penalty  failure  furnish document return  reportif  person fails 
+submit given document return  report   provisions   act  rules  regulations
+made thereunder   controller  certifying authority  controller   officer  
+government authorized   government  special order   case may  can fine  person
+ may extend  taka ten thousands mentioning reasons  written  administrative order
+         penalty  failure  file return information book etcif  person fails  deliver
+ information books    documents   provisions   act  rules 
+regulations made thereunder within stipulated time  controller   officer   government
+authorized   government  special order   case may  can fine  person  may
+extend  taka ten thousand mentioning reasons  written  administrative order
+                                                                                                          
+
+        penalty  failure  maintain books  accounts  recordif  person fails 
+maintain books  accounts  records   supposed   preserved   provisions  
+act  rules  regulations made thereunder  controller   officer   government
+authorized   government  special order   case may  can fine  person  may
+extend  taka two lakhs mentioning reasons  written  administrative order
+        residuary penaltyif  person contravenes  rules   act   
+provision  penalties    fixed separately   provisions   act  rules 
+regulations made thereunder  controller   officer   government authorized  
+government  special order   case may  can fine  person  breaching   rule 
+may extend  taka twenty five thousands mentioning reasons  written  administrative order
+        power  controller  issue prohibition  possible breaching  rules  
+controller    opinion   person  attempted   attempting    activities 
+ breaching  may breach  provisions   act rules regulations made thereunder  conditions
+  order   controller   controller shall issue  notice within  stipulated time limit
+ordering  person  present  statement  written     refrain   
+ activity    statement  presented   controller shall issue  order  refrain 
+   activity    instruction   activity sthat deems fit  
+                controller  satisfied   nature  breaching  possible breaching 
+subsection    section     prevent  person   activity immediately  
+controller shall issue  interim order  deems fit     time  issuing  notice 
+ subsection
+                instruction  subsections      section  given  anyone 
+shall  bound  obey 
+                person breaches  given instructions   section  controller can fine 
+person  may extend  taka ten thousand
+        penalties  controller can impose penalties  breaching  rules   act
+defined   rules   addition  imposable penalties   act
+               penalty shall  imposed   act  breaching  act   rules  
+act without giving reasonable opportunity   offender  hearing
+               accused person can lodge  application   controller  auditing  decision
+ imposing penalties   controller within seven days   date  decision  made   
+ application  lodged  controller shall give opportunity   applicant  hearing 
+dissolve  within fifteen days
+              unless  penalties  paid   act   due  collectable  
+government demand   public demands recovery act  ben act iii  
+                                              viii
+          offences investigation adjudication penalties etc
+                                                   part
+                                          offences  penalties
+        penalty  damage  computer computer system etcif  person without
+permission   owner   person    charge   computer computer system  computer
+network
+               accesses  secure access   computer computer system  computer networks
+                      purpose  destroying information  retrieving  collecting information 
+                    assists    
+              b downloads copies  extracts  data computer database  information  
+                    computer computer system  computer network including information  data held
+                     stored   removable storage medium
+                                                                                                        
+
+               c introduces  causes   introduced  computer contaminant  computer virus
+                      computer computer system  computer network
+               d damages  causes   damaged willingly   computer computer system 
+                    computer network data computer database    programmes residing 
+                     computer computer system  computer network
+               e disrupts  causes disruption   computer computer system  computer
+                    network
+               f denies  causes  denial  access   person authorized  access 
+                    computer computer system  computer network   means
+               g provides  assistance   person  facilitate access   computer computer
+                    system  computer network  contravention   provisions   act rules 
+                    regulations made thereunder
+               h   purpose  advertisement  goods  services generates  causes
+                    generation  spams  sends unwanted electronic mails without  permission 
+                     originator  subscriber
+                charges  services availed    person   account  another person 
+                    tampering   manipulating  computer computer system  computer
+                    network
+            said activities shall  treated  offences   said person
+            person commits offence  subsection    section  shall 
+punishable  imprisonment   term  may extend  ten years   fine  may extend
+ taka ten lakhs   
+     explanationfor  purpose   section
+          computer contaminant means  set  computer instructions   designed
+                 modify destroy record transmit data  program residing within  computer
+                    computer system  computer network 
+               b   means  usurp  normal operation   computer computer system 
+                    computer network
+         ii computer database means  representation information knowledge facts concepts 
+               instructions   form  text image audio  video 
+                  prepared    prepared   formalized manner   computer
+                    computer system  computer network 
+               b  intended  use   computer computer system  computer network
+         iii computer virus means  computer instruction information data  program 
+                destroys damages degrades  adversely affects  performance   computer
+                    resource 
+               b attaches   another computer resource  operates   program data 
+                    instruction  executed    event takes place   computer
+         iv damage means  destroy alter delete add modify  rearrange  computer resource
+                 means
+        punishment  tampering  computer source code whoever intentionally 
+knowingly conceals destroys  alters  intentionally  knowingly causes  person  conceal
+destroy  alter  computer source code used   computer computer program computer system 
+computer network   computer source code  required   kept  maintained   law 
+time   force   activity   will  regarded  offence
+               whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  three years   fine  may extend  taka
+three lakhs   
+                                                                                                     
+
+          explanationfor  purpose   section computer source code means  listing 
+programs computer commands design  layout  program analysis  computer resources  
+form
+         punishment  hacking  computer system   person
+                intent  cause  knowing    likely  cause wrongful loss  damage 
+                   public   person   act  thereby destroys deletes  alters 
+                  information residing   computer resource  diminishes  value  utility  affects
+                   injuriously   means
+             b damage  illegal access    computer computer network   
+                  electronic system    belong  
+          activity shall  treated  hacking offence
+            whoever commits hacking offence  subsection    section  shall 
+punishable  imprisonment   term  may extend  ten years   fine  may extend
+ taka one crore   
+         punishment  publishing fake obscene  defaming information  electronic form
+   person deliberately publishes  transmits  causes   published  transmitted  
+website   electronic form  material   fake  obscene   effect     tend 
+deprave  corrupt persons   likely  regard   relevant circumstances  read see 
+hear  matter contained  embodied    causes  deteriorate  creates possibility  deteriorate
+law  order prejudice  image   state  person  causes  hurt  may hurt religious belief
+ instigate   person  organization   activity   will  regarded   offence
+            whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  ten years   fine  may extend  taka
+one crore
+         punishment  failure  surrender licence   certifying authority fails 
+surrender  licence  section    act  person  whose favour  licence  issued 
+failure   person shall   offence
+               whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  six months   fine  may extend  taka
+ten thousands   
+         punishment  failure  comply  order  person  fails  comply 
+ order made  section    act   activity   will  regarded   offence
+               whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  one year   fine  may extend  taka
+one lakh   
+         punishment  failure  comply  order made   controller  emergency 
+  person  fails  comply   order made  section    act   activity
+  will  regarded   offence
+               whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  five years   fine  may extend  taka
+five lakhs   
+         punishment  unauthorized access  protected systems  person  secures
+access  attempts  secure access  protected system  contraventions  section    act 
+ activity   will  regarded   offence
+               whoever commits offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  ten years   fine  may extend  taka
+ten lakhs   
+         punishment  misrepresentation  obscuring informationwhoever makes 
+misrepresentation   suppresses  material fact   controller   certifying authority 
+obtaining  licence  digital signature certificate shall  regarded   offence
+                                                                                                         
+
+              whoever commits  offence  subsection    section  shall 
+punishable  imprisonment   term  may extend  two years   fine  may
+extend  taka two lakhs   
+         punishment  disclosure  confidentiality  privacysave  otherwise provided
+  act    law   time   force  person   pursuance    
+powers conferred   act  rules  regulations made thereunder  secured access  
+electronic record book register correspondence information document   material shall
+without  consent   person concerned disclose  electronic record book register
+correspondence information document   material    person shall  regarded  
+offence
+           whoever commits  offence  subsection    section  shall  punishable
+ imprisonment   term  may extend  two years   fine  may extend  taka
+two lakhs   
+         punishment  publishing false digital signature certificateno person shall publish 
+digital signature certificate  otherwise make  available    person knowing 
+                 certifying authority listed   certificate   issued  
+            b     subscriber listed   certificate   accepted  
+            c     certificate   revoked  suspended
+        unless  publication    purpose  verifying  digital signature created prior  
+suspension  revocation   breaching  rules  digital signature certificate  published 
+otherwise make  available  others shall  regarded   offence
+           whoever commits  offence  subsection    section  shall 
+punishable  imprisonment   term  may extend  two years   fine  may
+extend  taka two lakhs   
+         punishment  publishing digital signature certificate  fraudulent purpose etc
+whosoever knowingly creates  publishes  otherwise makes available  digital signature
+certificate   fraudulent  unlawful purpose shall  regarded   offence
+           whoever commits  offence  subsection    section  shall 
+punishable  imprisonment   term  may extend  two years   fine  may
+extend  taka two lakh   
+         punishment  using computer  committing  offence whosoever knowingly
+assists committing crimes   act using  computer email  computer network resource 
+system shall  regarded   offence
+           whoever aids committing  offence  subsection    section  shall 
+punishable   punishment provided   core offence
+         offences committed  companies etcif  offence  committed   company 
+ act   director manager secretary partner officer  staff   company  
+directly involvement  committing  said offence shall  guilty   offence   contraventions
+  case may  unless  proves   offence  contravention  committed without 
+knowledge    exercised sue diligence  order  prevent commission   offence 
+contravention
+        explanationfor  purposes   section
+                company means  body corporate  includes commercial firm partnership
+                   business cooperatives association organization   association  individuals
+                   
+               b director  relation   commercial firm includes  partner  member  board 
+                   directors
+                                                                                                      
+
+                                                    part
+      establishment  cyber tribunal investigation  offences adjudication
+                                                 appeal etc
+         establishment  cyber tribunal  government shall  notification  
+official gazette establish one   cyber tribunals   known  tribunal  times  
+purposes  speedy  effective trials  offences committed   act
+               cyber tribunal established  subsection    section  consultation  
+supreme court shall  constituted   session judge   additional session judge appointed 
+ government  similarly appointed  judge   known  judge cyber tribunal
+               local jurisdiction  entire bangladesh  jurisdiction  one   session divisions
+can  given   cyber tribunal established   act   tribunal  prosecutes 
+offences committed   act
+                ongoing prosecution   case   session court shall   suspended 
+transferred automatically   tribunal  local jurisdiction concerned due  tendering  local
+jurisdiction  entire bangladesh  parts  jurisdiction constituted  one   session divisions
+  tribunal established   government later  however  government  notification  
+official gazette transfer  case   tribunal  special local jurisdiction
+                tribunal taken decision otherwise shall   bound  retaking statement 
+witness   already given statement  taking rehearing  begin    activities already
+undertaken  subsection    section however  tribunal shall continue  prosecution
+   stood   basis  already taken  presented statement   witness
+                government  order shall define  place  time accordingly  special
+tribunal shall conduct  activities   place  time
+         trial procedure  cyber tribunal without written report   police officer 
+  rank  subinspector   prior approval   controller    officer authorized
+  controller  special tribunal shall  accept  offence trial
+                tribunal shall follow  rules mentioned       code 
+criminal procedure     inconsistent   rules   act   used  session
+court
+                tribunal shall  suspend  prosecution without  written reasons 
+unless   required   sake  just adjudication
+                 tribunal    opinion   accused person   absconded   
+   possible  arrest   produce    tribunal     possibility  arrest
+ immediately   case  tribunal can order  accused person  appear   tribunal
+ publishing  order  two mass circulated national bengali dailies    accused person fails
+    prosecution shall take place   absence
+                rules mentioned  subsection    section shall   applicable  
+accused person fails  appear   tribunal  absconded  getting bail
+                tribunal can order  police officer   controller   officer authorized
+  controller   case may   reinvestigate  case  submit  report within 
+stipulated time    initiative   application lodged   tribunal
+         application  code  criminal procedure   activities  tribunal rules 
+code  criminal procedure  far    inconsistent   rules   act shall  applicable
+  activities   tribunal   will    power  exercised   session court
+                person prosecuting  case  behalf   government   tribunal  
+known  public prosecutor
+         rules relating  bailthe judge  cyber tribunal shall  bail  person accused 
+committing crime   act   punishable unless
+                  hearing opportunity  given   government side  similar bail orders
+             b      judge  satisfied 
+                                                                                                        
+
+                         reasonable cause  believe   accused person may  
+                           proved guilty   trial
+                      ii  offence   severe  relative term   punishment shall  
+                           tough enough even  guilt  proved
+            c      writes   reasons  similar satisfactions
+        time limit  deliver verdict  judge  cyber tribunal shall give  verdict
+within ten days   date  completing  taking evidence  debate  happened later unless
+ extends  time limit    ten days   written reasons
+                verdict  given   cyber tribunal  subsection    section  
+appeal  lodged   verdict   cyber appellate tribunal  cyber tribunal  cyber
+appellate tribunal concerned shall forward  copy   verdict   appeal   controller 
+preserving    electronic records repository room established  section     act
+        prescribed timeframe  dissolving cases  cyber tribunal  judge  cyber
+tribunal shall complete  prosecution within six months since  date  filing  charge sheet
+                judge  cyber tribunal fails  complete  prosecution within  time limit
+fixed  subsection    section can extend  time limit another three months 
+written  reasons
+                judge  cyber tribunal fails  complete  prosecution within  timeframe
+fixed  subsection    section can continue  prosecution process  written 
+reasons  submitted    report   high court   controller
+        prosecution  offence  session courtwhatever  contained   code  criminal
+procedure   special tribunal    established  session court shall prosecute 
+offence committed   act
+        prosecution procedure followed   session court  prosecute  offence
+committed   act   trialed  session court session court shall follow  rules
+mentioned  section    code  criminal procedure   applicable  session court trial
+               session court shall  accept  prosecutiontrial   offence committed
+  act without  written report   police officer    rank  subinspector 
+ police  prior approval   controller   officer authorized   controller whatever 
+contained   code  criminal procedure
+        investigation  crime etc whatever  contained   code  criminal procedure
+ controller   officer authorized   controller   police officer    rank 
+subinspector   police shall investigate  offence committed   act
+              offence committed   act shall  noncognizable offence
+        confiscation  computer computer system floppies compact disks cds tape
+drives    accessories related thereto  respect    provision   act rules
+orders  regulations made thereunder      contravened   respect   
+offence   committed shall  liable  confiscation   order   court trying  offence 
+contravention
+                court  satisfied   computer computer system floppies compact disks
+cds tape drives    accessories belonging   person   control   related
+thereto  respect    provision   act rules orders  regulations made thereunder 
+  responsible  contravene  committing  offence   computer computer system
+floppies compact disks cds tape drives    accessories shall   confiscated
+                legal computer computer system floppies compact disks cds tape drives 
+  accessories  found   computer computer system floppies compact disks cds
+tape drives    accessories   confiscated  subsection    section shall also
+ confiscated
+               computer   relevant accessories belonging   government  body
+government authority  used  commit  offence  subsection    section whatever
+contained   section shall   confiscated
+                                                                                                         
+
+         penalties  confiscation  bar   punishmentsno penalty imposed 
+confiscation made   act shall prevent  imposition    punishment   
+person affected thereby may  liable    law   time   force
+         network service providers    liable  certain casesfor  removal  doubts
+  hereby declared   person providing  service   network service provider shall  liable
+  act  rules  regulations made thereunder   third party information  data made
+available     proves   offence  contravention  committed without  knowledge
+    exercised due diligence  prevent  commission   offence  contravention
+        explanationfor  purposes   section
+               network service provider means  intermediary
+              b third party information means  information dealt    network service
+                   provider   capacity   intermediary
+         power  seize  arrest  public place etcany investigation taken   act 
+controller   officer  government authorized   government   police officer  
+ rank   subinspector  police   opinion   offence   committed  
+committed  offence   punishable   act   committed   written 
+reasons may enter  public place  search  seize  germane materials  arrest 
+concerned person   offender
+         procedure  search etcthe provisions   code  criminal procedure shall subject
+  provisions   act apply  far  may   relation   investigations entry search 
+arrest made   act
+                                                  part
+                      establishment  cyber appellate tribunal etc
+         establishment  cyber appellate tribunal  government shall  notification
+  official gazette establish one   cyber appellate tribunals   known  appellate
+tribunal
+             cyber tribunal established  subsection    section shall consist  one
+chairman  two members   appointed   government
+              person shall   qualified   chairman   cyber appellate tribunal unless
+       qualified    judge   supreme court  one   members shall 
+serving  judicial department  retired district judge    member shall   person 
+adequate knowledge  experience  information  communication technology
+             chairman  members shall  retained   positions since  date  joining
+  less  three years     five years   terms  reference shall 
+determined   government
+         procedure  powers  cyber appellate tribunal cyber appellate tribunal shall
+  power  hear appeal  dissolving  verdict  order given  cyber tribunal 
+session court   case may 
+              case  hearing  dissolving  appeal cyber appellate tribunal shall follow 
+procedure defined  rules    rules   exist   case appellate tribunal shall maintain
+ procedure  relation  hearing  dissolving  criminal appeal followed   high court
+division   supreme court
+             cyber appellate tribunal shall   power  retain revoke alter  rectify 
+verdict  order made   cyber tribunal
+              decision made   appellate tribunal shall  final
+         appeal procedure  case   establishing cyber appellate tribunalif  cyber
+appellate tribunal    established whatever contained   code  criminal procedure
+                                                                                                          
+
+appeal shall  lodged   high court division  supreme court   verdict  order given
+  session court  cyber tribunal   case may 
+                                               ix
+                                         miscellaneous
+        public servantsthe controller  deputy controller  assistant controller  
+person empowered   act  exercise  power  carrying   tasks shall  deemed 
+ public servants within  meaning  section   penal code
+        protection  action  good faithno suit prosecution   legal proceedings shall lie
+  government  controller  deputy controller  assistant controller   person
+acting   behalf  anything    good faith done  intended   done  pursuance 
+ act   rule regulation order  direction made thereunder
+        augmented use   definitions used   actsfor  purpose   act
+                definition  document  section   penal code  act xlv  
+                   also includes  document generated  prepared  electronic machine 
+                   technology
+              b  definition  document  section   evidence act  act    also
+                   includes  document generated  prepared  electronic machine  technology
+              c  definition  bankers books  section  clause   bankers books
+evidence act  act xviii   also includes  books viz ledgers daybooks cashbooks
+accountbooks    books generated  prepared  electronic machine  technology
+        power  government  make rulesthe government may  notification  
+official gazette    electronic gazette make       following rules  carrying
+   act
+                manner    information  matter may  authenticated  
+                   document may  signed  means  digital signature
+              b  electronic form   filing issue grant  payment
+              c  manner  format   electronic records shall  filed  issued  
+                   method  payment
+              d  matters relating   type  digital signature manner  format   
+                   may  affixed
+              e  qualifications experience  terms  conditions  service   controller
+                   deputy controllers  assistant controllers
+              f  standards   observed   controller
+              g  requirements   applicant must fulfill
+              h  period  validity  licence
+                format    application may  made
+              j  amount  fees payable  application  licence
+              k   document  shall accompany  application  licence
+              l  form  application  renewal   licence   fee payable
+              m  form   application  issue   digital signature certificate  
+                   amount  fees payable
+              n  qualifications  experience  chairman  members  cyber appeal
+                   tribunal
+                                                                                                     
+
+              o  form   appeal may  filed
+              p  procedure  investigation
+              q   necessary matters
+        power  controller  make regulationsthe controller  prior approval  
+government  notification   official gazette    electronic gazette make    
+  following regulations
+                particulars relating  maintenance  database containing  disclosure record 
+                  every certify authority
+              b  conditions  restrictions subject    controller may recognize 
+                  foreign certifying authority
+              c  terms  conditions subject    licence may  granted
+              d  standards   observed   certifying authority
+              e  manner    certifying authority shall disclose  particular matters
+              f  particulars  statement  shall accompany  application
+        original script  english scriptthe original script shall   bengali   shall 
+ dependable english transcription  
+       provided   conflict arises  bengali  english scripts  bengali script shall get
+domination
+                                                                                                      
+

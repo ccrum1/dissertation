@@ -1,0 +1,389 @@
+unofficial translation
+                              official gazette  bih 
+based  articles iv ii  iii   constitution  bosnia  herzegovina 
+parliamentary assembly  bosnia  herzegovina   session   house 
+representatives held  november      session   house  peoples
+held  december   adopted 
+                law   protection  personal data
+ 
+general provisions
+purpose   law
+                                            
+ purpose   law   secure   territory  bosnia  herzegovina  every
+individual whatever  nationality  residence respect   rights  fundamental
+freedoms   particular  right  privacy  regard   processing  personal
+data relating   data protection
+scope   law
+                                            
+         law shall apply   processing  personal data 
+              public bodies   level  bosnia  herzegovina
+        b      public bodies   federation  bosnia  herzegovina  republika
+                srpska   district  brcko  bosnia  herzegovina insofar  
+                minimum level  data protection provided   law   governed 
+                 legislation   federation  bosnia  herzegovina  republika
+                srpska   district  brcko  bosnia  herzegovina
+        c      private bodies   federation  bosnia  herzegovina 
+                republika srpska   district  brcko  bosnia  herzegovina
+                insofar   minimum level  data protection provided   law 
+                 governed   legislation   federation  bosnia 
+
+                herzegovina  republika srpska   district  brcko  bosnia 
+                herzegovina
+definitions
+                                            
+  purposes   law  particular
+        personal data shall mean  information relating   identified 
+        identifiable natural person hereinafter data subject  identifiable person 
+        one  can  identified directly  indirectly  particular  reference  
+        personal identification number   one   factors specific   physical
+        physiological      mental      economic       cultural       social     identity
+        special categories  data shall mean  personal data relating 
+              racial origin nationality national  ethnic origin political opinion 
+                party affiliation trade union affiliation religious   belief health
+                sexual life 
+ b             criminal conviction
+         processing  personal data processing shall mean  operation  set 
+         operations performed upon personal data   collection recording
+         organization storage adaptation  alteration retrieval consultation use
+         disclosure  transmission dissemination  otherwise making available
+         alignment            combination      blocking      erasure       destruction
+        data access means  operation  enables  third party  view personal
+        data without  right  use  thereafter   purposes
+        controller shall mean  natural  legal person public authority agency  
+         body  alone  jointly  others determines  purposes  means
+          processing  personal data   purposes  means  processing
+         determined  national  european community regulations  controller 
+         specific criteria   nomination may  designated  national  european
+        community law
+
+       processor shall mean  natural  legal person public authority agency  
+        body  processes personal data  behalf   controller
+        data subjects consent shall mean  freely given specific  informed
+       indication   wishes    data subject signifies  agreement 
+       personal        data        relating                               processed
+ ii
+basic principles  data protection
+quality  data
+                                           
+       personal data undergoing automatic processing shall 
+          obtained  processed fairly  lawfully
+ b         stored  specified  legitimate purposes   used   way
+            incompatible   purposes
+ c         adequate relevant   excessive  relation   purposes  
+              stored
+ d         accurate   necessary kept   date
+ e         preserved   form  permits identification   data subjects  
+            longer   required   purpose    data  stored
+data processing
+                                           
+       personal data shall   processed unless
+           data subject  unambiguously given  consent 
+ b         processing  necessary   performance   contract    data
+            subject  party   order  take steps   request   data subject prior
+             entering   contract 
+ c         processing  necessary  compliance   legal obligation   
+            controller  subject 
+
+    d      processing  necessary  order  protect  vital interests   data
+            subject 
+    e      processing  necessary   performance   task carried    public
+            interest    exercise  official authority vested   controller   
+            third party    data  disclosed 
+    f      processing  necessary   purposes   legitimate interests pursued 
+             controller    third party  parties    data  disclosed
+            except   interests  overridden   interests  fundamental
+            rights  freedoms   data subject
+personal data disclosing racial origin political opinion religious   belief  well 
+personal data  health  sexual life   proceeded automatically unless 
+appropriate protection  provided  law  shall also apply  personal data related 
+criminal convictions
+personal data shall   transferred  files  records shall   consolidated
+merged connected  otherwise conjoined unless  conditions set   paragraphs 
+      complied 
+para  shall apply   consolidation  files processed    controller
+purpose  data processing
+                                            
+    personal data shall  processed    specified purpose  exercise   right 
+     compliance   legal obligation   case  compulsory data transfer 
+    access  legal rule ordering  data handling shall also  indicated   person
+    obliged  furnish  data
+     personal data shall  processed    indispensably required 
+    satisfying  purpose  processing     way compatible   purpose
+    data shall   used excessively  longer   required   purpose
+                                            
+     collecting  personal data  data subject shall  advised whether 
+    collection  voluntary  compulsory   case   compulsory supplying 
+    personal data  title   relevant law ordering data processing shall  stated
+     data subject shall  notified   purpose   processing   data  
+     identity   controllers   processors  whether  data  collected
+      data subject   third party
+
+data transfer abroad
+                                           
+   personal data shall   transferred   country   data controller  data
+   processor abroad whatever  data medium   mode  transmission  unless
+    conditions      law  complied   provided   
+   principles  data protection  obeyed   foreign controller  respect  
+   data
+technical data processing
+                                           
+    obligations   data processor concerning  processing  personal data 
+   determined   data controller according   provisions   law  
+   applicable laws  data processing  data controller  responsible   legality
+     instructions concerning  operations performed upon personal data
+    data processor  responsible   processing  personal data  
+   instruction   data controller  fulfilling  functions  data processor shall
+    delegate  responsibilities   data processors unless explicitly instructed 
+       data controller
+data security
+                                          
+    data controller  within  competence  data processor shall ensure data
+   security  shall take  technical  organisational measures  develop rules 
+   procedure required   enforcement   law   regulations concerning
+   data protection  secrecy
+   data   particular special categories  data shall  protected 
+   unauthorised access alteration transfer deletion damage  destruction
+                                          
+   data processing operations concerning special categories  data  referred   art
+    shall  examined   data protection commission following receipt  
+   notification   controller   data    processed  processing
+   operations must   started   data protection commission  completed
+    examination  two months  passed since  commission   notified
+
+   prior  commencement    data processing operation  data controller
+   shall notify  data protection commission 
+             purpose   data processing
+       b      type  processed data   legal basis therefor
+       c      range  data subjects
+       d      source  data
+       e      type  transferred data  recipients   data   legal basis
+               transfer
+       f      deadlines  deletion  certain types  data
+       g      name  address  data controller   data processor  actual
+              place  data processing including technical processing  well  
+              activity  data processor related   processing  personal data
+       h     proposed transfers  data  third countries
+    change  data specified  paragraph  shall  reported   data protection
+   commission within  days
+access  personal data
+                                          
+    data controller shall inform  data subject   processing    
+   personal data performed either   data controller    data processor 
+   purpose   processing  legal basis  duration  name  address 
+   activity  connection   data processing   data processor  well  
+   received  will receive data    purpose  length  records  transfer
+     duration  obligation  give information may  restricted  laws  data
+   processing  duration shall   less  five years  regard  personal data
+    less  twenty years  regard  special categories  data
+                                          
+    data subject shall   right 
+            request information   processing     personal data
+       b     request  rectification     personal data  deletion thereof
+               demonstrated   incorrect  processed unlawfully
+    data controller shall furnish  information  writing   intelligible form
+   within  days   submission   request
+   information referred   paragraph     shall  free except  
+   repeatedly requested    person    area    controller
+   within  period  one year
+
+                                         
+   data controller shall  deny access  information   data subject except
+   provided  law
+   data controller shall state  reason  denial   information requested
+   controller shall annually report  applications denied   data protection
+  commission
+                                         
+   data controller shall correct inaccurate data
+  personal data shall  deleted 
+             processing   data  unlawful 
+      b       data   obtained   unlawful manner 
+      c      requested   data subject 
+      d  purpose  processing  ceased
+                                         
+   data subject    person   data  transferred  processing shall
+   informed   rectification  deletion   data  information may 
+  dispensed   view   purpose  processing   legitimate interest  data
+  subject   infringed thereby
+                                         
+   individual rights   data subject articles     may  restricted 
+  law   interest   external  internal security   state   areas 
+  national defence national security crime prevention  criminal investigation  well
+     monetary interest   state  protecting  data subject   rights 
+  freedoms  others  restrictions   permissible   extent   
+  necessary   democratic society  one   listed purposes
+compensation
+
+                                         
+   data controller shall pay compensation   damage caused   data subject 
+   result   processing     data  data controller  liable  
+  damage   data subject caused   data processor  data controller may 
+  exempted   liability  whole   part   proves     responsible
+    event giving rise   damage
+   compensation shall  paid  damage caused   injured persons intentional
+   seriously negligent conduct
+ iii
+data protection commission
+                                         
+   council  ministers  bosnia  herzegovina hereinafter  council 
+  ministers shall   proposal   ministry  civil affairs 
+  communications appoint  commission  data protection   monitor  access
+    transfer  personal data   called  data protection commission
+  hereinafter  commission  members   data protection commission
+  may   citizens  bosnia  herzegovina   shall   powers
+  duties  functions  set    
+  members   commission shall  independent  impartial  shall  
+  elected officials  hold  political mandate
+   commission shall  five members  will  appointed   council 
+  ministers  members   commission shall hold office  three years
+   members   commission shall   least  university degree  
+  selected upon  basis   professional experience  conducting  supervising
+  proceedings involving data protection   demonstrated ability  exercise 
+  function within  appeals panel three members   commission must 
+  qualified lawyers
+   commission shall decide  simple majority
+   members   commission may  removed  office   proposal  
+  council  ministers  council  ministers shall submit  proposal  removal
+    member   data protection commission   house  peoples  
+
+parliamentary assembly  bosnia  herzegovina  grounds  removal  
+member   commission shall  conviction   member  serious crime
+physical  psychological incapacity  persistent failure  act   fulfilling  
+office
+ investigating  complaint  commission shall  regard   rights  
+accused person   particular  following
+             informed promptly   language   understands  
+        detail   nature  cause   accusation  
+    b         adequate time  facilities   preparation   defence
+    c        defend   person   legal assistance   
+        choosing      sufficient means  pay  legal assistance  
+        given  free   interests  justice  require
+    d        examine   examined witnesses     obtain 
+        attendance  examination  witnesses   behalf   
+        conditions  witnesses  
+    e          free assistance   interpreter    understand 
+        speak  language used  court   proceedings
+                                       
+ commission shall
+              observe  implementation   law   laws  data
+                processing
+    b          examine complaints lodged   commission
+    c          present  report  data protection   parliamentary assembly 
+                bosnia  herzegovina annually
+                                       
+  commission shall monitor  conditions  protection  personal data present
+ proposal  adoption  modification  legislation concerning data processing 
+ give opinion   draft legislation
+  commission observing  unlawful processing  data shall require 
+ controller  discontinue  processing  controller shall take  necessary
+ measures without delay  inform  commission  writing within  days
+ thereof
+
+                                          
+    exercising  functions  commission may request  controller  processor 
+   furnish  information   matter  may inspect  documents  records
+   likely  bear  personal data
+    commission may enter  premises  data  processed  property
+    premises  nonstatutory data controllers may   entered  inspected
+    business hours
+   state  official secrets shall  prevent  commission  exercising  rights
+   stated      provisions  secrecy shall bind   well  cases
+   affecting state  official secrets  members   commission shall exercise 
+   rights  person
+    authorities  obliged  support  commission  carrying   duties upon
+   request
+                                          
+   anyone may apply   commission  case  violation     rights   
+   direct danger thereof concerning  process     personal data
+    data protection commission may
+                   hear  applicant
+             b      call witnesses  experts   deems necessary
+             c      ask   obtain   authorities concerned  relevant
+                     information
+   decisions   commission shall 
+                    subject   judicial review   state court  bosnia 
+                      herzegovina
+      b              reasoned  legal grounds
+      c              notified   appellant within  days
+    one shall suffer  prejudice   grounds     application   data
+   protection commission
+ iv
+data processing  research institutes
+
+                                           
+     personal data collected  stored  purposes  scientific research  statistics
+     shall   used   purposes
+     personal data  much    possible  regard   research shall 
+     anonymised data capable  identifying  specified  specifiable natural person
+     shall  stored separately  data shall   connected   data except
+        required   purposes  research
+      organisation   person performing scientific research may disclose information
+     obtained  personal data  consented    data subject   data 
+     processed solely  purposes  scientific research   kept  personal form  
+     period    exceed  period necessary   sole purpose  creating
+     statistics
+ v
+penalty provisions
+offenses
+                                           
+     whoever
+                     unlawfully transfers facilitates access  exploits  uses personal
+                 data    put  hisher care   become accessible 
+                 himher solely due  hisher professional involvement  electronic data
+                 processing 
+        b             unlawfully discloses information  another person obtained 
+                 data    put  hisher care   become accessible 
+                 himher solely due  hisher professional involvement  electronic data
+                 processing     fined  punished  imprisonment  exceeding
+                 two years
+shall  punished   fine   amount ranging  km   km 
+ procedure    may   initiated upon  request   affected
+person
+
+                                     
+whoever
+               starts data processing without  complied   duty 
+          notifying  data protection commission  advance 
+   b            starts data processing without  obtained permission  
+          data protection commission  cases     necessary 
+   c            continues data processing  spite   fact   data
+          protection commission  legally prohibited  processing 
+   d              implement  legally binding decision  instructs 
+          provide information  stored data  rectify data   delete data
+   e            transmits personal data abroad without  permission   data
+          protection commission 
+   f            violates  obligations  inform data subjects  personal data
+          rectify incorrect data delete data 
+   g            severely violates  obligation  ensure confidentiality  secrecy
+           processed data 
+   h              cooperate   data protection commission refuses
+           provide   requested information  refuses  let  data
+          protection commission enter  premises shall  punished   fine 
+           amount ranging  km   km 
+    vi
+   final provisions
+                                          
+ ministry  civil affairs  communications  consultation   data
+protection commission shall issue bylaws   following areas
+               data security  data processing   institutions  bosnia 
+                 herzegovina
+   b              matters necessary  implement  law
+ commission may issue guidelines   tasks  rules   appointment 
+ personal data protection official
+
+procedure  accessing information  public interest
+                                        
+     provisions   law shall  taken  account   application   law
+     free access  information  bosnia  herzegovina official gazette  bih
+    number 
+                                        
+     law shall enter  force  days   date     published  
+    official gazette  bih   shall also  published  official gazettes  
+    entities  brcko district  bosnia  herzegovina
+    ps bih number 
+    december  
+    sarajevo
+    speaker                                                 speaker
+      house  peoples                           house  representatives
+      parliamentary assembly  bih   parliamentary assembly  bih
+    sejfudin tokic                                          zeljko mirjanic
+

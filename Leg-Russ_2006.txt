@@ -1,0 +1,716 @@
+                                  federal law   july  n fz  personal data
+                                                      adopted   state duma   july 
+                                                 approved   federation council   july 
+                                                   edition  federal laws <U+043E><U+0442>  n fz
+                                                  <U+043E><U+0442>  n fz <U+043E><U+0442>  n  fz
+                                                 <U+043E><U+0442>  n  fz <U+043E><U+0442>  n  fz
+                                                  <U+043E><U+0442>  n  fz <U+043E><U+0442>  n  fz
+                                                 <U+043E><U+0442>  n  fz <U+043E><U+0442>  n  fz
+  general provisions
+  scope  application   federal law
+  federal law regulates activities related   processing  personal data  federal state government bodies state government bodies 
+constituent entities   russian federation   state bodies hereinafter referred   state bodies  local government bodies
+hereinafter referred   municipal bodies  legal entities  physical persons  automatically including  data telecommunications
+networks  manually provided  manual data processing    nature similar  automatic data processing ie allows users  search
+personal data recorded  tangible medium  contained  cardcatalogues   systematized collections  personal data  accordance 
+ specified algorithm     access   personal data
+  federal law   apply  activities related 
+ personal data processing  individuals exclusively  personal  family needs provided   processing   infringe upon  rights
+    individuals whose data   processed
+ storage arrangement registration  use  personal data contained   files kept   state archives   russian federation  
+    archive files  envisaged   russian laws   archive system
+ ceased    force   july 
+ processing  personal data   referred  state secrecy according   established procedure
+ provision  authorised bodies  information   activities  courts   russian federation  accordance   federal law  
+
+   december  n fz  provision  access   information  courts activities   russian federation
+  purpose   federal law
+ purpose   federal law   procure  protection   persons rights  liberties  processing hisher personal data including 
+right  privacy personal  family secrecy
+  basic terms   federal law
+  federal law  following main terms  used
+ personal data   information referring directly  indirectly   particular  identified individual hereinafter referred   personal data
+     subject
+ operator  state agency municipal authority legal entity  individual  independently   cooperation   entities organizes andor
+     processes personal data  well  determines  purposes  scope  personal data processing
+ personal data processing   action operation   combination  actions operations performed  automatically  manually 
+     personal data including collection recording arrangement accumulation storage specification updating changing extraction use
+     distribution including transfer anonymizing blocking  destruction  personal data
+ automated personal data processing  personal data processing  means  computer technology
+ distribution  personal data  actions related  making  data available  indefinite range  persons
+ provision  personal data  actions related  making  data available   definite person   definite range  persons
+ blocking  personal data   temporary cessation  personal data processing except   cases   processing  needed 
+     personal data specification
+ destruction  personal data  actions performed  personal data contained   respective database  prevent  data  
+     restored   actions aimed   physical destruction   tangible medium  personal data
+ anonymization  personal data  actions performed  personal data    permit  identity   individual concerned   verified
+     solely   anonymized data
+ personal data information system   database  contains personal data  well  information technologies  hardware used  data
+     processing
+
+  crossborder transfer  personal data  crossborder transfer  personal data   foreign state agency foreign legal entity  individual located
+        foreign state
+   legislative grounds  protection  personal data   russian federation
+   russian legislation  data protection  based   constitution   russian federation  international treaties entered   
+ russian federation  comprises  federal law   federal laws  regulate particular issues related  personal data processing
+ see  convention  european council  protection  individuals whose data   processed automatically strasburg  january 
+   grounds   pursuant   federal laws state agencies  bank  russia local authorities may within  scope  
+competence adopt regulatory legal acts normative acts legislative acts hereinafter referred   regulations  respect  particular issues
+related  personal data processing  regulations shall  include  provisions   restrict personal data subjects rights place
+limitations    provided  federal laws  operators activities  imposing responsibilities    provided  federal laws 
+operators  shall  subject  official publishing
+   specific features  personal data manual processing may  prescribed  federal laws   regulations   russian federation 
+ account   provisions   federal law
+   international treaties entered    russian federation establish regulations different   provided   federal law 
+ regulations   international treaties shall  applied
+   principles  conditions  personal data processing
+   principles  personal data processing
+  personal data shall  processed   legal  equitable basis
+  personal data processing shall  restricted  achieving specific predetermined  legal purposes    allowed  process personal data
+   purpose incompatible   one  personal data collection
+     allowed  combine  data bases containing personal data   processed  incompatible purposes
+   shall  processed  personal data  comply   purposes   processing
+
+  scope  character  personal data   processed shall comply   intended purposes   data processing  personal data
+  processed shall   irrelevant   declared purposes   processing
+   course  personal data processing  shall  necessary  ensure  personal data accuracy  sufficiency   case  need 
+adequacy  processing purposes operators shall take  required measures  ensure  adoption  delete  specify incomplete 
+inaccurate data
+ personal data shall  stored   form  allows verification   identity  personal data subjects    extent necessary  processing
+purposes unless  personal data storage time   established  federal laws agreements concluded  personal data subjects  
+beneficiary  guarantor party personal data shall  destroyed  depersonalized upon achieving  set goals  well    goals cease
+  relevant unless otherwise stipulated  federal laws
+  conditions  personal data processing
+ personal data processing shall  subject  compliance   principles  rules stipulated   federal law personal data processing
+shall  allowed   following cases
+ processing  personal data  carried    consent   data subject   processing   personal data
+ personal data processing  required  achieving  purposes stipulated   international agreement   russian federation    law
+       exercise  fulfillment  functions powers  obligations imposed  operators   russian federation law
+ personal data processing  required  administration  justice  enforcement   judicial act   act  another body  official  
+     enforceable  accordance   legislation   russian federation concerning enforcement proceedings hereinafter referred  
+     enforcement   judicial act
+ personal data processing  required  rendering state  municipal services  accordance   federal law   july  n fz
+      provision  state  municipal services  ensuring  provision   service   registration  personal data subjects  
+     uniform portal  state  municipal services
+ personal data processing  required  performance   agreement    personal data subject   party     data
+     subject   beneficiary  surety   conclusion   agreement   initiative   personal data subject   agreement   
+     personal data subject shall   beneficiary  surety
+ personal data processing  required  protection  life health   vital interests   personal data subject  case    possible 
+     obtain hisher consent
+
+ processing  personal data  required  realization   rights  legitimate interests   operator  third parties    attainment 
+    socially significant objectives provided    cause  rights  freedoms   personal data subject   violated
+ processing  personal data  required   purposes  professional activities   journalist    legitimate activities   mass
+    medium    purposes  scientific literary   creative activity provided    cause  rights  freedoms   personal
+    data subject   violated
+ processing  personal data  carried   statistical   research purposes   exception   purposes specified    
+     federal law   condition  compulsory depersonalization   personal data
+ public access   personal data  processed   granted     request   personal data subject hereinafter referred 
+     personal data made public   personal data subject
+  personal data  processed  subject  publication  compulsory disclosure  accordance  federal laws
+ particular considerations relating   processing  special categories  personal data   processing  biometric personal data 
+established  articles      federal law respectively
+  operator shall   right  assign  processing  personal data  another person   consent   personal data subject except
+ otherwise provided  federal laws   basis   contract concluded   person including  state  municipal contract   means 
+adoption   appropriate act   state  municipal body hereinafter referred   instruction   operator  person carrying  
+processing  personal data   instruction   operator shall  obliged  comply   principles  rules   processing  personal
+data   stipulated   federal law  operators instruction shall set   list  actions operations   performed  personal
+data   person carrying   processing  personal data   purposes   processing shall establish  obligation   person 
+observe  confidentiality  personal data   ensure   personal data remain secure   processed  shall specify 
+requirements relating  protection  processed personal data  accordance      federal law
+  person carrying   processing  personal data   instruction   operator shall   obliged  obtain  consent   data
+subject   processing   personal data
+   operator assigns  processing  personal data  another person liability   personal data subject   actions   person
+shall  borne   operator  person carrying   processing  personal data   instruction   operator shall  liable   operator
+  confidentiality  personal data
+operators   persons   obtained  access  personal data shall  obliged  refrain  disclosing  third parties 
+disseminating  personal data without  consent   personal data subject except  otherwise provided  federal laws
+
+   publicly accessible sources  personal data
+ publicly accessible sources  personal data including directories  address books may  created   purposes  information provision
+subject   written consent   personal data subject  surname first name  patronymic year  place  birth address subscriber
+number occupation details   data subject   personal data communicated   personal data subject may  included  publicly
+accessible sources  personal data
+  details   personal data subject shall   time  excluded  publicly accessible sources  personal data   request   personal
+ data subject   decision   court   authorized state bodies
+        consent   personal data subject   processing   personal data
+  personal data subject shall decide whether    provide  personal data  shall give consent   processing thereof freely  
+ will     interest consent   processing  personal data shall  specific informed  conscious consent   processing 
+personal data may  given   personal data subject   representative   form  provides evidence   receipt except 
+otherwise established  federal laws  consent   processing  personal data  received   representative   personal data
+subject  authority   representative  give consent  behalf   personal data subject shall  verified   operator
+ consent   processing  personal data may  withdrawn   personal data subject   event   personal data subject withdraws
+ consent   processing  personal data  operator shall   right  continue  processing  personal data without  consent 
+ personal data subject     grounds set   clauses     part     part      part      
+federal law exist
+  obligation  provide  proof   receipt   consent   personal data subject   processing   personal data   proof  
+existence  grounds specified  clauses     part     part      part       federal law shall 
+assigned   operator
+  cases provided   federal laws  processing  personal data shall  carried     written consent   personal data
+subject  consent   form   electronic document signed   electronic signature  accordance   federal law shall  deemed
+equivalent   written consent  paper containing  handwritten signature   personal data subject  written consent   personal data
+subject   processing   personal data shall contain  particular
+   surname first name  patronymic   address   personal data subject  number   principal identification document 
+     information    date  issue   document   body  issued 
+   surname first name  patronymic   address   representative   personal data subject  number   principal identification
+     document information    date  issue   document   body  issued   details   power  attorney  
+     document confirming  representatives authority  consent  received   representative   data subject
+
+   name  surname first name  patronymic   address   operator   receiving  consent   personal data subject
+    purpose  personal data processing
+    list  personal data   processing    consent   personal data subject  given
+   name  surname first name  patronymic   address   person    carry   processing   personal data  
+     instruction   operator   processing    assigned    person
+    list  actions involving personal data   performance   consent  given   general description   methods  personal data
+     processing     used   operator
+    period    consent   personal data subject  given   procedure  withdrawal   consent except  otherwise
+     established  federal laws
+    signature   personal data subject
+  procedure   receipt   form   electronic document   consent   personal data subject   processing   personal
+data   purpose   provision  state  municipal services  services   necessary  essential   provision  state 
+municipal services shall  determined   government   russian federation
+   personal data subject  legally incapable  consent   processing   personal data shall  given   legal representative 
+ personal data subject
+   personal data subject  died  consent   processing   personal data shall  given   heirs   personal data
+subject unless  personal data subject gave  consent    alive
+  personal data may  obtained   operator   person     personal data subject  condition   provision  
+operator   confirmation   existence  grounds specified  clauses     part     part      part     
+ federal law
+        special categories  personal data
+  processing  special categories  personal data concerning racial  ethnic origin political opinions religious  philosophical beliefs
+health  sexual life shall   permitted except   instances envisaged  part    
+    processing   special categories  personal data referred   part     shall  permitted  instances 
+    subject   personal data  given  written consent   processing   personal data
+    personal data   made public   personal data subject
+       processing  personal data  necessary  connection   implementation  international agreements   russian federation
+            readmission
+       processing  personal data  carried   accordance  federal law  fz   january  concerning  russian
+           census
+
+      processing  personal data  carried   accordance   legislation concerning state social assistance labour legislation  
+         legislation   russian federation concerning stateprovided pensions  retirement pensions
+   processing  personal data  necessary  protect  life health   vital interests   personal data subject   life health 
+     vital interests   persons    impossible  obtain  consent   personal data subject
+   processing  personal data  carried    purposes  preventative medicine medical diagnosis   provision  medical 
+    social care services provided   processing  personal data  carried    person   professionally involved  medical activities
+       duty  accordance   legislation   russian federation  maintain medical confidentiality
+   processing  personal data  members participants   social association   religious organization  carried    social
+    association  religious organization  question acting  accordance   legislation   russian federation   purpose  
+    achievement  legitimate goals   provided    foundation documents provided   personal data   disseminated
+    without  written consent   personal data subjects
+   processing  personal data  necessary  order  enable  rights   personal data subject   third parties   established 
+    exercised   connection   administration  justice
+   processing  personal data  carried   accordance   legislation   russian federation concerning defence security
+    counterterrorism transport safety anticorruption measures investigative activities  enforcement proceedings   penal legislation 
+     russian federation
+   processing  personal data  carried   accordance  legislation concerning compulsory types  insurance  insurance
+    legislation
+   processing  personal data  carried   cases provided    legislation   russian federation  state bodies municipal bodies
+     organizations   purpose  placing children deprived  parental care   care  families  citizens
+  processing  personal data concerning criminal convictions may  carried   state bodies  municipal bodies within  limits  
+powers conferred    accordance   legislation   russian federation    persons  instances  according 
+procedures   determined  accordance  federal laws
+  processing  special categories  personal data    carried    instances envisaged  parts       shall
+ immediately terminated   circumstances  reason    processing  carried    eliminated except  otherwise
+established  federal laws
+       biometric personal data
+ information concerning  persons physiological  biological characteristics   heshe may  identified biometric personal data 
+  used   operator  establish  identity   personal data subject may  processed  subject   written consent   personal
+data subject except   cases provided   part    
+  processing  biometric personal data may  carried  without  consent   personal data subject  connection  
+implementation  international agreements   russian federation  readmission  connection   administration  justice  
+enforcement  judicial acts   cases provided    legislation   russian federation concerning defence security counterterrorism
+
+transport safety anti corruption measures investigative activities  state service  penal legislation   russian federation  
+legislation   russian federation concerning  procedure  exit   russian federation  entry   russian federation
+        crossborder transfer  personal data
+  crossborder transfer  personal data   territories  foreign states    parties   council  europe convention  
+protection  individuals  regard  automatic processing  personal data  well   foreign states providing adequate protection  
+data subjects rights shall  carried   accordance   federal law  may  prohibited  restricted   purposes  protecting 
+foundations   constitutional order   russian federation public morality  health rights  legitimate interests  citizens  providing
+ national defence  state security
+  authorized body   protection   personal data subjects rights shall approve  list  foreign states     parties  
+council  europe convention   protection  individuals  regard  automatic processing  personal data  ensure adequate
+protection   data subjects rights  state     party   council  europe convention   protection  individuals  regard
+ automatic processing  personal data may  included   list  foreign states  provide adequate protection   personal data
+subjects rights   current legal rules   relevant state  measures taken   security  personal data conform   provisions  
+abovementioned convention
+  operator shall  obliged  satisfy    foreign state  whose territory personal data    transferred provides adequate
+protection   personal data subjects rights  commencing  crossborder transfer  personal data
+  crossborder transfer  personal data   territories  foreign states    provide  adequate protection   personal data
+subjects rights may  carried    following cases
+     personal data subject  given hisher consent   crossborder transfer  hisher personal data
+    cases provided   agreements   russian federation
+    cases provided   federal laws    necessary  protect  foundations   constitutional order   russian federation 
+     provide  national defence  state security  secure  stable  safe operation   transport complex   protect  interests 
+      individual society   state   transport sphere  acts  unlawful interference
+     purpose   performance   contract    personal data subject   party
+     purpose  protecting life health   vital interests   personal data subject    persons    impossible  obtain
+      written consent   personal data subject
+        special provisions relating   processing  personal data  state  municipal personal data filing systems
+ state bodies  municipal bodies shall within  limits   powers  established  accordance  federal laws create state 
+municipal personal data filing systems
+ federal laws may establish special provisions relating   recording  personal data  state  municipal personal data filing systems
+including  use  various methods  designating personal data contained   particular state  municipal filing system  relating   particular
+
+data subject
+ human  civil rights  freedoms may   limited  reasons relating   use  various methods  processing  personal data  
+designating personal data contained  state  municipal personal data filing systems  relating   particular data subject  shall  
+permissible  use methods  designating personal data contained  state  municipal personal data filing systems  relating   particular data
+subject  injure  feelings  individual citizens  degrade human dignity
+   purpose  providing   exercise   personal data subjects rights  connection   processing   personal data 
+state  municipal personal data filing systems  may  created  state public register  legal status    procedure   use 
+ shall  established   federal law
+   rights   personal data subject
+        right  access   personal data subject   personal data
+  personal data subject shall   right  receive information referred   part     except  cases provided   part   
+  personal data subject shall   right  request  operator  rectify block  destroy  personal data   event   personal
+data  incomplete outofdate inaccurate  unlawfully obtained    needed   stated purpose   processing  shall  
+right  take measures provided   law  protect  rights
+  information referred   part     shall  provided   personal data subject   operator   accessible form  shall
+ contain personal data relating   data subjects except    lawful grounds   disclosure   personal data
+  information referred   part     shall  provided   personal data subject   representative   operator upon
+application  upon receipt   request   personal data subject   representative  request shall contain  number   principal
+identification document   personal data subject    legal representative information    date  issue   document   body
+ issued  information evidencing  personal data subjects relationship   operator number  contract date  conclusion  contract
+reference designation    information  information  otherwise confirms  processing   personal data   operator 
+ signature   personal data subject    representative  request may  sent   form   electronic document  signed  
+electronic signature  accordance   legislation   russian federation
+   information referred   part      processed personal data   provided   personal data subject 
+inspection upon  personal data subjects request  personal data subject may make   application  present   request  
+operator   purpose  receiving information referred   part      inspecting  personal data  earlier  thirty days 
+ initial application   sending   initial request unless  shorter time period  established   federal law  normative legal act adopted
+ accordance   federal law   contract    personal data subject   party       beneficiary  surety
+  personal data subject shall also   right  make   application  present   request   operator   purpose 
+receiving information referred   part        purpose  inspecting processed personal data   time period specified 
+
+part      elapsed   event   information   processed personal data   provided    inspection  full
+following  consideration   initial application  repeat request shall contain  addition   information referred   part    
+ explanation   sending   repeat request
+  operator shall   right  refuse  satisfy  repeat request   personal data subject   request   meet  conditions
+set forth  parts         refusal shall  reasoned  obligation  provide evidence   legitimacy   refusal  satisfy 
+repeat request shall lie   operator
+  personal data subject shall   right  receive information concerning  processing   personal data including information
+containing
+   confirmation   processing  personal data   operator
+    legal grounds   purposes   processing   personal data
+    purposes  methods used   operator   processing  personal data
+    name  location   operator  information  persons   employees   operator   access  personal data 
+       personal data may  disclosed   basis   contract   operator    basis   federal law
+    processed personal data relating   personal data subject  question   source     obtained unless  different
+     procedure   presentation   data  prescribed   federal law
+    period   processing   personal data including  period     kept
+    procedure   exercise   personal data subject   rights provided    federal law
+   information   actual  planned crossborder transfer  personal data
+   name  surname first name  patronymic   address   person carrying   processing  personal data   instruction 
+      operator   processing     intended   assigned    person
+  information provided    federal law   federal laws
+    right  access   personal data subject   personal data may  restricted  accordance  federal laws including 
+    processing  personal data including personal data obtained   result  investigative counterintelligence  intelligence activities 
+     carried    purposes  national defence state security   maintenance  public order
+    processing  personal data  carried    bodies   detained  personal data subject  suspicion  committing  crime
+       brought  criminal charge   personal data subject   imposed  measure  restraint   personal data subject
+     prior  bringing charges except  cases provided    criminal procedure legislation   russian federation   suspect 
+     accused person  permitted  inspect  personal data
+    processing  personal data  carried   accordance   legislation concerning  countering   legitimization laundering 
+     proceeds  crime   financing  terrorism
+
+    access   personal data subject   personal data  violate  rights  legitimate interests   persons
+    processing  personal data  carried   cases provided    legislation   russian federation concerning transport safety 
+      purpose  ensuring  stable  safe operation   transport complex  protecting  interests   individual society  
+     state   transport sphere  acts  unlawful interference
+  rights  data subjects   personal data  processed   purpose   market promotion  goods
+             work  services   purposes  political campaigning
+  processing  personal data   purpose   market promotion  goods work  services  means  making direct contact  
+potential consumer   aid  communications facilities   purposes  political campaigning shall  permitted   condition  
+prior consent   subject   personal data  processing  personal data shall  deemed   carried  without  prior consent 
+ personal data subject unless  operator  able  prove   consent  obtained
+  operator shall  obliged upon  request   data subject immediately  terminate  processing   personal data   referred
+  part    
+        rights  data subjects  relation  decisiontaking solely   basis  automated processing   personal data
+  shall  prohibited  making decisions  give rise  legal consequences   personal data subject  otherwise affect  rights 
+legitimate interests   taken solely   basis   automated processing  personal data except   instances envisaged  part   
+
+  decision  gives rise  legal consequences   personal data subject  otherwise affects  rights  legitimate interests may 
+taken solely   basis   automated processing   personal data    subject   personal data  given  written consent  
+instances envisaged  federal laws  also establish measures  safeguard  rights  legitimate interests   subject   personal
+data
+  operator shall  obliged  make clear   personal data subject  procedure whereby  decision  taken solely   basis  
+automated processing   personal data   possible legal consequences    decision  allow   opportunity  present 
+objection    decision   explain  means    personal data subject may protect  rights  legitimate interests
+  operator shall  obliged  consider  objection    referred   part     within thirty days   day  receiving 
+  notify  personal data subject   results   consideration   objection
+        right  appeal  actions  inaction   operator
+   personal data subject believes   operator  processing  personal data   compliance   requirements   federal
+law   otherwise violating  rights  freedoms  personal data subject shall   right  appeal   actions  inaction  
+operator   authorized body   protection   personal data subjects rights    courts
+
+  personal data subject shall   right  protection   rights  legal interests including  right  reimbursement  losses  
+compensation  moral injury   courts
+  obligations   operator
+        obligations   operator  collecting personal data
+  collecting personal data  operator shall  obliged  provide   personal data subject upon  request  information  
+provided   part       federal law
+   provision  personal data  compulsory  accordance  federal laws  operator shall  obliged  explain   personal
+data subject  legal consequences  refusing  provide  personal data
+  personal data   obtained     personal data subject  operator shall  obliged except  cases provided 
+ part      provide  following information   personal data subject  beginning  process  personal data
+   name  surname first name  patronymic   address   operator   representative
+    purpose  legal basis   processing   personal data
+    expected users   personal data
+    rights   personal data subject  established   federal law
+    source    personal data  obtained
+    operator shall  exempt   obligation  provide  information specified  part       personal data subject 
+    personal data subject   notified   processing   personal data   operator  question
+    personal data   received   operator   basis   federal law   connection   performance   contract  
+      personal data subject   party       beneficiary  surety
+    personal data   made public   personal data subject    obtained   public source
+    operator  processing  data  statistical   research purposes   purposes   professional activities   journalist  
+      purposes  scientific literary   creative activities provided     cause  rights  legitimate interests   personal
+     data subject   violated
+    provision   information provided   part       personal data subject  violate  rights  legitimate interests
+      third parties
+      measures  ensure  fulfillment   operator   obligations laid    federal law
+        operator shall  obliged  take  measures   necessary  sufficient  ensure  fulfillment   obligations laid  
+
+ federal law  normative legal acts adopted  accordance   federal law  operator shall independently determine  composition
+ range  measures   necessary  sufficient  ensure  fulfillment   obligations laid    federal law  normative
+legal acts adopted  accordance   federal law except  otherwise provided   federal law   federal laws  measures
+shall include  particular
+    appointment   operator    legal entity   person responsible  organizing  processing  personal data
+    issuance   operator    legal entity  documents setting   operators policies  regard   processing  personal data
+     bylaws   processing  personal data  bylaws establishing procedures aimed   prevention  detection  violations  
+     legislation   russian federation   remediation   consequences   violations
+    application  legal organizational  technical measures  ensure  security  personal data  accordance     
+     federal law
+    conduct  internal control   auditing   conformity   processing  personal data   federal law  normative legal acts
+     adopted  accordance   federal law requirements relating   protection  personal data  operators policies  relation  
+     processing  personal data   operators bylaws
+   evaluating damage  may  caused  data subjects   event   violation   federal law  correlating  damage 
+     measures taken   operator  ensure  fulfillment   obligations laid    federal law
+   ensuring  employees   operator   directly involved   processing  personal data  made aware   provisions  
+     legislation   russian federation concerning personal data including requirements relating   protection  personal data documents
+     setting   operators policies  relation   processing  personal data  bylaws   processing  personal data  
+     providing training   employees
+  operator shall  obliged  publish  otherwise provide unlimited access   document setting   policies  relation  
+processing  personal data   information concerning requirements   fulfilled  respect   protection  personal data  operator
+ collects personal data using data networks shall  obliged  publish   appropriate data network  document setting   policies 
+relation   processing  personal data  information concerning requirements   fulfilled  respect   protection  personal data
+  make  document available   appropriate data network
+  government   russian federation shall establish  range  measures aimed  ensuring  obligations laid    federal law
+ normative legal acts adopted  accordance   federal law  fulfilled  operators   state  municipal bodies
+  operator shall  obliged  present documents  bylaws    referred   part        provide  evidence
+  taking   measures referred   part     upon  request   authorized body   protection   personal data
+subjects rights
+        measures  ensure  security  personal data     processed
+       operator shall  obliged  processing data  take  arrange   taking   legal organizational  technical measures 
+ necessary  protect personal data  unlawful  accidental access   destruction alteration blocking copying provision 
+dissemination  personal data    unlawful actions  relation  personal data
+
+see federal tax service decree  n <U+043C><U+043C><U+0432>   russian federation   december  concerning protection  personal data
+   processed  automated data systems  tax authorities
+see regulation  methods  ways  information protection  personal data systems   approved  decree n  issued  
+federal service  technical  export control russia   february 
+   security  personal data shall  achieved  particular
+   identifying threats   security  personal data     processed  personal data filing systems
+   applying  organizational  technical measures  ensuring  security  personal data     processed  personal
+    data filing systems   necessary  meet  requirements relating   protection  personal data  shall  fulfilled  order 
+    ensure  levels  protection  personal data   established   government   russian federation
+   applying means  data protection   duly undergone conformity assessment procedures
+   assessing  effectiveness  measures taken  ensure  security  personal data prior   commissioning   personal data filing
+    system
+   keeping records  media containing personal data
+   detecting instances  unauthorized access  personal data  taking measures
+   restoring personal data    modified  destroyed   result  unauthorized access
+   establishing rules  access  personal data  processed   personal data filing system  providing   registration 
+    recording   actions performed  personal data   personal data filing system
+   monitoring measures taken  ensure  security  personal data   level  protection  personal data filing systems
+  government   russian federation shall taking  account potential damage   data subject  extent  content  personal
+data  processed  type  activity   context   personal data  processed   presence  threats   security  personal
+data establish
+ levels  protection  personal data     processed  personal data filing systems based  threats   security  
+data
+ requirements relating   protection  personal data     processed  personal data filing systems  shall  met 
+order   established levels  protection  personal data   provided
+see  instruction  organizing  protection  personal data contained  information systems  internal affairs bodies   russian
+federation   approved   decree <U+2116> issued   ministry  internal affairs   russian federation   july 
+see  standard requirements  organizing  providing  functioning  cryptographic facilities intended  protection  information 
+containing  data classified  state secret  case   usage  providing protection  personal data    processed  personal
+
+data systems   approved   decree n  issued   federal security service   russian federation   february
+
+see  guidelines  providing protection  personal data    automatically processed  personal data systems   help 
+cryptographic facilities   approved   decree n  issued   federal security service   russian federation  
+february 
+      requirements relating  physical media   storage  biometric personal data  relating  technologies   storage   data
+outside personal data filing systems
+       composition  content  organizational  technical measures  ensuring  security  personal data    
+processed  personal data filing systems   necessary  order  fulfill  personal data protection requirements established  
+government   russian federation  accordance  part       level  protection shall  established   federal
+executive body  charge  security   federal executive body  charge  technical counterintelligence  technical protection 
+information within  limits   powers
+      federal executive bodies  carry  functions involving  formulation  state policy  normative legal regulation   designated
+sphere  activity state government bodies  constituent entities   russian federation  bank  russia bodies  state nonbudgetary
+funds   state bodies shall within  limits   powers adopt normative legal acts    identify  threats   security 
+personal data  present  connection   processing  personal data  personal data filing systems used  particular types  activity
+taking  account  content  personal data   nature  methods   processing  personal data
+       addition   threats   security  personal data   identified  normative legal acts adopted  accordance  part   
+ associations unions   amalgamations  operators may issue decisions identifying  threats   security  personal data
+  present  connection   processing  personal data  personal data filing systems used  particular types  activity  members
+  associations unions   amalgamations  operators taking  account  content  personal data   nature  methods 
+ processing  personal data
+      drafts  normative legal acts    referred   part     shall  agreed   federal executive body  charge 
+security   federal executive body  charge  technical counterintelligence  technical protection  information drafts  decisions 
+  referred   part     shall  agreed   federal executive body  charge  security   federal executive body 
+charge  technical counter intelligence  technical protection  information  accordance   procedure established   government 
+ russian federation  decision   federal executive body  charge  security   federal executive body  charge  technical counter
+intelligence  technical protection  information   approve drafts  decisions    referred   part     shall 
+reasoned
+      control  supervision   performance  organizational  technical measures  ensuring  security  personal data  
+ established  accordance     regard   processing  personal data  state personal data filing systems shall  exercised
+  federal executive body  charge  security   federal executive body  charge  technical counterintelligence  technical
+protection  information within  limits   powers  without  right  inspect personal data   processed   personal data
+filing systems
+
+     federal executive body  charge  security   federal executive body  charge  technical counterintelligence  technical
+protection  information may  consideration   importance  content  personal data  processed  vested   decision  
+government   russian federation  powers  monitor  performance  organizational  technical measures  ensuring  security 
+personal data    established  accordance     regard   processing  personal data  personal data filing
+systems   used   context  particular activities     state personal data filing systems without  right  inspect
+personal data   processed   personal data filing systems
+     biometric personal data may  used  stored outside personal data filing systems    physical data storage media   
+use   storage technology  ensure  protection   data  unlawful  accidental access destruction alteration blocking
+copying provision  dissemination
+       purposes    threats   security  personal data shall  understood  mean  aggregate  conditions  factors
+ create  danger  unauthorized including accidental access  personal data  may result   destruction alteration blocking
+copying provision  dissemination  personal data    unlawful actions  connection   processing   personal data  
+personal data filing system  level  protection  personal data shall  understood  mean  aggregate indicator reflecting  requirements
+ shall  met  order  neutralize identified threats   security  personal data     processed  personal data
+information systems
+     obligations   operator upon  application   upon receipt   request   personal data subject 
+               representative    authorized body   protection   personal data subjects rights
+  operator shall  obliged  communicate   personal data subject   representative   manner laid      
+federal law information   possession  personal data relating   data subject   make  personal data available  inspection
+upon application   personal data subject   representative  within thirty days   date  receipt   request   personal data
+subject   representative
+   event   refusal  provide information   possession  personal data relating   particular data subject   provide 
+personal data   data subject   representative upon  application  upon receipt   request   personal data subject  
+representative  operator shall  obliged  give  reasoned reply  writing containing  reference   provision  part      
+federal law   another federal law    basis   refusal within  period  exceeding thirty days   day   application 
+ personal data subject   representative    date  receipt   request   personal data subject   representative
+  operator shall  obliged  make personal data relating   particular data subject available  inspection   data subject  
+representative free  charge within  period  exceeding seven working days   day    subject  personal data  
+representative presents evidence   personal data  incomplete inaccurate  outofdate  operator shall  obliged  make necessary
+amendments   personal data within  period  exceeding seven working days   day    subject  personal data  
+representative presents evidence   personal data  unlawfully obtained    needed   stated purpose   processing 
+operator shall  obliged  destroy  personal data  operator shall  obliged  notify  personal data subject   representative 
+amendments made  measures taken   take reasonable measures  notify third parties   personal data   data subject 
+ transferred
+
+  operator shall  obliged upon  request   authorized body   protection   personal data subjects rights  supply
+necessary information   body within thirty days   date  receipt   request
+     obligations   operator  remedy violations  legislation committed   processing  personal data   rectify
+              block  destroy personal data
+   event  personal data  found   unlawfully processed upon  application   personal data subject   representative 
+upon  request   personal data subject   representative    authorized body   protection   personal data subjects rights
+ operator shall  obliged  block unlawfully processed personal data relating   data subject   arrange     blocked  
+processing  personal data  carried   another person acting   operators instructions   moment   application  
+moment   receipt   request   period needed   inspection   event  personal data  found   inaccurate upon 
+application   personal data subject   representative  upon  request   request   authorized body   protection  
+personal data subjects rights  operator shall  obliged  block personal data relating   data subject   arrange     blocked 
+ processing  personal data  carried   another person acting   operators instructions   moment   application  
+ moment   receipt   request   period needed   inspection provided   blocking  personal data   violate 
+rights  legitimate interests   personal data subject   third parties
+   event  personal data  confirmed  inaccurate  operator shall  obliged   basis  information presented   personal
+data subject   representative   authorized body   protection   personal data subjects rights   necessary documents 
+rectify  personal data   arrange     rectified   processing  personal data  carried   another person acting  
+operators instructions within seven working days   date  presentation   information   remove  block   personal data
+   event    discovered  personal data   unlawfully processed   operator   person acting   instructions  
+operator  operator shall  obliged within  period  exceeding three working days   date   discovery  cease  unlawful
+processing   personal data   arrange   unlawful processing   personal data   terminated   person acting  
+operators instructions   event    impossible   processing  personal data   made lawful  operator shall  obliged within 
+period  exceeding ten working days   date  discovery   unlawful processing  personal data  destroy  personal data  
+arrange     destroyed  operator shall  obliged  notify  remedying   violations committed   destruction  
+personal data   personal data subject   representative    application   personal data subject   representative  
+request   authorized body   protection   personal data subjects rights  sent   authorized body   protection  
+personal data subjects rights   body
+   purpose   processing  personal data   achieved  operator shall  obliged  cease  processing  personal
+data  arrange     terminated   processing  personal data  carried   another person acting   operators instructions 
+ destroy  personal data  arrange     destroyed   processing  personal data  carried   another person acting  
+operators instructions within  period  exceeding thirty days   date   achievement   purpose    personal data 
+
+processed unless otherwise provided   contract    personal data subject   party       beneficiary  surety  
+another agreement   operator   personal data subject  unless  operator   right  process  personal data without
+ consent   personal data subject  grounds provided    federal law   federal laws
+   event   personal data subject withdraws  consent   processing   personal data  operator shall  obliged  cease 
+processing   personal data  arrange     terminated   processing  personal data  carried   another person acting  
+operators instructions    personal data  longer need   kept   purposes   processing   personal data  destroy 
+personal data  arrange     destroyed   processing  personal data  carried   another person acting   operators
+instructions within  period  exceeding thirty days   date  receipt   abovementioned withdrawal unless otherwise provided  
+contract    personal data subject   party       beneficiary  surety   another agreement   operator 
+ personal data subject  unless  operator   right  process  personal data without  consent   personal data subject 
+grounds provided    federal law   federal laws
+    impossible  personal data   destroyed within  time period specified  parts        operator shall block 
+personal data  arrange     blocked   processing  personal data  carried   another person acting   operators
+instructions  ensure   personal data  destroyed within  period  exceeding six months unless  different time period  established
+ federal laws
+        notification   processing  personal data
+ prior  commencing  processing  personal data  operator shall  obliged  notify  authorized body   protection  data
+subjects   intention  carry   processing  personal data except   instances envisaged  part    
+  operator shall   right  carry  without notifying  authorized body   protection  data subjects  processing  personal
+data
+     processed  accordance  labour legislation
+   obtained   operator  connection   conclusion   agreement    subject   personal data  party  
+personal data   disseminated   supplied  third parties without  consent   subject   personal data   used  
+operator solely   purpose   performance   agreement   conclusion  agreements   subject   personal data
+  relate  members participants   social association   religious organization   processed   social association  religious
+organization  question acting  accordance   legislation   russian federation   purpose   achievement  lawful objectives
+  provided    foundation documents provided   personal data   disseminated  disclosed  third parties without 
+written consent   subjects   personal data
+      made public   personal data subject
+    include  surnames first names  patronymics   subjects   personal data
+   needed   oneoff admission   personal data subject onto premises   operator  situated    similar
+purposes
+
+    included  personal data filing systems    status  state automated filing systems  accordance  federal
+laws   state personal data filing systems   created   purpose  protecting  security   state  public order
+   processed without  use  automated equipment  accordance  federal laws   normative legal acts   russian
+federation  establish requirements  ensuring  security  personal data     processed   safeguarding 
+personal data subjects rights
+   processed  cases provided   transport safety legislation   russian federation   purpose  ensuring  stable 
+safe operation   transport complex  protecting  interests   individual society   state   transport sphere  acts 
+unlawful interference
+  notification provided   part     shall  sent   form   paper document    form   electronic document 
+shall  signed   authorized person  notification shall contain  following information
+    name surname first name  patronymic  address   operator
+    purpose   processing  personal data
+    categories  personal data
+    categories  data subjects whose personal data    processed
+    legal basis   processing  personal data
+    list  actions   performed  relation  personal data   general description   methods  processing personal data   
+      used   operator
+    description   measures provided   articles      federal law including information   availability  encoding
+     encryption tools   names   tools
+       surname first name  patronymic   physical person   name   organization responsible  organizing  processing
+             personal data   contact telephone numbers postal addresses  electronic mail addresses
+    date    processing  personal data   begin
+    period  condition  termination   processing  personal data
+ information  whether    crossborder transfer  personal data occurs   course   processing  personal data
+ information  measures taken  ensure  security  personal data  accordance  requirements established   government  
+     russian federation   protection  personal data
+  authorized body   protection   personal data subjects rights shall within thirty days   date  receipt   notification  
+processing  personal data enter  details referred   part      details   date    notification  sent  
+register  operators information contained   register  operators   exception  information concerning means  ensuring  security
+
+ personal data     processed shall  publicly available
+  operator may   charged  expenses incurred  connection   examination   notification   processing  personal data 
+ authorized body   protection   personal data subjects rights   connection   entry  details   register  operators
+    event  details supplied according  part      found   incomplete  inaccurate  authorized body  
+protection   personal data subjects rights shall   right  require  operator  rectify  details supplied    entered  
+register  operators
+   event  changes occur  information   referred   part       processing  personal data  terminated 
+operator shall  obliged  notify  authorized body   protection   personal data subjects rights   within ten working days  
+date    changes arise    date    processing  personal data ceases
+      persons responsible  organizing  processing  personal data  organizations
+    operator    legal entity shall appoint  person responsible  organizing  processing  personal data
+  person responsible  organizing  processing  personal data shall receive instructions directly   executive body  
+organization    operator  shall  accountable   body
+  operator shall  obliged  give  person responsible  organizing  processing  personal data  information referred   part  
+    federal law
+    person responsible  organizing  processing  personal data shall  obliged  particular
+    exercise internal control  compliance   operator   employees   legislation   russian federation concerning
+     personal data including requirements relating   protection  personal data
+    make employees   operator aware   provisions   legislation   russian federation concerning personal data  bylaws 
+      processing  personal data   requirements relating   protection  personal data
+    organize  acceptance  processing  applications  requests  data subjects   representatives    exercise control
+       acceptance  processing   applications  requests
+  control  supervision   processing  personal data liability  violation 
+                  requirements   federal law
+         authorized body   protection   personal data subjects rights
+  authorized body   protection   personal data subjects rights  shall  charged  providing  control  supervision
+  conformity   processing  personal data   requirements   federal law shall   federal executive body  carries 
+
+control  supervision functions   sphere  information technology  communications
+see  administrative order  roscomnadzor  providing  state function regarding performance   state supervision  compliance 
+personal data processing   requirements   legislation   russian federation   field  personal data   approved 
+decree n  issued  ministry  telecom  mass communications   november 
+  authorized body   protection   personal data subjects rights shall examine claims brought   personal data subject concerning
+ compatibility   content  personal data   methods  processing thereof   purposes     processed  shall
+adopt  appropriate decision
+       authorized body   protection   personal data subjects rights shall   right
+   request  physical persons  legal entities information   needed  order  exercise  powers   receive  information
+    free  charge
+   check information contained   notification   processing  personal data   engage  state bodies  perform  checks
+    within  limits   powers
+   require  operator  rectify block  destroy inaccurate  unlawfully obtained personal data
+   take measures  accordance   procedure established   legislation   russian federation  suspend  terminate 
+    processing  personal data   carried    compliance   requirements   federal law
+   file statements  claim   court  defence   personal data subjects rights including  defence   rights   general public
+      represent  interests  data subjects  court
+      send  information referred   clause   part       federal law   federal executive body  charge  security
+            federal executive body  charge  technical counterintelligence  technical protection  information  line   sphere 
+          activity
+   send  petition   body  licenses  activities   operator  consider  possibility  taking measures  suspend  annul 
+    relevant license  accordance   procedure   established   legislation   russian federation  one   conditions  
+    license  carry   activities   prohibition   transfer  personal data  third parties without  written consent   personal data
+    subject
+   send materials  public prosecution bodies   law enforcement bodies  order   decision   taken  whether  institute
+    criminal proceedings based   elements  crimes associated   violation   personal data subjects rights according  
+    authority   appropriate   particular case
+   submit   government   russian federation proposals  improving normative legal regulation   protection  rights  data
+    subjects
+   take administrative action  persons guilty  violating  federal law
+  confidentiality  personal data shall  ensured  relation  personal data   become known   authorized body  
+protection   personal data subjects rights   course   activities
+
+   authorized body   protection   personal data subjects rights shall  obliged
+   organize protection   personal data subjects rights  accordance   requirements   federal law   federal laws
+   consider appeals  claims  citizens  legal entities  matters relating   processing  personal data   take decisions
+    based   consideration   appeals  claims within  limits   powers
+   maintain  register  operators
+    see  administrative order  roscomnadzor  providing  state service maintainance   register  operators processing personal
+    data   approved  decree n  issued  ministry  telecom  mass communications   december 
+   carry   measures aimed  improving protection   personal data subjects rights
+   take measures  accordance   procedure established   legislation   russian federation   submission   federal
+    executive body  charge  ensuring security   federal executive body  charge  technical counterintelligence  technical protection 
+    information  bring   suspension  termination   processing  personal data
+   keep state bodies  data subjects informed  response   applications  requests   state  affairs  respect  
+    protection   personal data subjects rights
+       perform  duties envisaged   legislation   russian federation
+      authorized body   protection   personal data subjects rights shall co operate  authorized bodies   protection  
+    personal data subjects rights  foreign states   particular shall engage   international exchange  information relating  
+    protection   personal data subjects rights  approve  list  foreign states  provide adequate protection   personal data
+    subjects rights
+ decisions   authorized body   protection   personal data subjects rights may  appealed    courts
+  authorized body   protection   personal data subjects rights shall send  report   activities   annual basis  
+president   russian federation  government   russian federation   federal assembly   russian federation  report
+shall  published  mass media
+  authorized body   protection   personal data subjects rights shall  financed  federal budget resources
+  shall  created   authorized body   protection   personal data subjects rights  voluntary advisory board 
+procedure   formation    procedures   activities   shall  determined   authorized body   protection  
+personal data subjects rights
+       liability  violation   requirements   federal law
+ persons guilty  violating  requirements   federal law shall bear  liability provided    legislation   russian federation
+
+ moral damage caused   personal data subject   result   violation   rights   violation  rules   processing  personal
+data   established   federal law  requirements relating   protection  personal data    established 
+accordance   federal law shall  compensated  accordance   legislation   russian federation compensation  moral
+damage shall  provided irrespective  whether compensation  provided  material damage  losses suffered   personal data subject
+  final provisions
+        final provisions
+    federal law shall enter  force upon  expiration  one hundred  eighty days   day   official publication
+   day   entry  force   federal law  processing  personal data   included  personal data filing systems
+prior   day   entry  force shall  carried   accordance   federal law
+      operators  carried   processing  personal data prior   july shall  obliged  present  information referred  
+     clauses       part       federal law   authorized body   protection   personal data subjects rights
+      later   january 
+ ceased    force   july 
+ operators  carry   processing  personal data prior   entry  force   federal law  continue  carry  
+processing   entry  force shall  obliged except   instances envisaged  part       federal law  send 
+notification   envisaged  part       federal law   authorized body   protection   personal data subjects
+rights  later   january 
+president   russian federation                              vputin
+moscow kremlin
+ july 
+<U+2116> fz
+

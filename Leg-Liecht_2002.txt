@@ -1,0 +1,1042 @@
+                                         data protection act dsg
+               liechtenstein law gazette
+                                            issued   may 
+                     data protection act
+                              march 
+     hereby grant  consent   following resolution adopted  
+diet
+                          general provisions
+                                   
+                                  objective
+      act shall seek  protect  personality  fundamental rights
+  individuals   data  processed
+      act implements eu directive    october  
+ protection  individuals  regard   processing  personal
+data   free movement   data eea compendium  laws
+appendix xi  e 
+                                   
+                                    scope
+      act shall regulate  processing  data  natural 
+legal persons undertaken 
+ private individuals
+b authorities
+      act shall also regulate  processing   data
+ conducted  part   activities   branch   file controller 
+    liechtenstein
+                                       
+
+b conducted   file controller established   place   law 
+    liechtenstein  applicable
+c conducted   file controller  established   european
+    economic area  making use  automated  nonautomated means
+     located  liechtenstein   purpose  processing data unless
+      means  used solely   purpose  passage  
+    european economic area notwithstanding  responsibilities  
+    data protection office  file controller must appoint 
+    representative  liechtenstein
+       act shall  apply 
+ personal data   processed   natural person exclusively 
+    personal use     disclosed   third party
+b deliberations   diet   committees
+c pending civil penal  international legal assistance proceedings 
+    public  administrative law proceedings
+d cases pending   state court
+e  activities   national audit office
+f cancelled
+g cancelled
+        provisions shall  subject  differing 
+supplementary provisions   acts provided  provisions ensure
+ protection  data  unauthorised processing  terms   act
+                                          
+                                       definitions
+       expressions  shall  defined  follows
+ personal data data  information relating   identified 
+     identifiable person
+ art  c amended  lgbl   
+ art  f cancelled  lgbl   
+ art  g cancelled  lgbl   
+                                             
+
+                                        data protection act dsg
+b data subjects  natural  legal persons  legal partnerships
+     data  processed
+c private individuals natural  legal persons  legal partnerships
+     subject  private law
+d authorities organs   state municipalities corporations
+   foundations establishments  private institutions   actively
+   performing public duties assigned  
+e sensitive data data relating 
+   aa religious philosophical  political opinions  activities
+   bb health sexuality  racial origin
+   cc social security files
+   dd criminal  administrative proceedings  penalties
+f personal profile  collection  data  allows  appraisal 
+   fundamental characteristics   personality   natural person
+g processing  personal data  operations relating  personal
+   data    collection storage use modification
+   communication archiving  destruction  data
+h disclosure  personal data rendering data accessible  example
+   allowing  inspection communication  publication  personal data
+ file  collection  personal data whose structure facilitates 
+   search  data   particular data subject
+k file controller controller  private persons  authorities 
+   decide   purpose  content   file
+l  recipient  private individual authority institution   
+   body  receives data regardless  whether    constitutes 
+   third party however authorities  may receive data  part  
+   individual investigation shall   considered recipients
+m  consent   data subject  declaration  intent  given
+    duress given   specific case   knowledge  
+   situation   declaration  data subject accepts  data
+   relating   will  processed
+                                      
+
+n  public place  place  accessibility    determined 
+     general criteria  may  met   person
+      unless otherwise specified   act  masculine terms used 
+ act  related  natural persons shall indicate members   
+male  female sexes
+                                     ii use  data
+                                 general provisions
+                                             
+                                          principles
+      personal data may   processed   lawful manner 
+      processing must  conducted  good faith  must  
+excessive
+      personal data may   processed   purpose  
+either given   collection    provided   law
+        consent   data subject  required   processing 
+personal data  consent   valid unless    given
+voluntarily  following adequate information   processing 
+sensitive data  personal profiles  consent shall  required  
+given expressly
+ art  n inserted  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   inserted  lgbl   
+                                                
+
+                                         data protection act dsg
+                                    
+                              prior information
+       event  data  collected  file controller must provide
+ data subject   following information   least unless  data
+subject already   information
+  identity   file controller
+b  purpose   processing
+      government may enact  regulation requiring  additional
+information  provided    essential  processing  data 
+good faith considering  specific circumstances    data 
+collected  example
+  categories   data    processed
+b  recipients   categories   recipients   data
+c rights  information  correction
+       data   collected   data subject  controller
+must provide  data subject   information pursuant  paragraph
+ upon commencing storage   data    event  controller
+intends  pass  data   third parties upon initial disclosure  
+latest
+       provisions shall  apply  notifying  data subject 
+impossible  involve disproportionate efforts   storage 
+communication   data  expressly required  law especially  
+event  data processing   purposes  statistics  historical 
+scientific research
+                                    
+                             automated decisions
+     decisions   made exclusively   basis  automated
+data processing   purpose  evaluating individual aspects  
+person    professional ability creditworthiness reliability 
+conduct shall constitute  breach   data subjects privacy provided
+ decisions  legal consequences  result  substantial
+impairments
+                                        
+
+      decisions pursuant  paragraph  shall  lawful 
+  decisions  made  part   conclusion  performance  
+     contract   request   data subject    data subject 
+     given opportunity  comment 
+b  decisions  allowed   law
+                                          
+              use  devices   recording  transfer  images
+                                       public places
+       use  devices   recording  transfer  images 
+public places video surveillance shall   admissible   
+necessary
+  authorities  fulfil  legal duties
+b  safeguard domestic authority 
+c  safeguard justified interests  specifically regulated purposes
+       processing   data collected  paragraph  shall 
+ admissible   processing  necessary  achieve  purpose
+pursued      indications  interests warranting protection
+  data subject prevail  may   processed  
+purposes    necessary
+  avert danger   public safety    safety   state
+b  avert serious danger  life limb freedom  property 
+c  prosecute criminal offences   secure evidence
+  event  sentence   liechtenstein police may demand  data
+collected  disclosed
+       use  video surveillance must  approved   data
+protection office  installation approval shall   required 
+ realtime transfer  images without  option  recording   
+ways  processing  decision  approval may  appealed within 
+days   data protection commission  government shall regulate
+ details  ordinance
+ art  inserted  lgbl   
+                                              
+
+                                        data protection act dsg
+      fact  video surveillance   conducted   person
+responsible shall  shown  suitable means
+      data collected  video surveillance  related   specific
+person  person shall  informed   processing  accordance
+ art  
+      person responsible  using video surveillance shall take 
+measures necessary  ensure  safety   data    must 
+ensured depending   type   data collected   amount 
+purpose  processing  well   consideration    technically
+possible  economically feasible 
+ processing happens duly    purposeoriented way
+b  data  protected  random  unlawful destruction  
+    loss 
+c  data  inaccessible  unauthorised third parties
+ government shall regulate  details  ordinance
+      data shall  deleted immediately   later  within 
+days 
+    longer necessary  achieve  purpose 
+b interests warranting protection   data subjects stand 
+     storing   data
+                                  
+                              accuracy ofdata
+     whoever processes personal data must verify   information 
+accurate
+      data subject may request  rectification  inaccurate data
+                                     
+
+                                        
+                               crossborder data flows
+        personal data may  transferred abroad   personal privacy
+  data subjects   seriously endangered  particular 
+   legislation  provides adequate protection  shall 
+apply  states   eea member states
+          legislation offering adequate protection personal data
+may   transferred abroad 
+  person responsible  processing provides   particular 
+     contractual clauses  sufficient guarantees concerning  protection 
+     privacy  basic rights  fundamental freedoms   exercising
+       rights connected  
+b  data subject  given  consent   specific case
+c processing   direct connection  entering   performing 
+     agreement   data  question  data   contracting party
+d disclosure   specific case  indispensable  particular  
+     safeguarding   overriding public interest    declaration
+     exercising  enforcement  legal claims  court
+e disclosure  necessary   specific case  protect  life  
+     physical integrity   data subject
+f  data subject  made  data publicly available   
+     expressly prohibited processing 
+g disclosure happens within   legal person  company 
+      legal persons  companies     
+     leadership provided   participants  subject  common data
+     protection rules  ensure adequate protection
+       disclosure  data  terms  paragraph   g shall
+require approval   government prior   approval  data
+protection office shall make  recommendation   whether 
+guarantees  common data protection rules ensure adequate protection
+ government shall regulate  specific details  ordinance
+ art  amended  lgbl   
+                                           
+
+                                         data protection act dsg
+      adequacy   level  protection shall  assessed 
+consideration   circumstances    importance concerning 
+transfer  data  concerning  category  data transfers  particular
+ type  data  purpose  processing  duration   planned
+processing  country  origin   country  final destination 
+legal rules applying   recipient  question   professional rules
+ security measures applying   recipient may  taken 
+account
+      government shall  ordinance    basis  resolutions
+  eea joint committee issue  list   noneea countries whose
+data protection legislation offers  adequate level  protection
+                                   
+                                data security
+     appropriate organisational  technical means shall  employed
+ ensure  protection  personal data  unauthorised processing
+      government shall  ordinance issue  detailed rules  
+minimum requirements  data security
+                                   
+                           confidentiality  data
+    whoever processes data   data processed must keep data 
+applications entrusted    made accessible   based  
+professional activities secret notwithstanding  legal confidentiality
+obligations unless lawful grounds exist   transmission   data
+entrusted  made accessible  
+                                   
+                               right  access
+     anyone may ask  file controller  data relating    
+processed  government shall enact  ordinance establishing  period
+within   information must generally  provided
+      file controller must provide information 
+  data relating   data subject   contained   file  
+    origin
+b  purpose   necessary  legal basis   processing 
+    categories  processed data  individuals participating  
+    collection   data   individuals designated  receive 
+    file
+                                       
+
+c  logical structure   automated processing   data relating 
+     data subject   event  automated decisions  terms  
+      
+d  correction destruction  restriction  communication  data
+    whose processing   comply   provisions   act 
+    particular   data  incomplete  inaccurate
+      file controller may disclose data relating   health  
+data subject via  doctor designated   person
+       event  file controller   personal data processed  
+third party  file controller shall remain responsible  providing 
+information   requested  third party shall  obliged  provide
+information   event     disclose  name   file
+controller    event  controller   resident  liechtenstein
+      information    general rule  submitted  writing 
+printed form    photocopy   provided free  charge 
+government shall regulate exemptions   foregoing  ordinance
+ government may  particular provide   participation  costs 
+ providing   information necessitates  unreasonable expense
+     nobody shall   right  waive  right  information 
+advance
+                      restrictions   right  access
+                                    
+                                   general
+      file controller may refuse  provide  restrict  defer 
+providing   requested information  cases 
+  law  provides
+b disclosure   requested information  prohibited  order  
+    courts   authority 
+c   required    due   overriding interest   third party
+      addition  authority may refuse  provide  restrict  defer
+ providing   requested information  cases 
+   required    due  overriding public interests  
+    particular   interests   internal  external security  
+    state 
+b  communication   information may compromise criminal
+    proceedings   investigative processes
+      private file controller may additionally refuse  provide restrict
+ defer  providing   requested information      
+overriding interest    condition   data   passed   
+third party
+      file controller must indicate  reason    refusing
+restricting  deferring access   information
+                                       
+
+                                          data protection act dsg
+                                   
+                       b concerning media employees
+      file controller  uses  file   sole purpose  publication
+  editoriallycontrolled section   periodically published media
+organ may refuse restrict  defer  providing   requested
+information 
+  personal data provides information    source
+b access  drafts  publications     granted 
+c  publics freedom  form  opinion   compromised
+     journalists may additionally refuse restrict  defer communication
+  requested information   file   used exclusively  
+personal work aid
+                                   
+                                right  object
+     unless  use  data  required   law  data subject may
+raise  objection   use   data   file controller  
+grounds  violation   overriding interests warranting protection  
+result   specific situation
+                                      
+
+        event   legitimate objection  data processing conducted
+  file controller may  longer relate   data
+        event data  processed   purpose  direct advertising
+ data subject    notified  advance art      informed
+  nocost  immediately effective right  object    
+entitled
+                                         
+                                 certification procedure
+       order  increase  protection  safety  data 
+manufacturers  systems  programmes  data processing  well 
+private individuals  authorities processing personal data may  
+products systems procedures  organisation assessed  recognised
+independent certification bodies
+       government shall  way  ordinance issue rules  
+accreditation  certification procedures    introduction   data
+protection quality label    shall take  account international law
+  internationally recognised technical standards
+                                          
+                                       file register
+       data protection office shall keep  file register  shall 
+accessible  particular via  internet anyone may inspect  register 
+      authorities must declare  files   data protection office 
+registration 
+      private individuals  regularly process sensitive data  personal
+profiles  communicate personal data   third party must register 
+files 
+  processing   data   subject   legal requirement 
+b  data subjects  unaware   data   processed 
+       files  private individuals   paragraph    applicable
+shall  registered unless   subject   exception pursuant 
+paragraph  
+       files must  registered prior  opening
+       application  registration must contain  following
+information
+ art   inserted  lgbl   
+ art    amended  lgbl        lgbl   
+ art    amended  lgbl     
+ art    amended  lgbl      
+ art    inserted  lgbl   
+                                              
+
+                                          data protection act dsg
+  name  address   file controller
+b  name  complete designation   file
+c  person    right  information can  exercised
+d   purpose   file
+e   categories   personal data  processed
+f   categories   recipients   data
+g   categories  persons dealing   file ie third parties
+    entering data   file  authorised  modify  data
+h  general discussion allowing  preliminary assessment   whether
+     measures  accordance     sufficient  guarantee
+     security  data processing
+      government shall regulate  ordinance  registration 
+updating  files  detail  well   maintenance  publication 
+ register  government may exempt specific kinds  files  
+obligation  declare  file   registration provided  processing
+  infringe   privacy   data subjects
+       b processing  personal data  private individuals
+                                   
+                               breach ofprivacy
+     whoever processes personal data may  unlawfully breach 
+privacy   data subjects
+                                      
+
+      particular  must  without lawful justification
+ process personal data  violation   principles set   
+              
+b process data relating   person   express will  
+    person
+c process sensitive data  personal profiles
+     normally   data subject  made  data accessible  
+public    expressly prohibited  processing   data
+processing shall  constitute  breach  privacy
+                                lawful justification
+                                    
+                                 personal data
+      infringement  privacy   processing  personal data shall
+ unlawful unless   justified 
+  consent   data subject
+b  overriding public  private interest 
+c  law
+      overriding interests   processing person shall  particular
+ taken  account   processing person
+  direct connection   conclusion  performance   contract
+    processes personal data   contractual partner
+b    wishes  enter  commercial competition  another
+    person  processes personal data   purpose without
+    disclosing  personal data   third party
+c processes personal data   purpose  evaluating 
+    creditworthiness  another person provided  data  neither
+    sensitive  constitutes  personal profile  provided  
+    processing person  discloses  data   third party   event
+       required   conclusion  performance   contract 
+     data subject
+d processes data   professional basis   sole purpose 
+    publication   editoriallycontrolled section   periodically
+    published media organ
+                                       
+
+                                               data protection act dsg
+e processes data  nonpersonal purposes   particular  
+     context  research planning  statistics  publishes  results 
+       manner   identity   data subjects  
+     established
+f processes data   accessible   general public
+g gathers data relating   public person provided  data concerns 
+     public life
+                                          
+                        b sensitive data  personal profiles
+      infringement  privacy   processing  sensitive data 
+personal profiles shall   unlawful 
+  law expressly provides   processing
+b  processing  indispensable   fulfilment   task clearly
+     defined   law
+c  data subject   specific case  authorised  processing 
+      personally made  data accessible   public
+d  processing   data  necessary  protect interests essential 
+      life   data subject   third party provided  data subject 
+     incapable  granting consent  physical  legal reasons
+e  processing   data  conducted  nonprofit organisations
+       condition   processing  relates  members 
+      organisations  persons  maintain regular contact  
+     organisations  connection   functions  provided  
+     data   passed   third parties without  consent   data
+     subject
+f  processing   data  necessary   assertion exercise 
+     defence  legal claims   court 
+g  processing   data  necessary   purpose  health care
+     medical diagnosis medical care  treatment   administration 
+     health services   conducted  persons subject  professional
+     secrecy obligations
+                                          
+                           data processing   third party
+        processing  personal data may  entrusted   third party
+provided
+  mandating party ensures   processing occurs    
+      permitted  carry   
+ art  f amended  lgbl   
+                                              
+
+b  processing   prohibited   legal  contractual duty 
+     confidentiality
+       third party shall  subject    duties  may assert 
+ grounds  lawful justification   mandating party
+        purpose  securing evidence  elements   contract
+relating  data protection provisions   requirements  respect 
+measures  accordance  paragraphs    shall  documented 
+written  another form
+                                          
+                   anonymising  destruction ofpersonal data
+       private individuals shall anonymise  destroy personal data  
+data   longer needed  achieve  purpose    
+processed
+       need   anonymising  destruction   personal data 
+kept beyond  original processing  historical statistical  scientific
+purposes   case  holder shall ensure  safe storage  
+personal data  suitable organisational  technical means 
+government shall regulate  details  ordinance
+               c processing  personal data  authorities
+                                           
+                                  responsible authority
+        authority  processes personal data    data
+processed   execution   legal duties shall  responsible 
+ensuring  protection   data
+        event   authority processes personal data jointly 
+ authorities   private persons  government may regulate 
+specific responsibilities  regard  data protection
+                                           
+                                      legal principles
+       authorities may process personal data      legal basis 
+ 
+      sensitive data  personal profiles may  processed    law
+expressly provides therefor     exception
+ art  inserted  lgbl   
+                                              
+
+                                              data protection act dsg
+  processing  indispensable   fulfilment   task clearly
+     defined   law
+b  government  authorised  processing   rights 
+     data subjects   jeopardised 
+c  data subject   specific case  granted  consent   
+     data  accessible   general public  processing   
+    forbidden
+                                         
+                             collection ofpersonal data
+       authority  systematically collects data  particular 
+ use  questionnaires must specify  objective    legal basis
+  processing  categories  persons dealing   file  
+recipients   data
+       collection  sensitive data   personal profiles must 
+carried    manner   visible   data subjects
+                                         
+                             disclosure ofpersonal data
+      authorities may disclose personal data provided   legal
+grounds     terms  art   
+  data  indispensable   recipient   specific case  order
+     fulfil  legal duties
+b  data subject  given  consent   specific case  
+     circumstances imply  consent
+c  data   data subject  accessible   general public 
+d  recipient credibly asserts   data subject  refusing  give
+     consent  prohibiting disclosure  order  prevent  recipient 
+     asserting legal rights   safeguarding  interests warranting
+    protection whenever possible  data subject must  allowed 
+     opportunity  state  case  disclosure
+      authorities may  request disclose  name first name 
+address   date  birth   person even   conditions set forth 
+paragraph    fulfilled
+      authorities may make personal data available via remote access
+provided express provision  made   sensitive data  personal
+profiles may   made available via remote access   law expressly
+provides  
+ art  b amended  lgbl   
+ art  c amended  lgbl   
+ art  c amended  lgbl   
+                                              
+
+       authority shall refuse  disclose data  restrict 
+disclosure  make  subject  conditions 
+ essential public interests  interests clearly warranting protection  
+     data subject  require  
+b  statutory duty  confidentiality   specific data protection rule 
+     requires
+                                         
+                              right  block disclosure
+        data subject  credibly asserts  interest warranting
+protection may request  responsible authority  prohibit  disclosure
+ certain personal data
+       authority may refuse  prohibit disclosure  revoke  
+prohibition 
+    legal duty  disclosure 
+b  performance   duties   compromised otherwise
+                                         
+                    archiving  destroying ofpersonal data
+       authorities shall offer  data    longer require  
+national archive  accordance   archivgesetz archive act
+      authorities shall destroy  personal data  considered worthy 
+archiving   national archive unless  data
+   anonymised 
+b    retained  evidence   security purposes
+                                         
+       processing   purposes  research planning  statistics
+       personal data may  processed  reasons  related   data
+subjects   particular   purposes  research planning 
+statistics provided 
+  data  anonymised  soon   objective  data processing
+     allows 
+b  recipient shall  pass   data   third party  
+     consent   controller 
+c  results   data processing  published   form   
+     allow identification   data subjects
+ art  amended  lgbl   
+                                            
+
+                                                data protection act dsg
+       requirements   following provisions need   met
+      purpose   data processing
+b articles      legal basis   processing  sensitive
+     data  personal profiles 
+c      disclosure  personal data
+                                         
+                      private law activities   authorities
+        event   authority acts   basis  private law 
+provisions   processing  personal data  private persons shall
+apply
+      supervision shall  conducted  accordance   provisions
+applicable  authorities
+  iii  data protection office   data protection
+                                   commission
+                         data protection office
+                                         
+                              appointment  status
+       data protection office shall  installed  shall 
+organisationally attached   diet
+       data protection office shall consist   data protection
+commissioner   head     personnel
+       data protection office shall perform  duties independently
+ shall   bound   instructions
+       data protection office shall enter   agreement  
+government   handling  organisational  administrative matters
+ heading  art  amended  lgbl   
+ heading  art  amended  lgbl   
+ art  amended  lgbl   
+                                            
+
+                                      
+                         data protection commissioner
+       data protection commissioner shall  elected   diet 
+ term  office  eight years   basis   proposal  
+government   hearing  geschaftsprufungskommission
+supervisory committee   diet reelection shall  possible
+       data protection commissioner must    member  
+diet  government  court   administrative authority  may 
+  head   liechtenstein municipality  sit   liechtenstein
+municipal council  shall lose  offices upon  appointed data
+protection commissioner
+       diet may remove  data protection commissioner 
+hearing  government   event   grave breach  duty  conduct
+damaging  countrys reputation    important reasons 
+ term  office  complete
+       data protection commissioner shall issue organisational
+regulations  hearing  supervisory committee   diet
+      otherwise  data protection commissioner shall mutatis
+mutandis  subject   staatspersonalgesetz act  civil servants
+ besoldungsgesetz act  remuneration   gesetz uber die
+pensionsversicherung fur das staatspersonal act  pension insurance
+ civil servants
+                                      b
+                                    personnel
+        personnel   data protection office shall 
+employed   government  agreement   data protection
+commissioner within  framework   budget approved   diet
+art   shall apply mutatis mutandis
+       following entities shall  competence  take decisions
+ employment law concerning   personnel   data
+protection office
+  data protection commissioner  far  matters  concerned 
+      legislation  civil servants     head   office
+     independent decision
+b  government  agreement   data protection commissioner
+        matters
+      otherwise  employment relationship    personnel shall
+mutatis mutandis  subject   act  civil servants  act 
+remuneration   act  pension insurance  civil servants
+ art  inserted  lgbl   
+ art b inserted  lgbl   
+                                          
+
+                                                data protection act dsg
+                                         c
+                                 budget  accounting
+       data protection office shall submit  draft   annual
+budget   government   draft   preliminarily discussed
+  supervisory committee   diet  government shall forward
+ draft budget without changes   diet  discussion  decision
+       data protection office shall keep   accounts accounting
+shall  audited   financial control office within  framework 
+ legal powers   instruction   supervisory committee  
+diet
+                                          
+                               supervision  authorities
+       data protection office shall supervise compliance 
+authorities   act   regulations relating  data protection
+ government shall  exempt   supervision
+       data protection office shall investigate cases   
+initiative    result  reports  third parties 
+       order  investigate cases  data protection office may
+request  production  documents obtain information   data
+processing activities demonstrated    authorities shall  obligated
+ cooperate   investigation   case  right  refuse  give
+evidence  terms      strafprozessordnung code 
+criminal procedure shall apply mutatis mutandis 
+        event   investigation reveals  data protection
+provisions   infringed  data protection office shall recommend
+  responsible authority modify  cease data processing activities 
+shall inform  government   recommendation 
+        event   recommendation   complied   
+rejected  data protection office may refer  matter   data
+protection commission  decision notice   decision shall  given
+  data subject  data protection office may appeal  
+decision   data protection commission 
+ art c inserted  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+                                             
+
+                                          
+            investigations  recommendations   private sector
+       data protection office shall conduct investigations   
+initiative    result   report   third party 
+  methods  processing  capable  infringing  privacy  one 
+     persons 
+b files must  registered art 
+c  disclosure  data abroad must  reported art 
+        investigation  may request  production 
+documents obtain information   data processing activities
+demonstrated    right  refuse testimony  terms    
+ code  criminal procedure shall apply mutatis mutandis 
+        basis   investigation  data protection office may
+recommend  modification  cessation   data processing
+activities
+        event   recommendation given   data protection
+office   complied    rejected  may refer  matter  
+data protection commission  decision  may appeal  
+decision   data protection commission 
+                                          
+                                  reporting information
+       data protection office shall annually submit  report  
+diet    government   report  shall provide information
+  scope  emphases   activities  well   findings 
+recommendations  well   implementation  reports shall 
+published 
+       cases  public interest  data protection office may inform
+ public   findings  recommendations personal data  
+subject  official secrecy may   published   data protection
+office     consent   competent authority   event 
+consent  withheld   authority  data protection commission
+shall take  decision  shall  final 
+ art   introductory sentence amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+ art   amended  lgbl   
+                                              
+
+                                               data protection act dsg
+                                         
+                                        duties
+       data protection office shall  particular   following
+additional duties
+  shall support private individuals  authorities  giving  general
+     introduction  providing individual consulting services
+b  shall submit opinions  questions  data protection  pending
+     cases   request   decisionmaking bodies  appellate
+     authorities
+c  shall certify  extent   foreign data protection laws offer
+     adequate protection 
+d  shall comment  bills  decrees  significance  data
+    protection  shall  particular review  compliance  
+    provisions  eu directive 
+e  shall cooperate  data protection authorities  within 
+     outside liechtenstein
+f  shall represent  principality  liechtenstein   working party
+       protection  individuals  regard   processing 
+    personal data pursuant     eu directive  
+g  shall examine  guarantees  data protection rules reported  
+    pursuant  art   
+h  shall examine  certification procedures pursuant  art  
+    may issue statements  terms  art    art    may also
+     given  duties   accreditation body 
+       may consult authorities even   act   applicable 
+accordance    c  f  authorities may allow
+ data protection office  inspect  papers 
+                     b  data protection commission
+                                         
+                            data protection commission
+       data protection commission shall consist  three members
+ shall  elected   diet   term  four years together 
+two substitute members  diet shall designate  president  vice
+president   commission
+ art  c amended  lgbl   
+ art   amended  lgbl   
+ art  g inserted  lgbl   
+ art  h inserted  lgbl   
+ art   amended  lgbl   
+                                            
+
+      members   data protection commission shall  subject  
+provisions   landesverwaltungspflegegesetz lvg act  general
+administrative procedure  work stoppages responsibilities  
+prohibition  reporting  members must take  oath  office prior
+ taking office
+                                        
+                                          duties
+      data protection commission makes decisions 
+  recommendations   data protection office art   art
+         laid   
+b appeals  decisions made   authorities relating  data
+    protection matters   exception   made  
+     government
+c appeals  decisions   data protection office pursuant 
+    art   
+                                         
+                                   interim measures
+      upon  request   party   data protection office 
+president   data protection commission may take interim measures
+ appear necessary   interim regulation   existing state 
+affairs   guarantee legal relations    risk 
+      appeals  interim measures shall    suspensive effect
+       data protection commission shall decide  appeals 
+measures taken   president  appeals period shall   days
+                                         
+                                     compensation
+    members   data protection commission shall  compensated 
+ activities pursuant   provisions   act   remuneration
+ members   government  courts   commissions
+ art   amended  lgbl   
+ art  h inserted  lgbl   
+ art   amended  lgbl   
+                                            
+
+                                           data protection act dsg
+                           iv legal safeguards
+         processing  personal data  private individuals
+                                   
+                         claims  legal procedures
+      legal proceedings  interim measures protective measures
+relating   protection  privacy  governed  articles  
+   personen und gesellschaftsrecht persons  companies act
+ plaintiff   legal proceedings may specifically request  
+personal data  corrected  destroyed    disclosure  third
+parties  prohibited
+      neither  accuracy   inaccuracy  personal data can 
+established  plaintiff may request   particular data  marked
+accordingly
+       plaintiff may request  notification  third parties  
+publication   judgment relating   data   correction
+destruction prohibition  communication   marking   data 
+  litigious character
+      procedural provisions  noncontentious matters shall apply 
+ event  actions   assertion   right  information
+             b processing  personal data  authorities
+                                   
+                            rights  procedures
+      anyone   interest warranting protection may request  
+responsible authority
+ refrain  proceeding  unlawful data processing
+b nullify  effects  unlawful data processing
+c declare  unlawful nature   data processing
+      neither  accuracy   inaccuracy  personal data can 
+established  authority shall  required  mark  data   note 
+ effect
+       person making  request may  particular request  
+authority
+ correct  destroy  data  ensure     disclosed   third
+    party
+                                      
+
+  b publish  communicate  third parties  decision namely  correct
+        destroy  personal data  prohibit  disclosure   mark  
+        contentious nature
+         procedure shall  governed   act  general
+  administrative procedure lvg
+         decisions  orders   authorities shall  subject  
+  right  appeal   data protection commission within  days 
+  service  decisions made   commission shall  subject   right 
+  appeal   verwaltungsgerichtshof administrative court within  days
+   service 
+        decisions made   government may  appealed  
+  administrative court within  days  service 
+                                v penal sanctions
+                                         
+                       unauthorised collection ofpersonal data
+       whoever collects sensitive personal data without authorisation  
+  file    freely accessible shall   request   injured party
+|  punished   landgericht courtof justice  imprisonment  
+   one year    fine     daily rates
+                                         
+                       breach  duties  provide information
+                            register data   cooperate
+        private individuals  fail  fulfil  duties  set   art 
+   art     intentionally providing inaccurate  incomplete
+  information shall   request   injured party  punished   fine 
+     swiss francs    term  detention    three months
+    event  fine  uncollectible 
+          punishment shall apply  private individuals 
+  intentionally
+   fail  report files  terms  art    provide false information
+         report 
+  b   investigation   case art  provide false information  
+      data protection office  refuse  cooperate 
+   art   amended  lgbl   
+   art   amended  lgbl   
+   art   amended  lgbl   
+   art   amended  lgbl   
+   art  b amended  lgbl   
+                                             
+
+                                              data protection act dsg
+c transfers data abroad without permission  terms  art   
+                                         
+                             breach ofprofessional secrecy
+      whoever intentionally  without authorisation discloses
+confidential  sensitive personal data  personal profiles  
+come   knowledge   course  professional activities  require
+   knowledge   data shall   request   injured party
+ punished    one year  imprisonment    fine    
+daily rates
+        punishment shall apply  whoever intentionally 
+without authorisation discloses confidential  sensitive personal data 
+personal profiles   come   knowledge   course  
+activities  persons   subject   duty  professional secrecy 
+  course   vocational training   persons
+       illegal communication  confidential  sensitive data 
+personal profiles shall remain punishable also   relevant person
+ ceased  practice  profession   completed  vocational
+training
+                  vi transitional  final provisions
+                                         
+                                    implementation
+       government shall issue  ordinances necessary 
+implementing  act  particular relating 
+ exceptions      information    b  
+    processing  sensitive data  personal profiles
+b  categories  files  require processing regulations
+c  requirements    authority may process personal data
+     third parties    data processed  third parties
+d  disclosure  data pursuant      remote access
+    pursuant    
+e  use  means  identify individual persons
+f data security
+ art  c inserted  lgbl   
+                                            
+
+       government may provide  exceptions  articles   
+  provision  information  embassies  consulates  
+principality  liechtenstein abroad
+       government shall regulate  files    secured whose
+data can result   danger   life  limb   data subjects  
+event   crisis  war
+                                      
+            processing ofpersonal data  specific cases involving
+                         crime fighting  state security
+      concerning  processing  personal data  fighting terrorism
+violent extremism organised crime  illicit intelligence gathering 
+ guarantee state security  government may   act comes 
+force regulating  matters
+ provide  exceptions   provisions   purpose  data
+    processing art    disclosure  data abroad art  
+     obligation  report  register art    collection 
+    personal data art 
+b approve  processing  sensitive data  personal profiles even 
+     requirements  art     met
+      ballot petition  statistical secrecy shall  preserved
+       government shall make  decision  consulting  
+data protection office instead   data protection commission  
+president decisions made   government may  appealed  
+administrative court within  days  service 
+                                      
+                              transitional provisions
+      file controllers must register  existing files  must 
+registered  terms  art  within one year   date    act
+comes  force
+      within one year   date    act comes  force
+ must take  measures required  allow   disclose
+information  terms  art 
+      file controllers may continue  use existing files  contain
+sensitive personal data  personal profiles  st august  without
+  fulfil  requirements  art    
+ art   amended  lgbl     lgbl   
+ art   amended  lgbl   
+                                          
+
+                                   data protection act dsg
+                              
+                           commencement
+      act shall come  force   august  subject 
+paragraph  
+    articles    shall come  force   date 
+proclamation
+                         signed hansadam
+                                         signed otmar hasler
+                                         prime minister
+                                 
+
+           transitional provisions
+   data protection act datenschutzgesetz
+dsg
+                      
+
+                                               data protection act dsg
+                    liechtenstein law gazette
+                                        issued   november 
+                                             act
+                                  september 
+    amendment   data protection
+                                             act
+                                             iii
+                                 transitional provisions
+        time  act enters  force  current data protection
+commissioner shall become  head   data protection office 
+shall hold  position   december    time period
+expires  diet shall appoint  data protection commissioner 
+accordance  art 
+      existing employment relationships    personnel shall
+remain  force   act  entered  force
+ date  entering  force  january 
+                                              
+
+                    liechtenstein law gazette
+                                            issued   january 
+                                          act
+                                   december 
+    amendment   data protection
+                                          act
+                                           ii
+                                  transitional provision
+     existing video surveillance approval  terms  art   shall
+ obtained immediately   later  within  months   date
+ act enters  force 
+ date  entering  force  july 
+                                            
+

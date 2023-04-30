@@ -1,0 +1,741 @@
+                                republic  albania
+                                      assembly
+                                           law
+                                  dated 
+                        protection  personal data
+based  articles    point    constitution upon  proposal   council 
+ministers
+                                     assembly
+                            republic  albania
+                                        decided
+                                         
+                                general provisions
+                                           
+                                          object
+ law aims  defining  rules   protection  legal processing   personal
+data
+                                           
+                                     general principle
+ legal processing   personal data shall respect  guarantee  fundamental
+rights  freedoms  persons   particular  right  privacy
+                                           
+                                         definitions
+  purposes   law  following terms   meanings
+ personal data shall mean  information relating   identified  identifiable
+natural person directly  indirectly  particular  reference   identification
+number   one   factors specific   physical physiological mental
+economic cultural  social identity 
+
+                                               
+ judicial record   data referring  decisions  criminal civil administrative
+filed   documentations  criminal  civil registry administrative sanction etc
+ anonymous data   data    origin    processing may  
+associated   identified  identifiable individual
+sensitive data shall mean  piece  information related   natural person 
+referring   racial  ethnic origin political opinions trade union membership
+religious  philosophical beliefs criminal prosecution  well   data concerning
+ health  sexual life
+ controller shall mean  natural  legal person public authority agency  
+ body  alone  jointly  others determines  purposes  means 
+processing  personal data  compliance   laws  secondary legal acts
+applicable    responsible   fulfilment  obligations defined   law
+ personal data subject shall mean  natural person whose personal data  
+processed
+ processor shall mean  natural  legal person public authority agency  
+body  processes personal data  behalf   controller
+  filing system shall mean  structured set  personal data   accessible
+according  specific criteria whether centralized decentralized  dispersed  
+functional  geographical basis
+ means  processing shall mean automatic semi automatic  mechanic means
+ process personal data
+ electronic instruments shall mean  computer computer programmes  
+ electronic  automatic means used   processing
+ direct marketing shall mean  communication   promotional material 
+every mean  way using personal data  legal  natural persons agencies  
+entities   without interference
+ processing  personal data shall mean  operation  set  operations 
+ performed upon personal data whether    automatic means   collection
+recording organization storage adaptation  alteration retrieval consultation use
+transmission dissemination  otherwise making available alignment  combination
+photographing reflection entering filling  selection blocking erasure  destruction
+even though    recorded   data base
+
+                                              
+ recipient shall mean  natural  legal person public authority agency   
+body   data  disclosed whether  third party    authorities  may
+receive data   framework   particular inquiry shall   regarded  recipients
+ person  charge shall mean  individual   authorised   head  
+institution   competent person  perform processing actions
+ third party shall mean  natural  legal person public authority agency  
+ body    data subject  controller  processor   persons 
+  direct authority   controller   processor  authorized  process 
+data
+ transmission shall mean  transfer  personal data  recipients
+ supervision shall mean  careful followup  processing  personal data  
+ controllers  processors  collaboration control administrative investigation
+ inspection  order  prevent violations   appropriate  impose administrative
+sanctions    ensure  enforcement  orders instructions  recommendations 
+ commissioner  compliance   fundamental human rights  freedoms
+ monitoring  personal data shall mean  continuous comprehensive effective
+ planned work   institutions   following aspects leadership management
+organisation assistance cooperation awareness  familiarity meetings guidance
+reporting   parliament publication various explanations replying  complaints
+activities seminars  lectures documentation drafting  rules agreements contracts
+instructions decisions recommendations control  execution  fines creation 
+opening  records  well   issues related  regular exercising  activity
+ communication means communication  personal data  one   subjects
+different   interested person representative   head   institution  
+territory   country competent persons  persons  charge   form even 
+making  available  providing consultation
+ disclosure shall mean  communication  information  personal data 
+undefined parties   form even  making  available  accessible
+ blocking means  retention  personal data  suspending  
+processing operation
+ international transfer shall mean  transfer  personal data  recipients  
+foreign state
+ automated decision making shall mean  kind  assessment  individuals carried
+ entirely automatically without  individuals intervention
+
+                                               
+ data subjects consent shall mean  indication  writing freely given  fully
+informed   reason    data will  processed  signifies  data
+subject agreement  personal data relating     processed
+ historical purposes shall mean processing  study investigation research 
+documentation  persons facts  past circumstances
+ statistical purposes shall mean processing  statistical investigation  statistical
+results including  statistical information systems
+ scientific purposes shall mean processing  systematic study  investigation 
+order  develop scientific knowledge   particular area
+                                            
+                                            scope
+           law shall apply   processing  personal data wholly  partly 
+automatic means    processing   means   personal data stored   filing
+system   intended  form part   filing system
+           law shall apply   processing  personal data 
+          controllers established   republic  albania
+b diplomatic missions  consular offices   albanian state
+         c controllers    established   republic  albania making use 
+ equipment situated   republic  albania
+           circumstances stipulated  point  c     controller
+designates  representative established   territory  albania stipulations   law
+applying  controllers  also applicable   representatives
+  law applies also   public authorities  process personal data   areas
+stipulated    paragraph    law
+  law   applicable  processing  data
+   natural persons  purely personal  family purposes
+b   case  information  provided  public officials  public state
+administration servants reflecting  public administrative activities  issues related
+  duties
+                                          ii
+                           processing  personal data
+                                            
+                                 protection  personal data
+
+                                                
+     protection  personal data  based 
+          processing   fair  lawful
+        b  collection  specific clearly defined  legitimate purposes  shall 
+processed   way   compatible   purposes
+        c adequate data   relevant   purpose   processing  
+excessive  relation   purpose
+        ç accurate data   necessary updated every reasonable step must 
+taken  ensure  data   inaccurate  incomplete  regard  
+purposes     collected       processed 
+erased  rectified
+        d keeping data   form  allows  identification  data subjects  
+longer    necessary   purpose     collected  
+processed
+      controller   charge  applying  requirements   kinds 
+        processing  data   automatically    means
+                                             
+                                legal criteria  processing
+      personal data may  processed  
+         personal data subject  given  consent
+        b processing  necessary   performance   contract    data
+subject  party   order  negotiate  amend  draftcontract   request   data
+subject
+        c  order  protect  vital interests   data subject
+        ç  comply   legal obligation   controller
+        d   performance   legal task  public interest   exercise  powers 
+ controller    third party    data  disclosed
+        dh processing  necessary   protection   legitimate rights  interests
+  controller  recipient    interested party however   case
+processing  personal data    clear contradiction   data subject right 
+protection  personal life  privacy
+        processing  personal data   framework  crime prevention 
+prosecution activities  cases   criminal offence   public order  
+violations   field  criminal law defence  national security shall  performed
+ official authorities  stipulated   law
+   event  controller  processor carries  personal data processing  
+purpose  offering business opportunities  services provided   data  taken
+  public list  data
+
+                                                  
+ controller  processor  process   data specified   paragraph 
+ data subject  expressed  disagreement   objected   processing
+ additional personal data  attached   data specified  without  consent 
+ data subject
+  controller  allowed  keep    filing system  personal data even 
+ data subject  objected proceesing  paragraph      data can
+ used    data subject gives  content
+ collection  personal data   related   data subject solely  reasons 
+direct marketing  allowed    data subject  given  explicit consent
+                                               
+                                   processing  sensitive data
+ except  cases specified  point       processing  data  reveal
+racial  ethnic origin political beliefs trade unions membership religious 
+philosophical beliefs criminal convictions  health  sexual life  prohibited
+ processing  sensitive data shall  done  
+       data subject  given  consent  may  revoked   given
+     moment making illegal   processing  data
+     b     vital interest   data subject  another person   data subject 
+     physically  mentally incapable  giving hisher consent
+     c   authorized   responsible authority   important public interest 
+     adequate safeguards
+     ç   related  data   manifestly made public   data subject  
+     necessary   exercise  defence  legal rights
+     d data  processed  historic scientific  statistical research  adequate
+     safeguards
+     dh data  required   purposes  preventive medicine medical diagnosis 
+     provision  health care treatment  management  health care services  data
+      used  medical personnel   persons   obligation  preserve
+     confidentiality
+     e data  processed  nonprofit political philosophical  religious organisations
+      trade unions  purposes   legitimate activity   members
+     sponsors   persons related   activity  data shall   disclosed
+       third party without  consent   data subject unless otherwise stipulated 
+     law
+     ë data processing  necessary   purpose  accomplishing  legal obligation
+      specific rights   controller   field  employment  compliance 
+      labour code
+
+                                                 
+        point  abolished
+                                              
+                                     international transfer
+          international transfer  personal data  done  recipients  states
+   adequate level  personal data protection  level  personal data
+protection   state  established  assessing  circumstances related  processing
+nature purpose  duration  processing country  origin  final destination legal
+provisions  security standards  force   recipient state states   
+adequate level  data protection  assessed   decision   commissioner
+         international transfer  personal data   state     
+adequate level  personal data protection may  done 
+           authorised  international acts ratified   republic  albania  
+directly applicable
+        b data subject  given hisher consent   international transfer
+        c  transfer  necessary   performance   contract   data
+subject   controller    implementation  precontractual measures taken 
+addressing  data subjects request   transfer  necessary   conclusion 
+performance   contract   controller   third party   interest  
+data subject
+        ç    legal obligation   controller
+        d   necessary  protecting vital interests   data subject
+        dh   necessary  constitutes  legal requirement   important public
+interest   exercising  protecting  legal right
+        e transfer  done   register   open  consultation  provides
+information   general public
+         exchange  personal data   diplomatic representations  foreign
+governments  international institutions   republic  albania shall  considered
+ international transfer  data
+                                          
+                  international transfer  data  need   authorized
+          cases    provided     herein  international
+transfer  personal data   state      adequate level  data
+protection shall  carried  upon  authorization   commissioner  adequate
+safeguards  foreseen  respect   protection   privacy  fundamental
+human rights  freedoms  well  regarding  exercise   corresponding rights
+
+                                                
+          commissioner  making  assessment   specification
+provided  point      point     may give  authorisation 
+transfer  personal data   recipient state  defining conditions  obligations
+          commissioner issues instructions  order  allow certain categories 
+personal data international transfer   state      adequate level 
+personal data protection   cases  controller  exempted   authorization
+request
+          controller shall submit  request  authorisation   commissioner
+prior   data transfer   authorization request  controller shall guarantee 
+observance   interests   data subject  protection  confidentiality outside 
+republic  albania
+                                         iii
+                               special data processing
+                                            
+                processing  historical scientific  statistical research
+        personal data collected   purpose may   processed  historic
+scientific  statistical research purposes provided   data   processed  order
+ take measures  decisions related   individual
+         disclosure  sensitive data  scientific research shall take place  
+case   important public interest personal data shall  used exclusively 
+individuals   bound  confidentiality
+          data processing  made   manner  allows  identification  
+data subject  data  immediately  encrypted  order   subjects   
+longer identifiable encrypted personal data shall  used exclusively  individuals
+bound  confidentiality
+                                            
+                  processing  personal data  freedom  expression
+  commissioner defines   specific instruction  terms  conditions 
+processing  journalistic literature  artistic purposes may  exempted 
+obligations deriving  articles          law
+  exemptions    may  allowed    extent   reconcile
+ right  protect personal data   ruled governing  right  freedom 
+expression
+  actions   controller  processor   objection    points 
+ code  ethics shall consist  administrative infraction
+
+                                               
+                                         iv
+                               rights  data subject
+                                           
+                                       right  access
+ every data subject  entitled  obtain free  charge   controller upon 
+written request
+         confirmation whether    personal data   processed information
+  purposes  processing  categories  processed data   recipients 
+categories  recipients   personal data  disclosed
+        b communication     comprehensible form   data undergoing
+processing    available information    source
+        c  case  automated decisions taken based    herein information
+  logic applied   decisionmaking
+ information   data shall  communicated   form     time
+  request  made
+         within  days upon receipt   request  controller informs  data
+subject  explains  reasons   information   provided
+          right  access  provided   section  herein shall  exercised 
+respect   constitutional principles  freedom  speech  information freedom 
+press  professional confidentiality   may  restricted   violates national
+security interests  foreign policy  economic  financial interests   state
+prevention  prosecution  criminal offences
+          right  access   exercised  cases provided     
+herein
+          access  denied  arguments  violation  national security interests
+foreign policy economic  financial interests   state prevention  prosecution
+ criminal offences    freedom  speech  information  press freedom 
+data subject may require   commissioner  check   exemption  
+concrete case  commissioner shall inform  data subject   undertaken
+measures
+                                           
+                  right  request blocking rectification  erasure
+         every data subject   right  request blocking rectification  erasure 
+ data free  charge whenever   informed  data relating    irregular
+untrue  incomplete    processed  collected  contradiction  
+provisions   law
+         within  days  receipt   data subject request  controller shall
+notify  data subject   lawful processing   data whether  blocking
+rectification  erasure   carried   
+
+                                               
+            controller   carry   blocking rectification  erasure 
+ data requested  data subject   right  file  complaint  
+commissioner
+                                            
+                                     automated decision
+           person shall  entitled    subject  decisions  cause legal
+effects     influence  significantly   decision  based   
+automatic processing   data  aim  assessing certain personal aspects related
+  particularly  efficiency  work  credibility  behaviour
+           person may  subject   decision taken  point  herein  
+decision
+  taken   course  entering   performance   contract provided 
+request  entering    performance   contract lodged   data subject
+  satisfied     adequate measures  safeguard  legitimate interests
+   possibilities allowing   point   views
+b  authorized   law  also lays  measures  safeguard  data subjects
+legitimate interests
+                                            
+                             right   data subject  refuse
+           data subject pursuant   law   right  object   time free 
+charge  processing  data related   carried   letter d  dh 
+    law unless otherwise stipulated   law
+           data subject   right  demand  controller   start processing
+  processing  started  stop processing  personal data related    
+purposes  direct marketing    informed  advance  personal data 
+disclosed  first time   purpose
+                                            
+                                    right  complain
+ every person  claims   rights freedoms  legal interests concerning 
+    personal data   violated shall   right  complain   notify 
+    commissioner   request  intervention  remedy  infringed right
+    following  complaint  accordance   code  civil procedure  data
+    subject may file  complaint  court
+
+                                               
+   data subject  filed  complaint  controller shall   right  make
+ changes   personal data   final decision ruled
+                                            
+                               compensation   damage
+          everyone   suffered damage due   unlawful processing  personal
+data  entitled  compensation pursuant   rules defined   civil code
+                                          v
+               obligations   controller  processor
+                                            
+                                    obligation  inform
+  controller  collecting personal data shall inform  data subject  
+scope  purpose   personal data   processed  person   going
+ process  data   mean  processing except    data subject 
+already aware   information  controller shall inform  data subject  
+right  access   right  rectify  data concerning 
+  case  controller processes personal data obtained   data subject  
+obliged  inform  data subject whether  provision   personal data  obligatory
+ optional   data subject   legal  secondary act  obliged  provide
+personal data  processing  controller informs    fact  well   
+consequences  refusal  provide personal data
+   controller   obliged  provide information   inform  personal data
+  obtained   data subject 
+  processes personal data exclusively   purpose  historical statistical 
+scientific research   provision   information   possible  demands
+disproportionate efforts
+b   mandatory   controller  process personal data  grounds   legal
+provision
+c   processing data made public
+ç  processes personal data obtained  grounds  consent   data subject
+  controller  processing personal data pursuant  letter letter dh point  
+   letter ç point     regarding  exercise  protection 
+
+                                              
+legitimate rights  obliged  inform data subject  processing  personal data related
+ 
+  duty  inform regulated    may  performed   processor
+ behalf   controller
+                                           
+                               obligation  rectify  erase
+ upon   initiative  upon  request   data subject  controller shall
+carry   blocking rectification  erasure  personal data   ascertains 
+personal data  inaccurate untrue  incomplete    processed 
+contradiction   provisions   law
+ within  days  receipt   request   data subject  controller informs
+ data subject whether  blocking rectification  erasure   carried 
+  controller informs  recipient  personal data   rectification  erasure 
+ personal data transmitted   rectification  erasure
+                                           
+                                obligations   processor
+  controllers may recruit processors  process personal data  processor shall
+guarantee lawful  safe use  data  personal data processors shall  
+following obligations
+          process data  according   instructions   controller  
+transmit data unless  instructed   controller
+        b  take  required safety measures  compliance   law   employ
+operators   bound  confidentiality
+        c  create  agreement   controller  necessary technical 
+organisational requirements   fulfilment   controllers obligations  ensure 
+protection  data subjects rights
+        ç  hand    controller   completion   processing service 
+     results  processing  documentation containing data   keep  destroy
+      controllers request
+        d  make available   controller  information necessary  control 
+compliance   obligations stemming   abovementioned provisions
+ obligations  point   stipulated   written contract entered   
+controller  processor
+                                         vi
+
+                                              
+                                      notification
+                                           
+                                  responsibility  notify
+ every controller shall notify  commissioner   processing  personal data
+    responsible  notification shall  made   controller processes
+ data   first time    change   processing notification status 
+required      law
+  processing  personal data  sole purpose     keep  record  
+accordance   law  sublegal acts provides information   public  general
+ exempted   obligation  notify  processing  data
+ data   processed   purpose  protection   constitutional institutions
+interests  national security foreign policy economic  financial interests   state
+prevention  prosecution   criminal offences  exempted   obligation 
+notify
+  cases   notification   necessary  established   decision 
+ commissioner
+                                           
+                                   content  notification
+ notification shall contain  following
+         name  address   controller
+        b purposes  processing  personal data
+        c categories  data subjects   categories   personal data
+        ç recipients   categories  recipients   personal data
+        d  proposal   internacional transfer   controller aims  carry 
+        dh  general description   measures   security  personal data
+                                           
+                                  examination procedure
+         commissioner examines  notifications    notification 
+insufficient  commissioner shall order  controller  complete  notification
+content specifying  given deadline
+  controller   complete  content   notification within  given
+deadline  notification shall  considered   executed
+                                           
+
+                                               
+                                        prior checking
+ authorization   commissioner  required 
+         processing  sensitive data  accordance    item  letter c
+herein
+        b processing  personal data  accordance    item  herein
+  cases   data processing  compliance  point  herein  authorized  
+legal provision  authorization   commissioner   required
+                                            
+                                  beginning  processing
+  processing  data begins   notification
+  data processing  requires  authorization  accordance    item
+ herein may start  following receipt   authorization
+                                            
+                                  publication  processing
+  regards  data    authorization  required  special decision  made
+     reflected   register   administered   commissioner  open 
+    consultations   person
+  register shall contain information according    herein except  
+    information according     letter dh herein     
+    published
+  controller exempted   obligation  notify shall  least make available 
+    data   name  address  categories  personal data processed 
+    purposes  processing  categories  recipients  case  international transfer
+      intended  controller  obliged  notify   commissioner
+   shall  apply  processing  purpose     keep  record
+      accordance   primary  secondary legislation provides information
+      public  general
+   commissioner decides  deregistration  controller mainly upon  
+     request   purpose  purposes    notification  registration  made
+     cease  exist
+                                         vii
+                            security  personal data
+                                            
+                        measures   security  personal data
+          controller   processor shall take appropriate organizational 
+technical measures  order  protect personal data  unlawful  accidental
+destruction accidental loss  access  disclosure  unauthorized persons especially
+
+                                              
+  processing  data takes place   network  well     unlawful
+form  processing
+          controller shall take  following special security measures
+         defines  functions   organizational units     operators 
+regards  use  data
+        b data shall  used   order  authorized organizational units 
+    operators
+        c instructs  operators concerning  obligations  conformity   law
+  internal regulations  data protection including  regulations  data security
+        ç prohibits access  unauthorized persons   working facilities   data
+controller  processors
+        d data  programmes shall  accessed   authorized persons
+        dh prohibits access   filing system   use  unauthorized persons
+        e operation   data processing equipment shall  carried  upon
+    authorization  every device shall  secured  preventive measures 
+    unauthorized operation
+        ë records  documents  alteration rectification erasure transfer etc
+  controller  obliged  document  technical  organizational measures
+adjusted  implemented  ensure protection  personal data  compliance  
+law   legal regulations
+  data recorded shall   used  different purposes    compliant
+  purpose  collection acquaintance   processing   data registered 
+files   purpose    right  enter  data shall  prohibited  case data
+ used  guarantee national security public security  prevention  investigation 
+ criminal offence  prosecution   author thereof    infringement  ethics
+  regulated professions   exempted   rule
+ documentation   data shall  kept   long    necessary   purpose
+    collected
+  security level shall   compliance   nature  personal data processing
+detailed rules  data security shall  specified  decision   commissioner
+ procedures   administering   data registration data entry  processing
+ disclosure shall  regulated   decision   commissioner
+                                           
+                                    data confidentiality
+controllers processors  persons  come  know  content   processed data
+ exercising  duty shall remain  obligation  confidentiality 
+credibility even  termination   functions  data shall   disclosed save
+ otherwise provided  law
+
+                                                
+everyone acting   authority   controller   processor shall  process
+ personal data   heshe  access without  authorization f  controller
+unless   mandatory  law
+                                          viii
+           commissioner   personal data protection
+                                             
+                                        commissioner
+  commissioner   protection  personal data   independent authority 
+charge  supervising  monitoring  protection  personal data  respecting 
+guaranteeing  fundamental human rights  freedoms  compliance   law
+  commissioner   public legal person
+ information ensured   commissioner  exercising  duties shall  used
+  supervisory purposes  compliance   legislation   protection 
+personal data  commissioner shall remain  obligation  confidentiality even
+ termination   functions
+                                             
+                                             rights
+  commissioner   right 
+          conduct  administrative investigation  access  personal data
+processing  collect  necessary information   view  fulfilling 
+supervisory obligations
+         b order   blocking erasure destruction  suspension   unlawful
+processing  personal data
+         c issue instructions prior   data processing  ensure  publication
+  cases  recurring  intentional serious infringement  law   controller 
+processor especially  cases  recurring failure  carry   commissioners
+recommendations  acts  compliance    herein  may report  case
+publicly  accordance   duties  report    assembly   council 
+ministers
+  case  violation consists   crime  makes  respective report
+                                             
+                                         responsibilities
+  commissioner   charge 
+          giving opinions  legal  secondary draft acts related  personal data 
+well  projects required   implemented   controller alone  jointly  others
+
+                                              
+         giving recommendations   implementation   obligations deriving
+  law  protection  personal data  assures publication thereof
+        b authorizing  special cases  use  personal data  purposes 
+designated   phase   collection  observing  principles    
+ law
+        c authorizing  international transfer  personal data  compliance   
+herein
+        ç issuing guidelines  regulate  length  retention  personal data
+according   purpose   activity  specific sectors
+        d ensuring  right  information   exercise   right  rectify 
+update data
+        dh authorizing  use  sensitive data  compliance    point  letter
+c herein
+        e checking  processing  data  conformity   law ex officio  upon
+request   person    processing  exempted   right  information  
+inform  person   check  carried   whether  process  lawful  
+        ë addressing  complaints  data subject related   protection  hisher
+rights  freedoms  processing  personal data  informing himher  
+settlement   complaint submitted
+        f issuing guidelines  security measures   activity  specific sectors
+        g overseeing  execution  penalties
+        gj encourage  controller  draft   codes  ethics   assessment
+        h  publication  explanation   rights related   data protection 
+ periodic publication   activities
+         cooperating   supervisory authorities   personal data  foreign
+states regarding  protection  individuals  reside   states
+        j representing  supervisory authority   field  personal data protection 
+ national  international events
+        k exercising  legal obligations
+  commissioner shall create  register  document  notifications 
+authorizations   performs  exercise   powers   field  personal data
+protection
+
+                                               
+  commissioner shall submit  annual report   assembly  reports  front
+  assembly  asked     addition  may ask   assembly   heard
+ issues   deems   important
+                                            
+                                   obligation  cooperate
+ public  private institutions shall collaborate   commissioner  providing
+  information  requires   fulfilment  duties  shall notify 
+commissioner   implementation  given recommendations immediately upon
+termination   deadlines assigned thereto
+  commissioner shall   right  access computer  filing systems 
+process personal data    documentation related   processing 
+transferring   view  performing  rights  duties  stipulated   law
+                                            
+                                  election  term  office
+ commissioner shall  elected   assembly upon  proposal   council 
+ministers    year term eligible  reelection
+                                            
+                                incompatibility   function
+ function   commissioner shall  incompatible  every  state function
+affiliation  political parties  partaking   activities  every  profitable
+activity save teaching
+                                            
+                                       election criteria
+every albanian citizen may  elected   position  commissioner  heshe meets
+ following criteria
+          university degree  law
+         b breadth  knowledge  extinguished activities   field  human rights
+ fundamental freedoms
+         c outstanding professional skills   clean ethic  moral profile
+         ç  less   years  work experience   lawyer
+         d    convicted   criminal offence   court final decision
+         dh  disciplinary measures taken  remove   duty    civil
+service
+                                            
+                                 termination   mandate
+  mandate   commissioner shall   early termination 
+
+                                                
+            given  final court decision  committing  criminal offence
+         b   absent  duty without justification    one month
+         c  resigns
+         ç  final court decision declares  ineffectiveness
+  commissioner may  discharged   assembly 
+           fails  act  compliance   provisions arising   law  
+legal acts
+         b  engages  activities  generate  conflict  interests
+         c cases  incompatibility   function  identified
+   post   commissioner  vacant  council  ministers proposes  
+assembly  new nominee within  days  assembly elects  new commissioner
+within  days upon receipt   nomination
+                                             
+                                  office   commissioner
+  assembly shall determine  remuneration   commissioner 
+organizational structure  remuneration   employees   commissioner  
+protection  personal data  employees shall enjoy  status  civil servant
+                                             
+                                             budget
+ commissioner    independent budget   funded   state budget
+ donators  represent  conflict  interest
+administration   donations  made according   agreement   donators
+  albanian legislation  force
+                                           
+                                           publication
+  instructions decisions   commissioner except   issued pursuant 
+letter b         law  published   official journal
+  annual report   special reports  made public
+                                          ix
+                              administrative sanctions
+                                             
+
+                                              
+                                   administrative offences
+ cases  data processing  contradiction   provisions   law  
+constitute  criminal offence   subject   fine  follows
+           controllers  use personal data   ii processing 
+personal data  fined       
+           controllers  used personal data   iii special
+processing  data  fined       
+         b controllers    meet  obligation  inform  specified   
+  law shall  fined        
+        c controllers    meet  obligations  rectify  erase data specified 
+    law shall  fined        
+         ç controllers  processors    meet  obligations defined  
+   law shall  fined       
+        d controllers    meet  legal obligation  inform laid   
+ herein shall  fined        
+  dh controllers  processors    take  data security measures   
+   observe  duty  keep confidentiality provided   articles     
+   law  fined        
+         dh controllers  processors acting  point       law 
+fined         
+  regards   offences legal persons shall  fined double  figure  
+fine specified  point  herein
+ maximum   fine  doubled  cases  failure  comply    point 
+   data  processed without  authorization pursuant    point 
+b
+ fines shall  imposed   commissioner   finds   obligations set
+forth   law  infringed
+                                           
+                                           appeal
+ appeal  administrative sanction  fine  addressed   court   terms
+   procedures governing  administrative proceedings
+
+                                              
+                                        
+                                 execution  fines
+ fines shall  paid   offender  later   days   imposing   fine
+  deadline expires  decision becomes  executive title   executed  
+mandatory manner   bailiff office upon request   commissioner
+ fines  cashed   state budget
+                                        x
+                                   final provisions
+                                          
+                                       sub legal acts
+council  ministers shall issue  sub legal acts  line  articles     herein
+                                          
+                                           repeals
+law   dated    protection  personal data  repealed
+                                          
+                                       entry  force
+ law enters  force  days   publication   official journal
+adopted  
+declared  decree   date    date  
+ president   republic  albania bamir topi
+

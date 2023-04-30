@@ -1,0 +1,2051 @@
+                                      saint lucia
+                                             
+                                                  
+ act  make provision   protection  individuals  relation  personal data  
+regulate  collection holding use processing correction  disclosure  personal
+information   manner  recognizes  right  privacy  individuals  respect  
+personal information   related matters
+          enacted   queens  excellent majesty     advice  
+house  assembly   senate  saint lucia   authority     follows
+                                                part 
+                                          preliminary
+short title  commencement
+        act may  cited   privacy  data protection act 
+          act shall come  force   day   fixed   minister  order
+published   gazette
+interpretation
+      act 
+alternative format  respect  personal data means  format  allows  person  
+      sensory disability  read  listen   personal data
+authorized officer means  officer  employee    commissioner  delegated 
+        powers  section    officer  employee  person assisting  section
+       acting   direction   commissioner
+commissioner means  data protection commissioner appointed pursuant  section 
+court means  high court   judge   high court
+
+data  includes representations  facts information  concepts   
+        prepared    prepared   form suitable  use   electronic
+        system including computer programme text images sound video 
+        information within  database  electronic system
+data controller means  person  either alone   others process data  determines 
+      purposes     manner    personal data      processed
+data subject means  natural person    subject  personal data
+document means  medium   information  recorded whether printed   tape 
+        film   electronic means  otherwise  also means  map diagram photograph
+        film microfilm video tape sound recording  machinereadable record   record
+          capable   produced   machinereadable record  means 
+        equipment   programme   combination     used   purpose 
+         establishment  holds  record
+enforcement notice means  notice issued b  commissioner  section 
+information notice means  notice issued   commissioner  section 
+minister means  minister  responsibility  information  broadcasting
+permanent secretary means  officer   time  exercising  highest level 
+      administrative functions within  public authority
+personal data means information   data subject   recorded   form including
+        without restricting  generality   foregoing
+                 information relating   race national  ethnic origin religion age sexual
+                    orientation sexual life  marital status   data subject
+                b information relating   education medical criminal  employment
+                    history   data subject  information relating   financial transactions
+                       individual   involved   refers   data subject
+                c  identifying number symbol   particular designed   data
+                    subject
+                d  address fingerprints deoxyribo nucleic acid  blood type   data
+                    subject
+                e  name   data subject   appears   personal data relating
+                      data subject    disclosure   name   reveal
+                    information   data subject
+
+                 f correspondence sent   establishment   data subject   explicitly
+                      implicitly   private  confidential nature  replies  
+                     correspondence   reveal  contents   original correspondence
+                     
+                 g  views  opinions    person   data subject
+prescribed means prescribed   regulations
+processing  relation  information  data means obtaining recording  holding 
+         information  data  carrying   operation  set  operations   information
+          data including 
+          organization adaptation  alteration   information  data
+         b retrieval consultation  use   information  data
+         c disclosure   information  data  transmission dissemination  otherwise
+             making available 
+         d alignment combination blocking erasure  destruction   information  data
+public authority includes  body   purposes   act
+                      established     constitution
+                 b     established  statute
+                 c      forms part   level  branch  government
+                 d     owned controlled  substantially financed  funds provided 
+                         government   state 
+                 e     carrying   statutory  public authority function
+except   body referred   paragraph e   public authority    extent  
+statutory  public functions
+regulations means regulation made pursuant  section 
+register means  register  data controllers required   kept pursuant  section 
+relevant person  relation   data subject means 
+            data subject   minor  person   parental authority   minor
+                appointed     guardian   court
+         b   data subject  physically  mentally unfit  person   
+             appointed    guardian   court
+         c    case  person duly authorized  writing   data subject  make 
+             request  section 
+application
+        except  otherwise provided   act applies   data controller  respect  
+data 
+
+                  data controller  established  saint lucia   data  processed  
+                    context   business   establishment 
+                b  data controller   established  saint lucia  uses equipment 
+                    saint lucia  processing data otherwise    purpose  transit
+                     saint lucia
+  data controller falling within subsection b shall nominate   purposes   act 
+representative established  saint lucia
+established  saint lucia
+   purposes  section     following    treated  established  saint
+lucia
+                  individual   ordinarily resident  saint lucia   caribbean
+                    community
+                b  body incorporated   companies act cap 
+                c  partnership   unincorporated association formed   laws 
+                    saint lucia 
+                d  person    fall within paragraphs  b  c  maintains
+                     saint lucia  office branch  agency    carries  
+                    activity related  data processing
+crown   bound
+       act binds  state
+                                                part 
+                           data protection commissioner
+data protection commissioner
+  subject  subsection   shall   data protection commissioner  shall 
+appointed   governor general  consultation   prime minister   leader 
+ opposition
+  person   qualified  hold office  commissioner    
+       minister parliamentary secretary   member   house  representatives
+    b   judge  magistrate   courts  justice
+    c   officer   public service
+    d   member   local authority
+
+    e   financial   interest   enterprise  activity   likely  affect 
+        discharge     functions   commissioner
+    f   undischarged bankrupt
+    g    time  convicted   offence involving dishonesty  moral turpitude
+       commissioner shall  assisted   public officers  may  necessary 
+shall    administrative control   commissioner
+      commissioner shall  hold   office  emolument whether   public
+service  otherwise  shall  engage    occupation  reward
+      prime minister shall      consulted  leader   opposition
+appoint  person   qualified   appointed   temporary commissioner  
+          commissioner resigns      office  otherwise vacant
+        b  commissioner    reason unable  perform  functions   office 
+        c  commissioner considers  necessary   temporary basis   carry  
+                  functions    circumstances    commissioner 
+               judge   high court  commissioner  abstain
+  person  appointed shall cease    temporary commissioner   commissioner
+ appointed  fill  vacancy    case may    commissioner   unable
+ perform  functions     office resumes  functions    case  
+temporary purpose  temporary commissioner  performed  function assigned   
+
+  appointment   temporary commissioner   temporary purpose  provided 
+subsection  b  c shall  exercised    certificate signed   commissioner 
+ effect      opinion   necessary   due conduct   business  
+commissioner   act   temporary commissioner  appointed
+legal personality  representation   commissioner
+   commissioner shall   distinct legal personality  shall  capable subject 
+ provisions   act  entering  contracts  acquiring holding  disposing  
+kind  property   purposes     functions  suing   sued   
+  things  entering    transactions   incidental  conducive  
+exercise  performance     functions   act
+  document purporting    instrument made  issued   commissioner 
+signed     shall  received  evidence  shall   contrary  proved 
+deemed    instrument made  issued   commissioner
+tenure  office
+
+   commissioner shall hold office   term  exceeding five years  shall 
+eligible  reappointment   expiration     term  office
+     subject   provisions  subsection   commissioner vacates    office
+           expiration   term       appointed
+        b     becomes disqualified  virtue  subsection  
+        c      appointed    office  emolument  engages   
+             occupation  reward
+  commissioner shall   removed     office except   governor
+general  consultation   prime minister   leader   opposition  
+ground  inability  perform  functions     office whether arising  infirmity 
+body  mind    cause  misbehaviour
+protection   commissioner
+  action   proceeding  damages shall  instituted   commissioner  
+act done  good faith   performance   duty    exercise   power  discretion
+  act
+delegation  powers  commissioner
+  commissioner may delegate      investigating  enforcement powers
+conferred upon      act   authorized officer    police officer
+designated   purpose   commissioner
+independence  functions
+   exercise     functions   act  commissioner shall act
+independently  shall   subject   direction  control    person  authority
+functions   commissioner
+  commissioner shall
+     ensure compliance   act   regulations
+    b create  maintain  register  data controllers
+    c exercise control   data processing activities  either      motion  
+         request   data subject verify whether  processing  data  carried  
+        accordance   provisions   act   regulations
+
+    d instruct  data controller  take  measures  may  necessary  ensure  
+        processing  data   accordance   act   regulations 
+    e investigate reports  claims  data subjects  associations representing data
+        subjects  violations   act   regulations  take remedial action  
+        commissioner deems necessary   may  prescribed   act   inform 
+        data subjects  associations   outcome
+    f issue  directions  public statements  may  required   commissioner 
+         purposes   act
+    g take  measures  may  necessary    bring  provisions   act  
+        knowledge   general public  provisions   act
+    h promote  education  publicity  understanding  acceptance   data
+        protection principles    objects   principles
+     advise  government   legislative measures   required   taken relating
+          privacy  data protection
+    j either      motion  upon request report   minister   need arises
+          matter affecting  privacy   data subject including  recommendations
+        relating   need    desirability  taking legislative administrative  
+        action  give protection  better protection   privacy   data subject
+    k collaborate  supervisory authorities   countries   extent necessary  
+        performance     duties  particular  exchanging  useful information 
+        accordance   convention   saint lucia   party    international
+        obligation  saint lucia
+    l generally monitor compliance  governmental  nongovernmental bodies  
+        provisions   act
+    m prepare  issue  approve  consultation   minister appropriate codes 
+        practice  guidelines   guidance  business persons  institutions handling
+        personal data
+    n undertake research   monitor developments  data processing  computer
+        technology  ensure   adverse effects   developments   privacy  data
+        subjects  minimized  include  results   research  monitoring   
+         annual report required pursuant  section 
+    o provide advice   without request   minister   public authority   matter
+        relevant   operation   act  report   minister   need arises  
+        desirability   acceptance  saint lucia   international instrument relating 
+         privacy  data subjects
+    p   thing incidental  conducive   performance     preceding
+        functions 
+    q exercise  perform   functions   conferred  imposed  
+        commissioner     act    enactment
+confidentiality  oath
+   commissioner  every authorized officer shall take  oath specified  
+schedule   governor general
+
+  person       commissioner  officer   commissioners staff  
+agent   commissioner shall  make use   divulge either directly  indirectly  data
+obtained   result   exercise   power    performance   duty   act
+except 
+          accordance   act    enactment 
+        b  authorized   order   court
+  person  without lawful excuse contravenes subsection  commits  offence  
+liable  conviction   fine  exceeding twenty five thousand dollars   imprisonment  
+term  exceeding six months   
+powers  commissioner
+  commissioner shall  power   purpose  carrying     functions 
+   acts  appear       requisite advantageous  convenient   
+connection   carrying    functions
+                                                  part 
+                          registration  data controllers
+register  data controllers
+  commissioner shall keep  register   known   register  data controllers 
+  commissioner shall cause   entered  relation   data controller 
+following particulars
+          name  address
+        b  date  registration
+        c  description   personal data processed    behalf   data controller 
+               category  categories  personal data subjects    relate
+        d  description   purpose  purposes    personal data  processed
+        e  description   recipient  recipients    data controller intends  may
+             wish  disclose  personal data 
+        f  names   description   countries  territories outside  saint lucia 
+               data controller directly  indirectly transfers  intends  may wish
+             directly  indirectly  transfer  personal data
+application  registration
+  application  registration   data controller shall  made  writing  
+commissioner   person shall furnish  particulars  required  section 
+
+ subject  subsection   commissioner shall grant  application  registration unless
+ commissioner reasonably believes  
+            particulars proposed  inclusion   entry   register  insufficient 
+                information required   commissioner either    furnished
+                insufficient
+        b   appropriate safeguards   protection   privacy   data subjects
+              concerned     will  continue   provided   data controller
+              
+        c    person applying  registration    fit  proper person  
+              determination   commissioner
+ upon registration   application  applicant shall pay  prescribed fee
+   commissioner refuses  application  registration  registrar shall  soon
+ reasonably practicable notify  writing  applicant   refusal 
+         specifying  reasons   refusal 
+        b informing  applicant   applicant may appeal   refusal  section
+            
+duration  registration
+ registration shall    period  exceeding one year    expiry   period
+ relevant entry shall  cancelled unless  registration  renewed
+  period specified  subsection  shall  calculated 
+           case   first registration   date    relevant entry  made
+               register 
+        b   case   registration    renewed   date    
+             renewed
+  commissioner may subject   act renew  registration upon application  th
+data controller   payment  prescribed fee
+failure  register   renew registration
+   data controller shall  without reasonable excuse processes  personal data
+without  registered   part
+      data controller  contravenes subsection  commits  offence   liable 
+summary conviction   fine  exceeding twenty five thousand dollars   imprisonment 
+ term  exceeding six months   
+
+certificate issued  commissioner
+   proceedings    registration   person   data controller   question 
+certificate   hand   commissioner     entry   register  respect 
+ person   data controller shall  conclusive evidence   fact
+inspection   register
+   commissioner shall keep  register   office   commissioner  shall 
+ reasonable times make  available  inspection   person free  charge
+  person may  payment   prescribed fee obtain   commissioner  certified
+copy     extract   entry   register
+                                                 part 
+                            obligation  data controllers
+collection  personal data
+  subject  part   data controller shall  collect personal data unless 
+           collected   lawful purpose connected   function  activity   data
+             controller 
+        b  collection   data  necessary   purpose
+   data controller collects personal data directly   data subject  data controller
+shall   time  collecting personal data ensure   data subject concerned  informed 
+
+           fact   personal data   collected
+        b   purpose    personal data   collected
+        c   intended recipients   personal data
+        d   name  address   data controller
+        e  whether    supply   personal data   data subject  voluntary 
+             mandatory
+        f  consequences   data subject     part   requested personal data
+               provided
+        g whether    personal data collected will   processed  whether 
+               consent   data subject will  required    processing 
+        h  data subjects right  access   possibility  correction   destruction 
+              personal data   provided
+
+  data controller shall   required  comply  subsection  
+          respect   data subject  
+              compliance  subsection   respect   second  subsequent
+                 collection will   repeat without  material difference      done 
+             comply   subsection  respect   first collection 
+             ii    twelve months  elapsed   first collection 
+                  second  subsequent collection 
+        b  
+              compliance   reasonably practicable   time  collection provided 
+              data controller makes available   data subject   relevant information
+             specified  subsection   soon  practicable 
+             ii  personal data  used   form    data subject concerned
+                     reasonably expect   identified
+  personal data   collected directly   data subject concerned  data
+controller   person acting   behalf shall ensure   data subject  informed  
+matters specified  subsection 
+ subsection  shall  operate  prevent  second  subsequent collection  becoming
+ first collection   data controller  complied  subsection   respect  
+second  subsequent collection
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+consent  processing  personal data
+  subject  subsections      data controller shall  process personal data
+unless  data controller  obtained  express consent   data subject
+  data controller may process personal data without obtaining  express consent   data
+subject   data subject  published  personal data
+      data controller may process personal data without obtaining  express consent  
+data subject  health  hospital care purposes provided   personal data  processed
+
+  health care professional subject   obligation  professional secrecy  professional
+confidentiality   processing  necessary 
+                 preventative medicine   protection  public health
+                b medical diagnosis
+                c health care  treatment 
+                d management  health  hospital care services
+  data controller may process personal data without obtaining  express consent   data
+subject   processing  necessary 
+           performance   contract    data subject   party
+        b  order  take steps required   data subject prior  entering   contract
+        c  order  protect  vital interests   data subject  another person   case
+            
+                     consent   physically  legally  given    behalf 
+                 data subject 
+                ii     data controller  reasonably  expected  obtain 
+                consent   data subject
+        d  compliance   legal obligation    data controller  subject
+        e   administration  justice
+        f   performance   activity   carried    public interest   
+            exercise  official authority vested   data controller    third party  
+             personal data  disclosed 
+        g   purpose  concerns  legitimate interest   data controller    
+            third party   personal data  provided except   interest 
+            overridden   interest  protect  fundamental rights  freedoms   data
+            subject   particular  right  privacy
+   processing  personal data  done pursuant  paragraphs f  g 
+subsection   data subject except  otherwise provided    law shall 
+entitled  object   time   data controller  compelling legitimate grounds  
+processing   personal data
+   processing  personal data takes place   consent   data subject 
+data subject may   time revoke    consent  compelling legitimate grounds relating
+    `particular situation
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+       purposes   section health care professional   meaning given  
+pursuant   health practitioners act   
+accuracy  personal data
+
+  data controller shall take  reasonable steps  ensure  personal data within  data
+controllers possession  
+         accurate 
+        b kept   date   data requires regular updating
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+use  personal data
+  data controller shall ensure  personal data  
+         kept   one   specified  lawful purposes    personal data
+               collected  processed
+        b  used  disclosed   manner incompatible   purposes   
+             personal data   collected  processed
+        c adequate relevant   excessive  relation   purposes   
+             personal data   collected  processed 
+        d  kept  longer   necessary   purposes    personal data 
+              collected  processed
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+security  personal data
+  data controller shall 
+         take appropriate security  organizational measures   prevention 
+            unauthorized access  alteration  disclosure  accidental loss  destruction 
+             personal data   data controllers control 
+        b ensure   measures provide  level  security appropriate  
+              harm   likely  result   unauthorized access  alteration 
+            disclosure  destruction   data   accidental loss 
+            ii  nature   data concerned
+  data controller shall take  reasonable steps  ensure   person employed  
+data controller  aware   complies   relevant security measures
+  without prejudice  subsection   determining  appropriate security measures 
+particular   processing involves  transmission  personal data   information
+ communication network  data controller shall  regard  
+
+           state  technological development available
+         b  cost  implementing    security measures
+         c  special risks  exist   processing   personal data 
+         d  nature   personal data  processed
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+duty  destroy personal data
+  personal data   longer required   purpose     collected  data
+controller shall forthwith destroy  personal data  render  inaccessible electronically
+destroy  personal data  soon  reasonably practicable
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+access  disclosure   sale  personal data
+   data controller shall  without lawful excuse disclose personal data   manner
+  incompatible   purposes    personal data   collected
+  subject  subsection   person shall  
+          obtain access  personal data  obtain  information constituting  personal
+             data without prior authority   data controller    personal data  kept
+              disclose  personal data  information  another person
+ subsection  shall  apply   person    employee  agent   data controller 
+processor   acting within  mandate
+  person shall  offer personal data  sale   personal data   obtained 
+breach  subsection 
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+   purposes  subsection   advertisement indicating  personal data   may
+  sale constitutes  offer   sale  personal data
+
+transfer  personal data
+  subject  subsection   data controller shall  transfer personal data   country 
+territory outside saint lucia unless
+           written consent   commissioner 
+          country  territory ensures  adequate level  protection   rights 
+            freedoms  data subjects  relation   processing  personal data
+ subsection  b shall  apply  
+          data subject  given    consent   transfer
+        b  transfer  necessary 
+               performance   contract   data subject   data
+                 controller    taking  steps   request   data subject   view
+              data subject entering   contract   data controller
+            ii   conclusion   contract   data controller   person 
+              data subject   entered   request   data           subject  
+              interest   data subject    performance          contract
+            iii     public interest  section  applies
+        c  transfer  made   terms  may  approved   commissioner 
+            ensuring  adequate safeguards   protection   rights   data subject
+   purposes  subsection c  adequacy   level  safeguards   country 
+territory shall  assessed   light    circumstances surrounding  transfer 
+personal data  regard  particular  
+          nature   personal data
+        b  purpose  duration   proposed processing
+        c  country  territory  origin  country  final destination
+        d  rules  law  force   country  territory  question 
+        e  relevant codes  conduct   rules  security measures  
+            complied    country  territory
+                                                  part 
+                          rights  data subjects  others
+right  access  personal data
+  subject  section   data controller shall   written request   data subject  
+relevant person  relevant person 
+         provide  written response   data subject setting   following
+             whether  data kept   data controller includes personal data relating  
+                 data subject   description   personal data  
+            ii  purposes    personal data       processed
+
+             iii  source    information   collected
+             iv  logic   involved   automatic processing  personal data concerning
+                   data subject
+             v  recipients  classes  recipients      may  disclosed 
+         b      permit  data subject  relevant person  examine  personal data 
+         accordance   regulations  supply  data subject   relevant
+         person   copy   personal data referred   paragraph  
+         payment   prescribed fee
+         `
+       request made  subsection    b shall  treated   single request
+  access  personal data  given   act   data subject   sensory
+disability  requests  access  given   alternative format access shall  given  
+alternative format 
+           personal data already exists   alternative format   acceptable   data
+             subject 
+         b  data controller considers    reasonable  cause  personal information 
+              converted
+   personal data referred   subsection   expressed  terms   
+intelligible without explanation  data controller shall supply  personal data  
+explanation   terms
+  fee paid   person   data controller   section shall  returned   person
+  request made  subsection    complied 
+`
+  information   supplied pursuant   request   section shall  supplied 
+reference   personal data   time   request  received except   may take
+account   amendment  deletion made   time   time  
+information  supplied
+compliance  request  access  personal data
+  subject  subsection   section     payment   prescribed fee  data
+controller shall comply   request made  section   later  thirty days  
+receipt   request
+   data controller  unable  comply   request within  period specified 
+subsection   data controller shall 
+            expiry   specified period 
+              inform  data subject   data controller  unable  comply     
+             request  shall  required state  reasons  inability  comply       iiseek
+
+             consent   data subject   extension  time  compliance        data
+             controller 
+             iiiapply   commissioner forthwith   extension  time  compliance 
+              data controller
+denial  access  personal data
+  data controller may refuse  request made  section   
+          data controller   supplied   information   data controller may
+              reasonably require  order  satisfy       identity  
+              person making  request   locate  information   person seeks
+        b compliance   request will   contravention   confidentiality
+              obligation imposed   act    enactment
+   data controller  comply   request made  section  without
+disclosing personal data relating  another person  data controller may refuse  request
+unless 
+           individual  consented   disclosure     personal data
+                    person making  request 
+        b  data controller obtains  written approval   commissioner
+  determining   purposes  subsection  b whether   reasonable  
+commissioner  approve  request without  consent    individual concerned regard
+shall    particular  
+          duty  confidentiality owed    individual
+        b  steps taken   data controller   view  seeking  consent   
+             individual
+        c whether   individual  capable  giving consent 
+        d  express refusal  consent    individual
+   data controller shall  comply   request made  section   
+          data controller   requested  disclose information given    given 
+             confidence   purposes  
+                    education training  employment  prospective education training 
+                  employment   data subject
+                  ii  appointment  prospective appointment   data subject  
+                  office 
+                  iii  provision  prospective provision   data subject   service
+        b  personal data requested consists  information recorded  candidates  
+             academic professional   examination
+
+         c  compliance   revealing evidence   commission   offence
+                 offence   act expose     proceedings  
+              offence
+  notification   data controller   refusal   request made   data subject shall 
+ writing  shall include  statement   reasons   refusal   indication  
+data subject may complain   commissioner   refusal
+right  rectification etc  inaccurate personal data
+   personal data processed   data controller   access   given 
+ enactment contains personal data   data subject   data subject claims
+           incomplete incorrect misleading  excessive
+         b  relevant   purpose    document  held
+ data controller shall upon application   data subject cause  data   rectified
+blocked erased destroyed rendered inaccessible  annotated  appropriate
+   data controller  aware   third party holds personal data   subsection
+   b applies    shall  soon  reasonably practicable require  third party
+ rectify block erase destroy render inaccessible  annotate  data  appropriate
+   data controller   third party fails  rectify block erase  destroy personal data
+  subsection    b applies  data subject may apply   commissioner 
+  data rectified blocked erased destroyed rendered inaccessible  annotated 
+appropriate
+ upon  satisfied   application  subsection    personal data  
+subsection    b applies  commissioner shall direct  data controller  rectify
+block erase destroy  annotate  data    personal data  respect    
+  data controller
+   commissioner 
+          issues  direction  subsection  
+         b  satisfied   application   individual  personal data   
+             individual   data subject  inaccurate    rectified blocked
+             erased destroyed  annotated
+ commissioner may direct  data controller  notify third parties    data 
+ disclosed   rectification blocking erasure destruction  annotation
+right  prohibit processing  personal data
+
+   person may   time  notice  writing revoke consent   processing 
+        personal data  respect        data subject
+   data controller receives  notice  subsection   data controller shall 
+soon  reasonably practicable    event    thirty days   request 
+received stop processing  personal data  delete  personal data  render 
+inaccessible
+  data controller shall forthwith  writing notify  data subject  writing   action
+taken  subsections 
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+                                               part 
+                                           exemptions
+national security
+      minister may  order published   gazette exempt  data controller 
+complying   provision   act   interest  national security
+crime  taxation
+  data controller    public authority shall  exempt   provisions  parts 
+     processing  data  required 
+                      prevention  detection  crime
+                b      apprehension  prosecution  offenders 
+                c      assessment  collection   tax duty   imposition   similar
+                        nature
+health  social work
+  data controller shall  exempt   application  section    personal
+data   access   sought relates   physical  mental health   data subject
+  application   section  likely  cause serious harm   physical  mental health
+  data subject     person
+
+  minister may  order published   gazette waive  obligations imposed 
+section    public authority voluntary organizations    similar body  may 
+prescribed   public authority voluntary organization   body carries  social
+work  relation   data subject   application   section  likely  prejudice 
+carrying    social work
+regulatory activities
+  processing  personal data   data controller   purpose  discharging  
+ relevant functions 
+                      designed  protecting members   public  
+                          financial loss due  dishonesty malpractice   serious improper
+                             conduct    unfitness  incompetence  persons concerned 
+                              provision  banking insurance investment   financial
+                             services    management  bodies corporate
+                    ii     financial loss due   conduct  discharged  undischarged
+                             bankrupts 
+                    iii    dishonesty malpractice   seriously improper conduct   
+                             unfitness  incompetence  persons authorized  carry  
+                             profession   activity
+               b      conferred   central bank  director  financial services  
+                        financial intelligence unit     enactment
+                c       protecting charitable trusts   bodies involved  charitable
+                         work  misconduct  mismanagement   administration
+                d       protecting  property  charitable trusts   bodies specified
+                          paragraph c  loss  misapplication
+                e        recovery   property  charitable trusts   bodies
+                         specified  paragraph c
+                f       securing  health safety  welfare  persons  work
+                g       protecting persons   persons  work  risk  health 
+                         safety arising     connection   actions  persons  work
+                         
+                h      designed  
+                              protecting members   public  conduct  adversely
+                                 affect  interests  persons carrying   business
+
+                        ii   regulating agreements  conduct     object 
+                               effect  prevention restriction  distortion  competition 
+                               connection   commercial activity 
+                        iii  regulating conduct   part  one   undertakings 
+                               amounts   abuse   dominant position   market
+ exempt   application  part    extent    application   likely 
+prejudice  proper discharge   functions
+disclosure required  law   connection  legal proceedings
+          data controller  exempt  part    disclosure  personal data 
+                     required   enactment    court order
+                b     necessary   purpose    connection          
+                prospective legal      proceedings
+                c     necessary   purpose  obtaining legal advice 
+                d     necessary   purpose  establishing exercising  defending legal
+                rights
+legal professional privilege
+  data controller  exempt  parts      data consist  information 
+                respect    claim  legal professional privilege  confidentiality 
+                 client  legal practitioner   maintained  legal proceedings
+                including prospective legal proceedings
+
+domestic purposes
+  individual  exempt   provisions  parts       data  processed
+  individual    purposes   individuals personal family  household affairs
+  recreational purposes
+                                              part 
+                            investigation  enforcement
+
+power  commissioner  obtain information
+   commissioner may   written information notice served   person request
+ person  furnish      writing   time specified
+     access  personal data
+    b information   documentation   processing  personal data
+    c information related   security  processing  personal data 
+    d   information  relation  matters specified   notice   necessary 
+        expedient   performance   commissioner     functions  exercise
+            powers  duties   act
+   information requested   commissioner  stored   computer disc cassette
+  microfilm  preserved   mechanical  electronic device  person named  
+information notice shall produce  give access   information   form    can 
+taken away      visible  legible
+  notice required  authorized   act   served   given   person  
+commissioner may 
+           person   individual  served     
+             delivering personally   person
+            ii sending    person  post addressed   person     usual  last
+                 known place  business 
+          iii leaving    person    last known place  business  place
+        b   person   body corporate  partnership  served  
+             sending   post   proper officer   company   principal office
+            ii addressing    proper officer   partnership  leaving    office 
+                  proper officer
+contents  information notice
+  subject  subsection   information notice specified  section  shall state
+           person    notice  addressed   right  appeal  section 
+               requirement specified   notice within thirty days   service 
+              notice     
+        b  time  compliance   requirement specified   information notice 
+             time shall   expressed  expire   end   period  thirty days
+             specified  paragraph 
+   notice  appeal   decision made  section   lodged  
+commissioner  information required need   furnished  section  shall  apply 
+relation thereto pending  determination  withdrawal   appeal
+
+   commissioner considers   reason  special circumstances  information 
+required urgently   proper performance     functions  exercise    
+powers   act  commissioner may apply   judge  chambers  communication
+  information
+       law  force  saint lucia  rule  law prohibiting  restricting  disclosure 
+information shall  preclude  person  furnishing   commissioner  information
+  necessary  expedient   performance   commissioner     functions
+  subsection shall  apply  information    opinion   minister  
+minister responsible  national security     time  kept   purpose 
+safeguarding  security  saint lucia  information   privileged  disclosure 
+proceedings   court
+failure  refusal  comply  information notice
+   person shall  without reasonable excuse fail  refuse  comply   requirement
+specified   information notice
+      person shall   purported compliance   information notice furnish
+information   commissioner   person knows   false  misleading   material
+respect
+      person  contravenes subsection    commits  offence   liable shall
+commit  offence  shall  liable  summary conviction   fine  exceeding twenty five
+thousand dollars   imprisonment   term  exceeding six months   
+    defence   person charged   offence  subsection     prove 
+   exercised  due diligence  comply   information notice
+insufficient information pursuant   information notice
+   commissioner  pursuant   request  section  obtain sufficient
+information  order  conclude   processing  personal data  lawful  commissioner
+may prohibit  data controller  processing personal data    manner  
+storing  personal data
+complaints  commissioner  powers  investigation
+   commissioner may  complaint   data subject    commissioners
+instance investigate  cause   investigated whether  provisions   act  
+regulations       likely   contravened   data controller  relation
+  data subject
+
+   complaint  made   commissioner  subsection   commissioner
+shall 
+     investigate  complaint  cause    investigated   authorized officer unless
+         commissioner    opinion    frivolous  vexatious 
+    b  soon  reasonably practicable notify  data subject concerned  writing   
+         decision  relation   complaint    data subject may  aggrieved  
+        commissioners decision appeal   decision   court  section 
+ nothing   act precludes  commissioner  receiving  investigating complaints
+  submitted   person authorized  writing   data subject concerned  act 
+behalf   data subject   reference   data subject    section   act
+includes  reference   person  authorized
+form  complaint
+   complaint pursuant   act shall  made   commissioner  writing unless 
+commissioner authorizes otherwise
+  commissioner shall give  reasonable assistance   necessary   circumstances
+ enable  person  wishes  make  complaint   commissioner  put  complaint
+ writing
+notice  investigation
+  commencing  investigation   complaint pursuant   act  commissioner
+shall notify   case   public authority  permanent secretary     case 
+chief executive officer   intention  carry   investigation  shall include  
+notification  substance   complaint
+powers  request assistance
+    purposes  gathering information    proper conduct   investigation
+concerning compliance   act  commissioner may seek  assistance   persons
+ authorities   commissioner thinks fit   person  authority may   things 
+ reasonably necessary  assist  commissioner   performance   commissioners
+functions
+powers  entry  search
+
+  subject  subsection   authorized officer   accompanied   police officer
+may   time enter  premises   purpose  discharging  functions  duties
+  act   regulations
+      authorized officer shall  enter  premises unless     accompanied  
+police officer  shows   owner  occupier   premises  warrant issued  
+magistrate  section 
+warrant  enter  search premises
+    magistrate  satisfied  information  oath supplied   commissioner  
+authorized officer    reasonable grounds  suspecting   offence   act
+     committed   evidence   contravention    commission 
+ offence    found   premises specified   commissioner   authorized
+officer  magistrate may issue  warrant authorizing  entry  search  premises
+  warrant issued  subsection  authorizes  police officer accompanied  
+commissioner   authorized officer   time within seven days   date   warrant 
+enter  premises   reasonable time  
+         request  owner  occupier  produce  document record  data
+        b examine   document record  data  either   premises  elsewhere
+            take copies  extracts  
+        c inspect examine operate  test  data equipment found therein
+        d request  owner   premises entered    person employed   
+                person   premises  give   authorized officer 
+            reasonable assistance   answer  reasonable questions either orally  
+            writing
+  police officer shall   time  execution   warrant show  warrant  supply
+  copy   warrant   person  occupying  premises  respect   
+warrant  issued
+  authorized officer shall provide  inventory   type  data collected  seized 
+ data controller   occupier  premises  supplies  data   authorized officer
+matters exempt  inspection  seizure
+   powers  inspection  seizure conferred   warrant    exercisable 
+respect  personal data   virtue  section   exempt     provisions 
+ act
+  powers  inspection  seizure conferred   warrant   exercisable  respect 
+
+
+          communication   professional legal adviser     client 
+             connection   giving  legal advice   client  respect    
+             obligations liabilities  rights   act 
+        b  communications   professional legal adviser     client 
+                adviser     client    person made 
+             connection    contemplation  proceedings   arising    act
+obstruction  authorized officer
+   person shall   relation   exercise  powers conferred  sections   
+         obstruct  impede  authorized officer   exercise     authorized
+            officers powers
+        b fail  provide assistance  information requested   authorized officer
+        c refuse  allow  authorized officer  enter  premises   exercise  
+            authorized officers functions
+        d give   authorized officer  information   false  misleading  
+            material respect
+      person  contravenes subsection  commits  offence   liable  summary
+conviction   fine  exceeding twenty five thousand dollars   imprisonment   term 
+exceeding six months   
+power  commissioner  issue enforcement notice
+       commissioner    opinion   data controller  contravened  
+contravening  provision   act    provision  contravention    
+offence  commissioner may subject  section  serve  enforcement notice   data
+controller requiring  data controller person  take  steps   specified  
+enforcement notice within  time  may   specified  comply   provision
+concerned
+contents  enforcement notice
+  enforcement notice shall   writing  shall
+     specify  provision   act    opinion   commissioner  data
+        controller  contravened   contravening   reasons   commissioner
+         formed  opinion 
+    b specify  action   commissioner requires  data controller  take
+    c subject  subsection  inform  data subject     right  appeal pursuant 
+        section    time within   appeal must  lodged
+
+       enforcement notice may without prejudice   generality  section  
+subsection  require  data controller
+      rectify  erase    data concerned 
+    b  supplement  personal data   statement relating   matters dealt  
+            commissioner may approve
+  respect   personal data   inaccurate   kept   date   data
+controller complies  paragraphs   b  data controller shall  deemed    
+contravention   provision
+ subject  subsection   time specified   enforcement notice  compliance  
+requirement specified   enforcement notice shall   expressed  expire   end
+  period  appeal specified  section     appeal  brought  
+requirement  requirement need   complied  pending  determination 
+withdrawal   appeal
+   commissioner 
+      reason  special circumstances    opinion   requirement specified  
+         enforcement notice shall  complied  urgently 
+    b  enforcement notice includes  statement   effect
+subsections b   shall  apply  relation   enforcement notice   notice
+shall contain  statement   right  appeal  applicant     shall  require
+compliance   requirement   end   period  seven days beginning  
+date    notice  served
+  compliance   data controller   requirement  subsection   data
+controller shall  soon  may     event    thirty days  
+compliance notify 
+      data subject concerned 
+    b  person   commissioner considers  reasonably practicable    
+           data  disclosed   period beginning twelve months   date
+           service   enforcement notice concerned  ending immediately  
+         compliance   rectification erasure  statement concerned   compliance
+         materially modifies  data concerned
+  commissioner may cancel  enforcement notice        shall notify 
+writing  person     served accordingly
+failure  comply  enforcement notice  offence
+   person shall  without reasonable excuse fail  refuse  comply   requirement
+specified   enforcement notice
+
+  person  contravenes subsection  commits  offence   liable  summary
+conviction   fine  exceeding twenty five thousand dollars   imprisonment   term 
+exceeding six months     fine  imprisonment
+investigations  private
+   investigations   complaint pursuant   act shall  conducted  private
+       course   investigation   complaint   act   commissioner 
+person  made  complaint   permanent secretary   public authority   chief
+executive officer    entity shall  given  opportunity  make representations  
+commissioner   one  entitled   right   present    access   
+comment  representations made   commissioner    person
+referral  commissioner  police
+  completion   investigation   act  commissioner shall  
+investigation reveals   offence   committed   act   regulations 
+commissioner shall refer  matter   commissioner  police  necessary action
+                                              part 
+                                        miscellaneous
+appeals  court
+ subject  subsection   appeal lies   court  
+          requirement specified   enforcement notice   information notice
+        b  prohibition specified   prohibition notice
+        c  decision   commissioner  relation   complaint 
+        d  decision   commissioner  respect   performance     duties
+             powers   act
+      appeal shall  brought within thirty days   service   person concerned 
+ relevant notice    case may   receipt   person   notification  
+relevant refusal  decision
+  
+
+          person appeals   court pursuant  paragraph  b c  d  subsection
+            
+        b  appeal  brought within  period specified   notice 
+        c  commissioner  included  statement   relevant notice  notification 
+             effect   reason  special circumstances      opinion  
+            requirement  prohibition specified   notice   complied   
+            refusal specified   notification  take effect urgently
+ court may determine  noncompliance   person  requirement  prohibition
+specified   notice   period ending   determination  withdrawal  
+appeal     period  may  determined   court shall  constitute 
+offence
+annual report
+   commissioner shall  later  three months   end  every calendar
+year lay  annual report   activities     office  parliament
+ without limiting  generality  subsection   report pursuant shall include 
+          statement   operation  approved  issued codes  practice
+        b  recommendation   commissioner thinks fit relating   compliance 
+             act
+general penalty
+  person  commits  offence   act    specific penalty 
+provided shall  conviction  liable   fine  exceeding ten thousand dollars  
+imprisonment   term  exceeding six months   
+regulations
+   minister may  consultation   commissioner make regulations 
+giving effect   purpose   act   prescribing anything required  authorized 
+ act   prescribed
+ notwithstanding  generality  subsection  regulations made   section may
+prescribe 
+             rules  procedures relating  access  data held   data controller
+            b guidelines   disposal  personal information held   data controller
+
+            c guidelines   contents   notifications  applications made pursuant 
+                 act
+            d  fees  may  levied   commissioner
+            e  administrative fines  may  imposed   commissioner  
+                administrative violations  respect    fines may  imposed
+            f  extension   application   act   particular activity  sector
+            g  issuing  approval  codes  guidelines 
+            h guidelines  rules relating   provisions   act
+ regulations made   section  act shall  subject   negative resolution 
+parliament
+                                            schedule
+                                                                                section 
+  make oathsolemnly affirmdeclare  
+will faithfully  honestly fulfill  duties  authorized officercommissioner  conformity
+  privacy  data protection act     shall  without  due authority 
+ behalf disclose  make known  matter  thing  comes   knowledge  reason
+  duties  
+
+                privacy  data protection bill
+                                      saint lucia
+                                       
+                                            
+                           arrangement  sections
+sections
+                                           part 
+                                      preliminary
+         short title  commencement
+         interpretation
+         application
+         established  saint lucia
+         crown   bound
+                                                part 
+                           data protection commissioner
+        data protection commissioner
+        legal personality  representation   commissioner
+        tenure  office
+        protection   commissioner
+        delegation  powers  commissioner
+        independence  functions
+        functions   commissioner
+        confidentiality  oath
+        powers  commissioner
+                                                part 
+                          registration  data controllers
+        register  data controllers
+        application  registration
+        duration  registration
+        failure  register   renew registration
+        certificate issued  commissioner
+        inspection  register
+
+                                          part 
+                    obligations  data controllers
+ collection  personal data
+ consent  processing personal data
+ accuracy  personal data
+ use  personal data
+ security  personal data
+ duty  destroy personal data
+ access  disclosure   sale  personal data
+ transfer  personal data
+                                          part 
+                  rights  data subjects  others
+  right  access  personal data
+  compliance  request  access  personal data
+  denial  access  personal data
+  right  rectification etc  inaccurate personal data
+  right  prohibit processing  personal data  direct marketing
+                                          part 
+                                      exemptions
+ national security
+ crime  taxation
+ health  social work
+ regulatory activities
+ disclosure required  law   connection  legal proceedings
+ legal professional privilege
+ domestic purposes
+                                          part 
+                     investigation  enforcement
+ power  commissioner  obtain information
+ contents  information notice
+ failure  refusal  comply  information notice
+ insufficient information pursuant   information notice
+ complaints  commissioner  powers  investigation
+ form  complaint
+ notice  investigation
+ powers  request assistance
+ powers  entry  search
+ warrant  enter  search premises
+
+ matters exempt  inspection  seizure
+ obstruction  authorized officer
+ power  commissioner  issue enforcement `notice
+ content  enforcement notice
+ failure  comply  enforcement notice  offence
+ investigations  private
+ referral  commissioner  police
+                                      part 
+                                miscellaneous
+ appeals  court
+ annual reports
+ general penalty
+ regulations
+schedule
+
+                                      saint lucia
+                                             
+                                                  
+ act  make provision   protection  individuals  relation  personal data  
+regulate  collection holding use processing correction  disclosure  personal
+information   manner  recognizes  right  privacy  individuals  respect  
+personal information   related matters
+          enacted   queens  excellent majesty     advice  
+house  assembly   senate  saint lucia   authority     follows
+                                                part 
+                                          preliminary
+short title  commencement
+        act may  cited   privacy  data protection act 
+          act shall come  force   day   fixed   minister  order
+published   gazette
+interpretation
+      act 
+alternative format  respect  personal data means  format  allows  person  
+      sensory disability  read  listen   personal data
+authorized officer means  officer  employee    commissioner  delegated 
+        powers  section    officer  employee  person assisting  section
+       acting   direction   commissioner
+commissioner means  data protection commissioner appointed pursuant  section 
+court means  high court   judge   high court
+
+data  includes representations  facts information  concepts   
+        prepared    prepared   form suitable  use   electronic
+        system including computer programme text images sound video 
+        information within  database  electronic system
+data controller means  person  either alone   others process data  determines 
+      purposes     manner    personal data      processed
+data subject means  natural person    subject  personal data
+document means  medium   information  recorded whether printed   tape 
+        film   electronic means  otherwise  also means  map diagram photograph
+        film microfilm video tape sound recording  machinereadable record   record
+          capable   produced   machinereadable record  means 
+        equipment   programme   combination     used   purpose 
+         establishment  holds  record
+enforcement notice means  notice issued b  commissioner  section 
+information notice means  notice issued   commissioner  section 
+minister means  minister  responsibility  information  broadcasting
+permanent secretary means  officer   time  exercising  highest level 
+      administrative functions within  public authority
+personal data means information   data subject   recorded   form including
+        without restricting  generality   foregoing
+                 information relating   race national  ethnic origin religion age sexual
+                    orientation sexual life  marital status   data subject
+                b information relating   education medical criminal  employment
+                    history   data subject  information relating   financial transactions
+                       individual   involved   refers   data subject
+                c  identifying number symbol   particular designed   data
+                    subject
+                d  address fingerprints deoxyribo nucleic acid  blood type   data
+                    subject
+                e  name   data subject   appears   personal data relating
+                      data subject    disclosure   name   reveal
+                    information   data subject
+
+                 f correspondence sent   establishment   data subject   explicitly
+                      implicitly   private  confidential nature  replies  
+                     correspondence   reveal  contents   original correspondence
+                     
+                 g  views  opinions    person   data subject
+prescribed means prescribed   regulations
+processing  relation  information  data means obtaining recording  holding 
+         information  data  carrying   operation  set  operations   information
+          data including 
+          organization adaptation  alteration   information  data
+         b retrieval consultation  use   information  data
+         c disclosure   information  data  transmission dissemination  otherwise
+             making available 
+         d alignment combination blocking erasure  destruction   information  data
+public authority includes  body   purposes   act
+                      established     constitution
+                 b     established  statute
+                 c      forms part   level  branch  government
+                 d     owned controlled  substantially financed  funds provided 
+                         government   state 
+                 e     carrying   statutory  public authority function
+except   body referred   paragraph e   public authority    extent  
+statutory  public functions
+regulations means regulation made pursuant  section 
+register means  register  data controllers required   kept pursuant  section 
+relevant person  relation   data subject means 
+            data subject   minor  person   parental authority   minor
+                appointed     guardian   court
+         b   data subject  physically  mentally unfit  person   
+             appointed    guardian   court
+         c    case  person duly authorized  writing   data subject  make 
+             request  section 
+application
+        except  otherwise provided   act applies   data controller  respect  
+data 
+
+                  data controller  established  saint lucia   data  processed  
+                    context   business   establishment 
+                b  data controller   established  saint lucia  uses equipment 
+                    saint lucia  processing data otherwise    purpose  transit
+                     saint lucia
+  data controller falling within subsection b shall nominate   purposes   act 
+representative established  saint lucia
+established  saint lucia
+   purposes  section     following    treated  established  saint
+lucia
+                  individual   ordinarily resident  saint lucia   caribbean
+                    community
+                b  body incorporated   companies act cap 
+                c  partnership   unincorporated association formed   laws 
+                    saint lucia 
+                d  person    fall within paragraphs  b  c  maintains
+                     saint lucia  office branch  agency    carries  
+                    activity related  data processing
+crown   bound
+       act binds  state
+                                                part 
+                           data protection commissioner
+data protection commissioner
+  subject  subsection   shall   data protection commissioner  shall 
+appointed   governor general  consultation   prime minister   leader 
+ opposition
+  person   qualified  hold office  commissioner    
+       minister parliamentary secretary   member   house  representatives
+    b   judge  magistrate   courts  justice
+    c   officer   public service
+    d   member   local authority
+
+    e   financial   interest   enterprise  activity   likely  affect 
+        discharge     functions   commissioner
+    f   undischarged bankrupt
+    g    time  convicted   offence involving dishonesty  moral turpitude
+       commissioner shall  assisted   public officers  may  necessary 
+shall    administrative control   commissioner
+      commissioner shall  hold   office  emolument whether   public
+service  otherwise  shall  engage    occupation  reward
+      prime minister shall      consulted  leader   opposition
+appoint  person   qualified   appointed   temporary commissioner  
+          commissioner resigns      office  otherwise vacant
+        b  commissioner    reason unable  perform  functions   office 
+        c  commissioner considers  necessary   temporary basis   carry  
+                  functions    circumstances    commissioner 
+               judge   high court  commissioner  abstain
+  person  appointed shall cease    temporary commissioner   commissioner
+ appointed  fill  vacancy    case may    commissioner   unable
+ perform  functions     office resumes  functions    case  
+temporary purpose  temporary commissioner  performed  function assigned   
+
+  appointment   temporary commissioner   temporary purpose  provided 
+subsection  b  c shall  exercised    certificate signed   commissioner 
+ effect      opinion   necessary   due conduct   business  
+commissioner   act   temporary commissioner  appointed
+legal personality  representation   commissioner
+   commissioner shall   distinct legal personality  shall  capable subject 
+ provisions   act  entering  contracts  acquiring holding  disposing  
+kind  property   purposes     functions  suing   sued   
+  things  entering    transactions   incidental  conducive  
+exercise  performance     functions   act
+  document purporting    instrument made  issued   commissioner 
+signed     shall  received  evidence  shall   contrary  proved 
+deemed    instrument made  issued   commissioner
+tenure  office
+
+   commissioner shall hold office   term  exceeding five years  shall 
+eligible  reappointment   expiration     term  office
+     subject   provisions  subsection   commissioner vacates    office
+           expiration   term       appointed
+        b     becomes disqualified  virtue  subsection  
+        c      appointed    office  emolument  engages   
+             occupation  reward
+  commissioner shall   removed     office except   governor
+general  consultation   prime minister   leader   opposition  
+ground  inability  perform  functions     office whether arising  infirmity 
+body  mind    cause  misbehaviour
+protection   commissioner
+  action   proceeding  damages shall  instituted   commissioner  
+act done  good faith   performance   duty    exercise   power  discretion
+  act
+delegation  powers  commissioner
+  commissioner may delegate      investigating  enforcement powers
+conferred upon      act   authorized officer    police officer
+designated   purpose   commissioner
+independence  functions
+   exercise     functions   act  commissioner shall act
+independently  shall   subject   direction  control    person  authority
+functions   commissioner
+  commissioner shall
+     ensure compliance   act   regulations
+    b create  maintain  register  data controllers
+    c exercise control   data processing activities  either      motion  
+         request   data subject verify whether  processing  data  carried  
+        accordance   provisions   act   regulations
+
+    d instruct  data controller  take  measures  may  necessary  ensure  
+        processing  data   accordance   act   regulations 
+    e investigate reports  claims  data subjects  associations representing data
+        subjects  violations   act   regulations  take remedial action  
+        commissioner deems necessary   may  prescribed   act   inform 
+        data subjects  associations   outcome
+    f issue  directions  public statements  may  required   commissioner 
+         purposes   act
+    g take  measures  may  necessary    bring  provisions   act  
+        knowledge   general public  provisions   act
+    h promote  education  publicity  understanding  acceptance   data
+        protection principles    objects   principles
+     advise  government   legislative measures   required   taken relating
+          privacy  data protection
+    j either      motion  upon request report   minister   need arises
+          matter affecting  privacy   data subject including  recommendations
+        relating   need    desirability  taking legislative administrative  
+        action  give protection  better protection   privacy   data subject
+    k collaborate  supervisory authorities   countries   extent necessary  
+        performance     duties  particular  exchanging  useful information 
+        accordance   convention   saint lucia   party    international
+        obligation  saint lucia
+    l generally monitor compliance  governmental  nongovernmental bodies  
+        provisions   act
+    m prepare  issue  approve  consultation   minister appropriate codes 
+        practice  guidelines   guidance  business persons  institutions handling
+        personal data
+    n undertake research   monitor developments  data processing  computer
+        technology  ensure   adverse effects   developments   privacy  data
+        subjects  minimized  include  results   research  monitoring   
+         annual report required pursuant  section 
+    o provide advice   without request   minister   public authority   matter
+        relevant   operation   act  report   minister   need arises  
+        desirability   acceptance  saint lucia   international instrument relating 
+         privacy  data subjects
+    p   thing incidental  conducive   performance     preceding
+        functions 
+    q exercise  perform   functions   conferred  imposed  
+        commissioner     act    enactment
+confidentiality  oath
+   commissioner  every authorized officer shall take  oath specified  
+schedule   governor general
+
+  person       commissioner  officer   commissioners staff  
+agent   commissioner shall  make use   divulge either directly  indirectly  data
+obtained   result   exercise   power    performance   duty   act
+except 
+          accordance   act    enactment 
+        b  authorized   order   court
+  person  without lawful excuse contravenes subsection  commits  offence  
+liable  conviction   fine  exceeding twenty five thousand dollars   imprisonment  
+term  exceeding six months   
+powers  commissioner
+  commissioner shall  power   purpose  carrying     functions 
+   acts  appear       requisite advantageous  convenient   
+connection   carrying    functions
+                                                  part 
+                          registration  data controllers
+register  data controllers
+  commissioner shall keep  register   known   register  data controllers 
+  commissioner shall cause   entered  relation   data controller 
+following particulars
+          name  address
+        b  date  registration
+        c  description   personal data processed    behalf   data controller 
+               category  categories  personal data subjects    relate
+        d  description   purpose  purposes    personal data  processed
+        e  description   recipient  recipients    data controller intends  may
+             wish  disclose  personal data 
+        f  names   description   countries  territories outside  saint lucia 
+               data controller directly  indirectly transfers  intends  may wish
+             directly  indirectly  transfer  personal data
+application  registration
+  application  registration   data controller shall  made  writing  
+commissioner   person shall furnish  particulars  required  section 
+
+ subject  subsection   commissioner shall grant  application  registration unless
+ commissioner reasonably believes  
+            particulars proposed  inclusion   entry   register  insufficient 
+                information required   commissioner either    furnished
+                insufficient
+        b   appropriate safeguards   protection   privacy   data subjects
+              concerned     will  continue   provided   data controller
+              
+        c    person applying  registration    fit  proper person  
+              determination   commissioner
+ upon registration   application  applicant shall pay  prescribed fee
+   commissioner refuses  application  registration  registrar shall  soon
+ reasonably practicable notify  writing  applicant   refusal 
+         specifying  reasons   refusal 
+        b informing  applicant   applicant may appeal   refusal  section
+            
+duration  registration
+ registration shall    period  exceeding one year    expiry   period
+ relevant entry shall  cancelled unless  registration  renewed
+  period specified  subsection  shall  calculated 
+           case   first registration   date    relevant entry  made
+               register 
+        b   case   registration    renewed   date    
+             renewed
+  commissioner may subject   act renew  registration upon application  th
+data controller   payment  prescribed fee
+failure  register   renew registration
+   data controller shall  without reasonable excuse processes  personal data
+without  registered   part
+      data controller  contravenes subsection  commits  offence   liable 
+summary conviction   fine  exceeding twenty five thousand dollars   imprisonment 
+ term  exceeding six months   
+
+certificate issued  commissioner
+   proceedings    registration   person   data controller   question 
+certificate   hand   commissioner     entry   register  respect 
+ person   data controller shall  conclusive evidence   fact
+inspection   register
+   commissioner shall keep  register   office   commissioner  shall 
+ reasonable times make  available  inspection   person free  charge
+  person may  payment   prescribed fee obtain   commissioner  certified
+copy     extract   entry   register
+                                                 part 
+                            obligation  data controllers
+collection  personal data
+  subject  part   data controller shall  collect personal data unless 
+           collected   lawful purpose connected   function  activity   data
+             controller 
+        b  collection   data  necessary   purpose
+   data controller collects personal data directly   data subject  data controller
+shall   time  collecting personal data ensure   data subject concerned  informed 
+
+           fact   personal data   collected
+        b   purpose    personal data   collected
+        c   intended recipients   personal data
+        d   name  address   data controller
+        e  whether    supply   personal data   data subject  voluntary 
+             mandatory
+        f  consequences   data subject     part   requested personal data
+               provided
+        g whether    personal data collected will   processed  whether 
+               consent   data subject will  required    processing 
+        h  data subjects right  access   possibility  correction   destruction 
+              personal data   provided
+
+  data controller shall   required  comply  subsection  
+          respect   data subject  
+              compliance  subsection   respect   second  subsequent
+                 collection will   repeat without  material difference      done 
+             comply   subsection  respect   first collection 
+             ii    twelve months  elapsed   first collection 
+                  second  subsequent collection 
+        b  
+              compliance   reasonably practicable   time  collection provided 
+              data controller makes available   data subject   relevant information
+             specified  subsection   soon  practicable 
+             ii  personal data  used   form    data subject concerned
+                     reasonably expect   identified
+  personal data   collected directly   data subject concerned  data
+controller   person acting   behalf shall ensure   data subject  informed  
+matters specified  subsection 
+ subsection  shall  operate  prevent  second  subsequent collection  becoming
+ first collection   data controller  complied  subsection   respect  
+second  subsequent collection
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+consent  processing  personal data
+  subject  subsections      data controller shall  process personal data
+unless  data controller  obtained  express consent   data subject
+  data controller may process personal data without obtaining  express consent   data
+subject   data subject  published  personal data
+      data controller may process personal data without obtaining  express consent  
+data subject  health  hospital care purposes provided   personal data  processed
+
+  health care professional subject   obligation  professional secrecy  professional
+confidentiality   processing  necessary 
+                 preventative medicine   protection  public health
+                b medical diagnosis
+                c health care  treatment 
+                d management  health  hospital care services
+  data controller may process personal data without obtaining  express consent   data
+subject   processing  necessary 
+           performance   contract    data subject   party
+        b  order  take steps required   data subject prior  entering   contract
+        c  order  protect  vital interests   data subject  another person   case
+            
+                     consent   physically  legally  given    behalf 
+                 data subject 
+                ii     data controller  reasonably  expected  obtain 
+                consent   data subject
+        d  compliance   legal obligation    data controller  subject
+        e   administration  justice
+        f   performance   activity   carried    public interest   
+            exercise  official authority vested   data controller    third party  
+             personal data  disclosed 
+        g   purpose  concerns  legitimate interest   data controller    
+            third party   personal data  provided except   interest 
+            overridden   interest  protect  fundamental rights  freedoms   data
+            subject   particular  right  privacy
+   processing  personal data  done pursuant  paragraphs f  g 
+subsection   data subject except  otherwise provided    law shall 
+entitled  object   time   data controller  compelling legitimate grounds  
+processing   personal data
+   processing  personal data takes place   consent   data subject 
+data subject may   time revoke    consent  compelling legitimate grounds relating
+    `particular situation
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+       purposes   section health care professional   meaning given  
+pursuant   health practitioners act   
+accuracy  personal data
+
+  data controller shall take  reasonable steps  ensure  personal data within  data
+controllers possession  
+         accurate 
+        b kept   date   data requires regular updating
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+use  personal data
+  data controller shall ensure  personal data  
+         kept   one   specified  lawful purposes    personal data
+               collected  processed
+        b  used  disclosed   manner incompatible   purposes   
+             personal data   collected  processed
+        c adequate relevant   excessive  relation   purposes   
+             personal data   collected  processed 
+        d  kept  longer   necessary   purposes    personal data 
+              collected  processed
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+security  personal data
+  data controller shall 
+         take appropriate security  organizational measures   prevention 
+            unauthorized access  alteration  disclosure  accidental loss  destruction 
+             personal data   data controllers control 
+        b ensure   measures provide  level  security appropriate  
+              harm   likely  result   unauthorized access  alteration 
+            disclosure  destruction   data   accidental loss 
+            ii  nature   data concerned
+  data controller shall take  reasonable steps  ensure   person employed  
+data controller  aware   complies   relevant security measures
+  without prejudice  subsection   determining  appropriate security measures 
+particular   processing involves  transmission  personal data   information
+ communication network  data controller shall  regard  
+
+           state  technological development available
+         b  cost  implementing    security measures
+         c  special risks  exist   processing   personal data 
+         d  nature   personal data  processed
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+duty  destroy personal data
+  personal data   longer required   purpose     collected  data
+controller shall forthwith destroy  personal data  render  inaccessible electronically
+destroy  personal data  soon  reasonably practicable
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+access  disclosure   sale  personal data
+   data controller shall  without lawful excuse disclose personal data   manner
+  incompatible   purposes    personal data   collected
+  subject  subsection   person shall  
+          obtain access  personal data  obtain  information constituting  personal
+             data without prior authority   data controller    personal data  kept
+              disclose  personal data  information  another person
+ subsection  shall  apply   person    employee  agent   data controller 
+processor   acting within  mandate
+  person shall  offer personal data  sale   personal data   obtained 
+breach  subsection 
+       data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+   purposes  subsection   advertisement indicating  personal data   may
+  sale constitutes  offer   sale  personal data
+
+transfer  personal data
+  subject  subsection   data controller shall  transfer personal data   country 
+territory outside saint lucia unless
+           written consent   commissioner 
+          country  territory ensures  adequate level  protection   rights 
+            freedoms  data subjects  relation   processing  personal data
+ subsection  b shall  apply  
+          data subject  given    consent   transfer
+        b  transfer  necessary 
+               performance   contract   data subject   data
+                 controller    taking  steps   request   data subject   view
+              data subject entering   contract   data controller
+            ii   conclusion   contract   data controller   person 
+              data subject   entered   request   data           subject  
+              interest   data subject    performance          contract
+            iii     public interest  section  applies
+        c  transfer  made   terms  may  approved   commissioner 
+            ensuring  adequate safeguards   protection   rights   data subject
+   purposes  subsection c  adequacy   level  safeguards   country 
+territory shall  assessed   light    circumstances surrounding  transfer 
+personal data  regard  particular  
+          nature   personal data
+        b  purpose  duration   proposed processing
+        c  country  territory  origin  country  final destination
+        d  rules  law  force   country  territory  question 
+        e  relevant codes  conduct   rules  security measures  
+            complied    country  territory
+                                                  part 
+                          rights  data subjects  others
+right  access  personal data
+  subject  section   data controller shall   written request   data subject  
+relevant person  relevant person 
+         provide  written response   data subject setting   following
+             whether  data kept   data controller includes personal data relating  
+                 data subject   description   personal data  
+            ii  purposes    personal data       processed
+
+             iii  source    information   collected
+             iv  logic   involved   automatic processing  personal data concerning
+                   data subject
+             v  recipients  classes  recipients      may  disclosed 
+         b      permit  data subject  relevant person  examine  personal data 
+         accordance   regulations  supply  data subject   relevant
+         person   copy   personal data referred   paragraph  
+         payment   prescribed fee
+         `
+       request made  subsection    b shall  treated   single request
+  access  personal data  given   act   data subject   sensory
+disability  requests  access  given   alternative format access shall  given  
+alternative format 
+           personal data already exists   alternative format   acceptable   data
+             subject 
+         b  data controller considers    reasonable  cause  personal information 
+              converted
+   personal data referred   subsection   expressed  terms   
+intelligible without explanation  data controller shall supply  personal data  
+explanation   terms
+  fee paid   person   data controller   section shall  returned   person
+  request made  subsection    complied 
+`
+  information   supplied pursuant   request   section shall  supplied 
+reference   personal data   time   request  received except   may take
+account   amendment  deletion made   time   time  
+information  supplied
+compliance  request  access  personal data
+  subject  subsection   section     payment   prescribed fee  data
+controller shall comply   request made  section   later  thirty days  
+receipt   request
+   data controller  unable  comply   request within  period specified 
+subsection   data controller shall 
+            expiry   specified period 
+              inform  data subject   data controller  unable  comply     
+             request  shall  required state  reasons  inability  comply       iiseek
+
+             consent   data subject   extension  time  compliance        data
+             controller 
+             iiiapply   commissioner forthwith   extension  time  compliance 
+              data controller
+denial  access  personal data
+  data controller may refuse  request made  section   
+          data controller   supplied   information   data controller may
+              reasonably require  order  satisfy       identity  
+              person making  request   locate  information   person seeks
+        b compliance   request will   contravention   confidentiality
+              obligation imposed   act    enactment
+   data controller  comply   request made  section  without
+disclosing personal data relating  another person  data controller may refuse  request
+unless 
+           individual  consented   disclosure     personal data
+                    person making  request 
+        b  data controller obtains  written approval   commissioner
+  determining   purposes  subsection  b whether   reasonable  
+commissioner  approve  request without  consent    individual concerned regard
+shall    particular  
+          duty  confidentiality owed    individual
+        b  steps taken   data controller   view  seeking  consent   
+             individual
+        c whether   individual  capable  giving consent 
+        d  express refusal  consent    individual
+   data controller shall  comply   request made  section   
+          data controller   requested  disclose information given    given 
+             confidence   purposes  
+                    education training  employment  prospective education training 
+                  employment   data subject
+                  ii  appointment  prospective appointment   data subject  
+                  office 
+                  iii  provision  prospective provision   data subject   service
+        b  personal data requested consists  information recorded  candidates  
+             academic professional   examination
+
+         c  compliance   revealing evidence   commission   offence
+                 offence   act expose     proceedings  
+              offence
+  notification   data controller   refusal   request made   data subject shall 
+ writing  shall include  statement   reasons   refusal   indication  
+data subject may complain   commissioner   refusal
+right  rectification etc  inaccurate personal data
+   personal data processed   data controller   access   given 
+ enactment contains personal data   data subject   data subject claims
+           incomplete incorrect misleading  excessive
+         b  relevant   purpose    document  held
+ data controller shall upon application   data subject cause  data   rectified
+blocked erased destroyed rendered inaccessible  annotated  appropriate
+   data controller  aware   third party holds personal data   subsection
+   b applies    shall  soon  reasonably practicable require  third party
+ rectify block erase destroy render inaccessible  annotate  data  appropriate
+   data controller   third party fails  rectify block erase  destroy personal data
+  subsection    b applies  data subject may apply   commissioner 
+  data rectified blocked erased destroyed rendered inaccessible  annotated 
+appropriate
+ upon  satisfied   application  subsection    personal data  
+subsection    b applies  commissioner shall direct  data controller  rectify
+block erase destroy  annotate  data    personal data  respect    
+  data controller
+   commissioner 
+          issues  direction  subsection  
+         b  satisfied   application   individual  personal data   
+             individual   data subject  inaccurate    rectified blocked
+             erased destroyed  annotated
+ commissioner may direct  data controller  notify third parties    data 
+ disclosed   rectification blocking erasure destruction  annotation
+right  prohibit processing  personal data
+
+   person may   time  notice  writing revoke consent   processing 
+        personal data  respect        data subject
+   data controller receives  notice  subsection   data controller shall 
+soon  reasonably practicable    event    thirty days   request 
+received stop processing  personal data  delete  personal data  render 
+inaccessible
+  data controller shall forthwith  writing notify  data subject  writing   action
+taken  subsections 
+      data controller  contravenes  section commits  offence   liable   fine
+ exceeding twenty five thousand dollars   imprisonment   term  exceeding six
+months
+                                               part 
+                                           exemptions
+national security
+      minister may  order published   gazette exempt  data controller 
+complying   provision   act   interest  national security
+crime  taxation
+  data controller    public authority shall  exempt   provisions  parts 
+     processing  data  required 
+                      prevention  detection  crime
+                b      apprehension  prosecution  offenders 
+                c      assessment  collection   tax duty   imposition   similar
+                        nature
+health  social work
+  data controller shall  exempt   application  section    personal
+data   access   sought relates   physical  mental health   data subject
+  application   section  likely  cause serious harm   physical  mental health
+  data subject     person
+
+  minister may  order published   gazette waive  obligations imposed 
+section    public authority voluntary organizations    similar body  may 
+prescribed   public authority voluntary organization   body carries  social
+work  relation   data subject   application   section  likely  prejudice 
+carrying    social work
+regulatory activities
+  processing  personal data   data controller   purpose  discharging  
+ relevant functions 
+                      designed  protecting members   public  
+                          financial loss due  dishonesty malpractice   serious improper
+                             conduct    unfitness  incompetence  persons concerned 
+                              provision  banking insurance investment   financial
+                             services    management  bodies corporate
+                    ii     financial loss due   conduct  discharged  undischarged
+                             bankrupts 
+                    iii    dishonesty malpractice   seriously improper conduct   
+                             unfitness  incompetence  persons authorized  carry  
+                             profession   activity
+               b      conferred   central bank  director  financial services  
+                        financial intelligence unit     enactment
+                c       protecting charitable trusts   bodies involved  charitable
+                         work  misconduct  mismanagement   administration
+                d       protecting  property  charitable trusts   bodies specified
+                          paragraph c  loss  misapplication
+                e        recovery   property  charitable trusts   bodies
+                         specified  paragraph c
+                f       securing  health safety  welfare  persons  work
+                g       protecting persons   persons  work  risk  health 
+                         safety arising     connection   actions  persons  work
+                         
+                h      designed  
+                              protecting members   public  conduct  adversely
+                                 affect  interests  persons carrying   business
+
+                        ii   regulating agreements  conduct     object 
+                               effect  prevention restriction  distortion  competition 
+                               connection   commercial activity 
+                        iii  regulating conduct   part  one   undertakings 
+                               amounts   abuse   dominant position   market
+ exempt   application  part    extent    application   likely 
+prejudice  proper discharge   functions
+disclosure required  law   connection  legal proceedings
+          data controller  exempt  part    disclosure  personal data 
+                     required   enactment    court order
+                b     necessary   purpose    connection          
+                prospective legal      proceedings
+                c     necessary   purpose  obtaining legal advice 
+                d     necessary   purpose  establishing exercising  defending legal
+                rights
+legal professional privilege
+  data controller  exempt  parts      data consist  information 
+                respect    claim  legal professional privilege  confidentiality 
+                 client  legal practitioner   maintained  legal proceedings
+                including prospective legal proceedings
+
+domestic purposes
+  individual  exempt   provisions  parts       data  processed
+  individual    purposes   individuals personal family  household affairs
+  recreational purposes
+                                              part 
+                            investigation  enforcement
+
+power  commissioner  obtain information
+   commissioner may   written information notice served   person request
+ person  furnish      writing   time specified
+     access  personal data
+    b information   documentation   processing  personal data
+    c information related   security  processing  personal data 
+    d   information  relation  matters specified   notice   necessary 
+        expedient   performance   commissioner     functions  exercise
+            powers  duties   act
+   information requested   commissioner  stored   computer disc cassette
+  microfilm  preserved   mechanical  electronic device  person named  
+information notice shall produce  give access   information   form    can 
+taken away      visible  legible
+  notice required  authorized   act   served   given   person  
+commissioner may 
+           person   individual  served     
+             delivering personally   person
+            ii sending    person  post addressed   person     usual  last
+                 known place  business 
+          iii leaving    person    last known place  business  place
+        b   person   body corporate  partnership  served  
+             sending   post   proper officer   company   principal office
+            ii addressing    proper officer   partnership  leaving    office 
+                  proper officer
+contents  information notice
+  subject  subsection   information notice specified  section  shall state
+           person    notice  addressed   right  appeal  section 
+               requirement specified   notice within thirty days   service 
+              notice     
+        b  time  compliance   requirement specified   information notice 
+             time shall   expressed  expire   end   period  thirty days
+             specified  paragraph 
+   notice  appeal   decision made  section   lodged  
+commissioner  information required need   furnished  section  shall  apply 
+relation thereto pending  determination  withdrawal   appeal
+
+   commissioner considers   reason  special circumstances  information 
+required urgently   proper performance     functions  exercise    
+powers   act  commissioner may apply   judge  chambers  communication
+  information
+       law  force  saint lucia  rule  law prohibiting  restricting  disclosure 
+information shall  preclude  person  furnishing   commissioner  information
+  necessary  expedient   performance   commissioner     functions
+  subsection shall  apply  information    opinion   minister  
+minister responsible  national security     time  kept   purpose 
+safeguarding  security  saint lucia  information   privileged  disclosure 
+proceedings   court
+failure  refusal  comply  information notice
+   person shall  without reasonable excuse fail  refuse  comply   requirement
+specified   information notice
+      person shall   purported compliance   information notice furnish
+information   commissioner   person knows   false  misleading   material
+respect
+      person  contravenes subsection    commits  offence   liable shall
+commit  offence  shall  liable  summary conviction   fine  exceeding twenty five
+thousand dollars   imprisonment   term  exceeding six months   
+    defence   person charged   offence  subsection     prove 
+   exercised  due diligence  comply   information notice
+insufficient information pursuant   information notice
+   commissioner  pursuant   request  section  obtain sufficient
+information  order  conclude   processing  personal data  lawful  commissioner
+may prohibit  data controller  processing personal data    manner  
+storing  personal data
+complaints  commissioner  powers  investigation
+   commissioner may  complaint   data subject    commissioners
+instance investigate  cause   investigated whether  provisions   act  
+regulations       likely   contravened   data controller  relation
+  data subject
+
+   complaint  made   commissioner  subsection   commissioner
+shall 
+     investigate  complaint  cause    investigated   authorized officer unless
+         commissioner    opinion    frivolous  vexatious 
+    b  soon  reasonably practicable notify  data subject concerned  writing   
+         decision  relation   complaint    data subject may  aggrieved  
+        commissioners decision appeal   decision   court  section 
+ nothing   act precludes  commissioner  receiving  investigating complaints
+  submitted   person authorized  writing   data subject concerned  act 
+behalf   data subject   reference   data subject    section   act
+includes  reference   person  authorized
+form  complaint
+   complaint pursuant   act shall  made   commissioner  writing unless 
+commissioner authorizes otherwise
+  commissioner shall give  reasonable assistance   necessary   circumstances
+ enable  person  wishes  make  complaint   commissioner  put  complaint
+ writing
+notice  investigation
+  commencing  investigation   complaint pursuant   act  commissioner
+shall notify   case   public authority  permanent secretary     case 
+chief executive officer   intention  carry   investigation  shall include  
+notification  substance   complaint
+powers  request assistance
+    purposes  gathering information    proper conduct   investigation
+concerning compliance   act  commissioner may seek  assistance   persons
+ authorities   commissioner thinks fit   person  authority may   things 
+ reasonably necessary  assist  commissioner   performance   commissioners
+functions
+powers  entry  search
+
+  subject  subsection   authorized officer   accompanied   police officer
+may   time enter  premises   purpose  discharging  functions  duties
+  act   regulations
+      authorized officer shall  enter  premises unless     accompanied  
+police officer  shows   owner  occupier   premises  warrant issued  
+magistrate  section 
+warrant  enter  search premises
+    magistrate  satisfied  information  oath supplied   commissioner  
+authorized officer    reasonable grounds  suspecting   offence   act
+     committed   evidence   contravention    commission 
+ offence    found   premises specified   commissioner   authorized
+officer  magistrate may issue  warrant authorizing  entry  search  premises
+  warrant issued  subsection  authorizes  police officer accompanied  
+commissioner   authorized officer   time within seven days   date   warrant 
+enter  premises   reasonable time  
+         request  owner  occupier  produce  document record  data
+        b examine   document record  data  either   premises  elsewhere
+            take copies  extracts  
+        c inspect examine operate  test  data equipment found therein
+        d request  owner   premises entered    person employed   
+                person   premises  give   authorized officer 
+            reasonable assistance   answer  reasonable questions either orally  
+            writing
+  police officer shall   time  execution   warrant show  warrant  supply
+  copy   warrant   person  occupying  premises  respect   
+warrant  issued
+  authorized officer shall provide  inventory   type  data collected  seized 
+ data controller   occupier  premises  supplies  data   authorized officer
+matters exempt  inspection  seizure
+   powers  inspection  seizure conferred   warrant    exercisable 
+respect  personal data   virtue  section   exempt     provisions 
+ act
+  powers  inspection  seizure conferred   warrant   exercisable  respect 
+
+
+          communication   professional legal adviser     client 
+             connection   giving  legal advice   client  respect    
+             obligations liabilities  rights   act 
+        b  communications   professional legal adviser     client 
+                adviser     client    person made 
+             connection    contemplation  proceedings   arising    act
+obstruction  authorized officer
+   person shall   relation   exercise  powers conferred  sections   
+         obstruct  impede  authorized officer   exercise     authorized
+            officers powers
+        b fail  provide assistance  information requested   authorized officer
+        c refuse  allow  authorized officer  enter  premises   exercise  
+            authorized officers functions
+        d give   authorized officer  information   false  misleading  
+            material respect
+      person  contravenes subsection  commits  offence   liable  summary
+conviction   fine  exceeding twenty five thousand dollars   imprisonment   term 
+exceeding six months   
+power  commissioner  issue enforcement notice
+       commissioner    opinion   data controller  contravened  
+contravening  provision   act    provision  contravention    
+offence  commissioner may subject  section  serve  enforcement notice   data
+controller requiring  data controller person  take  steps   specified  
+enforcement notice within  time  may   specified  comply   provision
+concerned
+contents  enforcement notice
+  enforcement notice shall   writing  shall
+     specify  provision   act    opinion   commissioner  data
+        controller  contravened   contravening   reasons   commissioner
+         formed  opinion 
+    b specify  action   commissioner requires  data controller  take
+    c subject  subsection  inform  data subject     right  appeal pursuant 
+        section    time within   appeal must  lodged
+
+       enforcement notice may without prejudice   generality  section  
+subsection  require  data controller
+      rectify  erase    data concerned 
+    b  supplement  personal data   statement relating   matters dealt  
+            commissioner may approve
+  respect   personal data   inaccurate   kept   date   data
+controller complies  paragraphs   b  data controller shall  deemed    
+contravention   provision
+ subject  subsection   time specified   enforcement notice  compliance  
+requirement specified   enforcement notice shall   expressed  expire   end
+  period  appeal specified  section     appeal  brought  
+requirement  requirement need   complied  pending  determination 
+withdrawal   appeal
+   commissioner 
+      reason  special circumstances    opinion   requirement specified  
+         enforcement notice shall  complied  urgently 
+    b  enforcement notice includes  statement   effect
+subsections b   shall  apply  relation   enforcement notice   notice
+shall contain  statement   right  appeal  applicant     shall  require
+compliance   requirement   end   period  seven days beginning  
+date    notice  served
+  compliance   data controller   requirement  subsection   data
+controller shall  soon  may     event    thirty days  
+compliance notify 
+      data subject concerned 
+    b  person   commissioner considers  reasonably practicable    
+           data  disclosed   period beginning twelve months   date
+           service   enforcement notice concerned  ending immediately  
+         compliance   rectification erasure  statement concerned   compliance
+         materially modifies  data concerned
+  commissioner may cancel  enforcement notice        shall notify 
+writing  person     served accordingly
+failure  comply  enforcement notice  offence
+   person shall  without reasonable excuse fail  refuse  comply   requirement
+specified   enforcement notice
+
+  person  contravenes subsection  commits  offence   liable  summary
+conviction   fine  exceeding twenty five thousand dollars   imprisonment   term 
+exceeding six months     fine  imprisonment
+investigations  private
+   investigations   complaint pursuant   act shall  conducted  private
+       course   investigation   complaint   act   commissioner 
+person  made  complaint   permanent secretary   public authority   chief
+executive officer    entity shall  given  opportunity  make representations  
+commissioner   one  entitled   right   present    access   
+comment  representations made   commissioner    person
+referral  commissioner  police
+  completion   investigation   act  commissioner shall  
+investigation reveals   offence   committed   act   regulations 
+commissioner shall refer  matter   commissioner  police  necessary action
+                                              part 
+                                        miscellaneous
+appeals  court
+ subject  subsection   appeal lies   court  
+          requirement specified   enforcement notice   information notice
+        b  prohibition specified   prohibition notice
+        c  decision   commissioner  relation   complaint 
+        d  decision   commissioner  respect   performance     duties
+             powers   act
+      appeal shall  brought within thirty days   service   person concerned 
+ relevant notice    case may   receipt   person   notification  
+relevant refusal  decision
+  
+
+          person appeals   court pursuant  paragraph  b c  d  subsection
+            
+        b  appeal  brought within  period specified   notice 
+        c  commissioner  included  statement   relevant notice  notification 
+             effect   reason  special circumstances      opinion  
+            requirement  prohibition specified   notice   complied   
+            refusal specified   notification  take effect urgently
+ court may determine  noncompliance   person  requirement  prohibition
+specified   notice   period ending   determination  withdrawal  
+appeal     period  may  determined   court shall  constitute 
+offence
+annual report
+   commissioner shall  later  three months   end  every calendar
+year lay  annual report   activities     office  parliament
+ without limiting  generality  subsection   report pursuant shall include 
+          statement   operation  approved  issued codes  practice
+        b  recommendation   commissioner thinks fit relating   compliance 
+             act
+general penalty
+  person  commits  offence   act    specific penalty 
+provided shall  conviction  liable   fine  exceeding ten thousand dollars  
+imprisonment   term  exceeding six months   
+regulations
+   minister may  consultation   commissioner make regulations 
+giving effect   purpose   act   prescribing anything required  authorized 
+ act   prescribed
+ notwithstanding  generality  subsection  regulations made   section may
+prescribe 
+             rules  procedures relating  access  data held   data controller
+            b guidelines   disposal  personal information held   data controller
+
+            c guidelines   contents   notifications  applications made pursuant 
+                 act
+            d  fees  may  levied   commissioner
+            e  administrative fines  may  imposed   commissioner  
+                administrative violations  respect    fines may  imposed
+            f  extension   application   act   particular activity  sector
+            g  issuing  approval  codes  guidelines 
+            h guidelines  rules relating   provisions   act
+ regulations made   section  act shall  subject   negative resolution 
+parliament
+                                            schedule
+                                                                                section 
+  make oathsolemnly affirmdeclare  
+will faithfully  honestly fulfill  duties  authorized officercommissioner  conformity
+  privacy  data protection act     shall  without  due authority 
+ behalf disclose  make known  matter  thing  comes   knowledge  reason
+  duties  
+

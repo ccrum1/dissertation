@@ -1,0 +1,270 @@
+                                                               consolidated   june 
+                                                                      laws  seychelles
+                                                                       data protection act
+                                                                          yet  force
+                                                                                                                                                          act   
+                                                                
+                                                                   arrangement  sections
+                                                                
+                                                                        part   preliminary
+short title
+        act may  cited   data protection act   shall come  operation   date   minister may  notice   gazette
+appoint
+note  act   yet  force    january 
+interpretation
+         following provisions shall unless  context otherwise requires  effect   interpretation   act
+          business includes  trade  profession
+          commissioner means  data protection commissioner appointed  section 
+          court means  supreme court
+          data means information recorded   form    can  processed  equipment operating automatically  response  instructions
+given   purpose
+          data equipment means equipment   automatic processing  data   recording information    can  automatically processed
+          personal data means data consisting  information  relates   living individual  can  identified   information  
+   information   possession   data user including  expression  opinion   individual    indication  
+intentions   data user  respect   individual
+          data material means  document   material used  connection  data equipment
+          data subject means  individual    subject  personal data
+          data user means  person  holds data   person holds data  
+                   data form part   collection  data processed  intended   processed    behalf   person  mentioned 
+                 subsection 
+                 b  person either alone  jointly   common   persons controls  contents  use   data comprised  
+                 collection 
+                 c  data    form        intended   processed  mentioned  paragraph   though   
+                 time    form   form      converted    processed    view    
+                 processed   subsequent occasion
+           person carries   computer bureau   provides  persons  services  respect  data   person provides  services 
+
+                   agent   persons  causes data held     processed  mentioned  subsection  
+                 b  allows  persons  use  equipment   possession   processing  mentioned   subsection  data held 
+                 
+          deregistration notice means  notice  section 
+          prescribed means prescribed  regulations  section 
+          processing  relation  data means amending augmenting deleting  rearranging  data  extracting  information constituting 
+data    case  personal data means performing    operations  reference   data subject
+         provided   subsection shall  apply   operation performed    purpose  preparing  text  documents
+          disclosing  relation  data includes disclosing information extracted   data    identification   individual   
+subject  personal data depends partly   information constituting  data  partly   information   possession   data user  data
+shall   regarded  disclosed  transferred unless   information  also disclosed  transferred
+          enactment includes  enactment subsequent   act
+          enforcement notice means  notice  section 
+          register means  register maintained  section 
+          transfer prohibition notice means  notice  section 
+data protection principles
+        subject  subsection  references   act   data protection principles    principles set   part    schedule  
+principles shall  interpreted  accordance  part ii   schedule
+           first seven principles apply  personal data held  data users   eighth applies    data   personal data  respect 
+ services  provided  persons carrying  computer bureaux
+           minister may  order published   gazette modify  supplement  principles   purpose  providing additional safeguards
+ relation  personal data consisting  information   
+                   racial origin   data subject
+                 b  political opinions  religious   beliefs
+                 c  physical  mental health   sexual life  
+                 d  criminal convictions
+          references   act   data protection principles include except   context otherwise requires references   modified 
+additional principle  effect  virtue   order   subsection
+           order  subsection  may modify  principle either  modifying  principle    modifying  interpretation   
+order   subsection modifies  principle  provides   additional principle  may contain provisions   interpretation   modified 
+additional principle
+           order  subsection  modifying  third data protection principle may   extent   minister thinks appropriate exclude 
+modify  relation   principle  exemption   nondisclosure provisions contained  part iv   exemptions   provisions shall
+accordingly  effect subject   order made  virtue   subsection
+           order  subsection  may make different provisions  relation  data consisting  information  different descriptions
+data protection commissioner
+          purposes   act  shall   officer known   data protection commissioner
+           commissioner shall  appointed   president
+          subject  subsections     commissioner shall hold office   term   years   expiry   term shall  eligible 
+reappointment
+
+           commissioner may   time resign  office  writing addressed   president
+           commissioner may  removed  office   president
+ officers
+         president shall cause  arrangements   made   president considers appropriate   provision  officers  assist 
+commissioner   exercise   functions   act
+           function   commissioner   act may   extent authorised    performed    officer
+receipts  expenses
+         fees   sums received   commissioner   exercise   functions   act shall  paid     consolidated
+fund
+           shall  paid   commissioner   moneys provided   appropriation act  sum  may  necessary towards 
+expenses
+audit  accounts
+        accounts   commissioner shall  audited  accordance      constitution
+                                               part ii  regulation  data users andcomputer bureaux
+registration  data users  computer bureaux
+         commissioner shall maintain  register  data users  hold   persons carrying  computer bureaux  provide services 
+respect  personal data  shall make  entry   register  pursuance   application  registration accepted   commissioner  
+part
+           entry shall state whether    respect  
+                    data user
+                  b  person carrying   computer bureau 
+                  c  data user  also carries    bureau
+          subject   section  entry  respect   data user shall consist   following particulars 
+                    name  address   data user
+                  b  description   personal data   held      purpose  purposes    data    held  used
+                  c  description  every source    intends
+                   may wish  obtain  data   information   contained   data
+                  d  description  every person    intends 
+                  may wish  disclose  data otherwise    case mentioned  section  b  c
+                  e  name  every country outside seychelles    intends  may wish directly  indirectly  transfer  data 
+                  f one   addresses   receipt  requests  data subjects  access   data
+          subject   section  entry  respect   person carrying   computer bureau shall consist   persons name  address
+          subject   section  entry  respect   data user  also carries   computer bureau shall consist   name  address  
+respects  personal data   held    particulars specified  subsection b  f
+            case   registered company  address referred   subsections         registered office   particulars
+  included   entry shall include  companys number   register  companies
+            case   person    registered company carrying   business  address referred   subsections     
+   principal place  business
+           minister may  order published   gazette vary  particulars   included  entries made   register
+prohibition  unregistered holding  personal data
+         person shall  hold personal data unless  entry  respect   person   data user    data user  also carries   computer
+bureau    time  contained   register
+           person  respect     entry  contained   register shall  
+                   hold personal data   description    specified   entry
+                  b hold   data  use   data held     purpose    purpose  purposes described   entry
+                  c obtain  data  information   contained   data   held     source    described   entry
+                  d disclose  data held     person    described   entry 
+                  e directly  indirectly transfer  data held  
+           country outside seychelles    country named   entry
+           servant  agent   person   subsection  applies shall  respects personal data held   person  subject   
+restrictions   use disclosure  transfer   data      person  subject  subsection b d  e   respects
+personal data   held   person    restrictions       subject  subsection c
+           person shall   carrying   computer bureau provide services  respect  personal data unless  entry  respect   person  
+person carrying    bureau    time  contained   register
+           person  contravenes subsection   knowingly  recklessly contravenes     provisions   section shall  guilty 
+ offence
+application  registration  amendment
+        person applying  registration shall state whether  wishes   registered   data user   person carrying   computer bureau 
+  data user  also carries   computer bureau  shall furnish  commissioner   form   commissioner may require  
+particulars required   included   entry   made  pursuance   application
+            person intends  hold personal data  two   purposes  may make separate applications  registration  respect   
+ purposes
+           registered person may   time apply   commissioner   alteration   particulars included   entry  entries relating 
+ person
+            alteration  consist   addition   purpose   personal data    held  person may instead  making 
+application  subsection  make  fresh application  registration  respect   additional purpose
+           registered person shall make  application  subsection  whenever necessary  ensuring   entry  entries relating  
+person contain  current address   person  fails  comply   subsection shall  guilty   offence
+           person   connection   application  registration   alteration  registered particulars knowingly  recklessly furnishes
+ commissioner  information   false  misleading   material respect shall  guilty   offence
+         every application  registration shall  accompanied   prescribed fee  every application   alteration  registered particulars
+shall  accompanied   fee    may  prescribed
+           application  registration   alteration  registered particulars may  withdrawn  notice  writing   commissioner   time
+  applicant receives  notification  respect   application  section 
+acceptance  refusal  applications
+       subject   section  commissioner shall  soon  practicable    case within  period   months  receiving 
+application  registration    alteration  registered particulars notify  applicant  writing whether  application   accepted  refused
+   commissioner notifies  applicant   application   accepted  notification shall state 
+                    particulars entered   register   alteration made 
+
+                  b  date    particulars  entered   alteration  made
+           commissioner shall  refuse  application made  accordance  section  unless 
+                    considers   particulars proposed  registration    case may   particulars   result   proposed
+                  alteration will  give sufficient information    matters    relate
+                  b   satisfied   applicant  likely  contravene    data protection principles 
+                  c  considers   information available    insufficient  satisfy    applicant  unlikely  contravene   
+                  principles
+          subsection  shall   construed  precluding  acceptance   commissioner  particulars expressed  general terms  cases
+   appropriate   commissioner shall accept particulars expressed   terms   case     satisfied   specific
+particulars   likely  prejudice  purpose  purposes    data    held
+            commissioner refuses  application   section  shall give  reasons  inform  applicant   right  appeal
+conferred  section 
+duration  renewal  registration
+        entry shall  retained   register   expiration   initial period  registration except  pursuance   renewal application
+made   commissioner  accordance   section
+          subject  subsection   initial period  registration   period    entry    retained  pursuance   renewal
+application  renewal period shall   period  years beginning   date    entry  question  made    case may  
+date    entry  fall   removed   application    made
+           person making  application  registration   renewal application may   application specify   initial period  registration 
+  case may    renewal period  period shorter  five years   period consisting  one   complete years
+            commissioner notifies  applicant  registration   application   accepted  notification shall state  date 
+ initial period  registration will expire
+           person   connection   renewal application knowingly  recklessly furnishes  commissioner  information   false
+ misleading   material respect shall  guilty   offence
+          every renewal application shall  accompanied   prescribed fee    application shall  made except   period   months
+ending   expiration  
+                    initial period  registration 
+                  b     one   previous renewal applications  current renewal period
+            person making  renewal application notifies  commissioner  writing   alteration  registered particulars  sought 
+ particulars may  demanded  support   application
+           renewal application may  sent  post   commissioner shall acknowledge  receipt  notify  applicant  writing   date
+   entry  question will  retained   register  pursuance   application
+          without prejudice   foregoing provisions   section  commissioner may   time remove  entry   register  
+request   person    entry relates
+inspection etc  registered particulars
+        commissioner shall provide facilities  making  information contained   entries   register available  inspection  visible
+ legible form  members   public   reasonable hours  payment   fee    may  prescribed
+           commissioner shall  payment   fee    may  prescribed supply  member   public   duly certified copy 
+writing   particulars contained   entry made   register  pursuance   application  registration
+enforcement notice
+         commissioner  satisfied   registered person  contravened   contravening    data protection principles 
+commissioner may serve  person   enforcement notice requiring   take within  time   specified   notice  steps   
+specified  complying   principle  principles  question
+           deciding whether  serve  enforcement notice  commissioner shall consider whether  contravention  caused   likely  cause
+ person damage  distress
+           enforcement notice  respect   contravention   fifth data protection principle may require  user 
+                    rectify  erase  data    data held    containing  expression  opinion  appears   commissioner
+                    based   inaccurate data 
+                  b   case   data   mentioned  section  either  take  steps mentioned  paragraph    take  steps 
+                   specified   notice  securing compliance   requirements specified  section     commissioner thinks fit 
+                  supplementing  data   statements   true facts relating   matters dealt    data   commissioner may
+                  approve
+           commissioner shall  serve  enforcement notice requiring  person served  notice  take steps  complying  paragraph 
+  seventh data protection principle  respect   data subject unless satisfied   person  contravened section   failing  supply
+information    data subject  entitled     duly requested  accordance   section
+           enforcement notice shall contain 
+                    statement   principle  principles   commissioner  satisfied      contravened   reasons 
+                  reaching  conclusion 
+                  b particulars   right  appeal conferred  section 
+          subject  subsection   time specified   enforcement notice  taking  steps   requires shall  expire   end  
+period within   appeal can  brought   notice     appeal  brought  steps need   taken pending 
+determination  withdrawal   appeal
+            reason  special circumstances  commissioner considers   steps required   enforcement notice   taken  
+matter  urgency  may include  statement   effect   notice    event subsection  shall  apply
+           commissioner may cancel  enforcement notice  written notification   person     served
+           person  fails  comply   enforcement notice shall  guilty   offence   shall   defence   person charged  
+offence   subsection  prove   exercised  due diligence  comply   notice  question
+deregistration notice
+         commissioner  satisfied   registered person  contravened   contravening    data protection principles 
+commissioner may 
+                   serve  person   deregistration notice stating   commissioner proposes   expiration   period   specified 
+                   notice  remove   register      particulars constituting  entry     entries contained   register 
+                  respect   person 
+                  b subject   provisions   section remove  particulars   register   expiration   period
+           deciding whether  serve  deregistration notice  commissioner shall consider whether  contravention  caused   likely 
+cause  person damage  distress   commissioner shall  serve   notice unless   satisfied  compliance   principle 
+principles  question   adequately secured   service   enforcement notice
+           deregistration notice shall contain 
+                    statement   principle  principles   commissioner  satisfied      contravened   reasons 
+                  reaching  conclusion 
+                  b particulars   right  appeal conferred  section 
+          subject  subsection   period specified   deregistration notice shall  expire   end   period within   appeal can
+ brought   notice     appeal  brought  particulars shall   removed pending  determination  withdrawal  
+appeal
+            reason  special circumstances  commissioner considers   particulars   removed   register   matter 
+urgency  may include  statement   effect   deregistration notice    event subsection  shall  apply   particulars shall 
+
+removed immediately
+          commissioner may cancel  deregistration notice  written notification   person     served
+transfer prohibition notice
+        appears   commissioner   person registered   data user    data user  also carries   computer bureau proposes 
+transfer personal data held     place outside seychelles  commissioner may  satisfied   transfer  likely  contravene  lead  
+contravention   data protection principle serve  person   transfer prohibition notice prohibiting   transferring  data either
+absolutely     taken  steps   specified   notice  protecting  interests   data subjects  question
+          deciding whether  serve  transfer prohibition notice  commissioner shall consider whether  notice  required  preventing
+damage  distress   person  shall  regard   general desirability  facilitating  free transfer  data  seychelles  
+states
+          transfer prohibition notice shall specify  time     take effect  contain 
+                    statement   principle  principles   commissioner  satisfied    likely   contravened   reasons 
+                  reaching  conclusion 
+                  b particulars   right  appeal conferred  section 
+         subject  subsection   time specified   transfer prohibition notice pursuant  subsection  shall     end   period
+within   appeal can  brought   notice     appeal  brought  notice shall  take effect pending  determination 
+withdrawal   appeal
+           reason  special circumstances  commissioner considers   prohibition notice  take effect   matter  urgency  may
+include  statement   effect   transfer prohibition notice    event subsection  shall  apply   notice shall take effect
+immediately
+          commissioner may cancel  transfer prohibition notice  written notification   person     served
+          transfer prohibition notice shall prohibit  transfer   data   transfer   information constituting  data  required 
+authorised     enactment  required   convention   instrument imposing  international obligation  seychelles
+          person  contravenes  transfer prohibition notice shall  guilty   offence   shall   defence   person charged  
+offence   subsection  prove   exercised  due diligence  avoid  contravention   notice  question
+

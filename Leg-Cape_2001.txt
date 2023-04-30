@@ -1,0 +1,773 @@
+           data protection act   republic  cape verde
+                           law v   january
+ law establishes  general legal framework   protection  individuals 
+regard   processing  personal data
+                                         
+                                    general provisions
+                                            
+                                            object
+ present law establishes  general legal framework   protection  individuals
+ regard   processing  personal data
+                                            
+                                           scope
+      present actlaw shall apply   processing  personal data wholly 
+        partly  automated means  well    processing  personal data 
+          automated means contained  manual files  part  manual files
+      present actlaw shall apply   processing  personal data carried 
+           context   activities   establishment   controller situated
+            within  national territory
+        b outside  national territory  places   cape verdean law applies
+             virtues  international public law
+        c   controller    established   national territory  
+            purposes  processing personal data makes use  automated   types
+             equipment situated   national territory except  equipment  used
+              purposes  transit
+      present actlaw shall apply  video surveillance   forms 
+        capture processing  dissemination  sound  images permitting persons
+          identified provided  processing controller  domiciled  based  
+        national territory  makes use   computer  data communication network
+        access provider established   national territory
+      circumstances referred  subsection c  number   controller must
+        designate  means  notification   comissão nacional de protecção de
+        dados national commission  data protection  english henceforth referred
+          cnpd  portuguese ncdp  english  representative established 
+        cape verde  replace     rights  obligations without prejudice 
+          liabilityresponsibility
+      preceding number shall apply   controller  covered   status
+         extraterritoriality immunity    status  precludes criminal
+        proceedings
+      actlaw shall   processing  personal data regarding public safety
+        national defence  state security without prejudice  special rules 
+
+    instruments  international law   cape verde  bound  specific laws
+    pertinent   respective sectors
+                                          
+                               exception   scope
+ present actlaw shall  apply   processing  personal data carried 
+ individuals   course  purely personal  household activities
+                                          
+                                 general principles
+ processing  personal data shall  carried  transparently   strict
+respect  privacy    fundamental rights freedoms  guarantees  
+citizen
+                                          
+                                     definitions
+  purpose   actlaw
+ personal data shall mean  information   typenature  irrespective
+      medium involved including sound  image relating   identified 
+    identifiable person data subject
+b processing  personal data   processing shall mean  operation   set
+     operations   performed upon personal data whether wholly  partly
+      without automated means   collection recording organisation
+    storage adaptation  alteration retrieval consultation use disclosure 
+    transmission dissemination  otherwise making available alignment 
+    combination  well  blocking erasure  destruction
+c personal data filing system  filing system shall mean  structured set 
+    personal data   accessible according  determined criteria whether
+    centralised decentralised  dispersed   functional  geographical basis
+d controller shall mean  person  group public authority  service  
+     entitybody  alone  jointly  others determines  purposes 
+     means   processing  personal data
+e processor shall mean  person  group  public authority agency  
+     entitybody  processes personal data  behalf   controller
+f third party shall mean  person  group  public authority agency  
+     entitybody    data subject  controller  processor 
+     persons    direct authority   controller   processor 
+    authorised  process  data
+g recipient shall mean  person  group  public authority agency  
+     entitybody   personal data  disclosed whether  third party 
+     however authorities  may receive data   framework   law
+    shall   regarded  recipients
+
+h  data subjects consent shall mean  freely given specific  informed
+    indication   wishes    data subject gives  consent  
+    personal data  processed
+ combination  data shall mean  form  processing  consists  
+    possibility  correlating data   filing system  systems kept  another 
+     controllers  kept    controller   purposes
+  circumstances referred      person  considered identifiable  person
+ may  directly  indirectly identified  means   identification number 
+ means  one   specific elements   physical physiological
+psychological economic cultural  social characteristics
+  circumstances referred    d whenever  purposes  processing means
+ determined  legislative provisions  regulations  controller  
+processing must  indicated   law   organisation  operations   
+statutes   legal entity  statutorily competent  processing  personal data
+ question
+                                      ii
+                             processing  personal data
+                                        section 
+                   data quality  lawfulness   processing
+                                         
+                                      data quality
+ personal data must 
+     processed lawfully   respect   principle  good faith
+    b collected  specific explicit  legitimate purposes   
+        processed   way incompatible   purposes
+    c adequate relevant   excessive  relation   purposes  
+          collected andor  processed
+    d accurate   necessary kept   date  adequate measures must
+         taken  ensure  data   inaccurate  incomplete  erased 
+        rectified  regard   purposes     collected  
+            processed
+    e   kept   form  permits identification   subjects   longer
+          necessary   purposes     collected   
+           processed
+  processing  data  historical statistical  scientific purposes  well
+       stored    purposes   period longer   referred
+      e  may  authorised   cnpd   request   controller 
+    instances  legitimate interest  long    compromise  rights
+    freedoms  guarantees   data subject
+  shall   responsibility   controller  ensure    numbers
+     complied 
+
+                                         
+                   criteria  making data processing legitimate
+personal data may  processed    data subject  unambiguously given
+ consent   processing  necessary
+   performance   contract    data subject  party   order 
+    take steps   request   data subject
+b  compliance   legal obligation    controller  subject
+c protection  vital interests   data subject   latter  physically  legally
+    incapable  giving  consent
+d   performance   task carried    public interest    exercise
+     official authority vested   controller    third party    data
+     disclosed
+e  pursuing  legitimate interests   controller   third party  
+     data  disclosed except   interests   overridden  
+    interests   fundamental rights freedoms  guarantees   data subject
+                                         
+                            processing  sensitive data
+  processing  personal data revealing philosophical ideological  political
+    beliefs  penalty religion political party  trade union affiliation racial 
+    ethnic origin privacy health  sex life including genetic data shall 
+    prohibited except
+   data subject expressed consent   guarantee  nondiscrimination
+      adequate measure  assurance
+b  foreseen legal authorisation   guarantee  nondiscrimination 
+      adequate measure  assurance
+c   purpose  data processing  purely statistical  individually
+    identifiable   adequate measure  assurance
+  granting authorisation foreseen   b  law must take  consideration
+    particularly  indispensability  processing personal data referred    
+    performing legal attributions  statutory authorities  reasons  important
+    public interest
+  processing  data referred     also permitted  one  
+    following conditions applies
+        necessary  protect  vital interests   data subject  
+        another person   data subject  physically  legally incapable 
+        giving  consent
+    b    carried    data subjects consent   course  
+        legitimate activities   foundation association  nonprofit seeking body
+          political philosophical religious  trade union aim   condition
+          processing relates solely   members   body   persons
+          regular contact    connection   purposes   
+        data   disclosed   third party without  consent   data
+        subjects
+
+    c   relates  data   manifestly made public   data subject
+        provided  consent   processing can  clearly inferred  
+        declaration
+    d    necessary   establishment exercise  defence  legal
+        claims   exclusively carried    purpose
+  processing  personal data relating  health  sex life including genetic
+    data shall  permitted    necessary   purposes  preventive
+    medicine medical diagnosis  provision  medical care  treatment  
+    management  healthcare services provided  processing   data 
+    done   health professional bound  professional secrecy   another
+    person equally subjected   equivalent professional secrecy   notified
+     cnpd     adequate information safety measures 
+    guaranteedprovided
+  processing  data referred    may still  effected  adequate
+    information security measures   indispensable security   state 
+    public security   prevention investigation  repression  penal
+    infringements  demonstrated
+                                        
+   suspicion  illegal activities penalties security measures infringements
+                        criminal  administrative offences
+ central registers relating  persons suspected  illegal activities criminal 
+    administrative offences  decisions applying penalties security measures
+    fines  additional penalties may   created  kept  public services
+    vested   specific responsibility  virtue   law establishing 
+    organisation  functioning subject  observance  procedural  data
+    protection rules provided    legal order   prior opinion   
+    cnpd
+  processing  data related  persons suspected  illegal activities criminal
+     administrative offences  decisions applying penalties security measures
+    fines  additional penalties may  authorised   cnpd subject 
+    observance   rules   protection  data   security  information
+      processing  necessary  pursuing  legitimate purposes  
+    controller provided  fundamental rights  freedoms   data subject 
+     overridden
+  processing  personal data   purposes  police investigations shall 
+    restricted   processing necessary  prevent  specific danger   prosecute
+     particular offence   exercise  responsibilities provided   
+    respective implementing statutes  another legal provision    terms 
+    international agreement  convention   cape verde   party
+                                        
+                            combination  personal data
+  combination  personal data  provided    legal provision shall 
+    subject   authorisation   parliamentary committee  investigation
+
+   requested   controller  jointly   corresponding controllers 
+    
+  combination  personal data must  necessary  pursuing  legal 
+   statutory purposes  legitimate interests   controller must  involve
+   discrimination   reduction   fundamental rights  freedoms   data
+   subjects  must  covered  adequate security measures  take account
+     type  data subject combination
+                                       section ii
+                              rights   data subject
+                                        
+                                right  information
+  controller   representative shall provide  data subject   data
+   relating    collected   following information except  
+   already   information
+     identity   controller    representative  
+   b  purposes   processing
+   c  recipients  categories  recipients
+   d  obligatory  voluntary nature   replies  well   possible
+       consequences  failure  reply
+   e  existence  conditions   right  access   right  rectify
+       provided   necessary considering specific circumstances  collection
+         data  order  guarantee  data subject   will  processed
+       fairly
+   f  decision  providing personal data   first time   third party 
+       purposes provided   c previously   expressed indication  
+         right     communication
+   g  decision   personal data  used   third party previously 
+        expressed indication     right    
+       communication
+  documents supporting  collection  personal data shall contain 
+   information set    previous number
+   data   collected   data subject  except   already
+     data  controller   representative must provide  data subject
+     information set      time  undertaking 
+   recordingregistering  data    disclosure  third parties  envisaged 
+   later   time  data  first disclosed
+  data  collected  open networks  data subject shall  informed
+   except    already aware    personal data relating   may
+    circulated   network without security measures  may   risk 
+    seen  used  unauthorised third parties
+  obligation  provide information may  waived  reasons  state
+   security crime prevention  investigation  also  processing data 
+   statistical historical  scientific research purposes  
+   informationidentification   data subject  seem impossible involve 
+
+   disproportionate effort    law expressly determines 
+   recordingregistering   data   dissemination
+  obligation  provide information shall  apply   processing  data
+   carried  solely  journalistic purposes   purpose  artistic  literary
+   expression except   detriment  rights freedoms  guarantees   data
+   subject
+                                       
+                                    right  access
+  data subject   right  obtain   controller without constraints
+    reasonable intervals  without excessive delay  expense
+    confirmation   whether   data relating     processed
+        information    purposes   processing  categories  data
+       concerned   recipients  categories  recipients    data 
+       disclosed
+   b communication   intelligible form   data undergoing processing 
+         available information    source
+   c knowledge   logic involved   automatic processing  data
+       concerning   automated decisions referred       
+   d  rectification erasure  blocking  data  processing    
+       comply   provisions   present law especially due  
+       incomplete  inaccurate character   data
+   e notification  third parties    data   disclosed  
+       rectification erasure  blocking carried   compliance  d unless
+        proves impossible  implies disproportionate effort
+  cases provided         right  access  exercised 
+   means   cnpd
+   case provided       right  access  exercised  means
+     cnpd securing  constitutional rules applicable  particular 
+   guaranteeing freedom  expression  information freedom   press 
+    professional independence  secrecy  journalists
+  cases provided          communication   data
+   might jeopardise state security  prevention  investigation  crime 
+   freedom  expression  information  freedom   press  cnpd shall
+    inform  data subject   measures taken
+  right  access  information relating  health data including genetic data
+    exercised  means   doctor chosen   data subject
+   data  used  taking measures  decisions regarding  particular
+   individuals  law may restrict  right  access    clearly 
+   risk  breaching  fundamental rights freedoms  guarantees   data
+   subject particularly  right  privacy    data  used solely 
+   purposes  scientific research   kept  personal form   period 
+     exceed  period necessary   sole purpose  creating statistics
+                                       
+                           data subjects right  object
+
+ data subject   right 
+ except  otherwise provided  law   least  cases referred  
+     d  e  object   time  compelling legitimate grounds
+   relating   particular situation   processing  data relating   
+       justified objection  processing effected   controller may
+    longer involve  data
+b  object  request  free  charge   processing  personal relating 
+      controller anticipates  processed   purposes  direct
+   marketing    form  research    informed  personal data
+    disclosed   first time  third parties   purposes  direct
+   marketing   use  behalf  third parties    expressly offered 
+   right  object free  charge   disclosure  uses
+c  object without expense   personal data  communicated   first
+   time  third parties  purposes provided   b     used  third
+   parties
+                                        
+                nonsubjection  automated individual decisions
+ every person shall   right    subject   decision  produces
+   legal effects concerning   significantly affects     based
+   solely  automated processing  data intended  evaluate certain personal
+   aspects relating    particular  performance  work creditworthiness
+   reliability  conduct
+ without prejudice  compliance   provisions   law  person
+   may  subject   decision taken     decision  taken   course
+     entering   performance   contract provided   request 
+    entering    performance   contract   satisfied  
+     suitable measures  safeguard  legitimate interests particularly
+   arrangements allowing   put  point  view
+  taking   decision   may also  permitted  authorised  
+   cnpd  shall lay  measures  safeguard  data subjects legitimate
+   interest
+                                      section iii
+                  security  confidentiality  data processing
+                                        
+                               security  processing
+  controller must implement appropriate technical  organisational
+   measures  protect personal data  accidental  unlawful destruction 
+   accidental loss alteration unauthorised disclosure  access  particular 
+    processing involves  transmission  data   network   
+    unlawful forms  processing
+
+  measures provided     must ensure considering  state  
+   art   cost   implementation  measures shall ensure  adequate
+   level  security appropriate   risks represented   processing face 
+    nature   data   protected
+  processing  carried    behalf  controller must choose 
+   processor providing sufficient guarantees  respect   technical security
+   measures  organisational measures governing  processing   carried
+     must ensure compliance   measures
+  carrying   processing  way   processor must  governed  
+   contract  legal act binding  processor   controller  stipulating 
+   particular   processor shall act   instructions   controller 
+     obligations referred    shall also  incumbent   processor
+ proof   will  negotiate  contract   legal act relating  data
+   protection   requirements relating   measures referred    shall 
+    writing   supporting document legally certified  affording proof
+                                        
+                              special security measures
+  controllers   data referred   paragraphs         
+         shall take adequate measures  added information
+   security particularly 
+    prevent unauthorised persons access   premises used  processing data
+       control  entry   premises
+   b prevent data media   read copied alteredmodified 
+       unauthorised persons control  data media
+   c prevent unauthorised input  well  unauthorised obtaining  knowledge
+        alteration  elimination  personal data input control  input
+   d prevent automatic data processing systems   used  unauthorised
+       persons  means  data transmission premises control  use
+   e guarantee  authorised persons may  access data covered 
+       authorisation control  access
+   f guarantee  checking  entities   personal data may  transmitted
+        means  data transmission premises control  transmission
+   g guarantee    possible  check  posteriori   period appropriate 
+        nature   processing  establishment   regulations applicable
+         sector   personal data  introduced    
+       control  input
+   h prevent unauthorised reading copying altering  eliminating  data 
+       transmitting  transporting personal data control  transport
+ taking account   nature   entities responsible  processing  
+   type  premises     carried   cnpd may waive  existence 
+   certain security measures subject  guaranteeing respect   fundamental
+   rights freedoms  guarantees   data subjects
+  systems must guarantee  logical separation  data relating 
+   health  sex life including genetic data   personal data
+
+      circulation   network   data referred      may
+        jeopardise  fundamental rights freedoms  guarantees   data
+        subjects  cnpd may determine  transmission must  encoded
+                                          
+                               processing confidentiality
+ person acting   authority   controller   processor including 
+processor    access  personal data must  process  except 
+instructions   controller unless   required     law
+                                          
+                                  professional secrecy
+controllers  persons  obtain knowledge   personal data processed 
+    carrying   functions shall  bound  professional secrecy even  
+    functions  ended
+members   cnpd shall  subject    obligation even  
+    mandate  ended
+ provision   previous numbers shall  exclude  duty  supply 
+    obligatory information according   law except    contained  filing
+    systems organised  statistical purposes
+officersagents  staff  serve  consultants   cnpd   members 
+    subjected    obligation  professional secrecy
+                                       iii
+                                transfer  personal data
+                                       section 
+                                          
+                                        principles
+     without prejudice   following   transfer  personal data 
+         undergoing processing  intended  processing may  take place
+        subject  compliance   present law   legislation applicable 
+        issues  personal data protection  undergoing processing  transfer 
+        another state  country    adequate level  data protection
+      adequacy   level  protection shall  assessed  light   
+        circumstances surrounding  data transfer  set  data transfers  particular
+         nature   data  purpose  duration   proposed processing 
+        country  origin  country  final destination  rules  law  general
+         sectoral  force   state  question  well   professional rules
+         security measures   complied    country
+         cnpd  decide whether  foreign state ensures  adequate level 
+        protection
+                                          
+
+                                         derogations
+     transfer  personal data   state    ensure  adequate level
+        protection within  context    may  allowed   cnpd   data
+       subject  given  unequivocal consent   proposed transfer   
+       transfer
+          necessary   performance   contract   data subject 
+              controller   processing  data   precontractual measures taken
+              response   request   subject
+        b  necessary   executionperformance   signing   concluded 
+               concluded contract   interest   datas subject  
+             controller   third party
+        c  necessary  legally required   grounds  important public interest
+                establishment exercise  defence  legal claims
+        d  necessary   protection  vital interests   datas subject
+        e  made   public register within  contexts   laws  regulations
+              intended  information   public    open  consultation
+             either   general public    person  can demonstrate legitimate
+             interest provided  conditions laid   law  consultation 
+             fulfilled   case
+    without prejudice  paragraph   cnpd may authorise  transfer  set 
+       transfers  personal data   state    ensure  adequate level 
+       protection within  meaning       long   processing
+       controller provides adequate guarantees  respect   protection  
+       privacy  fundamental rights  freedoms  individuals   respect 
+        exercise particularly  means  appropriate contractual clauses
+     transfer  personal data   necessary   protection  state
+       security defence public safety   prevention investigation  repression
+        punishable criminal offences shall  governed  special legal provisions 
+         international conventions   cape verde  party
+                                         iv
+      national authority   investigation   protection  personal data
+                                           section 
+                                      general provisions
+                                            
+                                objectives   investigation
+ supervisory  personal data protection shall seek  followup evaluate  control
+ activities  legally competent organs  services   processing safeguarding 
+fulfilment   constitution   law especially  fundamental rights freedoms
+ guarantees  citizens
+                                            
+                                  nature   investigation
+
+     supervisory  personal data protection   independent administrative
+       authority cnpd  operates within  national assembly
+     cnpd  regulated   law
+                                        section ii
+                                       notification
+                                         
+                            obligation  notify  cnpd
+     controller   representative   must notify  cnpd 
+       carrying   whole  partial automatic processing operation  set 
+       operations intended  serve  single purpose  several purpose  several
+       related purposes
+     cnpd may authorise  simplification   exemption  notification
+        particular categories  processing   unlikely taking account  
+       data   processed  affect adversely  rights  freedoms   data
+       subjects    take account  criteria  speed economy  efficiency
+     authorisation  must specify  purposes   processing  data 
+       categories  data   processed  category  categories  recipients 
+         data may  disclosed   length  time  data    stored
+    processing whose sole purpose   keeping   register  according 
+       law  regulations  intended  provide information   public   
+       open  consultation   public  general   nay person demonstrating 
+       legitimate interest shall  exempted  notification
+     nonauthorised processing   personal data provided   paragraph 
+          shall  subject  notification    processed 
+         
+                                         
+                                     prior checking
+    except authorised  legal ruling authorisation   cnpd  required 
+         processing  personal data referred   subsections   e 
+           paragraph      paragraphs      
+       b  processing  personal data relating  credit   solvency   data
+           subjects
+       c  combination  personal data  provided    
+       d  use  personal data  purposes  giving rise   collection
+     legal ruling  authorises  processing  data referred   
+       previous number requires  opinion   cnpd
+                                         
+      content  applications  opinions  authorisation  notification
+applications  opinions  authorisations  well  notifications submitted  
+cnpd shall include  following information
+
+  name  address   controller    representative  
+b  purposes   processing
+c  description   category  categories  data subjects    data 
+   categories  personal data relating  
+d  recipients  categories  recipients    data might  disclosed
+      circumstances
+e  entity entrusted  processing  information      controller
+   
+f  combinations  personal data processing
+g  length  time required  keeping personal data
+h  form  circumstances    data subjects may  informed  
+   may correct  personal data relating  
+ proposed transfers  data  third countries
+j  general description enabling  preliminary assessment   made  
+   adequacy   measures taken  articles     ensure security 
+   processing
+                                     
+                           obligatory information
+  legal provisions referred   subsection b  paragraph     
+   paragraph      well   authorisation   cnpd  
+   personal data processing filing system must  least indicate
+     controller   file   representative  
+   b  category  personal data processed
+   c  purposes   data   categories   entities   
+       might  disclosed
+   d  form  exercising  right  access  rectification
+   e  combinations  personal data processing
+   f  proposed transfers  data  third parties
+  change   information referred    shall  subject   procedures
+   provided   articles   
+                                     
+                      publishing processing operations
+  personal data processing   covered   legal provision  must 
+   authorised  notified  shall  set    cnpd register open 
+   consultation   person
+  register shall contain  information listed  paragraphs   d   
+    
+  controller  subject  notification shall make available adequate
+   information   person  requests  least  information referred  
+   paragraph    
+     apply  processing whose sole purpose   keeping  
+   register  according  laws  regulations  intended  provide
+
+        information   public    open  consultation either   public
+         general    person  can provide proof   legitimate interest
+      cnpd must indicate   annual report   opinions  authorisations
+        drawn   granted particularly authorisations provided   paragraph  
+           paragraph    
+                                          v
+                                       codes  conduct
+                                            
+                                            purposes
+     codes  conduct  intended  contribute  relation   characteristics 
+     different sectors   proper implementation   provisions   present
+    law
+                                            
+                                    interventions  cnpd
+      cnpd shall help   elaboration   codes  conduct
+     trade associations   entities representing  categories  controllers
+         data processing   drawn  draft codes  conduct shall submit
+           appreciation   cnpd
+      cnpd may declare whether  drafts   accordance   laws 
+        regulations  force   area  personal data protection
+                                        vi
+            legaljudicial recourse liability infringements  penalties
+                                          section 
+                           legaljudicial recourse  liability
+                                          
+                                 legaljudicial recourse
+without prejudice   right  submit  complaint   cnpd according   law
+ individual may seek legal recourse regarding violations   rights granted  
+ present law
+                                          
+                                         liability
+      person   suffered damage   result   unlawful processing
+        operation    act incompatible  legal provisions   rea 
+        personal data protection  entitled  receive compensation   controller
+          damage suffered
+      controller may  exempted   liability  whole   part  
+        proves     responsible   fact  give rise   damage
+
+                                        section ii
+                              infringements  penalties
+                                       subsection
+                                        offences
+                                         
+                                 subsidiary legislation
+ offences provided    subsection subsidiarily applicable   system 
+offences  constant adaptations   followingsubsequent articles
+                                         
+                omission  inadequate compliance  obligations
+     entities  negligently fail  comply   obligation  notify  cnpd
+         processing  personal data referred    paragraphs     
+        provide false information  comply   obligation  notify 
+       observing  terms provided       notified   cnpd
+       continue  allow access  open data transmission networks  controllers 
+       fail  comply   provisions   law  committing  offence
+       punishable   following fines
+          case  single individual  minimum  cve    maximum 
+            cve 
+       b   case   group  people   entity without legal personality 
+            minimum  cve    maximum  cve 
+      fine shall  increased  double  maximum   case  data subject 
+       prior authorisation according   
+                                         
+                                     offences
+     entities  fail  comply     following provisions   law 
+       committing  offence punishable   minimum  cve   
+       maximum  cve 
+        appointment   representative according  paragraph    
+       b observance   obligations  articles        
+            paragraph    
+      fine shall  increased  double  maximum   case  failure 
+       comply  articles       
+                                           
+                                   concurrent offences
+        fact  simultaneously  crime   offence  agent shall always
+        punishable  virtue   crime
+      penalties applied  concurrent offences shall always  materially
+       accumulated
+
+                                         
+                       punishment  negligence  attempt
+    negligence shall always  punished  relation  offences provided  
+        
+     attempt  commit  offence provided   articles    shall
+       always  liable  punishment
+                                         
+                                  application  fines
+     president   cnpd  responsible   application   fines
+       provided    law subject  prior deliberation   commission
+     deliberations   cnpd shall  enforceable     challenged within
+        statutory period
+                                         
+                            compliance  duty omitted
+whenever  offence arises  omitting  duty application   penalty 
+payment   fine   release  perpetrator  compliance   duty   
+possible
+                                         
+                          distribution  proceeds collected
+ sums collected   result   application  fines shall    cnpd
+                                      subsection ii
+                                         crimes
+                                         
+            noncompliance  obligations relating  data protection
+      punishable  imprisonment    one year   fine     days
+       anyone  intentionally
+        omits notifications   application  authorisation referred   articles
+             
+       b provides false information   notification   applications 
+           authorisation   processing  personal data  makes alterations  
+           latter    permitted   legalisation instrument
+       c misappropriates  uses personal data   form incompatible  
+           purpose   collection    legalisation instrument
+       d promotes  carries   illegal combination  personal data
+       e fails  comply   obligations provided    law    data
+           protection legislation   time limit fixed   cnpd  complying
+              expired
+
+      f continues  allow access  open data transmission networks  controllers
+           fail  comply   provisions   act  notification  
+          cnpd    
+    penalty shall  increased  double  maximum   case  
+      personal data referred      
+                                        
+                                    undue access
+    person  without due authorisation gains access   means 
+      personal data prohibited   shall  liable   tone year imprisonment  
+      fine     days
+    penalty shall  increased  double  maximum  access
+        achieved  means  violating technical security rules
+      b allows  agent  third parties  obtain knowledge   personal data
+      c provides  agent  third parties   benefit  material advantage
+     case   criminal proceedings  dependent upon  complaint
+                                        
+                    invalidation  destruction  personal data
+    person  without  authorisation erases destroys damages deletes 
+      changes personal data making  unusable  affecting  capacity  use
+      shall  liable    two years imprisonment   fine     days
+    penalty shall  increased  double  maximum   damage caused 
+      particularly serious
+     agents acts  negligence  penalty   cases shall    one
+      year imprisonment   fine     days
+                                        
+                              qualified noncompliance
+  person    notified      interrupt cease  block 
+    processing  personal data shall  subject   penalty corresponding  
+    crime  qualified noncompliance
+   penalty shall apply   person    notified
+     without just cause refuses  provide  collaboration specifically required 
+           cnpd according   law
+    b   erase  totally  partially destroy  personal data
+    c   destroy  personal   period  keeping  provided  
+           elapsed
+                                        
+                           violation   duty  secrecy
+    person bound  professional secrecy according   law  without just
+      cause  without due consent reveals  discloses personal data totally  
+      part shall  liable  imprisonment  six months    three years  
+
+         fine  eighty  two hundred days   maximum penalty  applied  
+         corresponding   gravity   crime     dismissed  
+         position  function
+      penalty shall  increased  half   agent
+            civil servant  equivalent according  penal law
+         b acts   intention  obtaining  material advantage   unlawful
+             gain
+         c adversely affects  reputation honour  esteem   privacy  another
+             person
+      person guilty  negligence shall  liable    six months imprisonment
+           fine     days
+        cases provided   criminal proceedings  dependent  
+         complaint
+                                            
+                                  punishment  attempt
+ attempt  commit  crimes provided     provisions shall always 
+liable  punishment
+                                            
+                                    additional penalties
+      following may  ordered  addition   fines  penalties applied
+          temporary  permanent prohibition  processing blocking erasure  total
+              partial destruction  data
+         b publication   judgement
+         c public warning  censure   controller   processing
+      judgement shall  published   expense   person judged  
+         periodical   largest circulation published   area   district 
+          infringement  committed    periodical   nearest district  
+         means  affixing  notice   period   less   days
+     publication shall  done  means   summary containing information  
+         offense   penalties applied   identification   agent
+                                        vii
+                                       final provisions
+                                            
+                               existing manual filing system
+    processing  data held  manual filing systems   date   entry 
+      force   law shall  brought  conformity  articles     
+      within six months
+     request  data subject may   event  particular  exercising 
+      right  access obtain  rectification erasure  blocking  incomplete 
+      inaccurate data  data kept   manner incompatible   legitimate purposes
+        controller
+
+  cnpd may provide   data held  manual filing systems  kept
+    solely   purposes  historical research need   brought  conformity
+     articles     provided     case reused   different
+    purpose
+                                       
+                        existing automated filing system
+ existing automated files   date   entry  force   law must
+rigorously accomplish   files  adapt  within  period  six months
+                                        
+                                   entry  force
+ law comes  force thirty days following  publication
+approved   december 
+ president   assembleia nacional antónio  espírito santo fonseca
+enacted   january 
+hereby published
+ president   republic  cape                 verde   antónio      manuel
+mascarenhas gomes monteiro
+countersigned   january 
+ president   assembleia nacional antónio  espírito santo fonseca
+                                  
+

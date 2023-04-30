@@ -1,0 +1,786 @@
+  law     protection  persons concerning  processing  personal
+                            data  free circulation   data
+ parliament  romania adopts  present law
+                                   general provisions
+  purpose
+  purpose   law   guarantee  protect  natural persons fundamental rights
+     freedoms especially  right  personal family  private life concerning 
+    processing  personal data
+  exercise   rights stated   law shall   restricted except   specified
+     limited cases stated   law
+  scope
+  present law applies   processing  personal data performed totally  partially
+     automatic means  well    processing  means  
+    automatic   part   destined   evidencea filing systemstoreage system
+  present law applies 
+ tthe processing  personal data carried    context   activities ofby data
+    controllers based   frame  activities effectuated  controllers established 
+    romania
+b tthe processing  personal data carried   datacontroller   frame  activities
+    effectuated byinby  diplomatic missions  consular offices  romania
+c tthe processing  personal data  romanian territory carried   data controllers
+     based  romania  using  means unless  means   used  purposes
+     transiting  processed personal data  romanian territory
+d  datacontrollerin  frame  activities effectuated  controllers    residents
+     romaniaby using means   nature situated   territory  romania except 
+     case  witch  means   used   purpose  transit  romanian
+    territory   personal data witch  subject   respective processing
+   case mentioned  paragraph  letter c  datacontroller will delegate esignate 
+    representative  must   person based established  romania  provisions  
+    law applicable   datacontrollers  also applicable   representative without
+    infringing  possibility  filing   complaint    court  law directly 
+    versus  datacontroller
+  present law applies   processing  personal data performed  natural  
+    legal persons romanian  foreign  public  private law regardless  whether
+     fact   data processing y take place   public   private sector
+ within  limits  thethe present law within  stated limits  also applies  
+    processing  transfer  personal data carried    framework context  crime
+
+    prevention criminal offence prevention criminal investigation public order  
+    repressing activities  maintaining public order  also   activities performed 
+     domain ofunder criminal law within  limits  restrictions stated   law
+  present law   apply   processing  personal data carried   natural
+    persons exclusively    interests   data  question case   published 
+    otherwise made publicdestined   revealedare  destined   revealed
+  present law   apply   processing  transfer  personal data carried 
+      framework context  national defence  national security within  limits 
+    restrictions stated   law
+  provisions   law   infringe upon  obligations assumed  romania
+      ratification ofratified  ratified international instruments
+  definitions
+  context sense   law  following terms  defined  follows
+ ppersonal data   information referring   natural person identified  identifiable
+     identifiable person    person  can  identified directly  indirectly
+    particularly  reference   identification number   one   factors specific 
+    details   physical physiological psychologicalicalmental economical cultural 
+    social characteristicsidentityidentity
+b tthe processing  personal data   operation  set  operations   performed
+    upon withupon  personal data  automatic  nonautomatic means   data
+    collection recording organisation storage adaptation  alteration retrieval consultation
+    use disclosure   third party  transmission dissemination     meansway
+    combination  alignment  combination blocking erasure  destruction
+c sstorage  keeping  collected personal data   type  storage
+    systemsupportmedium
+d evidence personal data storegaefiling systems   personal data  aany organised
+    structure     personal data   accessible can  accessed  accessible
+     according   according  specific criteria whether centralised decentralised 
+    dispersed   functional  specified criteria regardless   fact   structure may
+      organised   centralised  noncentralised manner  may  made available 
+     distributed  functional  geographical criteriabasis
+e datacontroller   natural  legal person operating underf private  public law
+    including public authorities  local  institutions   branches  territorial
+    structures   whicho  establisheds determines  purpose  meansthe
+    methodology ways  processing   personal data     purpose  
+    methodologymeans ways   processing   personal data  established determined
+       legislative act   based   legislative act  datacontroller  
+    natural  legal person operating  public  private law   designated   data
+    controller   specific legislation  legislative act  based   legislative act
+f pperson delegated empowered   datacontroller processor processor  aany
+    natural  legal person operating   private  public law including public
+    authoritiesinstitutions   territorial bodies institutions  territorial structures 
+     whicho processes personal data  behalf   datacontroller
+
+g tthird party  aany natural  legal person ooperating  f private  public law
+    including public authoritiesinstitutions   territorial bodies institutions 
+    territorial structures      data subject    controller  
+    processor   persons   direct authority   controller    processor
+     authorised  process data
+h rrecipient   natural  legal person  operating  private  public law
+    including public authoritiesinstitutions   territorial bodies institutions 
+    territorial structures     data   disclosed whether  third party   
+    tthe public authorities  receive data   context frame   special
+    investigationparticular inquiry competence will   considered regarded asa recipients
+ aanonymous data  data  due    specific origin  specific manner 
+    processing   associated   anput  connection   identified orwith  
+    identifiable person
+             ii general rules regarding  processing  personal data
+  characteristics  personal data
+ personal data   intended  processing   subject   processing must 
+ pprocessed fairly  lawfully
+b ccollected  specific explicit  legitimate purposes  pp  processing 
+    personal data infor statistical  historical research    scientific purposes will
+    willshall   considered considered  incompatible   purpose  
+    collectioncollecting    done according   provisions   law including 
+    referring   notification addressed   supervisory authority  also according 
+     guarantees regarding   processing  personal data stated   provisions 
+    rulinge  statistic activity   historical  scientific research
+c aadequate pertinent   excessive  relation   purpose    
+    collected   processed
+d aaccurate   necessary updated ffor  purpose  necessary measures shall
+     taken  order  erase andor rectify   inaccurate  incomplete data  
+    regard   purpose    data  y  collected     data y
+    may will   requriedprocessedprocessed
+e sstored    mannera form  permits    allow  identification  
+    data subjects strictly    timeframe necessary  achieve  purpose  
+     data  collected     will   processed  tthe storage  
+    data   longer period  time   one mentioned  statistical historical 
+    scientific research purposes  acceptable   may  done  observing 
+    guarantees regarding  processing  personal data processing  stated inby 
+    relevant legislation ve acts  rule  domain  respected     
+    necessary period  time  achieve  purposes
+  datacontrollers   obligation  observe  provisions  paragraph   
+    ensure  implementation thereof   dataprocessordata processor
+
+  conditions  legitimacy regarding  data processing
+  processing  personal data except   processing  refers   categories
+    mentioned     articles    can may  carried     data
+    subject  given hisher express  unequivocal consent   processing
+  consent   data subject   required   following situations
+ wwhen  processing  necessary  order  carry outfor  performance   contract
+      preantecontract    data subject  party    order  take 
+    measuressteps   request  signing entering   contract   pre  ante
+    contract
+b wwhen  dataprocessing  necessary  order  protect life physical integrity  
+    health   data subject    third party    risk another threatened person
+c wwhen  dataprocessing  necessary  order  fulfil  legal obligation   sdata
+    controller
+d wwhen  dataprocessing  necessary  order  accomplish  measures offor 
+    purposes   task  public interest  concerns  exercise  public official authority
+    prerogatives    vested   controller    third party    data 
+    disclosed
+e wwhen  dataprocessing  necessary  order  accomplish afor  purposes  
+    legitimate interest   datacontroller    third party    data  
+    disclosed  condition   interest   prejudice   prejudicial  
+    interests   fundamental rights   freedoms   data subject
+f wwhen  dataprocessing concerns data   obtained  documents available 
+     general public according   law
+gg wwhen  processing  performed exclusively  statistical purposes historical 
+scientific research   data remain anonymous   entire processing period  
+processing
+  provisions   paragraph    override  legal texts  govern rule 
+    obligations  public authorities  respect  protect intimate family  private life
+  ending termination   processing operations
+   end   dataprocessing operations   data subject   given 
+     expressive  unequivocal consent  another destination    another future
+     processing  personal data will 
+ ddestroyed
+b ttransferred  another datacontroller provided   former datacontroller
+    guarantees  fact   processing will  similar purposes     former
+    dataprocessing 
+c ttransformed  anonymous data  stored exclusively  statistical purposes
+    historical  scientific research
+   case  processing operations performed   terms stated   
+     paragraph  letters c   d   framework  activities described  
+      paragraph   datacontroller can may store  personal data   necessary
+
+    specified period  timeframe  order  achieve  concrete followed goals 
+    condition  proper measures  ensured  protect themdata  thenafterwards 
+    shall  erased  proceeds   destruction   legal provisions regarding 
+    archivepreservation   applicable
+           iii special rules regarding  processing  personal data
+   processing   special categories  data
+  processing  personal data linked  ethnic  racial origin  political religious 
+    philosophical opinions   another  similar nature  tradeunion membership
+    adhesion  also  personal data referring  state  health  sexual life  prohibited
+  provisions  paragraph   shall  apply   following situations
+ wwhen  data subject  expressly given consent   dataprocessing
+b wwhen  dataprocessing  necessary  order  meet  obligations  specific rights
+     datacontroller   field  labour law observing although  legal guarantees
+   must  observed  possible ddisclosure   processed data   third party can may
+    take place    datacontroller  legally required   sore   legal
+   obligation   controller   sense    data subject  expressly agreed  
+   disclosure
+c wwhen  dataprocessing  necessary  order  protect  life  physical integrity
+     health   data subject   another person     data subject 
+   finds himherself   physically  legally unableincapable incapacity tof givinge hisher
+   consent
+d wwhen  dataprocessing  carried   partin  course    legitimate
+   activities   foundation association     nonprofit organisation  
+   political philosophical  tradeunion profile provided   data subject   member
+     organisation   regular contacts   organisation   activity profile 
+   provided   data shall   disclosed   third party without  consent  
+   data subject
+e wwhen  dataprocessing refers  data expressly made public   clear way  
+   data subject
+f wwhen  dataprocessing  necessary  determine exercise  protect  right  
+   court  law
+g wwhen  processing  necessary   preventitive medical care  establish  medical
+   diagnosis  provide medical care  treatment   interest   data subject  
+   administerrate health services     best interest   data subject  condition
+    processing   data  performed     supervision  medical staff
+   pledged   professional secrecysecret      supervision  another person
+   subject   similar obligation regarding  secrecy
+h wwhen  law expressly statesprovides     express manner  order  protect 
+   important public interest  condition   processing  carried   compliance
+
+     rights   data subject    legal guarantees stipulated   present
+   law
+  provisions  paragraph    override  legal texts  rulegovern  public
+    authoritys obligation  respect  protect intimate family  private life
+  supervisorying authority can may decide  substantiated justified grounds 
+    prohibition   processing  data belonging   categories stated  paragraph 
+    even   data subject  given  writing hisher unequivocal consent   consent
+       withdrawn  condition   prohibition stated  paragraph  
+      eliminated   one   cases referred   paragraph  letters bg
+   processing  personal data   function  identification
+  processing   personal numerical codes    personal data   
+    function  general identification  general implementation can may  carried  
+    
+ tthe data subject  given   express manner hisher unequivocal consent 
+b tthe processing  specificallyexpressly required expressly stated   legal text
+  supervisorying authority may establish  cases    processing  data
+    stated  paragraph   possible   adequate guarantees   provided 
+    order  observe  rights   data subject
+   processing  personal data regarding health
+ except   cases stated    paragraph   provisions   
+    paragraph    applicable   processing  health data   following
+    situations
+ iif  dataprocessing  necessary   protection  public health
+b iif  processing  necessary   prevention   imminent danger  prevention 
+    criminal act    prevention   result    action    removal 
+    damaging resultsevidence damaging results    action
+  processing  health data may  carried       supervisionthe
+    supervision  medical staff     pledge  professional confidentiality
+    except   cases   data subject  given  writing hisher unequivocal
+    consent   long   consent    withdrawn also e except   cases
+      dataprocessing  necessary   prevention   imminent danger 
+    prevention   criminal act    prevention   result    act   
+    removal   damaging results damaging results evidence    act
+  medical staff health institutions staff may process personal health data without 
+    authorisation   supervisory authority    dataprocessing  necessary 
+    life physical integrity  health   data subject   mentioned purposes refer
+      people    general public   data subject   given  written 
+    unequivocal consent  preliminary authorisation   supervisory authority must first
+     demanded  obtained  processing  personal data  forbidden beyond 
+    limits  authorisation
+
+ except  emergency reasons  authorisation stated  paragraph  may  given
+       consulting  romanian medical college
+ pthe personal health data may   collected    data subject 
+        exception  data can  collected   sources    
+     necessary  order   compromise  purpose   processing    
+     person involved    exceptional cases  data may  collected  
+     sources     necessary   compromise  purpose   processing 
+      data subject   want    unable  give  datam
+   processing  personal data regarding offences  legal contraventions
+  processing  personal data regarding criminal offences committing   data
+    subject  regarding previous convictions security measures   administrative 
+    contravention sanctions applied   data subject can may  carried    
+      control  public authorities within  limits   powers given   law
+       terms established   specific al laws    rule  field
+  supervisory authority may establish  cases    dataprocessing stated
+     paragraph  might  permissablepermissibleformed just  provided 
+    according   terms  establishing adequate guarantees  order  observe  rights
+      data subject  put  place
+  complete file  criminal convictions can may  kept    control  
+    public authority within  limits stated   law
+  exceptions
+ provisions  articles        apply   situation     data
+processing  data  exclusively carried  exclusively  journalistic literary  artistic
+purposes    dataprocessing regards personal data   ere expressly made public
+  specific manner   data subject        linked   public persona
+quality  public person   data subject  linked   publicly known events 
+character   facts heshe  involved 
+  iv  rights   data subject   context  personal data processing
+  informing  data subject
+   personal data   obtained directly   data subject    data
+    controllers obligation  provide  data subject   following minimum
+    information except   case whenwhere datacontrollerforsubject  situation 
+       mentioned person already detains   required information  case
+ tthe identity   datacontroller    case may    datacontrollers
+    representative
+b tthe purpose   data processing
+
+c mmoreany  information    recipients    categories  recipients
+    data whether  provision ding   requested data requested  obligatory  
+   consequences  refusal  cooperatereply  existence   data subjects rights
+   stated   law notably  right  access    correction ofright  rectify
+   intervention  data   right  object  well   conditions    data
+   subject can benefit byfor exercising  rights
+d aany  information  may  expressly requested   supervisory authority
+     considered  serve aconsidering  specific data processing case
+   data   obtained directly form  data subject    datacontrollers
+    obligation   moment  collecting data   last   first disclosure   
+     intention  disclose  data   third party  provide  data subject  
+    following minimum information unless  data subject already possesses  
+    respectiveof  information
+ tthe identity   datacontroller orand   case may    datacontrollers
+   representative
+b tthe purpose   data processing
+c mmoreany  information likesuch  categories  data required concerned 
+   recipients   categories  recipients   data  existence   data subjects
+   rights  stated   law notably  right  access   interventionand
+   correctionrectify   data    right  object  well   conditions  
+    data subject can benefit byfor exercising  rights
+d aany  information  may  expressly requested   supervisory authority
+     considered  serve  considering  specific data processing case
+  provisions  paragraph   shall  apply   processing  data 
+    performed exclusively  journalistic literary  artistic purposes   application 
+     might reveal  source   information
+  provisions  paragraph   shall  apply   processing  data 
+    performed  statistical historical  scientific research     situations 
+     supply   data proves   impossible   involve  disproportional effort
+    towards  legitimate interest  might  damaged  also   situations 
+    whichor  recording  disclosure   data  expressively stated laid   
+    law
+   right  access  data
+ everyany data subject   right  obtain   datacontroller upon request 
+    exempt  taxesfree  charge  one time   year  confirmation   fact
+      data concerning himher      processed   datacontroller
+     datacontroller  case   processed  personal data concerning  petitioner
+     obliged  communicate   petitioner along   confirmation  least 
+    following
+ iinformation regarding  purposes   dataprocessing  categories  data
+   concerned   recipients   categories  recipients    data   
+   disclosed
+
+b iintelligible ccommunication   intelligible form   processed data   
+    available information regarding   origin source   respective data
+c iinformation                technical    principles    mechanisms           technical
+   methodologyfunctioninglogic involved   automatic principles   mechanism
+       automatic processing  data processing  regard  
+   subjectconcerning  person  case  carried 
+d iinformation concerning  existence   right  seerectify  intervention upon 
+   data   right  object  well   conditions    data subject can benefit
+   byfor exercising  rights
+e iinformation   possibility  consulting  record register  data processing
+   operationsbook   processing  personal data stated    information 
+    possibility     submit aon lodging  complaint   supervisory
+   authority   dispute contest  datacontrollers decisions  court according  
+   provisions    present law
+  data subject can may request   datacontroller  information stated 
+    paragraph    written dated  signed petition  petitioner can may
+    underline  desire   informed   specific address  may also   electronic
+    one    mail service  ensures confidential receipt   information
+    datacontrollers obligation  communicate  requested information within 
+    days  receipt   petition  complying   petitioners option  provided
+     paragraph 
+  theregarding personal health data  petition mentioned  paragraph  may 
+    filled    data subject himherself  bythrough medical staff  will show 
+    subject personwho will mention  person  whose behalf  request   made
+    upon  datacontroller   data subjects request  communication  mentioned
+     paragraph  may  carried     member   medical staff appointed
+      data subject
+   personal health data  processed  scientific research purposes   risk 
+    infringing  rights   person involved   exist    data    
+    used  order  take measures   person  communication mentioned 
+    paragraph  may  dispatched within  longer interval   one mentioned  
+    paragraph  case  might affect  process   outcome   research   
+      delayed   research   completed   situation   allowed 
+     data subject must  given hisher express  unequivocal consent   data  
+    processed   purpose  scientific research  well    possible delay  
+    communication mentioned  paragraph 
+  provisions  paragraph   shall  apply   processing  personal data
+      carried  exclusively  journalistic literary  artistic purposes  
+    application might affect confidentiality    source   information
+   right  see therectify intervention upon  data
+  every data subject   right  obtain   datacontroller  request 
+    exempt   taxfree  charge
+
+ rrectification updating obstruction blocking  elimination removal  data whose
+    processing   comply   provisions   present law notably  incomplete
+     inaccurate data
+b aanonymity  data whose processing   comply   provisions   present
+    law
+c tthe notification   third party    data  disclosed   operation
+    performed according  letters   b  unless  notification   proves  
+    imimpossible   done      request involves  disproportionate effort
+    towards  legitimate interest  might thus  violated
+ order  exercise  right stated  paragraph   data subject shall fill   written
+dated  signed petition  petitioner may state hisher wish   informed   specific
+address  may also   electronic one    mail service  ensures
+confidential receipt   information
+ datacontroller   obligation  communicate  measures taken based  
+provisions  paragraph   also   case may   name   third party  
+ data concerning  data subject  disclosed within  days   date  
+petitions arrivalreceipt whilein complying withiance   petitioners option according
+ paragraph 
+   right  object
+  data subject   right  object   moment based  justified  legitimate
+    reasons linked   particular situation   processing  data regarding
+    himselfherself unless   contraryis  priority  specific legal dispositions  case
+     justified opposition  processing  data may  longer take place concerning 
+    respective subject person
+  data subject   right  object   moment freely  without 
+    explanation   processing   data concerning hisher person  overt marketing
+    purposes  behalf   controller    third party    disclosed   third party
+       purpose
+  order  exercise  rights stated  paragraphs     data subject will fill
+      written dated  signed petition  petitioner may specify  heshe wishes  
+    informed   specific address  may also   electronic one    mail
+    service  ensures confidentiality
+  controller  obliged  inform  data subject    measures taken based
+      provisions  paragraph     also   case may   name  
+    third party    data concerning  data subject  disclosed within  days
+      date   petitions arrival  compliance   option   petitioner
+    according  paragraph 
+  exceptions
+  provisions  articles     paragraph       apply 
+     activities  mentioned    paragraph    application affects 
+
+    efficiency   action   objective followed  order  accomplish    action
+      goal related   fulfilment ofor legal obligations   public authority
+  provisions  paragraph    applicable solely   period  time
+    necessary   achievement   goal intended    achievement   purpose
+    followed   accomplishment   activities mentioned    
+  soon   reasons  justified theafter  finalisation   situation  justifies
+     application  paragraph     longer exist  controllers  accomplish
+     activities stated     shall take  necessary measures  order  ensure
+    compliance   data subjects rights
+ public authorities will make  record   cases  inform periodically 
+    supervisory authority   way  cases   resolved
+   right    subject   individual decision
+  person   right  demand  receive  following
+ tthe withdrawal   cancellation   decision  produces juridical effects
+    concerning himher adopted exclusively   personal data processing basis carried 
+     automatic means destined  evaluate  aspects  hisher personality andor
+    professional competence credibility behaviour    aspects
+b rreevaluation   decisions regarding himher   affects himher  
+    significant manner   decision  adopted exclusively   basis  data processing
+     meets  conditions stated  letter 
+ respecting   guarantees stated   present law  person can may  subject 
+     decision   nature mentioned  paragraph     following situations
+ tthe decision  taken   contextframe  entering   carrying  performing 
+    contract  condition   entering   performing   contracts request filled
+       data subject   satisfied    adequate suitable measures 
+    safeguard hisher legitimate interest   taken   arrangements allowing
+    himher  put  example  possibility  sustaining  point  view  order 
+    guarantee  protection    legitimate interest
+b tthe decision taken  authorised   law  states    measures 
+    guarantee  protection   data subjects legitimate interests will  guaranteed 
+    protected
+   right  refer   court  law
+ without prejudice   possibility  applying   supervisory authority  data
+     subject   right  refer   court  law  defence   rights guaranteed  
+     present law
+  person  suffered  prejudice   consequence  unlawful processing 
+     personal data may address  competent court  law  order  obtain compensation 
+      prejudice suffered
+  competent court  law  one whose territorial jurisdiction covers  complainants
+     domicile  complaint addressed   court  law  exempt  stamp tax
+
+                     v confidentiality  security  processing
+  confidentiality  data processing
+ person  acts  authority   datacontroller    dataprocessor
+including   dataprocessor    access  personal data may  process 
+unless   datacontrollers specific instructions except   abovementioned
+person acts   basis    legal order obligation basis
+  security  data processing
+    datacontrollers obligation  apply  adequate technical  organisational
+     measures  order  protect  data  accidental  unlawful destruction loss
+     alteration disclosure  unauthorised access notably   respective data  committed
+        net     form  illegal processing
+  measures must ensure depending   costs   processing means
+     employed adequate security  processing hazards considering  nature  
+     data  must  protected  minimum security requirements shall  elaborated 
+      supervisory authority  shall  periodically upgraded according   technical
+     progress   accumulated experience
+  appointing  dataprocessor  datacontroller   obligation  nominate 
+     person  presents enough guarantees regarding technical security  
+     organisational measures concerning  data   processed  controller shall also
+     ensure supervise   nominated person complies   measures
+  supervisory authority may decide  individual cases   datacontroller 
+     adopt additional security measures except  measures  might affect  guaranteed
+     security  telecommunication services
+ data processing performed   appointed dataprocessor shall  initiated following 
+     written contract   necessarily contain  following
+ tthe obligation   empowered person  act   strictly following instructions
+    received   datacontroller
+b tthe fact   accomplishment   obligations set   paragraph  also applies
+      processor
+              vi supervising  control  personal data processing
+   supervisory authority
+  supervisory authority   terms   present law   ombudsman advocate
+      people
+  supervisory authority shall  act  fullyly independent  impartial conditions
+
+  supervisory authority shall monitor  control  legal framework concerning 
+     processing  personal data according processing subject   law  order 
+    achieve  purpose  supervisory authority  exercises  following
+    rightsattributions
+ ddesigns  printedstandard typed forms  notifications  registryer books
+b rreceives  analyses  notifications concerning  processing  personal data 
+    informs  datacontroller    results   previous control
+c aauthorises  processing  data   situations set    law
+d may dispose iin case  authority notices inconsistency   provisions  
+    present law may partially  totally delete temporary suspending  terminateion  
+    data  processeding partial  total erasure   processed data  may notify 
+    criminal prosecution bodies  may file complaints    court  law
+e iis responsible   safe keeping   personal data processing register  shall 
+    available   general public access
+f rreceives  resolves petitions notices  requests coming  natural persons 
+    communicates  resolution   measures    taken
+g pperforms investigations  ex officio  upon requests  notification
+h iis consulted  legislative drafts   developedelaborated drafts regarding
+    persons rights  freedoms concerning personal data processing
+ mmay make proposals concerning  initiation  legislative drafts  amendments 
+    existing already enforced legislationve acts regarding   fields linked   processing
+     personal data
+j ccollaborates   public authorities  bodies   public administration
+    centralises  analyses  annual activity reports regarding  protection  persons
+    concerning processing  personal data formulates recommendations  comments 
+    assents   matter linked   protection  fundamental rights  freedoms
+    regarding  processing  personal data  request   natural person including 
+    public authorities  bodies   public administration  recommendations 
+    comments assents must mention  reasons    based   must 
+    communicated  copied y   minister  justice  wwhen  recommendation 
+     assent  requested   law  must  published   official monitor 
+    romania part 
+k ccooperates  similar authorities  abroad  order  organise accomplish mutual
+    assistance projects   foreign residents    purpose  guaranteeing 
+    fundamental rights  freedoms  can  affected   processing  personal
+    data
+l ffulfils  attributions obligations set    law
+  entire staff   supervisory authority   permanent obligation  keeping 
+    professional secrecyt except   cases set    law regarding  confidential 
+    classified information  haved access    carrying    dutiesexercise 
+     powers even  termination   employment legal relations  
+    supervisory authority
+
+   notices addressed   supervisory authority
+  datacontroller  obliged  notify  supervisory authority either personally 
+      representative  initiating  kind  dataprocessing    
+    similar  related purposees  previous data processing activities
+ notification   necessary   event   sole purpose   dataprocessing  
+    keep  record available  public reference    will  open  consultation 
+     general public    person  proves  legitimate interestor   person 
+    proves  legitimate interest provided   dataprocessing  limited   data 
+     strictly necessary    mentioned record
+  notification will contain  following information
+ tthe name   title   domicile   office seat oof  datacontroller   
+   empowered person   case may 
+b tthe purposes   dataprocessing
+c aa description   categorycategories   data subjects    data  
+   categories  data     processed
+d tthe recipient   categories  recipients  data  intended   disclosed 
+e tthe guarantees accompanying  disclosure   data   third party
+f tthe manner    data subjects will    informed    rights
+    approximate end termination date   dataprocessing operations  future
+   destination   data
+g   intended data transfer   nation states
+h aa general description  allows  preliminary assessment appreciation   measures
+   taken  order  ensure dataprocessing security
+ mmention   data recording system related   processing   possible relation
+     processing   data recording systems irrespective  whether    
+   fulfilled     situated  romanian territory  
+j tthe reasons  justify  implementationjustification   provisions  articles 
+     paragraph        paragraph     cases   data
+   processing  exclusively performed  journalistic literary artistic  statistical
+   purposes   historical  scientific research
+   notification  incomplete  supervisory authority will demand  completioning
+ within  investigative powers  supervisory authority may demand  information
+    notably regarding  datas origin  automatic processing technology used  details
+     security measures  provisions   present paragraph   apply  
+    situations    processing  data  exclusively performed  journalistic
+    literary  artistic purposes
+   international transfer   data  intended  notification will consist 
+ tthe data categories subject   transfer
+b tthe destination country   data category
+  notification  subject   tax  must  paid   datacontroller  
+    supervisory authority
+  public authorities  carry  processing  personal data related   activities
+    described    paragraph  based   law   compliance  
+    obligations assumed  ratified international agreements  exempt   tax
+
+    set   paragraph   notification will  sent within  days   entering
+     force   legislative act entering  force  will  establishes  obligation
+     case  will also contain  following elements
+ tthe name  address  seat   controller
+b tthe purpose   legal basis   data  processeding
+c tthe personal data categories subject  processing
+  supervisory authority may establish  situations    notification  
+    necessary except   one set   paragraph    situations   
+    notification may  fulfilled   simplified manner    following cases
+ wwhen taking  consideration  nature   data   processed  processing
+     affect  least  appearance  rights   data subject   affected
+    provided   purposes    data processing  clearly expressly mentioned 
+    well   definition   data  categories  data  may  processed 
+    categorycategories  data subjects  recipients  categories  recipients   
+    data can  disclosed  also  period  time     data may  stored
+b wwhen  processing  carried    terms    paragraph  letter d
+  preliminary control
+  supervisory authority will establish  categories  processing operations  may
+    represent  suspected  present special risks   persons rights  freedoms
+  based   notification  supervisory authority shall mention   data
+    processing belongs  one   categories mentioned  paragraph   shall decide
+      preliminary control regarding  dataprocessing  case  accordingly announce
+     controller
+  datacontrollers     informed   announced within  days 
+    notification upon  fulfilment   preliminary control may start  dataprocessing
+   situation described set   paragraph   supervisory authority  obliged
+    within  longer   days notice  notification  inform  datacontroller 
+      results   fulfilled control    decisions issued thereupon
+  personal data processing record
+  supervisory authority will keeps  personal data processing registryer drawn 
+      terms   provisions     registry will er containns  
+    information set     paragraph 
+  datacontroller will   given  registration number  registration number must
+     written  every document  relates  data collection storage ing  disclosure
+  change affecting accuracy   registered information will  communicated  
+    supervisory authority within  days  supervisory authority will decide dispose
+    immediately   necessary correction   inserted   register
+  processing activities  personal data  started   present law  come
+     force will  notified  order   registered within  days   date  
+    present law entered  force
+
+  registryer   processing  personal data  available  public reference 
+    supervisory authority will establishes  accessibility procedures
+  petitions addressed   supervisory authority
+  defence   rights set    present law  persons whose personal data 
+    processed   terms   law may file   complaint   supervisory authority
+     complaint may  addressed directly    representative  data subject
+    may empower  association   foundation  represent hisher interests
+  petition addressed   supervisory authority  invalid  legal prosecution  
+    already initiated    case
+ except   cases    delay  cause imminent  irreparable damage 
+    petition submitted   supervisory authority must   addressed earlier   days
+    since filing   complaint    case   datacontroller
+  order  solve  petition  supervisory authority may  necessary hear  data
+    subjects view  datacontrollers view   views   empowered person  
+    association   foundation  represents  interests   data subject 
+    persons   right  file  petitions documents  memoirs  supervisory
+    authority may order  enquiry
+   petition  found   substantiated  supervisory authority may decide   
+     measures set     paragraph  letter d temporary suspension  data
+    processing may  ordained   cessation   reasons   determined 
+    measures    taken
+  decision must  motivated  shall  communicated   parties involved within
+     days   registering   petition
+  supervisory authority may order  necessary  suspension ding    
+    dataprocessing operations till  petition   resolved   provisions 
+    paragraph 
+  supervisory authority may appeal   court  law  order  defend  rights  
+    data subjects  guaranteed   present law  competent court  law   court 
+    bucharest  complaint addressed   court  law  exempt  stamp taxes
+ upon request   data subjects  substantiated reasons  court may decide 
+    suspending   dataprocessing untill  petition addressed   supervisory
+    authority   resolved
+  provisions  paragraph    also apply   situation   
+    supervisory authority finds     means   violation   rights  
+    data subjects  recognised   present law
+  appeals   decisions   supervisory authority
+  datacontroller   data subject may submit formulate  appeal  
+    decision made   supervisory authority based   provisions   present law
+    within  days  communication   sanction  decay  loss  right  
+    competent administrative court  law  parties shall  subpoenaed   complaint
+    shall  immediately analysed  resolution  permanent  irrevocable
+
+  processing  personal data carried    framework   activities  set 
+       paragraph   excepted   provisions  paragraph   also 
+    articles   
+   exercise   investigative powers
+   course  personal data processing  supervisory authority may investigate ex
+    officio  upon request  violation   data subjects rights   obligations  
+    controller    case may    empowered persons   purpose 
+    defending  fundamental rights  freedoms   data subjects
+  supervisory authority may  exercise  investigative powers   case  
+    complaint  previously filed    court    basis case  rights violation
+    opposing   parties
+   exercise   investigative powers  supervisory authority may demand  
+    datacontroller  information linked   processing  data  may verify 
+    document  record regarding  processing  personal data
+  sstate  professional secrets   professional one must   invoked  order
+     prevent  exercise   powers   supervisory authority set    present
+    law  protection   state    professional secrets  invoked 
+    supervisory authority   obligation  keep  respective secrets
+   supervisory authority   exercise    investigative power   
+    objective   processing  personal data carried    public authorities  
+    relation   activities  described    paragraph    concrete case 
+     necessary  obtain  preliminary agreement   prosecutor    competent
+    court  law
+  rules  conduct rules
+  professional associations   obligation  obliged  elaborate  submit 
+     approval   supervisory authority codes  conduct  contain adequate rules 
+     order  protect  rights  persons whose personal data may  processed  
+     members   associations
+  rules  conduct must contain measures  procedures able  ensure satisfactory
+     protection taking  account  nature   data  can  processed 
+     supervisory authority may impose dispose  specific measures  procedures 
+      period  time    conduct rules   adopted
+
+                        vii transfer  personal data abroad
+   conditions   transfer  personal data abroad
+  transfer  another state  data   subject  processing  destined  
+    processed   transfer may take place    romanian law   violated 
+     destination state  destination ensures  adequate level  protection level
+  protection level will  evaluated appreciated   supervisory authority taking
+     account   circumstances    transfer    performed  especially
+     nature   data   transferred data  purpose   processing   period
+     time proposed   processing  state  origin   state  destination  well
+      legislation   latter state  case  supervisory authority notices  
+    protection level offered   state  destination  unsatisfactory  may order
+    cancellation   data transfer
+ data transfer  another state shall  always subject  preliminary notification  
+    supervisory authority
+  supervisory authority may authorise  data transfer  another state   
+      least   protection level   one offered   romanian legislation
+    provided   datacontroller offers enough guarantees regarding  protection 
+    fundamental individual rights  guarantee must  established  contracts
+    signed   datacontrollers   natural  legal persons   ordered 
+    transfer
+  provisions  paragraphs       apply  case  data transfer 
+    performed based   special law    international agreement ratified  romania
+    notably   transfer  done   purpose  prevention investigation  repressing 
+    criminal offence
+  contents provisions   present    apply   processing  data 
+    performed  exclusive journalistic literary  artistic purposes   data  made
+    public expressly   data subject   related   data subject s public quality 
+      public character   facts heshe  involved 
+  situations    transfer  always allowed
+ data transfer  always allowed   following situations
+ wwhen  data subject  given hisher explicit consent   transfer  iin case 
+    data transfer  linked     provisions data set        
+    consent must  written
+b wwhen   necessary   carrying    contract signed   data subject  
+    datacontroller    application   precontractual measures taken upon
+    request   data subject
+c wwhen   necessary   signing   carrying    contract concluded  
+      concluded   controller   third party   data subjects interest
+d wwhen   necessary   accomplishment   major public interest   stake 
+     national defence public order  national safety fluency  proceedings   criminal
+
+    trial   identification performance  defence  rights  court  condition  
+    data  processed    purpose   without unreasonable illegitimate delay
+e wwhen   necessary  protect  data subjects life physical integrity  health
+f wwhen    consequence   previous request  access  official documents  
+    open   public    request  information  can  obtained  registers 
+      documents  public access
+                           viii contraventions  sanctions
+  failure  notify  malevolent notification
+failure  submit obligatory notification   terms set       
+paragraph   well  incomplete notification  one  contains false information  
+respective maladministration falls short   criminal offence  considered contraventions
+liable   fine   million   million rol romanian currency  lei
+  illegal processing  personal data
+ processing  personal data   datacontroller    delegate n empowered person 
+ datacontroller whichile breaching  provisions  articles    disregarding
+ terms  rights set         considered  contravention  
+offence    respective maladministration falls short   criminal offence  fine can 
+  fined   million   million rol
+   nonunfulfilment   obligations regarding  confidentiality 
+ implementation   security measures
+ non unfulfilment    obligations regarding  implementation   security
+measures    confidentiality keeping   processing stated     
+   contravention   considered done   conditions  constitute  criminal
+offence   liable   fine   millions   millions rol
+  refusal  supply information
+refusal  supply  requested information  documents   supervisory authority  
+exercise   investigative powers  set      considered  contravention 
+ respective offence maladministration falls short   criminal offence   liable  
+fined   millions   millions rol
+  establishment   contravention  application  penalties
+ establishment   contravention   application  penalties  carried   
+    supervisory authority  can  able  delegate  powers    member 
+
+    person recruited   staff  also   empowered   supervisory 
+    control persons   bodies  supervising  control powers  legal competence
+  provisions   present law regarding  contraventions  complementary  
+    completed     government ordinance   concerning  juridical
+    frame legal framework  contravention   present law   state otherwise
+  minutes  report  contravention  establish  sanctions may  appealed
+        administrative section   court  law
+                                  ix final provisions
+  entering  force
+ present law enters  force   date   publication issue   official monitor
+ romania part   will  applicable within three months   entering  force
+ senate adopted  present law   session   october   accordance
+  provisions    paragraph    constitution  romania
+president   senate
+nicolae vacaroiu
+ present law  adopted   deputy chamber   session   october  
+accordance   provisions    paragraph    constitution 
+romania
+president   deputy chamber
+valer dorneanu
+published   official monitor  romania part      december 
+

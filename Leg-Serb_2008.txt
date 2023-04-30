@@ -1,0 +1,818 @@
+                   law  personal data protection
+                                      main provisions
+                                         scope   law
+                                                
+        law shall govern  conditions  collection  processing  personal data 
+rights  data subjects   protection  rights  data subjects limitations  data protection
+procedure upon appeal   authority competent  data protection data security data
+filing system transfers  data outside  republic  serbia  supervision   application
+  law
+       personal data protection   republic  serbia  provided   natural person
+regardless  hisher nationality residence race age sex language religious political  
+belief national  social origin property birth education social status   personal
+characteristics
+        personal data protection tasks  performed   commissioner  information 
+public importance  personal data protection hereinafter  commissioner  
+autonomous state organ independent   execution     competence
+                                       objective   law
+                                                
+        objective   law   ensure realisation  protection   right  privacy 
+ rights  freedoms regarding personal data processing  every natural person
+                                definitions  terms   law
+                                                
+       certain terms   law shall   following meaning
+        personal data   information concerning  natural person regardless   form 
+   expressed   data format paper tape film electronic medium   like
+ whose mandate  whose name   whose account  information  stored  date
+ information originated  place   information  stored  mode  learning 
+information directly  listening watching   like  indirectly  insight  documents
+                                                                                                 ¦   
+
+containing  information   like  regardless   characteristics   information
+hereinafter data
+       natural person   individual    personal data relates   identified 
+identifiable  reference  personal name personal identification number address code  
+mark   physical psychological mental economic cultural  social identity hereinafter data
+subject
+       personal data processing   action performed upon data   collection recording
+transcription multiplication copying transmission retrieval organisation storage separation
+crossing unification adaptation alteration provision use making available  insight
+disclosure publication dissemination revealing  transmission  otherwise making
+available hiding dislocation  otherwise making unavailable  well  undertaking 
+activities regarding  aforementioned data regardless  whether    performed
+automatically semiautomatically    manner hereinafter processing
+       government organ   state organ territorial autonomy organ local selfgovernment
+organ  organisation vested   performance  public authority
+       personal data filing system controller   natural  legal person  authority processing
+ data hereinafter controller
+       personal data filing system   set  data kept  automated  unautomated manner
+available according  personal subjectmatter related   criterion regardless   manner
+ place   storage
+       recipient   natural  legal person  government organ    statute  persons
+consent authorised  use  data hereinafter recipient
+        processor   natural  legal person  government organ    controller
+conferrers tasks related  data processing  accordance   statute  contract hereinafter
+ processor
+        written form also entails electronic form   statutory conditions regulating 
+electronic signature
+        central register   personal data filing systems hereinafter  central
+register   record composed  registers  data filing systems   catalogue  data filing
+systems managed   commissioner
+                                     application   law
+                                               
+      provisions   law shall apply   automated processing  well   processing
+contained  unautomated data filing systems
+                            data    law shall  apply
+                                               
+      unless contrary interests   data subject  manifestly prevailing certain provisions 
+ law   conditions  processing  well   rights  obligations concerning
+processing shall  apply   processing 
+       data available  anyone  published  public media  publications  available 
+archives museums   similar organisations
+       data processed  family   personal use    available  third party
+                                                                                                ¦   
+
+        data  members  political parties citizens associations trade unions  similar
+organisations   processed   organisations   member provides written consent
+ provisions   law shall  apply   data processing  certain period  time 
+   period exceeding  duration  hisher membership
+        data published   person capable  protecting hisher  interests concerning
+  
+                         processing  historic statistical  scientific
+                                        research purposes
+                                                  
+       data collected  processed   purposes can  processed solely  historical
+statistical  scientific  research purposes     constitute grounds  passing
+decisions  taking measures   given person  adequate protection measures  provided
+       measures  protecting data archived solely  historical statistical  science  research
+purposes shall  governed   separate regulation
+                             controller prescribed  special statute
+                                                  
+        special statute prescribes  purpose  manners  data processing  controller can
+ designated within  regulations
+                             ii conditions  processing
+                                        unlawful processing
+                                                  
+       personal data processing  unlawful 
+        natural person   consent  processing  processing  performed without statutory
+authority
+         purpose  processing  different  designated regardless  whether   done
+ data subjects consent  based  statuary authority  processing without consent
+         purpose  processing   clearly determined    altered unlawful  already
+accomplished
+         data subject  identified  identifiable   purpose  processing 
+accomplished
+         mode  processing   permitted
+        data  processed  unnecessary  unsuitable  realising  purpose  processing
+         amount  type  data  processed  disproportionate   purpose 
+processing
+        data  false  incomplete      based   credible source   outdated
+
+                                                                                                    ¦  
+
+                               decision  automated processing
+                                                
+      decision generating legal consequences  data subject  deteriorating hisher position
+may   solely based  automatically processed data  serve   purpose  assessing
+data subjects characteristic working ability reliability credit capacity   like
+       decision  paragraph     may  passed   expressly prescribed  law
+  data subjects request regarding  conclusion  performance  contract  
+adopted  adequate protection measures shall  implemented
+        case  paragraph      data subject must  informed  
+procedure  automated data processing  manner  passing  decision
+                                    processing  consent
+                                               
+      valid consent  personal data processing can  given  data subject   informed
+  controller  terms  provisions      law
+       consent may  given orally   writing   official record
+       consent may  given   proxy
+       proxy must  certified except  otherwise provided  statute
+      statutory representative  guardian grants consent   person incapable  giving hisher
+ consent
+      consent  processing  data  data subject   deceased can  granted  spouse
+children   reached  age  fifteen parents  siblings legal heir   person 
+designated   deceased
+                                       consent revocation
+                                               
+      consent may  revoked
+       consent revocation may  given orally   writing   official record
+       consent  revoked  person  granted consent will compensate  real justified
+costs  damage caused   revocation   controller  accordance  provisions
+governing responsibility  damage
+      following  consent revocation  data processing shall   permitted
+                                  processing without consent
+                                               
+        data processing shall  permitted without consent
+          realisation  protection  vital interests   subject  third party   life
+    health  physical integrity  particular
+           purpose  execution  obligations prescribed   statute  act passed 
+    accordance   statute    contract concluded   subject   controller 
+    well    purpose  preparing  conclusion  contract
+                                                                                                 ¦    
+
+            cases specified   law   regulation passed  accordance  
+    law  order  affect  prevailing justified interest  data subject controller  recipient
+                            data processing   government organ
+                                                
+         government organ processes data without data subjects consent  processing 
+necessary  order  realise tasks   competence determined  law   regulation 
+ purpose  realising  interest  national  public security state defence prevention
+detection investigation  prosecution  criminal offences economic  financial interests 
+ state protection  health  moral protection  rights  freedoms   public
+interest    cases   basis  data subjects written consent
+                                          collection  data
+                                                
+      data  collected   data subject   public authorities legally entitled  data
+collection
+         data can  collected   third party 
+           stipulated   contract concluded  data subject
+           provided  statute   regulation passed  accordance  statute
+          necessary given  nature   operation
+           collection  data  data subject requires excessive use  time  assets
+          data   collected  order  realise  protect vital interests  data subject 
+particular  life health  physical integrity
+                                    informing  processing
+                                                
+          controller  collects data  data subjects   third party shall  data
+collection provide  data subject   third party   following information
+       hisher identity    name  company name  address  identity  
+person responsible  data processing  accordance  law
+       purpose  collecting   processing  data
+       manner   data  used
+       identity  persons  categories  persons using data
+       mandatory nature   legal base   voluntary nature  giving data  
+processing
+       right  data subject  revoke  consent  processing  legal consequences 
+revocation
+       rights  data subject  case  unlawful processing
+        circumstances  withholding    data subject  third party  
+contrary  conscientious  fair treatment
+                                                                                                   ¦  
+
+       obligation referred   paragraph     shall  exist   providing
+given  circumstances   case  impossible   manifestly unnecessary  inappropriate
+  particular   data subject  third party  already informed thereof   data subject 
+unavailable
+       controller   collected personal data  third party shall provide information 
+circumstances listed  paragraph      data subject forthwith    latest upon
+first processing unless  information   possible   requires excessive use  time 
+assets   manifestly unnecessary  inappropriate given  circumstances   case  
+particular   data subject  third person  already informed thereof   data subject 
+unavailable   collection   processing  data  third party  prescribed  law
+         case  paragraph      controller shall  obliged  inform 
+data subject  soon  possible     data subject  requests
+       information referred   paragraph      given  writing   
+prescribed   consent  processing  granted  written form unless  data subject  
+third party agree  oral information
+       controller shall inform  data subject  data recipient  alteration amendment 
+erasure  data without delay    latest within  days   day  alteration
+amendment  erasure  data
+                              particularly sensitive personal data
+                                                 
+         processing  data  nationality race gender language religious belief  membership 
+political party membership   trade union health condition welfare allowances victim 
+violence criminal charges  sex life  allowed   grounds  consent  data subject
+unless processing even  consent   allowed  law
+       exceptionally data related  membership  political party health condition  welfare
+allowances   processed without consent  data subject   stipulated   law
+         case  paragraph        data processing must  specially
+designated  protected
+        case  processing  paragraph        commissioner   right
+ insight   right  verify  lawfulness  processing ex officio  upon  request  data
+subject  controller
+        manner  archiving  measures  data protection  paragraph     
+   prior opinion   commissioner shall  regulated   government
+               consent  processing  particularly sensitive personal data
+                                                 
+       consent  processing  particularly sensitive personal data  granted  writing including
+ designation   data  processed purpose  processing   manner   use
+         person granting consent  illiterate     reasons unable  sign  consent 
+ hand consent shall  valid  two witnesses confirm   signature   document
+includes  statement  will   person granting consent
+                                                                                                   ¦    
+
+                    revocation  consent  processing  particularly
+                                     sensitive personal data
+                                                
+       consent  revoked  person  granted consent will compensate  justified costs
+ damage caused   revocation   controller  accordance  regulations governing
+responsibility  damage unless otherwise designated   statement  consent
+          law shall apply accordingly   revocation  consent  processing 
+particularly sensitive personal data
+         iii rights  data subject  protection  data
+                                      subjects rights
+                                               rights
+                        right  information  personal data processing
+                                                
+       data subject   right  request   fully  truthfully informed   controller
+  following
+       whether  controller processes data  himher   action  processing  
+performed
+        data   processed
+         data collected       source  data
+         purposes  data processed
+         legal ground  data processed
+         filing systems  data included
+          recipients  data
+        data   categories  data   used
+         purposes  data  used
+         legal grounds  data  used
+          data transferred
+        data  transferred
+         purposes  data transferred 
+         legal grounds  data transferred
+         time frame  data processed
+                                           right  insight
+                                                
+      data subject  entitled  request   controller   insight  data concerning
+himher
+                                                                                               ¦    
+
+       right  insight  data concerning himher includes  right  see read  hear  data
+  right  take notes
+                                              right  copy
+                                                 
+       data subject  entitled  request   controller  copy  data concerning himher
+       controller gives  copy  data photocopy audio copy video copy digital copy  
+like   form    information      form   information  
+incomprehensible   data subject   form   
+       necessary costs  making  transferring   copy  data shall  borne   data
+subject
+                        rights  data subject regarding insight performed
+                                                 
+       data subject   right  request   controller correction amendment updating
+ erasure  data  well  termination  temporary recess  processing
+       data subject   right  erasure  data 
+         purpose  processing   clearly determined
+         purpose  processing  changed   conditions  processing  
+changed purpose   met
+         purpose  processing  accomplished    data   longer necessary  
+accomplishing  purpose
+         manner  processing  unlawful
+        data pertains   amount  category  data  processing   
+disproportionate   purpose
+        data  incorrect    replaced  correct data  correction
+         data   processed without consent  authority based  law    cases
+ processing   conducted  accordance   provisions   law
+       data subject   right  termination  temporary recess  processing  data  
+case  contesting correctness completeness  accuracy  data  well   right  designate
+data  data contested  incorrectness   correctness completeness  accuracy 
+determined
+                                             restrictions
+                                         restrictions  rights
+                                                 
+        right  information right  insight  right  copy may  restricted 
+        data subject requests information referred     subparagraphs    
+ law   controller  entered  data   public register   made  available
+ public  another manner
+                                                                                                ¦ 
+
+        data subject abuses hisher right  information insight  copy
+         controller  third person  accordance      law  already
+informed himher   object  inquiry   heshe  performed insight  obtained  copy
+    meantime  change   data  occurred
+         controller   prevented  performing activities within  competence
+         providing  information  seriously jeopardise  interest  national 
+public security countrys defence  actions  prevention detection investigation 
+prosecution  criminal offences
+         providing  information  seriously jeopardise  important commercial 
+monetary interest   state
+        information  make available data    regulations  official enactments
+based  statute designated   kept   secret   revealing   data  result
+ serious consequences  interests protected  law
+        information  seriously jeopardise  privacy  vital interest  data subject
+particularly life health  physical integrity
+         long  data  data subject  used solely  scientific research  statistical
+purposes   duration   use
+       data subject    right  insight  recess  processing   force  
+processing  recessed  data subjects request
+                                               request
+                                    request  realisation  right
+                                                 
+       request  information insight  copy  filed  writing   controller except 
+oral submission  also acceptable   controller particularly  reasons  efficiency 
+economy request  realisation  right regarding  performed insight  filed   controller
+ writing
+       request  paragraph     includes data  identity   person filing 
+request name  surname name  one parent date  place  birth personal identification
+number address  residence  dwelling place  well   necessary contact information
+       request filed   statutory heir   person deceased also includes data   identity 
+person deceased death certificate together   proof  kinship   deceased  missing
+person  attached   request
+        person  due  illiteracy bodily   disadvantage  unable  draw  
+request  writing may state hisher request orally   minutes
+       controller may prescribe  format  filing  request  will    obligation also
+ consider requests  filed   format
+         request  incomprehensible  incomplete  controller  obliged  instruct 
+person filing  request    eliminate  deficiencies
+         applicant fails  eliminate  deficiencies within  designated time limit  
+within  days  receiving  instructions  amendment  deficiencies    
+request   acted upon controller shall pass  conclusion  rejecting  request 
+irregular
+                                                                                                ¦ 
+
+                                          decisionmaking
+                     deciding   request  information insight  copy
+                                                 
+       controller  obliged  give information   request filed without delay    latest
+within  days   submission  request  information information  given  writing
+ may exceptionally  given orally   person  filed  request agrees 
+       controller  obliged without delay    latest within  days   day 
+receiving  request  insight     issuing  copy  enable  applicant  insight
+   hand   copy   applicant
+       controller shall together  information  providing  applicant insight  data 
+giving himher  copy  data also state  time place  manner    information shall
+ provided  insight  amount  necessary costs   making  copy     
+  necessary technical means  making  copy controller shall inform  applicant 
+ possibility  making  copy using hisher  equipment
+        applicant referred   paragraph     may  justified reasons request 
+ insight  data   different time   rule insight  data  performed  controllers
+official premises
+         controller  unable  justified reasons  act   request within  prescribed
+time limit  controller  obliged  inform  applicant thereof  designate  subsequent
+time limit  may   longer   days   day  expiration  time limit 
+paragraphs      
+         meets  request  information insight  copy  controller shall make  note
+thereof
+         controller denies  request  shall  obliged  pass  ruling thereof  shall
+include instructions  legal remedies
+         controller fails  answer   request within  time limits referred   paragraphs
+         denies  request  applicant may submit  appeal  
+commissioner
+                         deciding  requests regarding insight performed
+                                                 
+       controller  obliged  decide   request regarding insight performed referred  
+    law within  days   day  request  filed   inform  applicant
+  ruling without delay
+         controller denies  request  paragraph      explication 
+ ruling shall include  grounds  denying  request  well  reasons  lawfulness 
+procession
+        applicant may lodge  appeal   ruling  denial   request  
+commissioner within  days   day  receiving  ruling
+         controller  established   request  relation  insight performed  grounded
+    technical possibilities  act upon  request without delay   prompt action
+upon request  require excessive use  time  assets  controller shall ex officio
+designate  data  contested  temporarily stay  processing
+                                                                                                   ¦ 
+
+       controller    government organ    established   request regarding
+insight performed  grounded shall designate  data  contested  temporarily recess 
+processing  controller shall  correct amend update erase   terminate  processing 
+         time limit  mandatory keeping  data   expired
+          apparent  acting upon request  seriously damage  subjects interests
+        due  special manner  storing data acting upon request  impossible  requires
+excessive use  time  assets
+       designation  contestation referred     paragraph    law shall  erased
+  grounds  competent organs ruling  upon consent   data subject
+                                 manner  realisation  rights
+                                manner  realising  right  insight
+                                                
+       controller  obliged  make available   applicant data concerning himher 
+comprehensible form
+       controller  obliged  make available   applicant  data   given state
+         data  stored  different forms paper audio video  electronic record etc 
+applicant   right   insight   form heshe chooses unless   impracticable
+       data subject   unable  perform insight without accompany may    
+assistance  accompany
+       controller shall   request  person  need  professional aid  order  understand
+ contents  data concerning himher provide  aid
+       controller may  condition  performance  right  insight  data  payment  fee
+         controller disposes  data   language   request  filed  shall 
+obliged  provide  applicant insight  data  make  copy   language   
+request  filed unless otherwise designated   applicant   controller  
+possibility  meet  request
+                                 manner  realising  right  copy
+                                                
+         controller issues  copy  data photocopy audio copy video copy digital copy  
+like   form  information      form   form    information 
+  incomprehensible   data subject
+         necessary costs  making  handing   copy  data shall  borne  
+applicant
+                                data processing  public media
+                                                
+       data processing  journalists   media operatives  exclusively serves 
+publicising activity  public media except  processing   purpose  advertising shall 
+                                                                                                ¦ 
+
+governed  provisions  articles     subparagraphs   articles     
+law
+         purposes  data processing  paragraph     data  membership 
+political parties   used provided    relevant regarding public office held  data
+subject
+                              attaching replies   information
+                                                 
+       reply correction revocation   information published   request  data subject 
+  data      law refers shall  attached   controller  
+processed data  kept    period  time   data 
+                                        protection  personality
+                                                 
+         publication  information  public media violates personal right  persons legally
+protected interest  person violated may request   editorinchief    publisher
+ public media information  data concerning himher    processed insight  data
+ copy unless
+          reveal data regarding  information source   journalist  
+media employee     obligation    willing  reveal
+          reveal data concerning person  persons  participated   preparation
+ publication  information  editorinchief   willing  reveal 
+          circumstances   informing insight  making  copy 
+considerably hamper  informing   public   subjects  public importance
+                                         special provisions
+                              forwarding  request  commissioner
+                                                 
+         controller   processing  data heshe shall forward  request  
+commissioner unless applicant objects  
+                                    commissioners legal actions
+                                                 
+       upon receiving  request  commissionaire checks whether  controller  processing
+ requested data
+        heshe establishes  controller   processing  data  commissioner shall
+forward  request   controller processing  data  shall inform  applicant thereof 
+shall refer  applicant   controller processing  data depending   manner  will
+better serve efficient realisation   request
+                                                                                               ¦ 
+
+        establishes   controller  processing  data  commissioner shall order 
+ruling   controller  decide upon request
+      controller decides   forwarded request referred   paragraph     within
+ time limits referred     paragraph     paragraph    law 
+ day  forwarding   request referred   paragraph     within  days 
+ day  receiving  commissioners ruling
+                                                 proxy
+                                                
+      performance  rights recognised   law may  effected personally    proxy
+      proxy must  certified
+                                  keeping  use  case  death
+                                                
+       case  death  declaration  missing person deceased personal data collected  
+basis  contract   written consent  kept  accordance  conditions stipulated  
+contract  consent  personal collected   basis  statute  least one year   day 
+death  declaration  missing person deceased     destroyed  note  made
+  destruction  personal data
+      consent  use  personal data   deceased  granted  persons mentioned  
+ paragraph    law
+                                       obligation  controller
+                                                
+        personal data filing system  established  contract     ground 
+written consent  case  recession  contract  withdrawal  written consent  controller 
+obliged  erase personal data within  days   day  recession  contract  withdrawal
+ consent unless otherwise prescribed  stipulated
+                            application  administrative procedure law
+                                                
+      provisions  statute governing general administrative procedure shall apply accordingly 
+ procedure  deciding  request unless otherwise provided   law
+                                                                                                ¦ 
+
+                               iv procedure upon appeal
+                                            right  appeal
+                                                 
+          applicant may file  appeal   commissioner concerning  personal data
+protection
+         controllers decision    denies  rejects  request
+         controller   decide upon request  prescribed time limit
+         controller fails  provide insight  data   issue copy  data  fails    
+            manner  within  time limit prescribed   law
+         controller conditions  issuing  data  payment  fee  exceeds  amount 
+            necessary costs  making  copy
+         controller contrary   statute impedes  disables  exercise   right
+        appeal can  filed within  days  receiving  ruling    request 
+denied  rejected   upon  expiry   prescribed time limit  deliberation  acting
+        copy   submitted request proof   submission   controller   copy 
+contested decision  enclosed   appeal
+                                 commissioners ruling upon appeal
+                                                 
+       commissioner passes  ruling   latest within  days   day  filing  appeal
+appeal  forwarded   controller  reply  appellant can file  rejoinder  
+contestations   reply  appeal
+       commissioner shall reject   ruling  appeal   undue  incomplete   appeal
+filed   unauthorised person
+         case concerning  appeal due  failure  act upon request   commissioner
+determines   appeal  request  grounded    shall instruct  controller   ruling
+ act upon  request within  given time limit
+        following  filing  appeal due  failure  act upon request    decision 
+appeal  passed  controller enables  realisation  right  insight  copy  decides  
+request  commissioner shall stay  procedure  appeal   ruling
+       procedure  appeal  also stayed   appellant waives  appeal
+                  establishment   state  facts  proceeding upon appeal
+                                                 
+       commissioner undertakes actions  establishing  state  facts necessary  deciding
+  appeal
+       commissioner  person specially authorised   commissioner shall   order 
+establish  state  facts referred  right  insight  data  data filing system except 
+case referred     paragraph    law
+                                                                                                   ¦ 
+
+                         binding nature  enforcement  ruling
+                                              
+     commissioners ruling  appeal shall  binding final  enforceable
+      necessary  government shall secure  enforcement  commissioners ruling 
+may regulate   detail  manner    ruling    enforced
+                                   legal remedy  ruling
+                                              
+       administrative dispute may  initiated  commissioners ruling
+                                     procedural provisions
+                                              
+     provisions  statute governing general administrative procedure shall apply  appeal
+procedure unless otherwise prescribed   law
+                                      v commissioner
+                                            competence
+                                              
+     commissioner
+      monitors  implementation  data protection
+      decides upon appeal  case prescribed   law
+      keeps  central register
+      supervises  permits  transfer  data   republic  serbia
+      points   observed abuses  data collection
+      compiles  list  states  international organisations  adequate regulations 
+         personal data protection
+      gives opinion concerning  establishment  new data filing systems  introducing
+         new information technologies  data processing
+      gives opinion  case  doubt whether  filing system may  understood   data
+         filing system  light   law
+      gives opinions   government   procedure  adoption  acts   modes 
+         archiving  protective measures  special categories  data
+      monitors  implementation  data protection measures  proposes  improvement
+           measures
+      gives proposals  recommendations   data protection improvement
+      gives prior opinion  whether certain manner  data processing represent specific risks
+          rights  freedoms  citizens
+      monitors  organisation  data protection   countries
+                                                                                            ¦ 
+
+        cooperates  authorities competent  supervision  data protection  
+            countries
+        determines  manner   data management cases   controller ceases 
+            exist except  otherwise provided
+        performs  tasks  fall within  competence
+       commissioner can   deputy  personal data protection
+       commissioner shall forward  report heshe files   national assembly  
+president   republic  government  citizens protector  make  available  
+general public  adequate manner
+                                       right  access  insight
+                                                  
+       commissioner   right  access  insight 
+        data  data filing systems
+        full documentation regarding  collection  data   acts  processing  well
+             realisation  data subjects rights   law
+        controllers general acts
+        premises  equipment used   controller
+       access  insight  paragraph  subparagraphs        may 
+restricted    seriously jeopardise  interest  national  public security countrys
+defence  actions  preventing detecting investigating  prosecuting  criminal offences 
+ duration  grounds  restriction  accordance  law
+         controller identifies  reason  restriction  paragraph     heshe
+ obliged  request  opinion   supreme court  cassation   existence   reason
+ restriction   commissioners right  access  insight within eight days  
+submission  commissioners request
+        president   supreme court  cassation  obliged  provide  opinion  
+controller within eight days   submission  controllers request  paragraph   
+  controller  obliged  inform commissioner   opinion provided  
+president   supreme court  cassation
+                                       vi data security
+                                               confidentiality
+                                                  
+       commissioner deputy commissioner  employees  expert service shall  obliged 
+keep confidential    data  learn   work  accordance  regulations
+governing  confidentiality  data except  otherwise provided
+       obligations  paragraph     shall  extended even   termination 
+office  commissioner  deputy commissioner    termination  employment  
+expert service
+       controllers  obliged  inform  person processing  data   person  
+insight  data  measures  confidential data protection
+                                                                                                  ¦ 
+
+                              organisational  technical measures
+                                                
+       data must  adequately protected  abuse destruction loss unauthorised changes 
+access
+        controller   processor  obliged  provide necessary organisational 
+technical measures  data protection  accordance  prescribed standards  procedures
+  necessary  protect data  loss destruction unauthorised access alteration
+publishing    abuse  well   prescribe obligation  keeping  confidentiality 
+data    work  data processing
+                                            vii record
+                                         record  processing
+                                                
+       controller establishes  keeps record containing  following information
+        type  data  name  data filing system
+        type  processing action
+        name  company name  controller   address  seat
+        date  commencement  data processing   data filing system establishment
+        purpose  personal data processing
+        legal grounds  processing  establishment  data filing system
+        categories  data subjects
+        types  levels  data confidentiality 
+        manner  collecting  preserving  personal data
+        period  time    data will  kept  used
+        name  company name  filing system recipient   address  seat
+        code  entry   transfer  personal data   filing system across  borders
+             republic  serbia together   name   state  international
+           organisation   name   international recipient legal grounds  purpose 
+            entry  transfer
+        undertaken data protection measures 
+        requests concerning  data processing
+       controller shall     obligation  form  keep records  processing  data
+processed solely  family   personal use  terms  provision    subparagraph 
+  law data processed   purpose  keeping  register  keeping   
+prescribed  law data  data filing system comprised solely  published data   data
+relating   person  identity      established   controller processor 
+recipient   authorised  establish  persons identity
+       controller updates  record  cases  changes concerning basic data referred  
+paragraph     within  days   day  change occurs
+                                                                                                ¦ 
+
+       format  keeping records  manner  keeping records  paragraph    
+ prescribed   government
+                                    notification   commissioner
+                                                 
+        starting  processing andor establishing  data filing system controller 
+obliged  notify  commissioner   intention  establish  data filing system together
+  information      law  well    subsequent intended data
+processing  assuming  task  processing   latest  days   data filing
+system  established
+        obligation  prior notification  paragraph    law   refer  
+commencement  processing  data filing system establishment  case   special
+regulation prescribes  purpose  collecting  processing  data  categories  data 
+processed categories  recipients  will  access  data  well   time period 
+  personal data will  archived
+                                            prior verification
+                                                 
+        receiving notification referred       law  commissioner shall
+  establishment  data filing system verify  acts  processing  might  
+considerable extent lead  violation  persons rights
+       manner  verification  paragraph     shall  governed  
+commissioners act
+                                       obligation  forwarding
+                                                 
+         controller forwards   commissioner record  data filing system   changes 
+data filing system   latest within  days   day  establishment  change
+          notification    paragraph    law   records  paragraph
+    shall  integrated   central register
+                                             central register
+                                                 
+        commissioner establishes  keeps  central register
+        central register  composed   data filing system register  data filing system
+catalogue
+       data filing system register contains data    paragraph    law
+       data filing system catalogue contains  description  recorded data filing systems
+       central register  data filing systems  public     published   internet
+         year commissioner publishes  list  data filing systems   official gazette 
+ republic  serbia
+                                                                                                  ¦ 
+
+      commissioner shall deny  right  insight  filing system record   requested 
+controller provided    necessary  realisation  prevailing interest  preservation 
+national  public security countrys defence work  state organs monetary interest   state
+ provided  law  regulation  act based  law designate  record  filing system 
+kept   secret
+                  viii transfer  data   republic
+                                              serbia
+                                                
+      data may  transferred   republic  serbia   state signatory   council 
+europe convention   protection  individuals  regard  automatic processing 
+personal data
+      data may  transferred   republic  serbia   state  signatory  
+convention  paragraph      international organisation    state 
+international organisation regulations  contract  transfer provide   level  data protection
+ accordance   convention
+      upon  data transfer  paragraph     commissioner establishes whether
+conditions  met  data security measures undertaken upon data transfer   republic 
+serbia  gives permission  transfer
+                                         ix supervision
+                                              competence
+                                                
+      supervision   implementation   law  performed   commissioner
+       commissioner shall perform  tasks  paragraph     
+authorised persons
+       authorised person  obliged  perform supervision professionally   due time 
+ make minutes  supervision performed
+        performance  supervision  authorised person acts   ground  knowledge
+acquired ex officio   applicant  submitted  appeal   third party
+        performance  supervision  authorised person  obliged  show   
+official identification  identification form  regulated   commissioner
+                                         enabling supervision
+                                                
+      persons    law  obligations concerning personal data protection 
+obliged  enable  inspector  perform supervision without interference   enable 
+insight    necessary documentation
+                                                                                                ¦ 
+
+                                commissioners powers  supervision
+                                                
+         established   course  supervision  statutory provisions regulating  data
+processing  violated  commissioner shall warn  controller   unlawfulness 
+personal data processing
+      based   authorised persons findings  commissioner may
+       order  elimination  irregularities within  certain time limit
+       temporarily prohibit processing  data   performed contrary   provisions 
+            law
+       order  erasure  personal data collected without legal ground
+      appeal   ruling  paragraph     shall   permitted however
+administrative dispute may  initiated
+      implementation  measures  paragraph     shall  governed 
+commissioners act
+      commissioner  obliged  file  petty offence report  violations  provisions  
+law
+                                    x penal provisions
+                                                
+       fine      dinars shall  pronounced  petty offence 
+controller person processing data  recipient 
+       processes data without consent contrary  conditions      law
+       processes data contrary  conditions      law
+       collects data  third party contrary  conditions    paragraph   
+           law
+        collection fails  inform  data subject  third party  conditions  
+           paragraph    law
+       processes special categories  personal data contrary  articles      law
+       fails  make data available   condition    contrary    paragraph
+              law
+       fails  issue copy  document contrary    paragraph    law
+       fails  erase personal data  filing system contrary      law
+       fails  enforce  commissioners ruling  appeal   paragraph   
+           law
+       acts contrary  obligation  confidentiality    paragraphs     
+           law
+       acts contrary  obligation  taking measures    paragraph    law
+       fails  establish record  fails  update record contrary    paragraphs  
+              law
+                                                                                                ¦ 
+
+       fails  notify  commissioner   intended establishment  filing system within
+            prescribed time limit contrary    paragraph    law
+       fails  forward   commissioner record  filing system  changes  data filing
+           system   prescribed time limit   paragraph    law
+       transfers data   republic  serbia contrary      law
+       fails  enable  authorised person undisrupted supervision  fails  enable himher
+            access  dispose  necessary documents     law
+       fails  act   commissioners orders   paragraph    law
+           entrepreneur shall  punished  petty offence  paragraph      
+           fine      dinars
+      natural person  responsible person   legal person state organ  organ  territorial
+autonomy   local selfgovernment unit shall  punished   fine     
+dinars
+                     xi transitional  final provisions
+                                                
+      provisions   free access  information  public importance law official gazette
+  republic  serbia     shall apply  seat election termination 
+office status  commissioner deputy commissioner professional service financing  filing
+ reports
+                                                
+      commissioner  information  public importance established   free access 
+information  public importance law official gazette   republic  serbia  
+  shall continue  operate   title  commissioner  information  public
+importance  personal data protection
+                                                
+      subordinate legislation based   law shall  passed within  time limit  six
+months   entry  force   law
+                                                
+      data filing systems  records established   entry  force   law shall 
+adjusted   provisions within twelve months   entry  force   law
+      controllers shall  obliged  submit records      commissioner within
+twelve months   entry  force   law
+                                                
+        day  entry  force   law  personal data protection law official
+gazette  fry      correction shall cease   valid
+                                                
+       law shall enter  force   eighth day   day   published  
+      official gazette   republic  serbia  shall apply   january  
+                                                                                              ¦ 
+

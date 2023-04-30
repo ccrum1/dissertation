@@ -1,0 +1,650 @@
+publication       
+date
+publication       
+number
+publication       
+year
+document date
+body              acts
+summary          qualified act    december  personal data protection
+
+qualified act 
+  december  personal data protection
+translators note  qualified law   law    passed requires  higher
+majority   laws
+whereas  general council parliament   session   december  approved
+ following
+act    december qualified law  personal data protection
+exposé  grounds
+         purpose   act   regulate  processing carried   private
+persons  entities    public administration  data corresponding 
+individuals
+         regulation seeks  fulfil three fundamental objectives first  supply 
+sufficient  reasonable degree  protection   right  everyone   privacy
+ fundamental right recognised   constitution    second  
+protection   involve establishing excessive obligations   hinder 
+make seriously difficult  financial administrative  management activities 
+andorran public  private entities third  bring andorran legislation closer  
+regulations  neighbouring countries   matters  regulation contained  
+act seeks  express  balance   three principles
+        regulation   processing  personal data   unknown   country 
+fact  regulation   public sector data bank approved   already
+established  whole series  provisions   processing  personal data although
+limiting  field  action   use   data  persons administrated   public
+sector
+        taking  precedent  account  regulation established   act
+contains  specific provision relating   processing  data   andorran
+
+administration  includes  questions considered fundamental   regulation 
+personal data processing
+         thus  first    act regulates  territorial  material ambit
+ identification   matters    specific nature must  excluded 
+ field  application  second  defines  fundamental principles applicable
+  personal data processing  third   specific requirements applicable
+  processing  personal data  private entities  four  specific
+requirements  personal data processing  public entities  five infringements
+ sanctions arising  noncompliance   act  six  requirements
+applicable  international communication  personal data  seven  public
+authority  charge  overseeing compliance   act  finally   
+provisions   transitional additional  final nature  facilitate compliance 
+ act
+ one purpose ambit   act  exclusions
+ 
+purpose
+          purpose   act   protect  guarantee  regard   processing
+ use  personal data  fundamental rights  individuals especially  relating
+ privacy
+ 
+ambit  application
+          act  applicable  data   personal nature   susceptible  
+processed    subsequent use   data
+ 
+definitions
+           purposed   act  following definitions  understood
+          personal data  information relating  linked  identified  identifiable
+individuals
+          personal data processing  operation applied   carried  involving
+personal data whether   computerised
+          personal data file structured  organised assembly  personal data
+whatever may   form  method  creation storage organization  access
+          processing manager  individual  legal persona whether   public 
+private nature  decision  personal data processing   means used  
+processing   oversees   intended purposes   processing correspond
+  specified   rule  decision  create  file
+
+         supplier  personal data services individual  legal persona   public 
+private nature  processes  data   account   processing manager 
+accesses  personal data  order  supply  service  favour     control
+  processing manager provided   data accessed   used   
+purposes    made available outside  instructions received   purposes
+   service   supplied   manager
+         interested party individual    personal data  subject 
+processing correspond
+         public registries   personal data files    processing manager 
+ public entity    interested parties  obliged  supply  data  
+purpose  entries   functions
+         accessible public registries public registries    citizen  entity
+whether public  private can  access
+         communication  data  assignment  personal data made  
+processing manager  favour   third person ultimate recipient   data provided
+  data  used   ultimate recipient    purposes including 
+access   ultimate recipient may    data   control  
+processing manager
+         ultimate recipient third party individual  legal persona   public 
+private nature  access  data communication
+         sensitive data data referring  political opinions religious beliefs
+membership  political  trade union organizations health sex life  ethnic origin 
+ interested parties
+         files   private nature personal data files  processing manager  
+  individual  legal persona   private nature   public authority company
+subject  private law
+         files   public nature personal data files  processing manager  
+  public administration
+         international data communication  data communication   access 
+data   supplier  personal data services   ultimate recipients  
+communication   suppliers  services  resident abroad  make use  means 
+processing personal data located abroad   data communication    supply 
+ service
+         rules governing  creation  files   public nature decrees approved 
+published   general administration    case   communes local
+councils  provisions applicable  accordance   qualified act  delimitation
+  competences   communes destined  regulate  creation modification 
+
+deletion  files   public nature  accordance   requirements established 
+articles      act
+ 
+territorial ambit
+         act applies   creation  files  personal data processing 
+processing managers resident   principality  andorra  constituted 
+accordance   laws   principality  andorra
+         act also applies  data processing carried   processing managers 
+resident   principality   constituted  accordance   laws  
+principality  andorra   use means  processing located   territory 
+ principality
+ 
+matters excluded
+         processing  personal data relating   following matters falls outside 
+ambit  application   act
+state security
+investigation  prevention  criminal infringements
+ 
+personal files
+        personal data processing  outside  ambit   act   processing
+manager   individual   data  destined  exclusively individual purposes
+  personal diaries  personal address books  contact details  interested parties
+related   individual managing  processing
+ 
+data  individuals linked   business professional  commercial activity
+         data  individuals linked   business professional  commercial
+activity  outside  act   following circumstances
+         data   personnel  legal personas  trading  professional
+establishments   information linked   individual refers   
+belonging   company  establishment    professional capacity  
+company  establishment 
+        b data  individuals belonging  professional groups whenever  data refer
+   persons professional activity     membership   specific
+professional group
+
+        c data  selfemployed professionals  professional  commercial
+establishments   data refer    professional  trading activity
+ 
+supplementary application   act
+         act will apply   alternative sense  everything  regulated  
+regulations applicable  public registries    regulations applicable  banking
+secrecy   case  contradiction   personal data act   specific
+regulations mentioned  latter will prevail    case can  understood repealed
+  qualified act  personal data protection
+ 
+professional secrecy
+         act will apply   additional nature   rules regulating professional
+secrecy  activities  professions subject   obligation  governing rules
+may   case  understood  repealed   act
+ two principles applicable   personal data processing
+section one general principle
+ 
+adaptation   law
+        personal data processing   lawful  carried   conformity  
+provisions   act
+section two quality   data
+ 
+general requirements   processing
+        personal data processing may   carried   processing managers  
+meet  following requirements
+           processing  carried    purposes envisaged   regulation
+   decision  create personal data files
+        b   data subject  processing correspond   real personal data  
+interested parties     purposes measures  taken  update  
+delete 
+        c   data  preserved   maximum time periods applicable 
+accordance   current regulation    case   maximum time
+period necessary   purpose envisaged   processing
+
+         accordance   specific legislation   view   historic 
+scientific values  procedure     decided  maintain  integrity  certain
+data must  established  regulation
+ 
+confidentiality  security
+         processing managers must establish  technical measures  organization
+necessary  guarantee  confidentiality  security   personal data subject 
+processing
+           part   processing  entrusted   suppliers  personal data
+services  processing manager  responsible  ensure   suppliers 
+established sufficient technical measures  organization  guarantee 
+confidentiality  security   data subject   service   end  processing
+managers must require   personal data service suppliers   establish 
+technical  organizational measures considered minimum   processing manager
+provided   minimum measures correspond     manager 
+ established   processing  data    control    analogous
+nature   subject   service
+section three right  information
+ 
+obtaining  data   interested party
+          time  collection   data  interested party   right  
+informed   processing manager   following circumstances
+         identity   processing manager
+        b purpose  processing  data asked 
+        c ultimate recipients  types  ultimate recipients   data
+        d rights  access  rectification  deletion   data    exercise
+
+        e  right   grant consent   data processing   consequences 
+ granting 
+ 
+exceptions   right  information
+         processing managers   obliged  give  information indicated  
+preceding     included   rules   creation  files   public
+nature envisaged   
+
+ 
+right  opposition
+         interested party   right  oppose  data   subject 
+processing   processing manager   latter   obtained  data directly
+  interested party 
+          purposes   ultimate recipient  personal data   subject 
+ communication  data  within  maximum time  fifteen days counting 
+  data  received  must advise  interested parties whose data  
+received   following circumstances
+         identity   new processing manager
+        b identity   individual  legal persona    manager 
+received  data
+        c purpose  processing  data obtained
+        d ultimate recipients  types  ultimate recipients   data
+        e rights  access  rectification  deletion   data    exercise
+
+        within  maximum period  one month   time   interested
+parties   informed    circumstances  latter may exercise 
+right  opposition requesting  new processing manager  delete  data  
+right  opposition    exercised   end   period   understood 
+consent  given   processing   new manager
+ 
+exceptions   right  opposition
+            applicable   communication  data takes place  
+  following circumstances
+           communication  data   entities   public nature 
+ communication  established   rules  creation  files   public nature
+envisaged   
+        b   communication  data  necessary  compliance  
+purposes  functions  public registries
+        c   communication  data takes place  compliance   current
+rule   order  comply   current rule
+
+        d   communication  data  necessary  compliance 
+contractual obligations established   interested party   processing
+manager   necessary  compliance  development  control   legal
+relationships  may exist   interested party   processing manager
+        e   communication  necessary  preserve  vital interest  
+interested party
+        f   communication  required   judicial order
+section four legitimisation  processing
+ 
+consent
+         processing  personal data may   carried   processing managers
+  unequivocal consent   interested parties
+ 
+exceptions   consent
+         consent   interested parties   data processing   necessary 
+   following circumstances apply
+           data processing corresponds  entities   public nature provided
+  processing  done within  limits established  section    
+        b   data processing  necessary  compliance   purposes 
+functions  public registries pursuant   regulations
+        c   data processing  carried   accordance   current rule
+        d   data subject  processing   obtained  accessible public
+registries
+        e   data processing  necessary  compliance  contractual
+obligations established   interested party   processing manager  
+necessary  compliance  development  control   legal relationships
+ may exist   interested party   processing manager
+        f   processing  necessary  preserve  vital interest   interested
+party
+        g   processing  carried  exclusively  historical  scientific
+purposes   artistic  literary expression
+ 
+sensitive data
+
+        sensitive data can    subject  processing  communication  
+express consent   interested party  creation  files   exclusive purpose 
+collecting  processing sensitive data relating  political opinions religious beliefs
+membership  political  trade union organizations health sex life  ethnic origin 
+individuals  prohibited
+ 
+exceptions   express consent  sensitive data
+         express consent   interested party   processing  communication
+ sensitive data   necessary     following circumstances apply
+           processing  communication  sensitive data  done  
+ entities   public nature  strictly necessary  compliance  
+legitimate functions  purposes  can  included   rules  creation  files 
+ public nature envisaged   
+        b   processing  communication  sensitive data  necessary 
+compliance   purposes  functions  public registries pursuant  
+regulations
+        c    necessary  order  preserve  vital interest   person
+concerned
+        d   data   obtained  accessible public registries
+        e  relation   processing  sensitive data relating  health  
+processing  communication  made  medical health  social work professionals
+  necessary  diagnosis  medical treatment   health  social care
+        f  relation   processing  sensitive data relating  health  
+processing  communication  necessary   epidemiological studies   
+prevention  treatment  epidemics
+ 
+files relating  criminal  administrative offences  sanctions
+        files relating  criminal  administrative offences  sanctions may  
+created  judicial  administrative public entities  pursuant   current rule
+  capacity  imposing administrative sanctions  resolving legal proceedings 
+ criminal nature
+section five rights   interested parties
+ 
+right  access
+
+         interested party   right   informed   processing manager 
+ data    subject  processing  manager can  refuse  right 
+access   grounds envisaged   act
+         manager     correspond    refuse access   data must
+inform  interested party within  maximum time  five working days counting 
+ time   manager received  application   interested party
+         manager must deliver  information   means  considers 
+suitable either  direct visualisation   data   despatch  printed form
+    way   deems fit
+         every case  refusal  access   data must    defined reason 
+will  capable   appealed   competent jurisdiction
+ 
+right  rectification
+         interested party   right  ask  processing manager  correct 
+data subject  processing    erroneous
+         manager can  refuse  right  rectification   grounds envisaged
+  act
+          exercise   right  rectification  manager may ask  interested
+party  supply  necessary documents  accredit  correctness  reality  
+new data  may reject  application   interested party   supply 
+documents   reality   new data   accredited
+         every case  processing manager must communicate   interested party
+ refusal   application   effective correcting   data within  period 
+one month counting    received  application   interested party 
+ application  accompanied    documents necessary  check  reality 
+correctness   new data   count    manager receives  
+documents
+         every case  refusal  access   data must    defined reason 
+will  capable   appealed   competent jurisdiction
+ 
+right  deletion
+        every interested party   right  require  processing manager  delete
+ data subject  processing
+         manager can refuse  right  deletion   following cases
+
+           preservation   data  necessary   processing manager 
+accordance   valid rule
+        b   preservation  necessary  compliance   lawful purposes
+  file manager   maximum periods established   c
+        c   preservation  necessary  virtue   legal relationship 
+contractual obligations existing   interested party   file manager  
+ case  possible legal    court claims  administrative obligations arising
+  legal relationships  contractual obligations
+         file manager will   maximum time  one month counting  
+ received  application   interested party  communicate  effective
+deletion   data   refusal   application     circumstances
+indicated   preceding paragraph apply
+         every case  refusal   application    must   defined
+reason  interested party may appeal   decision   competent
+jurisdiction
+ 
+exercise   rights  access rectification deletion  opposition
+         exercise   rights set   articles       
+subjected   file manager   formality   payment   interested party 
+ expenses  may correspond  
+ 
+right  compensation
+         sanctions envisaged   five   act  understood without
+prejudice   third party liability  may  incurred   processing manager 
+ case  noncompliance   act
+ three files   private nature
+ 
+obligation  registration
+        individuals  legal personas   private nature    data processing
+managers must register  files  personal data   control   public
+registry managed   controlling authority indicated   seven  manager
+must register  file  creating 
+ 
+content   registration
+
+          time  registration  file manager must supply  following
+information   controlling authority
+         name  address   processing manager
+        b structure   file
+        c purpose   data processing
+        d type  data subject  processing
+        e sources    data will  obtained
+        f period  preservation   data
+        g ultimate recipients  categories  ultimate recipients    
+envisaged  communicate  data
+        h international communications  data envisaged
+         generic description   technical  organisational measures applied 
+processing  file  accordance      act
+ 
+updating  registration
+        similarly    first registration   amendments   information
+supplied   controlling authority  accordance     manager must
+inform  aforesaid controlling authority   changes   time   occur
+  corresponding registry records
+ four files   public nature
+ 
+rules  creation  files
+         creation modification  deletion  files   public nature must  carried
+  means   rule  creation  must  approved   public entity
+managing  processing  must  published   official state gazette  
+principality  andorra   creation modification  deletion   file
+         approval   rule  creation   file   public nature   necessary 
+files  personal data   control  entities   public nature relating  public
+registries     regulation      reference  made 
+matters excluded   ambit   act  accordance   
+ 
+content   rules  creation
+
+          rules  creation  modification  files   public nature must contain 
+least  following information
+          purpose  processing  file
+         b sources    personal data will  obtained
+         c type  data   file will contain
+         d international communications  data    envisaged  effect
+         e  entities   public nature     envisaged  exchange
+personal data   purposes  file management
+         f identification   organs managing  file   organs   
+rights  access rectification deletion  opposition may  exercised
+         g generic description   technical  organisational measures applied 
+ file processing  accordance   
+ 
+exceptions   exercise   rights  access rectification deletion  opposition
+          managers  files   public nature can refuse  exercise   rights 
+access rectification deletion  opposition   interested parties  
+consider    endanger
+          public security
+         b administrative actions destined  ensuring compliance  taxation
+obligations
+         c prevention  prosecution  administrative offences
+         d prevention  prosecution  criminal offences
+         e  public interest     interested party 
+ five infringements  sanctions
+ 
+infringements  sanctions  files   private nature
+         noncompliance   act  individuals  legal personas   private
+nature  subject  administrative sanction  first noncompliance   file manager
+will  sanctioned   fine     maximum  €  subsequent non
+
+compliances    manager will  sanctioned   fine     maximum
+€
+         amount   sanction will  set   controlling authority taking 
+account  following criteria
+          specific circumstances   infringement
+        b  seriousness   noncompliance
+        c  number  people affected
+        d  damage caused  interested parties
+        e repetitions
+ 
+infringements  sanctions  files   public nature
+         proceedings  sanctions  apply   case  noncompliance  
+act  public entities   established   regulating provisions  
+disciplinary regimes   purposes  sanctioning capacity corresponds  
+controlling authority established   seven   act without prejudice  
+administrative appeals provided   administrative regulations   legal protection
+   interested parties  entitled
+ six international communication  data
+ 
+requirements   international communication  data
+         international data communication may  effected unless  current
+regulations   country  destination establish  level  personal data protection 
+least equivalent   established   act
+ 
+countries  equivalent protection
+          understood   following   level  protection equivalent  
+act
+         member countries   european union
+        b countries declared   european communities commission  countries
+ protection equivalent
+        c countries declared     andorran data protection agency
+
+ 
+exceptions
+         prohibition established      act   apply  
+international communication
+          made   unequivocal consent   interested party
+        b  made  accordance  international conventions   
+principality andorra   party
+        c  made   purposes  international legal assistance   
+recognition exercise  defence   right   context  legal proceedings
+        d  made  medical prevention  diagnosis health care social prevention 
+diagnosis    vital interest   interested party
+        e  made   purpose  bank remittances  transfers  money
+        f  necessary   establishment execution fulfilment  control  legal
+relationships  contractual obligations   interested party   file
+manager
+        g  necessary  preserve  public interest
+        h  concerned  data taken  public registries   made  compliance
+  functions  purposes   public registries
+ seven controlling authority
+ 
+creation   andorran data protection agency
+         andorran data protection agency  formed   public body   
+legal personality independent   public authorities   full capacity 
+operate
+ 
+composition  financing   andorran data protection agency
+         andorran data protection agency will  composed 
+          head   data protection agency
+        b two inspectors  will    head   agency
+         head   data protection agency   inspectors will  appointed 
+ general council   special majority  two thirds parts   first vote   
+
+ first vote  majority required     reached   second vote 
+candidates will  elected  obtain  favourable vote   absolute majority
+          appointment    term  four years   appointment may  renewed
+  end   period
+          andorran data protection agency will  financed exclusively  
+budget appropriations established  year   functioning   general budget 
+ general council
+ 
+powers   andorran data protection agency
+          powers   andorran data protection agency 
+           oversee compliance   act
+         b management   public registry   registration  personal data
+files
+         c annual publication   list  countries  equivalent protection pursuant
+     act
+         d exercise   power  inspection  sanction   infringements
+typified   five   act
+         e proposing improvements   personal data protection regulations  
+considers appropriate
+         f preparation   annual report   activity   results emerging  
+ annual report will  public
+ 
+power  inspection
+          andorran data protection agency   competence  inspection file
+managers  obliged  supply  inspectors   andorran data protection agency
+   information requested    also  arrange access  
+premises  computer systems   types  resources used  data processing
+   requested   exercise   power  control
+          every case  inspecting activity can   carried   
+corresponding authorisation   head   andorran data protection agency
+ authorisation must contain  obligatory information established  regulation
+file managers will   right  require  inspectors  show  authorisation 
+can lawfully refuse  inspection   authorisation   exhibited     
+  contain  obligatory information established  regulation
+
+          inspection can  initiated   andorran data protection agency  
+ initiative   applied    interested party  considers   rights
+  affected    processing manager  failed  comply  
+obligations  established   act
+ 
+power  sanction
+          andorran data protection agency   capacity  impose  sanctions
+envisaged   five   act  accordance   proceedings established 
+ administrative regulations
+          every case  corresponds   inspectors   andorran data protection
+agency  send  proposals  sanctions arising   inspections   head 
+ andorran data protection agency  shall resolve  proposals  deciding
+whether    open  corresponding sanction proceedings
+ 
+public registry  registration  personal data files
+          public registry  registration  personal data files  set  relating 
+ registrations  files established  articles      act   content 
+characteristics established  regulation
+          andorran data protection agency manages  public registry 
+registration  personal data files  conformity   following criteria
+           inspectors   andorran data protection agency  responsible 
+review  applications  registration  files    updating   registrations
+ files addressed   agency  verify   meet  requirements established
+ articles      act    corresponding regulation
+         propose   head   agency  acceptance     applications
+received    case  proposing  refusal  detail  grounds
+         b  head   andorran data protection agency  responsible  resolve
+ proposals  acceptance  rejection  registration  inform  corresponding
+file managers   detailed indication   reasons   decision
+          public registry  registration  personal data files   general  free
+public access   possibility  access   information contained   public
+registry  telematic means must  foreseen
+ 
+action  conformity   administrative regulations
+
+          andorran data protection agency will   times adapt  action  
+administrative regulations   resolutions will  challengeable  established 
+ body  law
+additional transitional repealing  final provisions
+additional provision
+development   regulation
+          government  andorra  charged  deliver within one year   coming
+ force  necessary regulations   development   qualified act especially
+ referring   andorran data protection agency
+first transitional provision
+approval  publication   rules   creation  files   public
+nature
+          public entities   period  one year   coming  force  
+act  approve  publish   official state gazette   principality  andorra
+ decrees envisaged    affecting files   public nature existing  
+coming  force   act
+second transitional provision
+registration  files
+          individuals  legal personas   private nature   obliged  register
+ personal data files   control   period  six months   
+register  files   private nature existing previous   coming  force  
+act  period  six months will start   date  publication   official state
+gazette   principality andorra   regulation  development envisaged  
+third transitional provision
+third transitional provision
+regulation regulating  public registry  registration  personal data
+files
+         within  period  six months   coming  force   act 
+ministry  charge  trade must approve  publish   official state gazette  
+principality  andorra  regulation  development  regulates  public
+registry  registration  personal data files including  standard forms  use 
+ files managers  proceeding  registration   means    can access
+ information included   public registry
+fourth transitional provision
+
+control  compliance   act   andorran data protection
+agency starts   activity
+         appointment   head  inspectors   data protection agency 
+approval   means  financing   resources necessary   functioning 
+ agency must take place within six months   approval   regulation
+relating   andorran data protection agency  established   additional
+provision   agency comes  operation  powers established  articles 
+    act will  exercised   following controlling authorities
+         files   private nature  ministry  charge  trade
+        b files   public nature
+         ministry   presidency  files   public nature  managers 
+   general administration  parapublic  public law entities
+         communes  files   public nature  managers    
+communes 
+         higher council  justice  files   public nature  managers  
+ public entities integrated   administration  justice
+repealing provision
+regulation   public sector data bank   rules
+         provisions  oppose  qualified act  personal data  repealed
+especially   regulation   public sector data bank
+final provision
+entry  force   act
+         act will come  force fifteen days   publication   official
+state gazette   principality  andorra
+casa de la vall  december 
+francesc areny casal
+speaker   general council
+  coprinces approve   promulgate   order  publication   official
+state gazette   principality  andorra
+

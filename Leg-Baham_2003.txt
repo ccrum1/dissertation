@@ -1,0 +1,1158 @@
+                   data protection                            cha  
+                      
+                   data protection
+ act  protect  privacy  individuals  relation        
+ personal data   regulate  collection
+processing keeping use  disclosure  certain
+information relating  individuals   provide 
+matters incidental thereto  connected therewith
+                                    assent th april 
+                          commencement nd april       si 
+                           part 
+                     preliminary
+        act may  cited   data protection         short title
+privacy  personal information act
+          act                                     interpretation
+      backup data means data kept    purpose
+            replacing  data   event  
+            altered lost destroyed  damaged
+       commissioner means  data protection
+           commissioner established  section 
+      company   meaning assigned    
+           companies act   international business         ch 
+           company   international business           ch 
+           companies act
+       court means  supreme court   judge
+           thereof
+      data means information   form    can
+            processed
+      data controller means  person  either alone 
+            others determines  purposes  
+             manner    personal data 
+               processed
+      data equipment means equipment  processing
+           data
+lro                                      statute law   bahamas
+
+cha                      data protection
+                   data material means  document  
+                        material used  connection   produced
+                         data equipment
+                   data processor means  person  processes
+                        personal data  behalf   data controller 
+                          include  employee   data
+                        controller  processes  data   course
+                          employment
+                   data subject means  individual    subject
+                         personal data
+                   days means working days
+                   direct marketing includes direct mailing
+                   disclosure  relation  personal data includes 
+                        disclosure  information extracted  
+                        data    include  disclosure made
+                        directly  indirectly   data controller  
+                        employee  agent      data processor
+                          purpose  enabling  employee agent
+                         data processor  carry   duties 
+                          identification   data subject
+                        depends partly   data  partly  
+                        information   possession   data
+                        controller  data shall   regarded 
+                        disclosed unless   information  also
+                        disclosed
+                   enforcement notice means  notice issued  
+                        commissioner  section 
+                   government agency means  ministry 
+                        department  government   body 
+ first schedule        office specified   first schedule 
+                        schedule may  amended   minister 
+                        order  time  time
+                   head means  respect   government agency 
+                        designated officer appearing   second
+                        column corresponding   government
+ first schedule        agency   first column   first
+                        schedule
+                   information notice means  notice issued  
+                        commissioner  section 
+                    minister means  minister  responsibility
+                         information privacy  data protection
+statute law   bahamas                                        lro 
+
+                   data protection                           cha  
+      personal data means data relating   living
+           individual  can  identified either  
+           data    data  conjunction  
+           information   possession   data
+           controller
+      processing  relation  information  data
+           means obtaining recording  holding 
+           information  data  carrying  
+           operation  set  operations  
+           information  data including 
+            organisation adaptation  alteration  
+                information  data
+           b retrieval consultation  use  
+                information  data
+           c transmission  data
+           d dissemination  otherwise making
+                available 
+           e alignment combination blocking erasure
+                 destruction   information  data
+      prohibition notice means  notice served 
+           section 
+      public officer   meaning assigned    
+           public service act                               ch 
+      sensitive personal data means personal data
+           relating  
+            racial origin
+           b political opinions  religious  
+                beliefs
+           c physical  mental health   
+                 data reasonably kept   
+                relation   physical  mental health 
+                 employees   ordinary course 
+                personnel administration   used 
+                disclosed    purpose
+           d trade union involvement  activities
+           e sexual life 
+           f criminal convictions  commission 
+                alleged commission   offence  
+                proceedings   offence committed 
+                disposal   proceedings  
+                sentence   court   proceedings
+lro                                     statute law   bahamas
+
+cha                          data protection
+                          purposes   act data  inaccurate
+                   incorrect  misleading    matter  fact
+                       provided   section shall   
+                contravened   data controller  respects  inaccuracy
+                 personal data  accurately record information
+                obtained   data controller   data subject  
+                third party   case  
+                         regard   purpose  purposes 
+                              data  obtained  
+                            processed  data controller  taken
+                            reasonable steps  ensure  accuracy  
+                            data 
+                       b   data subject  notified  data controller
+                              data subjects view   data 
+                            inaccurate  data indicate  fact
+ crown                act binds  crown
+ bound
+                          government agency satisfies 
+                conditions    data controller   data processor
+                  act  head   institution shall 
+                deemed   purposes   act    data controller
+                   case may   data processor
+                          purposes   act  respects 
+                personal data   public officers  employees  
+                case may  within   institution shall  deemed
+                  employees   designated head   case  
+                designation provided   subsection 
+ application           except  otherwise provided  herein 
+ act           act applies   data controller  respect   data 
+                 
+                         data controller  established  
+                            bahamas   data  processed  
+                            context   establishment 
+                       b  data controller   established  
+                            bahamas  uses equipment   bahamas
+                             processing  data otherwise   
+                            purpose  transit   bahamas
+                         data controller falling within subsection b
+                must nominate   purposes   act  representative
+                established   bahamas
+                          purposes  subsections    
+                  following    treated  established  
+                bahamas 
+statute law   bahamas                                           lro 
+
+                    data protection                           cha  
+        individual   ordinarily resident  
+           bahamas
+      b  body incorporated  registered   laws
+             bahamas
+      c  partnership   unincorporated association
+           formed   laws   bahamas 
+      d  person    fall within paragraph
+            b  c  maintains   bahamas 
+           office branch  agency   
+           carries   business activity   regular
+           practice
+        act shall  apply  personal data           exclusions 
+                                                              act
+          opinion   minister  
+           minister  national security     time
+            kept   purpose  safeguarding 
+           security   bahamas
+      b consisting  information   person
+           keeping  data  required  law  make
+           available   public
+      c kept   individual  concerned  
+            management   personal family 
+           household affairs  kept   individual 
+            recreational purposes
+      d deliberations  parliament  parliamentary
+           committees 
+      e pending civil criminal  international legal
+           assistance procedures
+                           part ii
+   protection  privacy  individuals
+         regard  personal data
+         data controller shall comply            collection
+following provisions  relation  personal data kept      processing
+                                                              keeping use 
+                                                          disclosure 
+        data   information constituting  data   personal data
+           shall   collected  means  
+            lawful  fair   circumstances  
+           case
+      b  data  accurate   necessary kept
+             date except   case  backup data
+      c  data 
+              shall  kept   one  
+                  specified  lawful purposes
+lro                                      statute law   bahamas
+
+cha                             data protection
+                                ii shall   used  disclosed  
+                                     manner incompatible   purpose 
+                                      purposes
+                               iii shall  adequate relevant  
+                                     excessive  relation   purpose 
+                                      purposes 
+                               iv shall   kept  longer  
+                                     necessary   purpose  
+                                     purposes except   case  personal
+                                     data kept  historical statistical 
+                                     research purposes 
+                        d appropriate security measures shall  taken
+                               unauthorised access   alteration
+                              disclosure  destruction   data  
+                               accidental loss  destruction
+                          determining   purposes  subsection
+                     section whether personal data  information
+                  constituting  data  fair   circumstances  
+                  case regard       method    
+                  obtained including  particular whether  person 
+                     obtained  deceived  misled   
+                  purpose  purposes       processed
+                        provided however   data   information
+                  constituting  data shall   regarded  
+                  purposes  subsection    section   
+                  obtained unfairly  reason    use   
+                  purpose   disclosed    obtained   data
+                    used    way  damage  distress   
+                  likely   caused   data subject
+                          data processor shall  respects personal data
+                  processed   comply  subsection d  
+                  section
+ exceptions            subsection   section  shall  apply 
+ section        information intended  inclusion  data   data kept
+                    purpose mentioned  paragraph   section  
+                   case    application   paragraph  
+                  data   likely  prejudice    matters
+                  mentioned  paragraph   section 
+ right  access         subject   provisions   act 
+                  individual  makes  written request   data controller
+                    right within forty days  complying  
+                  provisions   section  
+statute law   bahamas                                             lro 
+
+                    data protection                            cha  
+         informed   data controller whether 
+           data kept   include personal data relating
+             individual
+       b  supplied   data controller   copy 
+            information constituting   data 
+       c     information  expressed 
+           terms    intelligible   average
+           person without explanation  information
+           shall  accompanied   explanation  
+           terms
+         request   information specified 
+subsection  shall   absence   indication 
+ contrary  treated  including  request   copy 
+ information specified  subsection b
+         minister may  regulations prescribe 
+fee   charged   data controller  respect   
+request  aforesaid   fee  paid shall 
+reimbursed   request   complied   
+data controller rectifies supplements  erases part  
+data concerned  thereby materially modifies  data
+ erases    data   application   individual
+  accordance   enforcement notice hereunder 
+court order
+         individual making  request  
+section shall supply  data controller concerned 
+ information   may reasonably require  order 
+satisfy    identity   individual  
+locate  relevant personal data  information
+        nothing  subsection  obliges  data
+controller  disclose   data subject personal data
+relating  another individual unless   individual
+ consented   disclosure
+       provided    circumstances   
+   reasonable   data controller  conclude
+   particulars identifying   individual
+ omitted  data    disclosed  aforesaid
+without   thereby identified   data subject 
+data controller shall  obliged  disclose  data  
+data subject   omission   particulars
+        information supplied pursuant   request 
+subsection  may take account   amendment  
+personal data concerned made since  receipt  
+request   data controller   amendment 
+lro                                      statute law   bahamas
+
+cha                          data protection
+                     made irrespective   receipt  
+                  request      amendment
+                           notification   refusal   request made 
+                   individual   preceding provisions   section
+                  shall   writing  shall include  statement  
+                  reasons   refusal   indication   individual
+                  may complain   commissioner   refusal
+                            data controller  previously complied
+                    request made  subsection    individual
+                   data controller   obliged  comply  
+                  subsequent identical  similar request  
+                  subsection   individual unless  reasonable interval
+                   elapsed  compliance   previous request
+                    making   current request
+                           determining   purposes  subsection 
+                  whether requests  subsection   made 
+                  reasonable intervals regard shall     nature  
+                  data  purposes    data  processed  
+                  frequency    data  altered
+ exceptions             section  shall  apply  personal data 
+ right  access
+                          kept   purpose  preventing detecting 
+                             investigating  offence   breach 
+                             agreement apprehending  prosecuting
+                             offenders  assessing  collecting  tax duty
+                               moneys owed  payable  
+                             government  local authority  statutory
+                             corporation   public body   case 
+                               application   section   data
+                               likely  prejudice    matters
+                             aforesaid
+                         b    virtue  paragraph  section 
+                               apply    kept  
+                             purpose  discharging  function conferred 
+                                enactment  consisting 
+                             information obtained    purpose  
+                             person      possession   
+                              purposes mentioned  paragraph 
+                         c   case    application  section 
+                               likely  prejudice  security  
+                              maintenance  good order  discipline 
+                              prison  place  detention provided  
+ ch                     prisons act    enactment  
+                             laws   bahamas
+statute law   bahamas                                            lro 
+
+                    data protection                             cha  
+      d kept   purpose  performing 
+           functions conferred     enactment
+            may  specified  regulations made  
+           minister  functions    opinion 
+            minister  designed  protect members 
+            public  financial loss   case 
+             application   section   data
+             likely  prejudice  proper
+           performance     functions
+           occasioned  
+               dishonesty incompetence  malpractice
+                    part  persons concerned  
+                  provision          banking      insurance
+                  investment   financial services  
+                   management  companies  similar
+                  organizations 
+             ii  conduct  persons    
+                  time  adjudicated bankrupt
+      e  respect    application  
+           section   contrary   interests 
+           protecting  international relations  
+           bahamas
+      f consisting   estimate   kept  
+           purpose  estimating  amount   liability
+             data controller concerned based  
+           claim   payment   sum  money
+           whether  respect  damages  compensation
+             case    application  section 
+             likely  prejudice  interests  
+           data controller  relation   claim
+      g  respect    claim  privilege  
+           maintained  proceedings   court  relation
+            communications   client  
+           professional legal advisers   
+           advisers
+      h kept    purpose  preparing statistics
+            carrying  research   data   used
+            disclosed     person   
+           disclosure   data may  made  
+           circumstances specified  section   
+            purpose   resulting statistics  
+           results   research   made available 
+            form  identifies    data subjects
+         case    application  
+           section  reveal confidential commercial
+lro                                       statute law   bahamas
+
+cha                             data protection
+                               information    severed  
+                               record containing  personal information 
+                                access  requested 
+                          j   backup data
+ right                     individual shall upon submission  
+ rectification 
+ erasure
+                   written request   data controller  keeps personal data
+                   relating    entitled   rectified  
+                   appropriate erased   data  relation   
+                      contravention  subsection   section  
+                    data controller   data controller shall comply
+                     request within forty days     given 
+                   sent  
+                          provided   data controller shall  respects
+                   data   inaccurate   kept   date  deemed
+                   
+                             complied   request  
+                               supplements  data   statement  
+                               terms    individual  agreed
+                               relating   matters dealt    data 
+                          b   supplements  data  aforesaid   
+                                contravention  subsection b  section
+                               
+                            complying   request  subsection
+                      section  data controller shall within forty days
+                     request   given  sent   notify 
+                   individual making  request   compliance
+ right  prohibit           data subject makes  written request 
+ processing 
+ purposes 
+                    data controller  cease using   purpose  direct
+ direct marketing marketing  data   kept   purpose 
+                   data controller shall  soon  may     event
+                      forty days   request   given 
+                   sent   
+                                   erase  data   kept   purpose
+                                      aforesaid 
+                                 ii   data  kept   purpose 
+                                       purposes cease using  data 
+                                       purpose 
+                                iii notify  data subject  writing
+                                      accordingly
+ duty  care                person   data controller shall  far
+ owed  data
+ controllers
+                    regards  collection    personal data 
+                   information intended  inclusion   data  
+statute law   bahamas                                               lro 
+
+                    data protection                             cha  
+dealing   data owe  duty  care   data
+subject concerned
+      provided    purposes   section  data
+controller shall  deemed   complied  
+provisions  subsection b  section     long
+  personal data concerned accurately record data 
+ information received  obtained    
+data subject   third party  include    data 
+disclosed  disclosure  accompanied  
+        indication   information constituting
+            data  received  obtained  aforesaid
+      b  appropriate  indication   data subject
+            informed  data controller   regards
+            information  inaccurate   kept  
+           date 
+      c  statement   pursuant   act
+            data  supplemented
+        data controller shall use contractual  
+legal means  provide  comparable level  protection
+  third party    discloses information 
+ purpose  data processing
+         act  restrictions   exceptions        disclosure 
+ disclosure  personal data   apply                personal data 
+                                                                 certain cases
+disclosure  
+         opinion   minister   minister 
+           national security required   purpose 
+           safeguarding  security   bahamas
+      b required   purpose  preventing detecting
+            investigating offences apprehending 
+           prosecuting offenders  assessing  collecting
+            tax duty   moneys owed  payable
+             government statutory corporation public
+           body   local authority   case  
+            application   restrictions  
+           likely  prejudice    matters aforesaid
+      c required   interests  protecting 
+           international relations   bahamas
+      d required urgently  prevent injury  
+           damage   health   person  serious loss
+             damage  property
+      e required     enactment    rule
+            law  order   court
+lro                                      statute law   bahamas
+
+cha                          data protection
+                        f required   purposes  obtaining legal
+                             advice    purposes     course 
+                             legal proceedings    person making
+                              disclosure   party   witness
+                        g made   data subject concerned   
+                             person acting   behalf 
+                        h made   request    consent  
+                             data subject   person acting   behalf
+                                            part iii
+                       data protection commissioner
+                         purposes   act  shall  
+ commissioner    person  shall  known   data protection
+                  commissioner   shall perform  functions
+                  conferred     act
+                          commissioner shall   corporation sole
+ second schedule         provisions   second schedule shall
+                   effect  relation   commissioner
+ enforcement             commissioner may investigate  cause
+ data protection   investigated whether    provisions  
+                  act       likely   contravened 
+                   data controller   data processor  relation  
+                  individual either   individual complains   
+                   contravention     provisions   
+                  otherwise   opinion   may   
+                  contravention
+                           complaint  made   commissioner
+                   subsection   commissioner shall 
+                         investigate  complaint  cause   
+                             investigated unless     opinion   
+                             frivolous  vexatious 
+                        b  soon  may  notify  individual
+                             concerned  writing   decision  relation
+                               complaint    individual may 
+                             aggrieved   decision appeal  
+                             decision  section 
+                           commissioner    opinion   data
+                  controller   data processor  contravened  
+                  contravening  provision   act    provision
+                   contravention     offence 
+                  commissioner may  notice  writing referred   
+                  act   enforcement notice served   person require
+                    take  steps   specified   notice within
+statute law   bahamas                                             lro 
+
+                    data protection                            cha  
+ time  may   specified  comply  
+provision concerned
+       without prejudice   generality  subsection
+   commissioner    opinion   data
+controller  contravened section   relevant
+enforcement notice may require  
+        rectify  erase    data concerned 
+      b  supplement  data   statement
+           relating   matters dealt     
+           commissioner may approve   respects
+           data   inaccurate   kept   date 
+            supplements   aforesaid  shall 
+           deemed     contravention  subsection
+           b  section 
+               commissioner       may    issue       enforcement
+enforcement notice  shall                                 notices
+       specify  provision   act   
+           opinion   commissioner    
+            contravened   reasons   
+           formed  opinion 
+      b subject  subsection  state   person
+           concerned may appeal   court  section
+              requirement specified  
+           notice within twentyone days   service
+             notice  
+       subject  subsection   time specified 
+ enforcement notice  compliance   requirement
+specified therein shall   expressed  expire  
+end   period  twentyone days specified 
+subsection b    appeal  brought  
+requirement  requirement need   complied 
+ subsection  shall  apply  relation thereto
+pending  determination  withdrawal   appeal
+         commissioner 
+        reason  special circumstances   
+           opinion   requirement specified  
+           enforcement notice   complied 
+           urgently 
+      b  enforcement notice includes  statement 
+            effect
+subsections b   shall  apply  relation  
+notice   notice shall contain  statement   effect
+  provisions  section    subsection 
+lro                                      statute law   bahamas
+
+cha                         data protection
+                 shall  require compliance   requirement
+                  end   period  seven days beginning  
+                date    notice  served
+                         compliance   data controller  
+                requirement  subsection   section   shall 
+                soon  may     event    forty days
+                  compliance notify 
+                         data subject concerned 
+                       b  person   commissioner considers
+                            reasonably practicable      
+                           data  disclosed   period beginning
+                           twelve months   date   service 
+                            enforcement notice concerned  ending
+                           immediately   compliance  
+                           rectification erasure  statement concerned 
+                            compliance materially modifies  data
+                           concerned
+                         commissioner may cancel  enforcement
+                notice      shall notify  writing  person
+                    served accordingly
+                         person  without reasonable excuse fails
+                 refuses  comply   requirement specified  
+                enforcement notice shall  guilty   offence
+ prohibition            commissioner may subject  
+ transfer 
+ personal data
+                provisions   section prohibit  transfer  personal
+ outside     data   bahamas   place outside  bahamas 
+ bahamas        cases     failure  provide protection
+                either  contract  otherwise equivalent   provided
+                  act
+                         determining whether  prohibit  transfer 
+                personal data   section  commissioner shall
+                also consider whether  transfer   likely  cause
+                damage  distress   person   regard  
+                desirability  facilitating international transfers  data
+                         prohibition  subsection  shall 
+                effected   service   notice referred    act 
+                 prohibition notice   person proposing  transfer 
+                data concerned
+                         prohibition notice shall 
+                        prohibit  transfer concerned either absolutely
+                              person aforesaid  taken  steps
+                             specified   notice  protecting 
+                           interests   data subjects concerned
+statute law   bahamas                                             lro 
+
+                     data protection                            cha  
+       b specify  time     take effect
+       c specify  grounds   prohibition 
+       d subject  subsection  state   person
+            concerned may appeal   court  section
+               prohibition specified   notice
+            within twentyone days   service  
+            notice  
+        subject  subsection   time specified  
+prohibition notice  compliance   prohibition
+specified therein shall   expressed  expire  
+end   period   twentyone days specified 
+subsection d    appeal  brought  
+prohibition  prohibition need   complied  
+subsection  shall  apply  relation thereto pending
+ determination  withdrawal   appeal
+          commissioner 
+         reason  special circumstances   
+            opinion   prohibition specified  
+            prohibition notice   complied 
+            urgently 
+       b  prohibition notice includes  statement 
+             effect
+subsections d   shall  apply  relation  
+notice   notice shall contain  statement   effect
+  provisions  section    subsection 
+ shall  require compliance   prohibition
+  end   period  seven days beginning  
+date    notice  served
+         commissioner may cancel  prohibition
+notice      shall notify  writing  person
+    served accordingly
+         section shall  apply   transfer  data
+  transfer   data   information constituting 
+data  required  authorised     enactment
+ required   convention   instrument
+imposing  international obligation   bahamas 
+otherwise made pursuant   consent express 
+implied   data subjects
+         section applies   necessary
+modifications   transfer  information  
+bahamas   place outside  bahamas  conversion
+ personal data   applies   transfer  personal data
+  bahamas    place    subsection
+lro                                       statute law   bahamas
+
+cha                            data protection
+                  information means information   data relating
+                    living individual  can  identified  
+                           person  without reasonable excuse fails
+                   refuses  comply   prohibition specified  
+                  prohibition notice shall  guilty   offence
+ power  require           commissioner may  notice  writing
+ information     referred    act   information notice served 
+                   person require  person  furnish    writing
+                  within  time  may  specified   notice 
+                  information  relation  matters specified   notice 
+                   necessary  expedient   performance  
+                  commissioner   functions
+                          subject  subsection  
+                           information notice shall state   person
+                              concerned may appeal   court  section
+                                 requirement specified  
+                              notice within twentyone days   service
+                                notice   
+                         b  time specified   notice  compliance
+                                requirement specified therein shall  
+                              expressed  expire   end   period
+                               twentyone days specified  paragraph 
+                                 appeal  brought  
+                              requirement  requirement need  
+                              complied   subsection  shall  apply
+                               relation thereto pending  determination 
+                              withdrawal   appeal
+                            commissioner 
+                           reason  special circumstances   
+                              opinion   requirement specified  
+                              information notice   complied 
+                              urgently 
+                         b  information notice includes  statement 
+                               effect
+                  subsection  shall  apply  relation   notice 
+                   notice shall contain  statement   effect  
+                  provisions  section    subsection  
+                  shall  require compliance   requirement 
+                   end   period  seven days beginning   date
+                     notice  served
+                           enactment  rule  law prohibiting 
+                  restricting  disclosure  information shall preclude 
+                  person  furnishing   commissioner 
+statute law   bahamas                                            lro 
+
+                   data protection                             cha  
+information   necessary  expedient  
+performance   commissioner   functions  
+subsection shall  apply  information   
+opinion   minister   minister  national
+security     time  kept   purpose 
+safeguarding  security   bahamas  information
+  privileged  disclosure  proceedings  
+court
+         person  without reasonable excuse fails
+ refuses  comply   requirement specified  
+information notice    purported compliance 
+  requirement furnishes information  
+commissioner   person knows   false 
+misleading   material respect shall  guilty  
+offence
+           section authorised officer means      powers 
+person authorised  writing   commissioner              authorised
+                                                                officer
+exercise  powers conferred   section  
+purposes   act
+          magistrate  satisfied  evidence 
+oath    reasonable cause  believe   
+purpose  obtaining  information   necessary 
+expedient   performance   commissioner  
+functions  may grant  warrant directed   authorised
+officer  
+        enter   reasonable times premises  
+           reasonably believes   occupied   data
+           controller   data processor inspect 
+           premises   data therein   data
+           consisting  information specified  subsection
+             section   inspect examine operate
+            test  data equipment therein
+       b require  person   premises   data
+           controller  data processor   employee 
+           either    disclose   officer  
+           data  produce    data material 
+            data material consisting  information 
+           specified     persons power 
+           control   give    information 
+            may reasonably require  regard   data
+            material
+       c either   premises  elsewhere inspect 
+           copy  extract information   data 
+           inspect  copy  take extracts  
+           material 
+lro                                      statute law   bahamas
+
+cha                        data protection
+                      d require  person mentioned  paragraph b
+                            give   officer  information   may
+                           reasonably require  regard   procedures
+                           employed  complying   provisions 
+                            act  sources    data 
+                           obtained  purposes     kept
+                            persons     disclosed  
+                           data equipment   premises
+                        person  obstructs  impedes 
+                authorised officer   exercise   power  without
+                reasonable excuse   comply   requirement
+                  section    purported compliance 
+                  requirement gives information   authorised
+                officer   knows   false  misleading   material
+                respect shall  guilty   offence
+ codes                 commissioner may encourage trade
+ practice      associations   bodies representing categories 
+                data controllers  prepare codes  practice   complied
+                   categories  dealing  personal data
+                        commissioner may approve   code 
+                practice  prepared referred  subsequently  
+                section   code     opinion   provides  
+                data subjects concerned protection  regard  personal
+                data relating    conforms   provided 
+                 sections     subsection     shall
+                encourage  dissemination   data controllers
+                concerned
+                         code   approved  
+                commissioner shall  laid   minister  
+                house  parliament  shall  subject  affirmative
+                resolution   house
+                        subsection  affirmative resolution  
+                house means   code shall  come  operation
+                unless   affirmed   resolution   house 
+                parliament
+                        section shall apply  relation  data
+                processors   applies  relation  categories  data
+                controllers   modification   references  
+                section   said sections shall  construed  references
+                 subsection d  section     
+                necessary modifications
+ annual report          commissioner shall   year 
+                 year    first commissioner  appointed
+statute law   bahamas                                           lro 
+
+                    data protection                           cha  
+prepare  report  relation   activities   act
+  preceding year  cause copies   report  
+laid   house  parliament
+       notwithstanding subsection     
+subsection  first report   subsection 
+relate   period  less  six months  report shall
+relate   period    year immediately following
+ period  shall  prepared  soon  may  
+ end   year
+                           part iv
+                     miscellaneous
+        personal data processed   data processor      unauthorised
+shall   disclosed      employee  agent      disclosure 
+                                                               data processor
+  without  prior authority   data controller 
+behalf    data  processed
+        person  knowingly contravenes
+subsection  shall  guilty   offence
+         person                                     disclosure 
+                                                               personal data
+       obtains access  personal data  obtains       obtained without
+            information constituting  data without     authority
+            prior authority   data controller  data
+            processor    data  kept 
+      b discloses  data  information  another
+            person shall  guilty   offence
+       subsection  shall  apply   person  
+ employee  agent   data controller  data
+processor concerned
+         appeal may  made   heard            appeals  court
+determined   court  
+        requirement specified   enforcement notice
+              information notice
+      b  prohibition specified   prohibition notice 
+      c  decision   commissioner  relation  
+            complaint  subsection   section 
+   appeal shall  brought within twentyone
+days   service   person concerned  
+relevant notice    case may   receipt  
+person   notification   relevant refusal 
+decision
+        
+lro                                       statute law   bahamas
+
+cha                       data protection
+                      person appeals   court pursuant 
+                         paragraph  b  c  subsection 
+                    b  appeal  brought within  period specified
+                           notice 
+                    c  commissioner  included  statement 
+                          relevant notice  notification   effect
+                           reason  special circumstances   
+                         opinion   requirement  prohibition
+                         specified   notice   complied 
+                           refusal specified   notification 
+                         take effect urgently
+               notwithstanding  provision   act  
+              court  application made     behalf 
+              determines noncompliance   person  
+              requirement  prohibition specified   notice 
+               period ending   determination  withdrawal 
+               appeal     period  may 
+              determined  aforesaid shall  constitute  offence
+ evidence             proceedings 
+ proceedings
+                      certificate signed   minister  
+                         minister  national security  stating  
+                          opinion personal data     time
+                          kept   purpose  safeguarding 
+                         security   bahamas shall  evidence 
+                          opinion 
+                    b  certificate 
+                             signed   officer  behalf  
+                                minister  minister  national security
+                                
+                           ii stating    opinion   officer 
+                                disclosure  personal data  required 
+                                 purpose aforesaid shall  evidence 
+                                 opinion 
+                    c  document purporting    certificate 
+                         paragraph   b  signed   person
+                         specified   said paragraph   b shall 
+                         deemed     certificate    
+                         signed unless  contrary  proved
+                     information supplied   person  compliance
+                request made  section   subsection  
+              section   requirement   act   direction  
+              court  proceedings   act shall   admissible
+               evidence     spouse  proceedings  
+              offence   act
+statute law   bahamas                                          lro 
+
+                    data protection                           cha  
+         whole   part   proceedings       hearing 
+ act may   discretion   court  heard         proceedings
+otherwise   public
+           offence   act          offences 
+committed   body corporate   proved          directors etc 
+                                                               bodies corporate
+committed   consent  connivance    
+attributable   neglect   part   person  
+director manager secretary   officer   body
+corporate   person   purporting  act  
+ capacity  person  well   body corporate
+shall  guilty   offence   liable   proceeded
+  punished accordingly
+          affairs   body corporate 
+managed   members subsection  shall apply 
+relation   acts  defaults   member  connection
+  functions  management      director
+ manager   body corporate
+         summary proceedings   offence         prosecution 
+ act may  brought  prosecuted                    summary
+                                                               offences 
+commissioner                                                  commissioner
+        notwithstanding  provision   enactment
+prescribing  period within  summary proceedings
+may  commenced summary proceedings   offence
+  act may  instituted within one year  
+date   offence
+          person guilty   offence   act    penalties
+shall  liable 
+         summary conviction   fine  exceeding
+            two thousand dollars 
+       b  conviction  information   fine 
+            exceeding one hundred thousand dollars
+          person  convicted   offence 
+ act  court may order  data material 
+appears   court   connected   commission
+  offence   forfeited  destroyed   relevant
+data   erased
+         court shall  make  order 
+subsection   relation  data material  data  
+considers   person    person convicted
+  offence concerned may   owner   otherwise
+interested   data unless  steps   reasonably
+practicable   taken  notifying  person 
+lro                                       statute law   bahamas
+
+cha                       data protection
+              giving   opportunity  show cause   order
+                 made
+ regulations          minister may  time  time make
+              regulations       following purposes 
+                     providing additional safeguards  relation 
+                         sensitive personal data
+                    b modifying  application  section  
+                         personal data   manner   
+                         circumstances subject   safeguards  
+                          extent  may  specified therein 
+                          data 
+                             relates  physical  mental health 
+                           ii  kept   obtained   course 
+                                carrying  social work   government
+                                agency  statutory corporation  
+                                specified voluntary organisation  
+                                body
+                    c prescribing circumstances   purposes 
+                         section     prohibition restriction 
+                         authorisation  relation   information
+                           prevail   interests   data
+                         subjects concerned    individuals
+                    d prescribing fees   paid  respect  matters
+                         arising   provided   authorised 
+                          act
+                    e prescribing offences  penalties  respect 
+                         contravention   noncompliance  
+                         provision   regulations made  
+                         section
+                    f providing   matters   contemplated
+                           necessary  giving full effect  
+                         provisions   act    due
+                         administration
+                     regulations made  paragraph  
+              subsection   subject  affirmative resolution  
+              house  parliament  shall  made  
+              consultation    minister   government
+                regard   functions    opinion
+                minister   consulted
+                      subsection  affirmative resolution  
+              house means   regulations shall  come 
+              operation unless   affirmed   resolution  
+              house  parliament
+statute law   bahamas                                         lro 
+
+                   data protection                             cha  
+        within one year   coming  force       transitional
+  act data controllers shall   necessary           provisions
+measures  place   allow  exercise  
+request  access pursuant  section 
+       notwithstanding   provision contained
+herein   contrary government agencies  
+bodies specified   first schedule may continue  
+period  five years   date  entry  force  
+act  use  process existing files  contain personal
+data including sensitive personal data   acquired
+ circumstances      possible  determine 
+  obtained  pursuance   legal obligation 
+  consent   data subjects
+lro                                     statute law   bahamas
+
+cha                        data protection
+                                    first schedule
+                                         section 
+                      government
+                      government ministry
+                      local government authority    body 
+                royal bahamas police  defence forces
+              established 
+                         enactment    companies
+                         act 
+                    b   companies act  pursuance  powers
+                         conferred    another enactment 
+                         financed wholly  partly  means  moneys
+                         provided  loans made  guaranteed  
+                         government   issue  shares held   
+                         behalf   government   subsidiary  
+                          body
+                      company  majority   shares    held
+                 behalf   government
+                      body    body mentioned  paragraph  
+               appointed   government   minister  
+              government
+                      individual    individual remunerated 
+               body mentioned  paragraph       relation  
+               government   minister   government  
+              appropriate authority   appointed   government  
+              minister   government   office established   
+               enactment
+                       public authority body  person prescribed
+                time   financed  remunerated wholly  partly
+                moneys provided   consolidated fund
+ government ministriesdepartments etc           designated heads
+ ministries                                       accounting officer
+ departments                                      heads  departments
+statute law   bahamas                                          lro 
+
+                     data protection                                 cha  
+                     second schedule
+                            section 
+         data protection commissioner
+        commissioner shall   corporation sole  shall
+ independent   performance   functions
+         commissioner shall  appointed  writing 
+ governorgeneral acting   advice   prime minister
+ consultation   leader   opposition
+        commissioner 
+       may   time resign  office  commissioner 
+           letter addressed   governorgeneral  
+           resignation shall take effect     date 
+           receipt   letter
+      b may   time  removed  office  
+           governorgeneral   advice   prime minister
+            consultation   leader   opposition 
+             opinion   prime minister   become
+           incapable  effectively performing  functions 
+            committed  misbehaviour 
+      c shall   case vacate  office  commissioner
+            reaching  age  sixtyfive years
+        term  office   person appointed   
+commissioner shall   term  exceeding five years 
+subject   provisions   schedule  shall  eligible 
+reappointment   office
+          commissioner  
+       nominated   member   senate
+      b elected   member   house  assembly  
+           local authority
+ shall thereupon cease    commissioner
+        person     time  
+        member  either house  parliament
+      b  elected local government member shall  
+             entitled     member  disqualified
+            holding  office  commissioner
+        commissioner shall  hold   office 
+employment  respect   emoluments  payable
+        shall  paid   commissioner   moneys
+provided   consolidated fund  remuneration 
+lro                                          statute law   bahamas
+
+cha                         data protection
+              allowances  expenses   minister   consent  
+              minister  finance may  time  time determine
+                      minister 
+                     shall   consent   minister  finance
+                         make  carry   accordance   terms 
+                         scheme  schemes   granting  pensions
+                         gratuities   allowances  retirement  death
+                            respect  persons   held  office 
+                         commissioner
+                    b may   consent   minister  finance 
+                          time make  carry   accordance  
+                         terms  scheme  schemes amending  revoking 
+                         scheme   paragraph
+                scheme   paragraph shall  laid  
+              house  parliament  soon  may     made   
+              resolution annulling  scheme  passed  either  house
+              within  next twentyone days    house  sat
+                scheme  laid    scheme shall  annulled
+              accordingly  without prejudice   validity  anything
+              previously done thereunder
+                       minister may appoint   members   staff
+                commissioner  number  persons  may 
+              determined  time  time   minister   consent
+                minister  finance
+                     members   staff   commissioner shall 
+              public officers
+                      functions   commissioner   act
+              may  performed   temporary absence  
+              member   staff   commissioner   may designate
+                purpose
+                       commissioner shall keep   form  may
+               approved    minister   consent   minister
+               finance  proper  usual accounts   moneys
+              received  expended      special accounts 
+                 minister   consent   minister 
+              finance may direct
+                     accounts kept  pursuance   paragraph 
+              respect   year shall  submitted   commissioner 
+               following year   date  later   date specified 
+               minister   auditorgeneral  audit   soon 
+              may    audit  copy   accounts   
+              extracts   accounts   minister may specify
+              together   report   auditorgeneral   accounts
+statute law   bahamas                                           lro 
+
+                    data protection                             cha  
+shall  presented   commissioner   minister 
+shall cause copies   documents presented     laid
+  house  parliament
+lro                                      statute law   bahamas
+

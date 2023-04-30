@@ -1,0 +1,1401 @@
+                                 republika e kosovës
+                          republika kosovorepublic  kosovo
+                               kuvendi  skupština  assembly
+    law nol  
+                    protection  personal data
+    assembly  republic  kosovo
+    based      constitution   republic  kosovo
+    approves
+              law   protection  personal data
+                                          
+                                  general provisions
+                                              
+                                      purpose   law
+ law determines  rights responsibilities principles  measures  respect  
+protection  personal data  sets   institution responsible  monitoring 
+legitimacy  data processing
+                                              
+                                           definitions
+ terms used   law shall   following meanings
+                                                                                            
+
+ personal data   information relating   identified  identifiable natural
+person data subject  identifiable person  one  can  identified directly
+ indirectly  particular  reference   identification number   one 
+ factors specific     physical physiological mental economic
+cultural  social identity
+  processing  personal data   operation  set  operations  
+performed upon personal data whether    automatic means  
+collection recording organization storage adaptation  alteration retrieval
+consultation use disclosure  transmission dissemination  otherwise making
+available alignment  combination blocking erasure  destruction
+ automated data processing   processing  personal data using
+information technology means
+ data controller   natural  legal person   public  private sector
+ individually  jointly  others determines  purposes  means  
+processing  personal data   person designated  law  also determines 
+purposes  means  processing
+  data processor  natural  legal person  another person  
+public  private sector  processes personal data  behalf    account
+  data controller
+ data recipient  natural  legal person    person 
+  public  private sector   personal data  disclosed
+ filing system  structured set  personal data   accessible
+according  specific criteria irrespective  whether  set  centralized
+decentralized  dispersed   functional  geographical basis
+ filing system catalogue   detailed description   structure  
+content  filing systems
+ register  filing systems   register allowing  detailed overview  existing
+filing systems
+  data subjects consent   unambiguous freely given specific 
+informed indication   data subjects wishes    data subject signifies
+   agreement  personal data relating      processed
+ written consent   data subject   consent  subparagraph 
+ paragraph       addition   data subject   put 
+  signature  sign     written consent  process    data
+                                                                                      
+
+ oral consent   appropriate consent   data subject  
+consent  subparagraph   paragraph     given verbally 
+means  telecommunication     appropriate means    can
+clearly  concluded   data subject  given    consent
+ blocking   prohibition   data processing decision  block
+personal data    properly indicated    remain attached  
+personal data   long   reasons  blocking exist
+ classification  personal data   labelling  personal data  indicate
+ sensitive nature  data  classified conditions    laid  
+  user can process   classification   remain   sensitive
+personal data    deleted erasured destroyed  anonymized
+ anonymity  alteration  personal data    way   can 
+longer  linked   data subject     link can   made 
+disproportionate efforts expense  use  time
+ sensitive personal data   personal information revealing racial  ethnic
+origin political  philosophical opinions religious beliefs tradeunion
+membership   information  health status  sex life  entries  
+removals  criminal records  records  minor offences   kept  
+basis   law biometric characteristics  also considered  sensitive personal
+data   enable  identification   data subject  connection    
+aforementioned circumstances mentioned   point
+ connecting code   personal identification number    specific
+identification number defined  law relating   individual  can  used 
+disclose  retrieve personal data  filing systems    connecting code
+ also processed
+  biometric characteristics   physical psychological  behavioural
+characteristics   individuals     unique  permanent 
+ individual   particular  can  used  identification   individual
+  finger prints papillary ridges   finger iris retina facial characteristics
+ dna
+ national agency   protection  personal data hereinafter 
+agency   independent agency responsible  supervision  implementation
+ rules  personal data protection
+                                                                                        
+
+                                                   
+                                    principles  data processing
+ personal data shall  processed fairly  lawfully without violating  dignity  data
+subjects
+ personal data must  adequate relevant   excessive  relation   purposes 
+   collected    processed
+ personal data  collected   specified explicit  legitimate purposes  may
+   processed   way incompatible   purposes unless otherwise
+provided  law
+ personal data must  accurate  kept   date prior  collecting personal data 
+data controller verifies  accuracy  personal data  examining  identity document 
+  suitable public document   data subject
+ personal data may   stored   long  necessary  achieve  purpose  
+  collected   processed  completion   purpose  processing
+personal data shall  erased deleted destroyed blocked  anonymised unless otherwise
+provided   law  archive material  archives    relevant law
+                                               
+                                          scope  activity
+  law shall apply   processing  personal data  public  private bodies 
+law shall  apply   processing  personal data    done  purely personal
+purposes
+  law shall also  applied  diplomatic  consular offices  well   
+official representative offices   republic  kosovo abroad
+  law shall also apply   data controller    established   republic 
+kosovo     purposes  processing personal data makes use  equipment
+automatic  otherwise   republic  kosovo unless  equipment  used  
+purposes  transit   territory  kosovo   circumstances  controller
+must designate  representative established  kosovo
+ paragraph      articles        v five   law
+shall  apply  personal data   processed  media   purpose  informing
+ public    purposes  artistic  literary expressions
+ articles       law shall  apply  personal data   processed 
+political parties trade unions associations  religious communities  relation  
+members
+                                                                                             
+
+                                            ii
+                            legitimacy  data processing
+                                            subchapter 
+                                    legal grounds  purposes
+                                                
+                                 lawful processing  personal data
+  personal data may   processed 
+              data subject  given    consent
+             processing  necessary   performance   contract    data
+           subject  party   order  take steps   request   data subject prior 
+           entering   contract
+             processing  necessary  compliance   legal obligation   
+           controller  subjected
+             processing  necessary  order  protect  vital interests   data
+           subject
+             processing  necessary   performance   task carried   
+           public interest    exercise  official authority vested   controller   
+           third party    data  disclosed 
+             processing  necessary   purposes   legitimate interests pursued
+             controller    third party  parties    data  disclosed
+           except   interests  overridden   interests  fundamental rights
+            freedoms   data subject
+                                                
+                                processing  sensitive personal data
+ sensitive personal data may   processed   following cases
+              data subject  given  consent
+              processing  necessary   purposes  fulfilling  obligations 
+           specific rights   data controller   field  employment  accordance 
+           relevant laws  also provide appropriate safeguards   rights   data
+           subject
+                                                                                                   
+
+               processing  necessary  protect  vital interests   data subject
+              data subject  physically  legally incapable  giving   
+            consent pursuant  point    paragraph
+                processed   purposes  legitimate activities  institutions
+            societies associations religious communities tradeunions   nonprofit
+            organizations   political philosophical religious  tradeunion aim  
+              processing concerns  members  data subjects  regular contact 
+              connection   aims      disclose  data  others
+            without  written consent   data subject
+               data subject  made  public without evidently  explicitly
+            restricting  use
+                processed  healthcare workers  healthcare staff 
+            compliance  relevant laws   purposes  protecting  health  
+            public  individuals   management  operation  health services
+               processing  necessary  asserting  opposing  legal claim
+                processed  accordance  relevant law  reasons  substantial
+            public interest
+                                                 
+                                 protection  sensitive personal data
+ sensitive personal data must  specifically protected  classified  prevent 
+unauthorized access  use except  instances  subparagraph   paragraph  
+    law
+  sensitive personal data  transmitted  telecommunications networks  shall
+ considered  suitably protected    encrypted  ensure  illegibility  non
+recognition
+                                                 
+                                     automated decisionmaking
+ automated decisionmaking  might produce legal effects  significantly affect 
+data subject    solely based  automated data processing intended  evaluate
+certain personal aspects especially  data subjects performance  work creditworthiness
+reliability conduct  compliance  certain conditions shall   permitted  
+decision
+                                                                                                
+
+             taken   conclusion  performance   contract provided  
+           request  conclude  implement  contract submitted   data subject  
+           satisfied    exist appropriate measures  protect    legitimate
+           interests   arrangements enabling  data subject  object   decisions
+             express    position
+             provided  law  also provides measures  protect  legitimate
+           interests   data subject particularly  possibility  legal remedy 
+            decisions
+                                                 
+              processing  historical statistical  scientificresearch purposes
+ irrespective   initial purpose  collection personal data may   processed 
+historical statistical  scientificresearch purposes
+  personal data   processed  purposes mentioned  paragraph   
+  shall  anonymized unless otherwise provided  law    data subject 
+given    prior written consent
+ personal data disclosed  data recipients  accordance  paragraph    
+shall  completion  processing  destroyed  deleted unless otherwise provided  law
+following  destruction  deletion  data recipient shall without delay inform  writing
+ data controller  disclosed  data      data  destroyed 
+deleted
+  results  processing  paragraph     shall  published 
+anonymised form unless otherwise provided  law unless  data subject  given  
+ prior written consent   publication   nonanonymised form  unless  prior
+written consent   publication   given   legal heirs   deceased
+individual   law
+                                                 
+                             information   given   data subject
+  personal data  collected directly   data subject  data controller  
+representative must provide  data subject   moment  collecting  data   least
+ following information except   data subject  already acquainted  
+            identity   data controller     possible representative  
+           personal names title  respectively official name address  seat  
+           applicable electronic address  phone number
+             purpose   processing
+                                                                                               
+
+             information  whether  replies   questions  compulsory 
+            voluntary  well  consequences  case  failure  reply
+             information   right  access transcription copy supplement correction
+            block  erase  personal data
+   view   special circumstances  collecting personal data  paragraph   
+    need  ensure lawful  fair processing  personal data  data
+controller  paragraph     must also provide  data subject  
+additional information   data subject   yet acquainted    following
+             information    recipients   categories  recipients   personal
+            data
+              legal basis   processing operations
+  personal data   collected directly   data subject  data controller  
+representative must provide  data subject   following information except  
+data subject  already acquainted  
+             identity   data controller     possible representative  
+            personal names title respectively official name  address  seat  
+            applicable electronic address  phone number
+              purpose   processing
+             information   right  access transcribe copy supplement correct block
+             erase personal data
+              origin   data
+   view   special circumstances  collecting personal data  paragraph   
+    need  ensure lawful  fair processing  personal data  data
+controller  paragraph     must also provide  data subject  
+following additional information   particular
+             information   categories  personal data collected
+             information    recipients   categories  recipients   personal
+            data
+              legal basis   processing operations
+ information  paragraphs       shall   given   historical
+statistical  scientificresearch purposes   prove impossible   incur large
+                                                                                                
+
+costs  disproportionate efforts   require  large amount  time    processing
+ disclosure  personal data  expressly provided   law
+                                              
+                                      use  connecting codes
+ personal data contained  filing systems   areas  health must   collected 
+processed  using   connecting code
+  connecting code may exceptionally  used  obtain personal data     
+data element   specific case  protect  life  body  data subjects following  use
+  connecting code  official annotation   written record attached   personal
+data must  made thereof without delay
+ personal data   land register   commercial register may  collected 
+processed  using   connecting code
+                                              
+                                    disclosure  personal data
+  data recipient shall carry forward  cost   legal disclosure  data   data
+controller   provided otherwise  law
+ information  central population register   register  records  permanently
+ temporarily registered residents shall  disclosed  recipients showing  legitimate
+interest  following information contain personal name  permanent  temporary
+address   data subject
+  disclosing  information  data controller must ensure   following
+information  registered  personal data  disclosed      
+legal basis  information   disclosure    kept   data subjects data
+  long    stored
+                                              
+                       protection  personal data  deceased individuals
+ personal data  deceased individuals may   disclosed  recipients authorized 
+law
+ irrespective  paragraph     personal data  deceased individuals may 
+disclosed   legal heirs   demonstrate  legitimate interest   deceased
+individuals   prohibit  writing  disclosure   personal data
+                                                                                              
+
+ personal data  deceased individual may  disclosed  historical statistical 
+scientificresearch purposes   deceased individual  preliminarily allowed  writing
+ disclosure   data unless otherwise provided  law
+   deceased individual  preliminarily allowed  disclosure  hisher data  legal
+heirs may allow  writing  disclosure   data unless otherwise provided  law
+                                           subchapter b
+                       obligations  data controllers  data processors
+                                             
+                                    security  data processing
+ security  personal data comprises appropriate organizational technical  logic
+technical procedures  measures  protect    prevent  accidental  deliberate
+unauthorized destruction disclosure modification access  use  data   accidental 
+deliberate loss
+              protecting premises equipment  systems software including access
+           control
+             protecting software applications used  process personal data
+             preventing  unauthorized access   reading  personal data 
+            storage  transmission including  transmission via telecommunications
+           means  networks
+              ensuring effective methods  blocking destruction deletion 
+           anonymization  personal data
+             enabling subsequent determination   personal data  entered 
+            filing system accessed modified disclosed destroyed used  otherwise
+           processed       whole storage period
+  personal data  processed via telecommunications networks  must  ensured  
+processing takes place within  limits foreseen  law also  hardware  systems
+software   software applications must ensure  appropriate level  data protection
+  procedures  measures  protect personal data must  adequate  kept  
+date taking  account  nature   personal data   protected   risks
+represented   processing   data
+                                                                                             
+
+ functionaries employees   individuals performing tasks related   processing
+ data including  data controller  obliged      contracted work 
+protect  confidentiality  personal data    become familiar
+                                              
+                                       contractual processing
+  data processor may  entrusted   processing  personal data  written contract
+     registered   republic  kosovo  perform  activities pursuant 
+procedures  measures foreseen      law
+  data processor may  act within  limits   data controllers authorizations 
+may  process personal data    purpose mutual rights  obligations shall 
+arranged  written contract  must also contain  detailed description   procedures
+ measures pursuant      law
+  data controller shall oversee  implementation  procedures  measures pursuant
+     law  may also include adhoc visits   premises  
+personal data processing takes place
+   event   dispute   data controller   data processor  data
+processor shall immediately  request   data controller return  data    
+possession  data processor   allowed  keep copies   process   
+   event  cessation   data processors activities personal data shall immediately 
+returned   data controller
+                                              
+                                 obligation  secure personal data
+ data controllers  data processors shall care   time  personal data  protected
+  manner set       law
+ data controllers  data processors shall describe   internal acts  procedures 
+measures established   security  personal data  shall nominate  writing
+competent persons   responsible  filing systems    due   nature 
+ work shall process personal data
+                                                                                               
+
+                                            subchapter c
+                                            filing systems
+                                               
+                                       filing system catalogue
+  data controller shall establish   filing system  detailed description called filing
+system catalogue containing
+           title   filing system
+           identity   data controller     representative  natural persons
+          personal names permanent  temporary address  activities  performed
+           permanent  temporary address  residence   applicable phone
+          number  email address  independent traders  official names
+          registered office seat  registration number   applicable phone number
+           email address  legal persons name   founder title  registered office
+          address  seat registration number   applicable phone number  email
+          address
+           legal basis   data processing
+            categories  data subjects
+            categories  personal data   filing system
+           purpose  processing
+           intended duration  storage  personal data
+           restrictions   rights  data subjects   legal basis  
+          restrictions
+           data recipients  categories  data recipients contained   filing system
+           information  whether personal data       transferred 
+          another country        legal grounds  
+          transfers
+            general description   procedures  measures pursuant    
+           law
+           data  linked filing systems  official records  public books
+                                                                                               
+
+  data controller must ensure   content   filing system catalogue  accurate
+ kept   date
+                                                
+                                     notification   agency
+ data controllers shall provide  agency  writing   electronic means 
+information   points  paragraph       law  least twenty  days
+prior  establishing  filing system  prior   entry  new categories  personal data
+ data controllers shall inform  agency   modifications   information 
+paragraph      later  eight  days   date  modification
+                                                
+                                            prior checking
+ following  receipt   notification  agency checks whether  processing
+operation  likely  present specific risks   rights  freedoms   data subjects 
+virtue   nature   personal data  processed   scope   purposes  
+data processing
+  agency shall deliver  opinion within three  weeks following receipt  
+notification  period may  suspended   agency  obtained  
+information   considers necessary depending   complexity   matter 
+period may  extended   three  months  decision   agency    
+notified   data controller prior   expiry   three  month period
+   opinion    delivered   end   three  month period  
+extension thereof  shall  deemed   favourable
+   agency    view   notified processing may involve  breach  data
+protection rules  shall make appropriate proposals  avoid  breaches
+  data controller   respect  proposals  decisions issued   agency 
+ensure lawful data processing
+                                                
+                                               register
+  agency shall establish  maintain  register  filing systems containing
+information      law defined  accordance   internal procedures
+  register shall  managed  using information technology means  shall 
+published   website   agency
+                                                                                                
+
+  rules   internal procedures  paragraph     shall  defined  
+sublegal act
+                                          iii
+                               rights   data subject
+                                              
+                                    consultation   register
+every person   right  consult  register  filing systems kept   agency 
+make copies  transcribe details free  charge
+                                              
+                                          right  access
+ every data subject can consult  filing system catalogue kept   data controller 
+data controller shall provide  data subject     request   following
+information
+           personal data stored    
+            purposes   processing   categories  personal data 
+          processed
+            legal basis   processing 
+            origin   data
+           data recipients  categories  data recipients      basis
+             purposes  data subjects data  disclosed including data
+          recipients   countries
+           technical procedures  information regarding  logic included  decision
+          making  applicable
+  extract issued   data controller   personal data stored     shall
+ replace  document  certificate    indicated   extract
+                                                                                            
+
+                                                 
+                                          procedure  access
+ data subjects can ask data controllers  regular intervals  consult transcribe  copy
+information related   pursuant      law  can ask   extract  
+copy   information  request can  lodged orally  writing   electronic means
+ within fifteen  days data controllers   confirm  writing  receipt   data
+subjects request  within   period  time    inform  data subject 
+writing   reasons   request   accommodated
+ within thirty  days following receipt   request data controllers shall provide 
+data subject   extract   copy   information requested according  paragraph 
+     law
+   data controller fails  act  accordance  paragraphs       
+data subject can consult  agency
+ costs relating   requests lodged  data subjects    shall  borne 
+ data controller
+                                                 
+              right  supplement correct block destroy erase delete  object
+   data subjects request  data controller must supplement correct block destroy
+delete  erase personal data   data subject proves   incomplete inaccurate 
+   date     collected  processed contrary  law
+   data subjects request  data controller must immediately inform  data
+recipients  data processors   personal data  disclosed   measures
+taken according  paragraph      data controller   obliged    
+  incur large costs
+ data subjects whose personal data  processed  accordance  subparagraphs 
+       law shall   right  object   time   processing 
+ data  data controller shall accept  objection   data subject demonstrates 
+ conditions  processing    fulfilled pursuant  subparagraphs   
+     law   case  personal data   data subject may  longer 
+processed
+   data controller   accept  objection  paragraph     
+data subject may ask  agency  decide  whether  processing   accordance 
+subparagraphs         law  data subject may lodge  request
+within fifteen  days upon receipt   data controllers objection
+                                                                                                
+
+  agency shall decide  requests  paragraph     within two 
+months upon receipt  lodging   request shall suspend  processing   personal
+data
+ costs  measures  paragraph     shall  borne   data controller
+                                                
+    procedure  supplementing correction blocking erasure destruction deletion 
+                                               objection
+  request  objection according      law can  lodged orally 
+writing   electronic means
+ within fifteen  days data controllers shall supplement block correct erase destroy 
+delete personal data  question following receipt   request  shall inform  writing
+ data subject within   period  time   reasons  refusal within  
+period  time data controllers shall decide   objection raised   data subject
+regarding  processing     data
+  data controllers fail  act pursuant  paragraph      data subject can
+consult  agency
+   data controller concludes        personal data  incomplete
+inaccurate     date    shall supplement  correct   inform  data
+subject accordingly unless otherwise provided   law
+  costs relating   completion correction blocking destruction erasure  deletion
+ personal data    notification  decision regarding  objection shall  borne 
+ data controller
+                                                
+                       judicial protection   rights   data subject
+ data subjects  find   rights provided    law   violated may
+request judicial protection   long   violation lasts   without prejudice  
+data subjects right  consult  complain   agency according   law
+   violation  paragraph     ceases  data subject may file  suit 
+ competent court  rule   violation existed       provided  
+judicial protection  relation   violation
+                                                                                               
+
+                                               
+                    temporary prohibition  processing  personal data
+  suit submitted due  violations  rights      law data subjects may
+ask  court   final decision  issued  bind  data controller  prevent  kind 
+processing   disputed personal data   processing  cause irreparable damage
+  data subject   postponement  processing    contrary  public
+interests  neither    danger  greater irredeemable damage  done  
+opposing party
+                                               
+                                    restrictions  exemptions
+  rights   data subject    articles      law  
+obligation  publish  register  filing systems  paragraph       law
+may exceptionally  restricted  law  reasons 
+            national security
+            national defence
+            public security
+             prevention investigation detection  prosecution  criminal offences 
+            breaches  ethics  regulated professions
+             important economic  financial interest   republic  kosovo
+           including monetary budgetary  taxation matters
+             monitoring inspection  regulatory functioning connected even
+           occasionally   exercise  official authority  cases referred  sub
+           paragraphs       paragraph
+             protection   data subject    rights  freedoms  others
+ measures  paragraph     may   taken   extent necessary 
+achieve  purpose    restrictions  introduced
+                                                                                                
+
+                                           iv
+                    institutional protection  personal data
+                                            subchapter d
+                        national agency   protection  personal data
+                                               
+                                       status   agency
+  national agency   protection  personal data   independent agency 
+charge  supervising  implementation  data protection rules  members act
+independently  accordance   law  must  take  instructions  third
+parties  shall respond   kosovo assembly
+      agency shall  particular
+             give advice  public  private bodies  data protection related questions
+             decides  complaints   data subject
+             carry  inspections  audits
+             inform  public  issues  developments   field  data
+            protection 
+              promote  uphold  fundamental right  data protection
+                                               
+                                     organization   agency
+  agency  presided   council consisting   chief state supervisor  four 
+national supervisors hereinafter  supervisors  least one   council members
+must   university degree  law decisions   council shall  taken  simple
+majority
+  chief state supervisor shall represent  agency organize  coordinate  work
+                                               
+                           appointment   chief national supervisor
+  chief state supervisor may  appointed  person   university education 
+five  years  professional working experience
+                                                                                                
+
+  chief state supervisor shall  appointed   national assembly   proposal
+  kosovo government   period  five  years  may  reappointed 
+                                              
+                            appointment   national supervisors
+ persons   university education  three  years  professional working
+experience may  appointed  national supervisors
+ national supervisors shall  appointed   assembly  kosovo   proposal  
+government  kosovo   period  five  years  may  reappointed 
+                                              
+                           deputy   chief national supervisor
+ chief state supervisor shall choose among  national supervisors    deputy
+ shall replace        absence  temporary incapacity
+                                              
+                                    dismissal   supervisors
+  members   council may  released   duties    following cases
+             tender  statement  resignation   kosovo assembly
+              convicted   final decision   criminal offence  prison 
+           six months
+           neglect  official duty
+              perform  duties  health   important reasons 
+            six  months
+             become permanently incapable  performing  duties
+  members   council shall  released   duties early   position
+shall cease   day  kosovo assembly determines  reasons  paragraph   
+
+                                                                                            
+
+                                              
+                                   independence  supervisors
+   performance   tasks  members   council act  complete independence
+   bound   law  constitution   relevant laws  shall refrain
+  action incompatible   duties   exercise   occupation
+whether gainful  
+  members   council shall closely work together  shall assist    
+performance   duties
+                                              
+                             internal organization   agency
+  chief state supervisor shall define  accordance   relevant law  force 
+sublegal act   internal organization  functioning   agency
+   agency may  assigned  perform legal tasks  ancillary work civil servants 
+state bodies   basis   proposal   chief state supervisor judges  state
+prosecutors may  assigned  perform  tasks pursuant   provisions   law 
+courts  prosecutors office
+ civil servants  officials  paragraph     may  conduct inspections
+ shall assist  supervisors  preparing  carrying   inspections
+                                              
+                                funds   work   agency
+  agency    budget administered independently  accordance   law
+ funds   work   agency shall  provided   kosovo budget  budget
+  agency shall  determined   kosovo assembly   proposal   chief
+state supervisor
+                                                                                          
+
+                                           subchapter e
+                                        tasks   agency
+                                               
+                        providing advice  public  private institutions
+  agency shall advise  kosovo assembly  government local governing
+community bodies  state bodies  holders  public powers   matters regarding
+data protection including interpretation  application  relevant laws
+  agency shall also advise private institutions   data protection related matters
+ requested    including  interpretation  application  relevant laws
+                                               
+                                        obligation  consult
+ kosovo assembly   kosovo government  inform  agency  drawing
+ legislative  administrative measures relating   processing  personal data 
+agency   consulted prior   adoption   measures
+                                               
+                                   right  start legal procedures
+  agency files  request   constitutional court  kosovo  assess 
+constitutionality  laws regulations   acts   believes    
+compatible   right  data protection  enshrined      kosovo
+constitution
+  agency files  suit  competent court  cases   believes   right 
+data protection   infringed
+                                               
+                                         right  complain
+ every person   right  lodge  complaint   agency     believes 
+   right  data protection   violated
+ complaints can  lodged orally  writing   electronic means
+                                                                                          
+
+                                              
+                                      handling  complaints
+  agency shall immediately inform  complainant   outcome  action taken
+following  investigation   complaint
+  procedure regarding complaints will  regulated  sublegal act   agency
+                                              
+                                   cooperation   bodies
+ agency shall cooperate  national international  european union bodies
+regarding issues considered important   protection  personal data
+                                           subchapter f
+                                         publicity  work
+                                              
+                                       annual work activities
+  agency shall submit  annual activities report   work   kosovo assembly
+  publish   later    march   coming year
+  annual activities report shall give  overview   work   agency  
+developments   field  data protection   previous year  shall spell 
+assessments  recommendations regarding  protection  personal data
+                                              
+                                    publicity concerning work
+  agency may publish   website   another appropriate manner
+             internal journal  professional literature
+            advise given according  paragraph       law 
+          particular  laws   regulations concerning  processing  personal data
+            adopted  published   official gazette
+            requests      law   constitutional court 
+          received 
+                                                                                         
+
+             decisions   constitutional court  requests     
+           law
+             decisions  courts  general jurisdiction relating   protection 
+           personal data however   cases     indication  personal
+           data  parties injured parties witnesses  experts involved
+            opinions   compliance  codes  professional ethics general terms 
+           business  drafts thereof  regulations   area  data protection
+            opinions clarifications  positions  issues   area  data protection
+             instructions  recommendations regarding  protection  personal data
+            individual fields
+            public statements  inspections undertaken  individual cases
+              important announcements
+  agency shall hold regular media conferences relating   work  publish
+transcripts  statements  recordings  statements   website     way
+considered appropriate  may also hold seminars  organize awareness raising campaigns
+ considered appropriate
+  agency may   performance   tasks encourage  cooperation 
+representatives  associations   nongovernmental organizations   area  data
+protection privacy  consumer protection
+                                             subchapter g
+                                        inspections  audits
+                                                
+                                         scope  inspections
+  agency may carry  inspections  audits    initiative  monitor 
+compliance  data protection rules within  framework  inspection powers 
+agency shall
+            monitor  legitimacy  data processing
+            monitor  suitability  procedures  measures taken   protection 
+           personal data pursuant   law
+                                                                                                
+
+            monitor  implementation   provisions   law regulating  filing
+           system catalogue  register  filing systems   recordings  
+           disclosures  personal data  recipients
+            monitor  implementation  provisions regarding  transfer  personal
+           data   countries  international organizations
+                                               
+                                  direct performance  inspections
+ inspection  audits shall  carried  directly   supervisors within  limits 
+ competences
+ supervisors  carrying  inspections  audits shall identify   
+official identity card containing  photograph   supervisor    personal name
+professional  scientific title   necessary information
+  government  kosovo shall issue  official identity cards   supervisors
+according  sublegal act upon  proposal   agency detailing  format  
+content   cards
+                                               
+                                  responsibility   supervisors
+  performing inspection  audits  supervisors shall  entitled
+             examine  confiscate  documentation relating   processing 
+           personal data irrespective   confidentiality  secrecy   transfer 
+           personal data   countries  international organizations  well  
+           disclosure  foreign recipients
+             examine  contents  filing systems irrespective   confidentiality 
+           secrecy   filing system catalogues
+             examine  confiscate  documentation  instructions regulating 
+           security  personal data
+             examine premises   personal data  supposed   processed 
+             entitled  examine  confiscate computers    equipment 
+           technical documentation
+             verify measures  procedures intended  secure personal data  
+           implementation thereof
+                                                                                               
+
+             perform   matters considered necessary   carrying  
+           inspections  audits  provided   law
+                                               
+                                        inspection measures
+   supervisor notices  violation   law    law  regulation governing 
+processing  personal data    shall   right  immediately
+            order  elimination  irregularities  deficiencies    notices  
+           manner  within  terms     previously defined  may include
+            erasure blocking destruction deletion  anonymization  data  compliance
+             law
+            impose  temporary  definite ban   processing  personal data 
+           controllers  processors   public  private sectors   failed 
+           implement  necessary measures  procedures  secure personal data
+            impose  temporary  definite ban   processing  personal data 
+           anonymity classification  blocking whenever    concludes  
+           personal data   processed  contravention  legal provisions
+            impose  temporary  definite ban   transfer  personal data  
+           countries  international organizations   disclosure  foreign recipients 
+             transferred  disclosed  contravention  legal provisions 
+           international agreements
+             minor cases  violations  supervisor can warn  admonish  data
+           controller  data processor  writing
+  case  irregularities  deficiencies  data controller  data processor shall
+immediately correct   following  written instructions  advice   supervisor 
+ensure lawful data processing
+  shall   appeal   final decision   supervisor  paragraph   
+   administrative dispute shall  permitted   competent court
+                                               
+                                    protection  confidentiality
+  supervisors shall  obliged  protect  confidentiality  personal data 
+encounter  performing  tasks also  ceasing  perform  duties
+                                                                                              
+
+  obligation  paragraph     shall apply    members working 
+ agency
+                                          v
+                              transfer  personal data
+                                          subchapter h
+        transfer  personal data   countries  international organizations
+                                              
+                                       general provisions
+ transfer   countries  international organizations  personal data  
+processed   intended   processed  transfer may take place   accordance
+  provisions   law    country   international organization 
+question ensures  adequate level  data protection
+                                              
+                procedure  determining  adequate level  data protection
+countries  international organizations  considered  ensuring  adequate level 
+data protection   agency  taken  formal decision    included  
+respective list established   agency  accordance   law
+                                              
+       list  countries  international organizations   adequate level  data
+                                            protection
+  agency shall maintain  list  countries  international organizations   
+finds   ensure  adequate level  data protection   meaning   law
+  list can contain  member states   european union   european
+economic area    countries  agency can take   decisions taken  
+competent body   european union   whether  countries  international
+organizations ensure  adequate level  data protection   can take  formal decision
+according      law
+  agency shall publish  list  paragraph       official gazette
+   website
+                                                                                          
+
+                                               
+            decisions   adequate level  data protection   countries 
+                                     international organizations
+   decisionmaking   adequate level  protection  personal data  another
+country   international organization  agency shall determine  circumstances
+relating   transfer  personal data  particular  shall take account   type 
+personal data  purpose  duration   proposed processing  legal arrangement 
+ country  origin   recipient country including legal arrangement  protection 
+personal data  foreign citizens  measures  secure personal data used   countries
+ international organizations
+   decisionmaking  paragraph      agency shall  particular take
+account 
+             whether  transferred personal data  used solely   purpose  
+             transferred  whether  purpose may change    basis  
+           permission   data controller supplying  data    basis  personal
+           consent   data subject
+            whether  data subject   possibility  determining  purpose 
+               personal data   used     supplied  
+           possibility  correcting  erasing inaccurate  outdated personal data unless 
+            prevented due   secrecy   procedure  binding international treaties
+            whether  foreign data controller  data processor performs adequate
+           organizational  technical procedures  measures  protect personal data
+            whether    assigned contact person authorized  provide information
+             data subject    agency   processing  personal data transferred
+            whether  foreign data recipient may transfer personal data   
+           condition  another foreign data recipient   personal data will 
+           disclosed ensures adequate protection  personal data also  foreign citizens
+            whether provide legal protection  ensured  data subjects whose personal
+           data      transferred
+                                               
+                                    criteria  decision making
+ agency defines  greater detail  information  necessary  decide whether
+another country   international organization provides  adequate level  data protection
+  meaning   law
+                                                                                               
+
+                                                
+                                          special provisions
+ irrespective      law personal data may  transferred  disclosed  
+country  international organizations  ensuring  adequate level  data protection  
+               provided  another law  binding international treaty
+             data subject  given    consent   aware   consequences
+             transfer
+             transfer  necessary   performance   contract   data
+           subject   data controller    implementation  precontractual
+           measures taken  response   data subjects requests
+             transfer  necessary   conclusion  performance   contract
+           concluded   data subjects interests   data controller   third
+           party
+             transfer  necessary  legally required  important public interest
+           grounds
+             transfer  necessary  protect  life  body   data subject
+             transfer  necessary   establishment exercise  defence  legal
+           claims
+             transfer  made   register  according  laws  regulations 
+           intended  provide information   public    open  consultation
+           either   public  general    person  can demonstrate  legitimate
+           interest   extent   conditions laid   consultation  fulfilled 
+            particular case
+                                                   
+                                  authorization  data transfers
+ without prejudice      law  agency may authorize  transfer   set 
+transfers  personal data  another country   international organization  ensuring 
+adequate level  data protection within  meaning   law   data controller
+adduces adequate safeguards   protection  personal data   fundamental rights
+ freedoms  individuals  regards  exercise  adduces rights  safeguards may
+result   provisions   contract   general terms  business activities governing
+ transfer  personal data
+                                                                                               
+
+  data controller may transfer personal data  upon receipt   authorization
+according  paragraph         request  authorization  data
+controller shall provide  agency   information necessary regarding  required
+transfer  personal data  includes  particular  categories  data  purpose  
+transfer   safeguards  place   protection  personal data    country 
+international organization
+  agency shall decide   application  paragraph     without delay
+ shall define   sublegal act  details  internal procedures  filing  requests
+  mentioned decision  final  administrative procedure   administrative
+dispute shall  permitted   competent court
+                                              
+                                  registration  authorizations
+ authorizations concerning  transfer  personal data  another country 
+international organization granted   agency shall  registered  accordance  sub
+paragraph   paragraph       law
+                                          vi
+                                 rights  supervision
+                                           subchapter 
+                                         direct marketing
+                                              
+                          rights  responsibilities  data controllers
+ data controllers may use personal data  obtained  publicly accessible sources 
+within  framework   lawful performance  activities   purposes  offering
+goods services employment  temporary performance  work   use  postal
+services telephone calls electronic mail   telecommunications means hereinafter
+direct marketing  accordance   provisions    unless otherwise
+provided  relevant law
+   purposes  direct marketing data controllers may use   personal data
+collected  accordance  paragraph     personal names permanent 
+temporary address telephone number email address  fax number based   data
+subjects prior consent data controllers may process  personal data  may  process
+personal sensitive data   possess  written consent
+                                                                                               
+
+  data controllers  direct marketing data controllers must inform data subjects 
+ rights according      law
+  data controllers intend  disclose personal data  paragraph      
+data recipients   purposes  direct marketing   data processors  shall inform
+ data subject  get    written consent  disclosing  data 
+notification   data subject regarding  intended disclosure must contain  information
+  intended   disclosed  well       purposes  costs 
+notification shall  borne   data controller
+                                               
+                                           right  object
+  data subject may   time  writing request  data controllers permanently 
+temporarily cease  use    personal data   purposes  direct marketing within
+eight  days following  receipt   data subject objection data controllers shall
+refrain  using  personal data  direct marketing  within  subsequent five 
+days  shall inform  data subject  writing confirming  data subjects wishes
+  costs regarding  data controllers activities   requests  paragraph   
+ shall  borne   data controller
+                                            subchapter j
+                                         video surveillance
+                                               
+                                         general provisions
+  provisions   subchapter shall apply   installation  video surveillance
+systems unless otherwise provided  relevant law
+ public  private sector persons intending  install video surveillance systems must set 
+ notice   effect   notice must  plainly visible  made public   way 
+data subjects can easily acquaint    measures   latest   video
+surveillance begins
+   correct notification  paragraph      data subject shall 
+deemed    informed   processing  personal data pursuant    
+ law
+  video surveillance system   recordings   monitoring must  adequately
+protected  unauthorized access  use
+                                                                                               
+
+                                               
+                           monitoring  official  business premises
+ public  private sector persons may install video surveillance systems  monitor 
+premises    considered necessary   safety  people   security  property
+video surveillance may  particular  required  monitor  entrance  premises 
+ due   nature   work  exists  potential threat  employees
+  competent functionary director   competent  authorized person   public
+ private sector shall take  necessary decisions
+  decision must contain  reasons  setting   video surveillance systems
+ video surveillance systems may monitor  outside   entrances  premises 
+  entrance   interior  apartments
+ persons working  public  private premises  video surveillance  adequately
+informed  writing   installation   systems   rights
+  data controller shall establish  filing system   recording  video surveillance
+systems  filing system shall contain apart   recordings images andor sound
+date place time   recording    recordings  stored
+  recordings  paragraph     may  stored    six  months
+unless required otherwise  legitimate purposes
+                                               
+                                monitoring  apartment buildings
+   installation  video surveillance systems  apartment buildings  least  
+ owners   agree  writing   measures
+ video surveillance systems may   installed    necessary   safety 
+people   security  property
+ video surveillance systems  apartment buildings may  monitor  entrance 
+common areas monitoring   housekeepers apartment     workshop shall 
+prohibited
+  transmission  video surveillance recordings  internal cable television public
+cable television  internet   telecommunications means whether    time 
+later  shall  prohibited
+                                                                                             
+
+ entrances  individual apartments may   monitored  video surveillance systems
+  owner decides   owner may keep  recordings      
+purposes
+                                               
+                            video surveillance   employment sector
+ video surveillance systems  work places may   done  cases   
+necessarily required   safety  people  security  property   protection 
+confidential information   purposes   achieved  milder means
+ video surveillance must  strictly limited   areas   interests 
+paragraph       stake
+ video surveillance shall  prohibited outside work places particularly  changing rooms
+lifts  sanitary areas
+ prior   installation  video surveillance systems  employer must inform  writing
+ data subjects   rights   reasons   surveillance  monitored areas
+   indicated   employers  appropriate signs
+ prior   installation  video surveillance systems   public  private sectors 
+employer informs  trade union representatives  applicable
+  paragraphs       shall  apply  areas  national defence national
+intelligence  security activities  places   secret data  protected
+                                            subchapter k
+                                      use  biometric features
+                                               
+                                  processing  biometric features
+ determination  use   data subjects biometric characteristics   comparison
+ allow    identification shall  governed   provisions   law
+                                                                                              
+
+                                               
+                           use  biometric features   public sector
+  public sector may  use biometric features    necessarily required  
+safety  people  security  property   protection  confidential data  business
+secrets     achieved  milder means
+ irrespective  paragraph      use  biometric features may  allowed 
+compliance  obligations arising  binding international treaties   
+identification  persons crossing state border
+                                               
+                                           access control
+biometric features may  used   public sector  reasons  access control   case
+ provisions   paragraphs          law shall  applied mutatis
+mutandis
+                                               
+                          use  biometric features   private sector
+  private sector may  use biometric features    necessarily required  
+performance  activities   safety  people  security  property   protection
+ confidential data  business secrets employees    informed  writing prior 
+ use   biometric characteristics   intended measures   rights
+   provided otherwise  relevant law  data controller shall prior   introduction
+ measures using biometrics provide  agency   detailed description   intended
+measures including  information   given  data subjects  reasons  
+introduction   safeguards   protection  personal data
+ upon receipt   information  paragraph      agency shall decide
+within thirty  days whether  intended introduction  measures complies  
+provisions   law
+  data controllers may implement measures using biometrics upon  receipt  
+authorization   agency
+  shall   appeal   decision  paragraph      
+administrative dispute shall  permitted   competent court
+                                                                                              
+
+                                            subchapter l
+                            records  entry   exit  premises
+                                               
+                                             recording
+ public  private sector bodies may  reasons  protecting  safety  people  
+security  property ask persons entering  leaving premises  give   information
+ paragraph      considered necessary  personal data may  verified 
+examining identification documents
+  records registering persons entering  leaving premises may  contain 
+following personal data personal names number  type  identity document permanent
+ temporary address date  time  well   reason  entering  premises
+ records  paragraph     shall  regarded  official documents  
+collection  data  required   purposes  police  intelligenceservice activities
+ personal data contained   records  paragraph     may  stored  
+maximum period  three  years starting   day   recording   shall 
+deleted  destroyed unless otherwise provided  law
+                                           subchapter m
+                          public books  protection  personal data
+                                               
+                                            public books
+personal data contained  public books regulated  relevant law may   used 
+accordance   purposes     collected  processed   statutory
+purpose   collection  processing  defined  definable
+                                            subchapter n
+                                       linking filing systems
+                                               
+                                 official records  public books
+ filing systems  official records  public books may  linked   provided  
+law
+                                                                                               
+
+  data controller  data controllers  intend  link two   filing systems kept 
+different purposes shall prior    notify  writing  agency
+   least one   filing systems   linked contains sensitive data   linking 
+result   disclosure  sensitive data    implementation   linking requires 
+use   connecting code linking shall   permitted without  prior authorization  
+agency
+  agency may authorize  decision  linking  paragraph      
+determines   data controller ensures  adequate level  data protection
+  shall   appeal   decision   paragraph      
+administrative dispute shall  permitted   competent court
+                                                
+                                  prohibition  linking filing systems
+ linking  filing systems  criminal records  minor offence records   filing
+systems   linking  filing systems  criminal records  minor offence records
+shall  prohibited
+                                                
+                                           special provisions
+personal data contained  filing systems  official records  public books shall  kept
+separately   register  filing systems
+                                             subchapter o
+                                       data protection official
+                                                
+                                      official  data protection
+  public bodies processing personal data shall choose  appoint  writing  internal
+data protection official
+  persons  possess  specialized knowledge  demonstrate  reliability
+necessary   performance   duty concerned may  appointed  data protection
+officials
+  data protection official shall  subordinated   head   public body   
+shall suffer  disadvantage   performance     duties
+                                                                                                
+
+  data protection official shall maintain  confidentiality  personal data   
+shall  informed    performance     duties
+  public body shall support  data protection official   performance    
+duties  shall  particular   extent necessary make available equipment  
+recourses
+   data protection official  longer fulfils  conditions mentioned  paragraph  
+     shall  released     duties
+                                              
+                               duties   data protection official
+  data protection official shall assist  public body  ensuring  relevant data
+protection rules  observed  properly implemented   purpose    may
+consult   time  agency
+  data protection official shall regularly monitor  proper use  data processing
+programs   measures  procedures  place  ensure secure data processing
+  data protection official shall  informed   regular basis  persons employed 
+ public body   processing  personal data  relevant rules  provisions  
+ shall also regularly inform  employees   rights  obligations pursuant  
+law  inform   developments   area  data protection
+                                              
+                                              control
+  data protection official may carry  controls      initiative
+  data protection official shall   right  consult extract transcribe  copy
+personal data    encounters   controls    shall respect 
+confidentiality  personal data
+  data protection official shall report  writing   head   public body  
+results   controls
+                                              
+                                   information   data subject
+  carrying  controls  data protection official may inform  data subject 
+writing   performance     duties    may also inform  data subject
+    will provide  public body     opinion   control
+                                                                                            
+
+  data subject  paragraph     may disclose   data protection
+official additional information  might  necessary  carry   control
+                                                
+                                       sensitive personal data
+   performance   control sensitive personal data  processed  data protection
+official shall make  official annotation   file   data subject
+                                           vii
+                                       penal provisions
+                                                
+                          general violations   provisions   law
+  fine  four thousand   ten thousand  euros shall  imposed
+ minor offences   legal  independent trader
+                 processes personal data without  legal basis   consent 
+            data subject according  paragraph      paragraph    
+             law
+              entrusts  individual task relating   processing  personal data 
+           another person without concluding  written contract  accordance  paragraph
+                 law
+              processes sensitive personal data  contravention      law
+              protect   accordance      law
+              processes personal data  contravention      law
+              collects personal data  purposes    clearly defined 
+           unlawful    continues  process   contravention     
+           law
+              discloses   data recipient personal data  contravention  paragraph 
+                   destroy personal data  accordance  paragraph 
+                 publish  results  processing  accordance 
+           paragraph       law
+                inform  data subject   processing  personal data 
+           accordance      law
+                                                                                               
+
+              uses   connecting code  contravention      law
+                delete destroy block  anonymise personal data  
+           purpose     collected andor processed   achieved 
+           accordance  paragraph       law
+                acts  contravention      law
+                fails  ensure   filing system catalogue contains 
+           information provided       law
+              fails  notify  agency  information regarding  register  filing
+           systems according      law
+              acts  contravention  paragraphs        
+           paragraphs          law
+              acts  contravention     paragraphs       
+            law
+              acts  contravention  paragraph       contravention 
+             concerning  transfer  personal data   countries 
+           international organizations
+  fine   minor offence  five hundred   two thousand  euros
+shall  imposed   responsible person   legal person  independent trader 
+infringements  subparagraph   paragraph    
+  fine  five hundred   two thousand  euros shall  imposed  
+minor offence   responsible person   state body  commits  act  paragraph
+   
+  fine  two hundred   eight hundred  euros shall  imposed  
+minor offence   individual  commits  act  paragraph    
+                                                 
+                      violation   provisions  contractual processing
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person   person  practices  independent activity  
+oversteps  authorization contained   contract  paragraph      
+law    return personal data  accordance  paragraph      
+law
+                                                                                              
+
+  fine   five hundred   two thousand  shall  imposed  
+responsible person   legal person    person  practices  independent activity
+ violations  paragraph    
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   state body  commits  act 
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed 
+ individual  commits  act  paragraph    
+                                               
+                     violation   provisions  security  personal data
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person    person  practices  independent activity
+    fails   processing  personal  ensure  adequate level  security 
+ protection  personal data according  articles      law
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   legal person    person  practices
+ independent activity  commits  act  paragraph    
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   state body  commits  act 
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed 
+ individual  commits  act   paragraph   
+                                               
+                         violation   provisions  direct marketing
+  fine   two thousand   four thousand  euros shall  imposed
+  minor offence   legal person   person  practices  independent activity  
+accordance   law  processes personal data   purposes  direct marketing 
+  act  accordance  articles      law
+  fine   four hundred   one thousand  euros shall  imposed 
+ minor offence   responsible person   legal person    person practicing 
+independent activity  commits  act  paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   individual  commits  act  paragraph    
+                                                                                              
+
+                                               
+                       violation  general provisions  video surveillance
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person    person practicing  independent activity
+                publish  notice   manner set   paragraph   
+              law
+              information   contain  necessary information  paragraph 
+                law
+                protect  video surveillance system   recordings 
+           contravention  paragraph       law
+  fine   eight hundred   one thousand  euros shall  imposed
+  minor offence  paragraph       responsible person   legal
+person    person  practices  independent activity
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   state body  commits  act 
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   individual  commits  act  paragraph    
+                                               
+       violation   provisions  video surveillance regarding access  official 
+                                         business premises
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person    person practicing  independent activity
+              implements video surveillance systems without  necessary written
+           decision  without  legal grounds      law
+              implements video surveillance systems  monitor  interior 
+           residential buildings  contravention  paragraph    
+                inform employees  writing  paragraph    
+               stores personal data  contravention  paragraph      
+           law
+                                                                                             
+
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   legal person    person practicing 
+independent activity  commits  act  paragraph    
+  fine   five hundred   two thousand  euros shall  imposed 
+ minor offence   responsible person   state body  commits  act  
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   individual  commits  act   paragraph    
+                                             
+           violation   provisions  video surveillance  apartment buildings
+  fine   two thousand   eight thousand  euros shall  imposed
+  minor offence   legal person    person practicing  independent activity 
+implements video surveillance systems  contravention      law
+  fine   four hundred   one thousand  euros shall  imposed 
+ minor offence  paragraph      responsible person   legal person 
+  person practicing  independent activity
+  fine  eight hundred   one thousand  euros shall  imposed  
+minor offence   responsible person   state body  commits  act  paragraph
+   
+  fine   two hundred   four hundred  euros shall  imposed  
+individual  commits  act  paragraph    
+                                             
+                 violation   provisions  video surveillance  work areas
+  fine   four thousand   ten thousand  euros shall  imposed
+  legal person    person practicing  independent activity  implements video
+surveillance systems  work areas  contravention      law
+  fine   one thousand   two thousand  euros shall  imposed
+  minor offence  paragraph       responsible person   legal
+person    person practicing  independent activity
+  fine   one thousand   two thousand  euros shall  imposed
+  minor offence   responsible person   state body  commits  act 
+paragraph    
+                                                                                          
+
+  fine   eight hundred   one thousand  euros shall  imposed
+  individual  commits  act  paragraph    
+                                              
+                  violation   provisions  biometrics   public sector
+  fine   four thousand   ten thousand  euros shall  imposed
+  legal person    person practicing  independent activity  implements
+biometric measures  contravention      law
+  fine   one thousand   two thousand  euros shall  imposed
+ paragraph       responsible person   legal person    person
+practicing  independent activity
+  fine   one thousand   two thousand  euros shall  imposed
+  responsible person   state body  commits  act  paragraph   
+
+                                              
+                  violation   provisions  biometrics   private sector
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person   independent trader  implements biometric
+measures  contravention      law
+  fine   one thousand   two thousand  euros shall  imposed
+  responsible person   legal person    person practicing  independent
+activity  commits  act  paragraph    
+                                              
+                      violation   provisions  records  entry  exit
+   legal person   person  practices  independent activity  fine   two
+thousand   four thousand  euros
+            shall  imposed   minor offence     uses entry  exit records 
+           official records  contravention  paragraph       law
+             acts  contravention  paragraph       law
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   responsible person   legal person    person practicing 
+independent activity  commits  minor offence  paragraph    
+                                                                                             
+
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   responsible person   state body  commits  minor offence 
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed  
+minor offence   individual  commits  minor offence  paragraph   
+
+                                                
+                        violation   provisions  linking filing systems
+  fine   eight hundred   two thousand  euros shall  imposed
+  minor offence   responsible person   state body  links filing systems 
+contravention      law
+  fine   eight hundred   two thousand  euros shall  imposed
+  minor offence   responsible person   state body  links filing systems 
+criminal records  minor offence records   filing systems  links filing systems
+ criminal records  filing systems  records  minor offences according 
+    law
+                                                
+                     violation   provisions  supervision   expert
+  fine   four thousand   ten thousand  euros shall  imposed
+  minor offence   legal person
+                  carries  controls  contravention  paragraph    
+             law
+                makes  official annotation  contravention     
+           law
+   fine   eight hundred   one thousand  euros shall  imposed
+  minor offence  paragraph       responsible person   legal
+person
+  fine   one thousand   two thousand  euros shall  imposed
+  minor offence   responsible person   state body  commits  act 
+paragraph    
+  fine   two hundred   eight hundred  euros shall  imposed 
+minor offences   individual  commits  act  paragraph    
+                                                                                               
+
+                                        viii
+                        transitional  final provisions
+                                             
+                                       responsibilities
+ pronouncement  penal provisions according   law   exclude 
+responsibilities according  legal provisions  force  particular  liability  data
+controllers  data processors  damages arising  unlawful processing
+                                             
+                                               fees
+ fees  notifications  authorizations according   law will  regulated  sub
+legal act adopted   agency
+                                             
+                                          sublegal acts
+ agency can issue also  sublegal acts  implement  law
+                                             
+                                           abrogation
+ law abrogates part seven   law  l  information association services
+                                             
+                                        entry  force
+ law enters  force fifteen  days   publication   official gazette 
+republic  kosovo
+    law  l
+     april 
+                                      president   assembly   republic  kosovo
+                                                    
+                                                            jakup krasniqi
+                                                                                           
+
