@@ -1,0 +1,451 @@
+                                      law   republic  uzbekistan
+                                               personal data
+adopted   legislative chamber  april  
+approved   senate  june  
+                                       general provisions
+  purpose   law
+ purpose   law   regulate relations   area  personal data protection
+  legislation  personal data
+legislation  personal data shall consist   law   legislative acts
+  international treaty   republic  uzbekistan establishes  rules   contained
+  legislation   republic  uzbekistan  personal data  rules   international treaty shall
+ applied
+  scope   law
+ law applies  relations arising   processing  protection  personal data regardless 
+ means  processing used including information technologies
+ law shall   applied  relations arising   following
+personal data processing performed  individuals  personal domestic purposes   related 
+professional  commercial activities
+formation storage  use  documents   national archives   archival documents
+containing personal data
+processing personal data classified  state secrets
+processing personal data obtained   course  investigative intelligence  counterintelligence
+activities crime control law enforcement  well    framework  combating money laundering
+  basic terms
+ following basic terms  applied   law
+personal data  data recorded  electronic paper    tangible carriers related   particular
+individual  enabling hisher identification
+personal data subject subject   individual   personal data relate
+personal data database   database   form   information system containing personal data
+processing  personal data  implementation  one   set  actions   collection
+systematization storage modification addition use provision dissemination transfer
+depersonalization  destruction  personal data
+operator   personal data database operator   state body individual   legal entity
+processing personal data
+
+possessor   personal data database possessor   state body individual   legal entity entitled
+ possess use  dispose  personal data database
+third party   person   subject possessor   operator  associated   
+circumstances  relations  processing   personal data
+  basic principles   law
+ following main principles  applied   law
+observance  human  citizens constitutional rights  freedoms
+legitimacy   purposes  methods  personal data processing
+accuracy  reliability  personal data
+confidentiality  security  personal data
+equality  rights  subjects possessors  operators
+security   individual society  state
+               state regulation   area  personal data protection
+  bodies executing state regulation   area  personal data protection
+state regulation   area  personal data protection  executed   cabinet  ministers  
+republic  uzbekistan   authorized state body   area  personal data protection
+  powers   cabinet  ministers   republic  uzbekistan   area  personal data
+protection
+ cabinet  ministers   republic  uzbekistan shall   following powers
+ ensure  implementation   unified state policy   area  personal data protection
+ approve state programs   area  personal data protection
+ determine  procedure  maintaining  state register  personal data databases
+ approve  procedure  registration  personal data databases   state register  personal
+data databases
+ coordinate  activities  state  economic management bodies local authorities   area 
+personal data protection
+ cabinet  ministers   republic  uzbekistan based   data provided   authorized
+state body   area  personal data protection establishes  following standards
+level  personal data protection  data processing depending   security threats
+requirements  ensuring  protection  personal data  data processing implementation 
+ provides  established levels  personal data protection
+requirements  tangible carriers  biometric  genetic data  technologies  storing  data
+outside  personal data databases
+  authorized state body   area  personal data protection
+ authorized state body   area  personal data protection   state center  personalization
+  cabinet  ministers   republic  uzbekistan hereinafter   authorized state body
+
+ authorized state body shall   following powers
+ implement  state policy   area  personal data protection
+ participate   development  implementation  state   programs   area  personal
+data protection
+ approve  standard operating procedures  processing  personal data
+ approve  standard operating procedures   organization  activity  structural division  
+authorized person   possessor    operator ensuring  processing  protection 
+personal data
+ maintain  state register  personal data databases
+ issue  certificate  registration  personal data database   state register  personal data
+databases
+within  limits   powers  exercise  state control  compliance   requirements  
+legislation  personal data
+ make proposals   cabinet  ministers   republic  uzbekistan  improving  legal
+framework   area  personal data protection
+ send   state bodies empowered   area  state security  relation   scope  
+activities  established information
+ determine  required level  personal data security
+ analyze  volume  content  personal data processed  type  activity  reality  threats
+  security  personal data
+ issue instructions  address violations   legislation  personal data   binding upon 
+legal  natural persons 
+ cooperate   competent authorities  foreign countries  international organizations  
+area  personal data protection
+                                 processing  personal data
+  participants   personal data processing
+subject  operator  participants   processing  personal data  legitimate representative 
+ subject possessor  third parties shall also  considered  participants   processing 
+personal data
+  collection systematization  storage  personal data
+personal data database  formed  means  collecting personal data necessary  sufficient  
+tasks performed  possessor   operator  well    third party
+procedure  principles  collecting  systematizing personal data shall  determined  
+possessor   operator independently  storage  personal data  carried    form 
+allows  identification   subject   extent required   purposes previously stated  
+request   collection  personal data
+ retention period  personal data  determined   date  achievement   goals  
+collection  processing
+  changes  additions  personal data
+
+change  addition  personal data shall  made  possessor   operator   basis  
+subjects application  later  three days   date   application
+changes  additions  personal data    correspond  reality  made promptly  
+time  discrepancies  identified
+  use  personal data
+actions  personal data aimed   realization   goals   possessor operator  third party
+ considered   use  personal data
+ use  personal data  possessor operator  third party  carried     previously stated
+purposes   collection provided   necessary level  personal data protection  assured
+ use  personal data  employees   possessor    operator  well   third party
+associated   processing  personal data shall  carried    accordance  
+professional service  job duties
+employees   possessor   operator  well    third party associated   processing
+ personal data  obliged  prevent  disclosure  personal data   entrusted   
+became known  connection   performance   professional service  job duties
+  provision  personal data
+actions aimed   disclosure  personal data   particular person  considered  provision 
+personal data
+ provision  personal data  state authorities  free  charge
+ case  refusal  provide    personal data  subject   right   specify  reasons
+    refusal
+  dissemination  personal data
+actions aimed   disclosure  personal data   indefinite number  persons including 
+disclosure  personal data   media posting   internet  providing access  personal data 
+  way  considered  dissemination  personal data
+ dissemination  personal data  cases  go beyond  previously stated purposes  
+collection  carried    consent   subject
+  crossborder transfer  personal data
+transfer  personal data   possessor   operator outside  territory   republic 
+uzbekistan  considered  crossborder transfer  personal data
+crossborder transfer  personal data  carried    territory  foreign states  provides  
+adequate protection   data subjects rights
+ crossborder transfer  personal data   territory  foreign states    provide adequate
+protection  personal data may  carried    following cases
+presence  subjects consent  crossborder transfer     personal data
+
+ need  protect  constitutional order   republic  uzbekistan public order rights 
+freedoms  citizens health  morality   population
+provided  international treaties   republic  uzbekistan
+ crossborder transfer  personal data may  prohibited  limited  order  protect 
+foundations   constitutional order   republic  uzbekistan morality health rights 
+legitimate interests  citizens   republic  uzbekistan ensure  national defense  state
+security
+  depersonalization  personal data
+actions  result  impossibility  determine belonging  personal data   particular subject 
+considered  depersonalization  personal data
+ processing personal data  historical statistical sociological scientific researches  possessor
+ operator  well   third party  obliged  depersonalize  data
+  destruction  personal data
+actions  make recovery  personal data impossible  considered  destruction  personal data
+personal data  subject  destruction   possessor    operator  well    third party
+  following cases
+ achieving  purpose  personal data processing
+ presence   withdrawal  subjects consent  process personal data
+upon expiration   period  personal data processing determined   consent   subject
+upon entry  force   court decision
+                              personal data processing order
+  conditions  personal data processing
+ processing  personal data shall  carried   accordance   basic principles   law
+ processing  personal data shall  carried    following cases
+presence  subjects consent  process  data
+need  process  data   performance   contract    subject   party   take
+measures   request   subject prior   conclusion   contract
+need  process  data  fulfill  obligations   possessor    operator  defined  
+legislation
+need  process  data  protect  legitimate interests   subject   person
+need  process  data  exercise  rights  legitimate interests   possessor   
+operator   third party   achieve socially significant goals provided     violate 
+rights  legitimate interests  personal data subjects
+data processing  statistical   research purposes subject  mandatory depersonalization 
+personal data
+  data  obtained  publicly available sources
+
+ necessary  processing  personal data  protect  rights  legitimate interests   subject
+ allowed without subjects consent   consent obtaining becomes possible
+ requirements   processing  personal data
+ purposes  personal data processing shall  determined  normative legal acts regulations
+constituent   documents regulating  activities   possessor    operator  shall
+comply   law
+ purposes  personal data processing shall  consistent   purposes previously stated  
+collection  well    rights  obligations   possessor   operator
+ case  changing  purpose  personal data processing  possessor    operator must
+obtain  consent   subject   processing  hisher data  accordance   changed
+purpose
+personal data shall  accurate  reliable   necessary  changed  supplemented
+ amount  personal data  can  included   personal data database  determined  
+subject  accordance   law  scope  nature   personal data processed shall 
+consistent   purposes  methods   data processing
+personal data  processed   form  allows  identification   subject    depersonalized
+form
+ period  personal data processing shall  exceed  period    consent   subject
+  processing  hisher personal data  valid
+ procedure  registration  personal data databases
+personal data databases  subject   registration   state register  personal data databases
+registration   personal data database  carried    application principle  notification 
+application  registration   personal data database   state register  personal data databases
+shall  submitted   authorized state body
+personal data databases containing following personal data   subject  registration
+data related   participants members   public association  religious organization  processed
+accordingly   public association  religious organization provided  personal data will  
+distributed  disclosed  third parties
+data made   subject publicly available
+data including   surname first name  patronymic   subjects
+data necessary   purpose   single admission   subject   territory   possessor 
+ operator  located    similar purposes
+data included  personal data information systems   status  state automated information
+systems
+data processed without  use  automatic systems
+data processed  accordance  labor legislation
+
+possessor   operator  obliged  notify  authorized state body  every change   data
+necessary  registering  relevant personal data database  later  ten calendar days  
+date  change occurs
+ procedure  giving  withdrawing consent   processing  personal data
+ subject agrees   processing  personal data   form  allows confirmation   fact 
+ receipt
+ processing  special category data requires  subjects consent  written form including  
+form   electronic document
+ case  incapacity  disability   subject written consent including   form   electronic
+document   processing     personal data shall  given     legal representative
+ minors    written consent   personal data processing including   form  
+electronic document  given  parents guardians trustees    absence   guardianship
+ custody bodies
+  case  subjects death  written consent   personal data processing  including   form
+  electronic document  given   heirs   consent   previously given   subject
+  life
+processing  personal data   subject declared   court dead recognized   court  missing
+ carried    written consent   heirs including   form   electronic document
+ subject withdraws consent   processing  personal data   form    consent 
+provided   written form including   form   electronic document
+ procedure   provision  information relating   personal data processing
+ subject shall   right  receive information concerning  processing     personal data
+containing  following information
+ confirmation   processing  personal data
+grounds  purposes  personal data processing
+methods  personal data processing used
+title   possessor   operator    location postal address information  persons
+  access  personal data   may disclose personal data   basis   contract concluded
+  possessor   operator    basis   law
+composition   processed personal data relating   relevant subject  source   receipt
+unless another procedure   provision   data  provided    law
+ processing time  personal data including  storage period
+ procedure   exercise   subject   rights provided       law
+information   undertaken  proposed transborder transfer  personal data
+ right   subject  receive information related   processing     personal data may 
+limited  cases   provision   information violates  rights  legitimate interests  
+persons
+ procedure  providing information relating   processing  subjects personal data   third
+party  determined   terms   subjects consent   processing  personal data
+
+possessor   operator shall  exempt   obligation  provide information   subject
+concerning  processing     personal data   following cases
+ subject  previously notified   processing  hisher personal data
+personal data   made publicly available   subject  obtained   public source
+provision   information leads  violation   rights  legitimate interests  individuals 
+legal entities
+notification  refusal  provide information related   processing  personal data shall  sent 
+ requesting subject   written form within ten days
+ decision  refuse  provide information relating   processing  personal data may  appealed
+  subject   authorized state body  court
+ notification  actions   personal data processing
+ including    personal data   personal data database  subject shall  notified 
+written form   purposes  personal data processing    rights defined      
+law
+ case  transfer  personal data   third party  possessor    operator shall notify 
+subject   written form within three days
+ subject   notified   written form   following cases
+exercise   powers   state bodies
+transfer  personal data  historical statistical sociological  scientific purposes
+collection  personal data  publicly available sources
+  automated processing  personal data
+ subject   right    subjected  decisionmaking   basis  exclusively automated
+processing  hisher personal data affecting  rights  legitimate interests generating legal
+consequences except   cases provided   passage two   
+ decision based solely   automated processing  subjects personal data can  made  
+following cases
+presence  written consent   subject including   form   electronic document
+  decision  made  pursuance   contract   possessor   subject  
+fulfilment   conditions   previously concluded contract
+stipulated  law
+possessor   operator  obliged  explain   subject  procedure  making  decision based
+solely  automated processing    personal data  possible legal consequences   
+decision  provide  opportunity  make  objection   decision  well   explain  subject
+ procedure  protecting   rights  legitimate interests
+possessor   operator  obliged  consider  objection specified  passage three   
+  notify  subject   written form  consideration results   objection within ten days
+
+  processing  special categories  personal data
+personal data revealing racial  ethnic origin political opinions religious  philosophical beliefs political
+party  tradeunion membership healthrelated data physical  mental health data concerning 
+persons private life  criminal record  considered  special category data
+processing  special category data  prohibited except  cases provided   passage three  
+
+processing  special category data  allowed   following cases
+ order  ensure state security  external  internal threats   authorized state body
+  subject provided   written consent including   form   electronic document  
+processing  hisher special category data
+ special category data  published   subject  public sources
+ order  protect  rights  legitimate interests   subject   persons
+ implementing activities   courts  relevant law enforcement agencies   framework  
+criminal case enforcement proceedings
+ implementing measures   prosecution authorities aimed  combating money laundering 
+terrorism financing
+ implementing activities  state statistics bodies  well   using personal data  statistical purposes
+  state bodies   obligatory condition   depersonalization
+ providing medical  social services  establishing  medical diagnosis treatment  
+condition   data  processed   medical worker   person   health care institution
+  responsible  ensuring  protection  personal data
+  exercise  rights  duties   area  labor relations
+ protection   legitimate interests   subject   third party   event  incapacity  limited
+legal capacity   subject
+ disclosing personal data including personal data  candidates  election  public office
+ carrying  activities   nongovernmental nonprofit organization religious organization political
+party  trade union provided   processing relates exclusively   personal data  members 
+employees   organizations  associations  personal data   transferred   third party
+without  consent  subjects
+ processing  personal data  children left without parental care    placed   family
+ citizens foster care  implementation   measures  ensure custody  guardianship
+ processing personal data  order  ensure state security
+ processing data  criminal records  state bodies  well   persons within  powers
+  processing  biometric  genetic data
+personal data  characterize  anatomical  physiological characteristics   subject 
+considered  biometric data
+personal data relating  inherited  acquired characteristics   subject  result   analysis
+  subjects biological sample    analysis  another element enabling equivalent information
+  obtained  considered  genetic data
+biometric  genetic data used  establish  identity   subject can  processed   
+consent   subject except  cases related   implementation  international treaties  
+
+republic  uzbekistan administration  justice enforcement proceedings  well    cases
+provided   legislation
+ use  storage  biometric  genetic data  electronic form outside information systems can
+  carried  tangible carriers excluding unauthorized access  
+                                 protection  personal data
+  guarantees   protection  personal data
+ state guarantees  protection  personal data
+possessor   operator  well   third party shall take legal organizational  technical measures
+ protect personal data ensuring  following conditions
+exercise   subjects right  protection  interference  hisher private life
+integrity  security  personal data
+confidentiality  personal data
+prevention  illegal processing  personal data
+  confidentiality  personal data
+confidentiality  personal data   mandatory requirement   possessor   operator  
+person   access  personal data  inadmissibility   disclosure  dissemination without
+ consent   subject  presence   legal grounds
+possessor   operator   individuals   access  personal data  obliged  
+disclose  distribute personal data without  consent   subject
+  publicly available personal data
+personal data access    free   consent   subject     concerned  
+confidentiality requirements  considered  publicly available personal data
+ order  provide information   population public sources  personal data may  created
+including biographical directories telephone address books public electronic information resources
+ public sources  personal data may include   written consent   subject    name
+patronymic year  place  birth address phone number information   profession  
+personal data reported   subject
+information   subject can  excluded  publicly available sources  personal data  
+request submitted   form   consent  given   writing including   form  
+electronic document  well    decision   authorized state body  court
+    rights  obligations  participants involved  processing  personal
+                                                    data
+  rights  obligations   subject
+ data subject shall   following rights
+
+  aware   presence  personal data   composition   possessor    operator
+ well   third party
+ receive information   processing  personal data   possessor    operator upon
+request
+ receive information   conditions  access  personal data   possessor  
+operator
+ apply  protection  rights  legitimate interests  relation  personal data protection  
+authorized state body  court
+ give  consent   processing   personal data  withdraw  consent except  cases
+provided   law
+ give  consent   possessor    operator  well   third party  distribute personal
+data  public sources  personal data
+ require   possessor    operator  temporarily suspend  processing  personal
+data   personal data  incomplete outdated inaccurate illegally obtained   unnecessary  
+purposes  processing
+ disposal  personal data   subject recognized  incapable  limited  legal capacity shall 
+carried    legal representative
+ responsibility   subject   provide personal data  order  protect  foundations  
+constitutional system   republic  uzbekistan morality health rights  legitimate interests 
+citizens   republic  uzbekistan  ensure national defense  state security
+  rights  obligations   possessor   operator
+ possessor    operator  entitled  process personal data
+ possessor   operator shall   following obligations
+ comply   legislation  personal data
+ provide information   subjects request regarding  processing     personal data
+ approve  composition  personal data necessary  sufficient  perform histheir tasks
+ take measures  destroy personal data  case  achieving  purpose   processing  well  
+ cases established   law
+ provide evidence  obtaining  consent   subject   processing   personal data  cases
+provided   legislation
+ modify   supplement personal data  condition  documentary confirmation  new data
+reliability  destroy     impossible  make  modifications   additions
+ temporarily suspend processing  destroy personal data  case  availability  information 
+violation    processing conditions
+ provide possibility  submission  documents   subject  electronic form  temporary
+suspension  processing   destruction     personal data
+ notify  subject  well   parties involved   processing  personal data  written form
+ cases  change destruction  personal data  restriction  access  
+ notify  subject  written form  case  transfer  personal data   third party
+ register possessed   processed personal data databases
+ take necessary legal organizational  technical measures  protect personal data
+
+ possessor    operator   right  entrust  processing  personal data   third
+party   following cases
+availability  written consent   subject including   form   electronic document
+  decision  made  pursuance   contract   possessor   subject  
+conditions   previously concluded contract
+stipulated  law
+obligations   possessor    operator  well   third party  protect personal data arise
+  moment  personal data collection   valid   data  destroyed  depersonalized
+ possessor    operator shall determine  structural unit  official authority   work
+related   processing  protection  personal data  ensures  performance  accordance 
+ standard operating procedures  personal data processing
+                                          final provisions
+  settlement  disputes
+disputes arising   area  personal data protection shall  settled  accordance   legislation
+  liability  violating  legislation   personal data
+persons responsible  violations   law  personal data shall  liable  accordance  
+procedure established  legislation
+  enforcement dissemination clarification   essence  meaning   law
+ cabinet  ministers   republic  uzbekistan   interested organizations shall ensure 
+execution communication   performers  explanation among  population   essence 
+meaning   law
+  adaption  legislation  compliance   law
+ cabinet  ministers   republic  uzbekistan shall take  following measures
+ adapt government decisions  compliance   law
+ accommodate revision  revocation  government bodies   legal acts contradicting  law
+  entry  force
+ law shall enter  force  october  
+ president  
+republic  uzbekistan                                                       sh mirziyoev
+                                                  tashkent city
+                                                   june  
+                                                   zru  
+

@@ -1,0 +1,340 @@
+   qatar law     promulgating
+   protection   privacy  personal
+                                   data law
+law     year  promulgating  protection   privacy  personal
+data law
+ tamim bin hamad al thani  emir   state  qatar  perusal 
+  constitution 
+  law  telecommunications  enacted  virtue   law    
+    year  
+  law  electronic transactions  ecommerce  enacted  virtue  
+    law     year  
+  law     year   official statistics  amended  virtue  
+    law     year  
+  law  combating cybercrimes  enacted  virtue   law   
+     year  
+  emiri decree     year   establishing 
+    communication regulatory authority 
+  emiri decree     year    organizational structure
+      ministry  transport  communication 
+  proposal submitted   minister  transport 
+    communication 
+  bill submitted   council  ministers 
+  consulted  shura council
+ hereby decree  follows
+ one definitions  general provisions
+ 
+ purposes  implementing  present law  following words  terms
+shall   meanings assigned thereto unless  context requires otherwise
+ ministry  ministry  transport  communication
+ minster  minister  transport  communication
+ competent department  administrative department concerned within 
+ministry
+ competent authority  governmental authority   competence  law
+ organize  works  procedures relating  processing  supervising
+personal data
+                                                                                    
+
+individual      natural person whose personal data   processed
+controller      natural   legal person  whether acting individually 
+jointly determines  personal data may  processed  determines 
+purposes    processing
+processor  natural andor legal person  processes personal data 
+ controller
+personal data data belonging   individual  specified  reasonably
+specifiable identity whether   personal data   combining 
+    data
+processing personal data conducting  process   group  processes  
+personal data including    limited  collection receipt recording
+organization storing configuration changing retrieval use disclosure publication
+transmission preclusion disposal erasing   cancellation
+crossboundary data          flow accessing watching retrieving using andor
+using personal data without regard   boundaries   state
+legitimate purpose  purpose   personal data   individual  
+processed pursuant  applicable law
+acceptable practices         processing activities determined  approved  
+competent department  regard  various types  legitimate purposes
+direct marketing             service   promotional andor marketing material 
+ means  specific persons
+telecommunications           sending transmitting andor receiving signals codes
+images material audio video data scripts andor information   type andor
+nature via means  telecommunications radio video   electromagnetic
+means  communication andor   similar means  communication
+ecommunication  communication made   means  telecommunications
+establishing  ecommunication establishing sending andor transmitting  e
+communication causing    directing  processor   
+website operator  person operating  website   internet promoting products
+ services thereon  collecting  processing personal data   users 
+visitors   website
+ 
+ present law shall apply  personal data upon eprocessing thereof 
+ personal data  received collected  mined    way 
+anticipation  eprocessing      personal data  processed
+ combining eprocessing  traditional processing techniques
+                                                                                         
+
+ present law shall  apply  personal data processed  individuals
+ within  scopes   personal  familial lives  shall 
+present law apply  personal data processed  purposes  collecting
+official statistical data pursuant   law     year 
+referred  hereinabove
+ two individuals rights
+ 
+every individual shall   right   protection   personal data
+ personal data may   processed save within  binding limits 
+transparency honesty respect  human dignity   acceptable practices 
+per  provisions   present law
+ 
+unless  processing  necessary  meet  controllers legitimate
+purpose   legitimate purpose   receiving third party  controller
+may  process personal data  obtaining  individuals consent
+ 
+ individual may   time
+ withdraw        previously   given  consent          processing  personal
+data thereof 
+ object  processing  personal data thereof   processing  
+necessary  achieve  purposes    personal data  
+collected    collected personal data  beyond  extent required
+discriminatory unfair   illegal 
+ request omission  erasing   personal data thereof     cases
+provided     upon cessation   purpose   
+processing  conducted    justifications  storing  personal data
+  controller cease  exist 
+ request corrections   personal data thereof  request  made shall 
+accompanied  proof   accuracy   request
+ 
+ individual may   time access  personal data thereof  request
+revision      controller particularly  individual shall  
+right 
+  notified  processing  personal data thereof   purposes 
+  processing    conducted 
+                                                                                     
+
+  notified   disclosure   inaccurate personal data thereof   
+obtain  copy   personal data thereof  paying  amount  shall
+ exceed  service fee
+ 
+ controls  procedures governing  exercising  individuals right
+provided    previous two articles shall  determined   decree  
+minister
+ three obligations   controller   processor
+ 
+ controller shall
+ process  personal data honestly integrally  legitimately 
+ process  controls  designing changing andor developing personal data
+related products systems  services 
+ take appropriate administrative technical  physical precautions 
+necessary  protect personal data  accordance   
+determined   competent department 
+ abide   privacy protection policies  developed  
+competent department  decreed   minister
+ 
+prior  proceeding   processing   personal data  controller shall
+notify  individual 
+  controllers details      party conducting 
+processing   controller   enable  controller  use  processed
+personal data 
+  legitimate purposes    controller    party desires
+ process  personal data 
+ full  precise description   processing activities   levels 
+disclosure   personal data   legitimate purposes   controller
+ unable     controller shall enable  individual  access 
+general description   personal data 
+   information necessary  required  meet  requirements 
+processing personal data
+ 
+                                                                                   
+
+ controller shall verify   personal data  collected thereby  therefor
+ relevant   legitimate purposes  sufficient  meeting   
+controller shall also verify   personal data  accurate complete 
+uptodate  meet  legitimate purposes  controller shall  keep 
+ personal data beyond  period necessary  meet  legitimate
+purposes
+ 
+ controller shall
+ review privacy        protection    measures        proceeding  new
+processes 
+ determine  processors responsible  protection  personal data 
+ train  raise  awareness   processors   protection 
+personal data 
+ develop  internal system  receive  look  complaints data access
+requests  omissioncorrection requests  shall provide access
+thereto  individuals 
+ develop  internal effective personal data management system
+ report  breach  protection measures thereof 
+  use appropriate technologies  enable individuals  exercise  rights 
+directly access review  correct  respective personal data 
+ conduct comprehensive audits  reviews   compliance  personal
+data protection requirements 
+ ensure processors compliance   instructions given thereto adoption 
+appropriate precautions  protect personal data  follow    
+constantly
+ 
+ controller shall upon disclosing personal data  serving   
+processor observe  compliance   legitimate purposes  controller
+shall also ensure  personal data  processed  per  present law
+ 
+ controller   processor shall adopt  necessary precautions  protect
+personal data  loss damage change disclosure andor illegalinadvertent
+access thereto andor use thereof
+                                                                                     
+
+precautions  adopted shall  commensurate   nature  
+importance   personal data  protection
+ processor shall forthwith notify  controller   breach   precautions
+   risk  threats arises  personal data   way
+ 
+ controller shall notify  individual   competent department  
+breach   precautions provided    previous    
+breach may cause serious damage   personal data    individuals
+privacy
+ 
+subject   obligations provided    present law  controller shall
+ take  decision  adopt  measure  may limit  crossboundary
+personal data flow unless  underlying processing falls foul   present law
+   processing may cause serious damage   personal data   
+individuals privacy
+ four personal data  special nature
+ 
+personal data shall  considered   special nature   relate   racial
+origin children health condition physical condition psychological condition
+religious beliefs spousal relation   criminal crimes
+ minister may add  types  personal data  special nature 
+ misuse andor disclosure    may cause serious damage 
+individuals
+personal data  special nature may   processed  obtaining 
+permission   competent department  per  measures  controls
+decreed   minister
+moreover  minister may  virtue   decree issued thereby impose additional
+binding precautions  protect personal data  special nature
+ 
+subject   obligations provided  herein  owner   operator 
+ childbased website shall
+ post  notice   website  respect   child data     used
+  policies adopted  purposes  disclosure 
+                                                                                     
+
+ obtain explicit consents  parents   children whose personal data 
+ processed whether  ecommunication    appropriate means
+
+ provide parents upon  request  verification  identities  
+description   type  personal data  processed  stating  purpose
+ processing  providing  copy   personal data processed  collected
+  child 
+ upon request  parents delete erase  stop  processing  
+personal data collected     child 
+ ensure   childs participation   game promotional award   
+activity   conditional  provision   personal data   child  excess 
+ necessary personal data  purposes   participation
+ five exemptions
+ 
+ competent authority may decide  process certain personal data without
+regard  articles       present law  achieve    following
+purposes
+  ensure national security law  order 
+  protect international relations   state 
+  safeguard  economic  financial interests   state 
+  abort  criminal crime collect  information   investigate  
+ competent authority shall   adhoc record  keep  data 
+shall achieve  purposes referred   aforesaid record shall  created 
+kept  per  conditions  controls decreed   minister
+ 
+ controller shall  relieved   obligation  comply  articles  
+         present law     following cases  purposes
+arises
+      executing  public interestbased task  per applicable laws  
+      enforcing  legal obligation   competent court order  
+      protecting vital interests   individual  
+      achieving public interestbased scientific research purposes  
+                                                                                      
+
+  collecting personal data needed   criminal crime investigation upon official
+request   investigating authority
+ 
+ controller shall  relieved   disclosure requirement  
+controllers grounds  refusal  observe    individuals rights provided 
+   hereof    disclosure may hinder  purposes provided
+      present law
+ 
+subject   two previous articles  controller shall  relieved   obligation
+ comply      present law     following cases
+   disclosure may cause damage   commercial interests  another
+person  
+   performance    obligation may result  disclosing  personal
+data  another nonconsenting individual     disclosure may result
+ moral andor tangible damages   individual    individual
+ six e communications  direct marketing
+ 
+ e communication may  sent  purposes  direct marketing   individual
+save  obtaining  individuals prior consent
+ e communication  served shall include  identity   creator thereof 
+addition   explicit notice   service  meant  direct marketing
+  ecommunication shall also include  valid verifiable easy accessible
+address    individual may serve  request   creator  stop
+ service  withdraw  earlier consent provided   service 
+seven penalties
+ 
+without prejudice   stricter punishment provided     law 
+violation  articles       present law shall 
+punishable   penalty  exceeding qar 
+ 
+without prejudice   stricter punishment provided     law 
+violation  articles   andor    present law shall  punishable 
+ penalty  exceeding qar
+ 
+                                                                                         
+
+without prejudice   criminal liability   subordinate natural person 
+legal person violator   present law shall  punishable   penalty 
+exceeding qar    crime incriminated herein  committed  
+  legal persons name
+ eight final provisions
+ 
+ individual may file  complaint   competent department upon 
+violation   present law   executive decrees thereof
+ competent department may following  review   complaint  filed  
+proven seriousness issue  reasoned decision  oblige  controller  
+processor   case may  set right  violation complained  within  period
+specified   competent department
+ controller   processor may within sixty  days  notification appeal 
+decision taken   minister
+ minister shall settle  appeal  filed within sixty  days  
+date  filing   said sixty  day period elapses without  response  shall
+  implicit dismissal   appeal
+ ministers decision shall  binding
+ 
+ competent department may  purposes  implementing  provisions 
+ present law take  necessary measures particularly 
+ coordinate   professional group   league    association
+representing  controllers   website operators   view  encouraging
+ developing selfcontrol raising awareness   present law  developing
+ training  education programs  
+ work  family organizations  societies  boost child safety   internet
+  
+ conduct research capture technological developments relating   matters
+provided    present law  develop reports  make recommendations
+thereof
+ 
+ agreement   contract falling foul   present law shall  null  void
+ 
+                                                                                         
+
+employees   ministry  shall enjoy  law enforcement legal capacity 
+virtue   decree issued   attorney general  agreement thereto  
+minister shall   legal capacity  detect  prove crimes  violations 
+ present law
+ 
+ addressed   present law shall set right  conditions  ensure
+compliance therewith within six  months   enforcement date hereof 
+council  minister may upon  ministers proposal extend  said six  month
+period  one   equal periods
+ 
+ minister shall take  issue  decisions  decrees necessary  implement
+ present law
+ 
+every competent authority shall respectively implement  present law
+ present law shall  promulgated   official gazette
+                                           
+                                                                                     
+

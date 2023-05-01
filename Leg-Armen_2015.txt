@@ -1,0 +1,602 @@
+                                              law
+                                republic  armenia
+                           protection  personal data
+                                           
+                                    general provisions
+            subject matter   law
+  law shall regulate  procedure  conditions  processing personal data
+exercising state control    state administration  local selfgovernment bodies
+state  community institutions  organisations legal  natural persons
+ characteristics pertaining  personal data constituting state  official banking
+notarial insurance secrecy legal professional privilege  used   course  operations
+concerning national security  defence  well   used   fight  money
+laundering  terrorism operationalintelligence activity  proceedings shall  regulated
+  laws
+  restrictions  processing  personal data prescribed   law shall  cover 
+personal data  processed exclusively  journalism literary  artistic purposes
+ characteristics  processing  exercising control  personal data may  prescribed
+  laws  case  body exercising control  prescribed   laws  authorised
+body shall exercise  powers  prescribed   law
+
+            legislation   republic  armenia  personal data
+ relations pertaining   processing  personal data shall  regulated  
+constitution   republic  armenia international treaties   republic  armenia
+ law   laws
+            main concepts   law
+  following main concepts shall  used   law
+ personal data shall mean  information relating   natural person  allows 
+may allow  direct  indirect identification   persons identity
+ processing  personal data shall mean  operation  set  operations irrespective
+  form  mode  implementation including automated   without use  
+technical means thereof   related   collection either stipulation  input 
+systematisation  organisation  storage  use  alteration  restoration  transfer 
+rectification  blocking  destruction  personal data   carrying   operations
+ transfer  personal data  third parties shall mean  operation aimed  transferring
+personal data  certain scope  persons  public  large   familiarising  
+including disclosure  personal data   mass media posting  information
+communication networks  otherwise making personal data available   person
+ use  personal data shall mean  operation performed upon personal data  may
+ directly  indirectly aimed  delivering decisions  forming opinions  acquiring rights
+ granting rights  privileges  restricting  depriving  rights  achieving 
+purpose  give rise  may give rise  legal consequences   data subject  third
+parties  otherwise relate   rights  freedoms thereof
+
+ processor  personal data shall mean  state administration  local selfgovernment
+body state  community institution  organisation legal  natural person  organise
+andor carries  processing  personal data
+ data subject shall mean  natural person    personal data relate
+ database shall mean  set  personal data systematised  certain features
+ information system shall mean  set  personal data included   database set 
+information technologies  technical means used   processing  electronic  non
+electronic mode
+ depersonalisation  personal data shall mean operations  render  impossible 
+identify  data subject    belong
+ blocking  personal data shall mean temporary suspension   possibility  collect
+ fix  systematise  transfer  use personal data
+ destruction  personal data shall mean  operation  renders  restoration 
+ content  personal data contained   information system impossible
+ data  personal life shall mean information  personal life family life physical
+physiological mental social condition   person   similar information
+ biometric personal data shall mean information characterising  physical
+physiological  biological characteristics   person
+ special category personal data shall mean information relating  race national
+identity  ethnic origin political views religious  philosophical beliefs  tradeunion
+membership health  sex life   person
+ publicly available personal data shall mean information    data subjects
+consent   conscious operations aimed  making    personal data publicly
+
+available becomes publicly available  certain scope  persons  public  large  well 
+information   provided   law  publicly available information
+ authorised person shall mean  legal  natural person state administration  local
+selfgovernment body state  community institution  organisation   assigned
+  data processor  collect input systematise  otherwise process personal data  cases
+prescribed  law    basis   agreement
+ third party shall mean  person body institution  organisation   
+data subject processor  personal data  authorised person  whose rights  legitimate
+interests  affected  may  affected due   processing  personal data
+                                            
+                  basic principles  processing personal data
+            principle  lawfulness
+  processor  personal data shall  obliged  follow  ensure   data 
+processed  observance   requirements   law
+ personal data shall  processed  legitimate  specified purposes  may   used
+  purposes without  data subjects consent
+            principle  proportionality
+  processing  data must pursue  legitimate purpose measures  achieve  must 
+suitable necessary  moderate
+
+  processor  personal data shall  obliged  process  minimum volume 
+personal data   necessary  achieving legitimate purposes
+  processing  personal data    necessary   purpose  processing  data
+  incompatible   shall  prohibited
+  processing  personal data shall  prohibited   purpose  processing 
+data  possible  achieve   depersonalised manner
+ personal data must  stored    way   exclude  identification thereof 
+ data subject   period longer   necessary  achieving predetermined purposes
+             principle  reliability
+  personal data  processed must  complete accurate simple  
+necessary kept   date
+             principle  minimum engagement  subjects
+  processing  personal data shall  carried    principle  minimum
+engagement  subjects
+   state administration  local selfgovernment body  notary  able 
+obtain  personal data   body   uniform electronic information system
+personal data subject shall   required  submit personal data necessary  certain
+operations
+  case   written consent   personal data subject natural  legal persons
+considered   processor  personal data may obtain   state  local selfgovernment
+
+body personal data necessary   certain operation  directly specified   written
+consent   personal data subject
+  procedure   transfer  personal data   electronic information system
+shall  prescribed   government   republic  armenia
+                                          
+                            processing  personal data
+            lawfulness  processing personal data
+  processing  personal data shall  lawful 
+  data   processed  observance   requirements   law   data
+subject  given    consent except  cases directly provided    law 
+ laws 
+  data  processed   obtained  publicly available sources  personal
+data
+            data subjects consent
+  data subject may give    consent  person    representative
+  power  attorney specifically provides    power
+  data  processed   basis  consent shall  stored   period objectively
+necessary  implementing  purposes  processing data    period prescribed 
+ consent
+
+  data subject shall   right  withdraw    consent  cases  
+prescribed   law  well   laws
+  data subjects consent shall  considered   given   processor shall  
+right  process 
+ personal data  indicated   document addressed   processor  signed  
+data subject except   cases   document   content   objection 
+processing  personal data
+  processor  obtained data   basis   agreement concluded   data
+subject  uses    purposes  operations prescribed   agreement
+  data subject voluntarily  use purposes verbally transfers information   
+ personal data   processor
+ personal data may  processed without  data subjects consent   processing
+ data  directly provided   law
+  processor  personal data   authorised person  obtaining  data subjects
+written consent shall notify  data subject   intention  process  data
+  data subject shall give    consent  writing  electronically validated 
+electronic digital signature  case   oral consent   means   reliable operations
+ will obviously attest  consent   data subject  using  personal data
+  burden  proving  fact  obtaining data subjects consent   case 
+processing publicly available personal data  fact   data  publicly available shall
+lie upon  processor
+  case  incapacity  limited capacity   data subject     minor  
+age   consent  processing    personal data shall  given   legal
+representative   data subject
+
+  case  death   data subject  declaring    dead   judgement  
+court  consent  process    personal data shall  given   legal heirs  
+data subject  case    heirs  head   community   place  opening
+ succession   case  declaring     missing  trust manager  
+property   person declared  missing   data subject   given  consent
+ 
+  case  death   data subject    personal data may  processed without
+consent  data  processed   name gender year month  day  birth 
+death   deceased person  case  death   figure   fields  culture arts science
+education sport religion    public field data   personal life may  processed
+without consent   years  elapsed   day  death
+           notification   data subject  obtaining consent  process personal
+                     data
+  processor  personal data   authorised person provided      
+law shall  obtaining  data subjects consent notifies   intention  process 
+data
+  notification shall include
+ surname name patronymic   data subject
+ legal grounds  purpose   processing  personal data
+ list  personal data subject  processing
+ list  operations   performed upon personal data    subjects consent 
+requested
+ scope  persons   personal data may  transferred
+
+ name surname name patronymic position   processor     representative
+requesting  data subjects consent  registered office  place  registration actual
+residence
+ information  requiring   data subject rectification destruction  personal data
+terminating  processing  data   carrying   operation relating  
+processing
+ validity   consent requested  well   procedure  consequences 
+withdrawing  consent
+            publicly available personal data
+  regime  publicly available information  personal data phone directories address
+books biographical directories private announcements declaration  income etc may 
+established   data subjects consent   cases provided   law  name surname
+year month  day  birth place  birth place  death year month  day  death 
+well   personal data   conscious operations carried    data subject aimed
+ making publicly available becomes publicly available  certain scope  persons  public
+ large shall  considered  publicly available
+ information   data subject except  information provided   part   
+ may  removed  publicly available sources  personal data   request 
+data subject   judicial procedure
+  data  processed   basis   agreement may  removed  publicly
+available sources  personal data  mutual consent   judicial procedure
+
+          characteristics  processing special category personal data
+  processing  special category personal data without  persons consent shall 
+prohibited except   processing  data  directly provided   law
+  processing  personal data provided   part     shall immediately 
+terminated   grounds  purpose  processing  data  eliminated
+          characteristics  processing biometric personal data
+ biometric personal data shall  processed    data subjects consent except 
+cases provided   law    purpose pursued  law  possible  implement
+  processing   biometric data
+          processing  personal data  authorised person assigned  processor 
+                    data
+ personal data may also  processed   authorised person assigned   processor
+  assignment shall   writing  includes legal grounds  conditions 
+purpose   processing  personal data  list  personal data subject  processing 
+scope  data subjects  scope  persons   personal data may  transferred
+technical  organisational measures   protection  personal data   necessary
+information
+ personal data shall  processed  within  scope   assignment  processor 
+data shall  responsible  processing  personal data within scope   assignment
+
+  assignment   comply   requirements   law  authorised
+person must inform  writing thereon   processor  data  refuse  processing
+ personal data assigned  state administration  local selfgovernment bodies state 
+community institutions  organisations shall  processed  observance   requirements
+  law
+ characteristics  processing personal data   authorised person may  prescribed 
+ laws   agreements concluded   processor  data  authorised person
+ may  affect  rights  responsibilities   persons
+                                           
+                                 rights  data subject
+           right  data subject  information     personal data
+  data subject shall   right  information     personal data processing
+ data grounds  purposes  processing processor  data  registered office thereof
+ well   scope  persons   personal data may  transferred
+  data subject shall   right  get familiarised     personal data
+require   processor  rectify block  destruct    personal data  
+personal data   complete  accurate   outdated    obtained unlawfully
+   necessary  achieving  purposes   processing
+  case  doubts  regard   rectification blocking  destruction  personal data
+  processor  data subject shall   right  apply   authorised body  
+protection  personal data  make clear  fact     personal data  rectified
+blocked  destructed    request   provided  information
+
+ information  personal data shall  provided   processor   data subject  
+accessible manner  must  contain personal data   data subject
+ data subject shall  provided  personal data based   written request   data
+subject   representative acting  virtue   power  attorney    legal
+representative  request may  filed electronically validated   electronic digital
+signature
+  data subject shall   right  information   processing    
+personal data including 
+ confirming  fact  processing personal data    purpose   processing
+ ways  processing personal data
+ subjects   personal data   provided  may  provided
+ list  personal data  processed   source      obtained
+ time limits  processing personal data
+ potential legal consequences   data subject due  processing personal data
+ information shall  provided   data subject free  charge unless otherwise provided
+  law
+           rights  data subject  delivering decisions based  processing
+                     personal data
+  shall  prohibited  deliver decisions  stemming   purposes  processing
+personal data  give rise  legal consequences   data subject  otherwise affect
+   rights  legitimate interests except  cases provided   part   
+
+
+ decisions giving rise  legal consequences   data subject  otherwise affecting 
+  rights  legitimate interests based  processing  personal data may  delivered
+  data subjects consent   cases provided   law
+           right  appeal actions  inaction  processor
+   data subject considers   processing     personal data  carried
+  violation   requirements   law  otherwise violates    rights 
+freedoms    shall   right  appeal actions  inaction   processor 
+ authorised state body   protection  personal data   judicial procedure
+  data subject shall   right  compensation  damage  prescribed  law
+                                           
+                responsibilities  processor  personal data
+           responsibilities  processor  personal data   course  collecting
+                     personal data
+   course  processing personal data  processor shall  obliged  provide
+information provided       law   data subject   request  
+data subject
+  case  incomplete inaccurate outdated unlawfully obtained personal data  
+unnecessary  achieving  purposes   processing  processor  personal data shall
+ obliged  carry  necessary operations  making  complete keeping   date
+rectifying  destructing
+
+  processor shall  obliged  explain   data subject  writing  consequences
+ failure  provide personal data including  rights  personal data subject
+   personal data   obtained    data subject except  cases
+provided   law  well  publicly available data  processor  processing 
+personal data shall  obliged  provide  data subject   following information
+ name surname name patronymic   processor     authorised person 
+  registered office  place  registration actual residence
+ purpose   legal ground  processing personal data  list  data 
+processed
+ scope  potential users  personal data
+ rights   data subject prescribed   law
+           security measures  processing personal data  responsibilities 
+                     processor
+  processor shall  obliged  destruct  block personal data    necessary 
+achieving  legitimate purpose
+   course  processing personal data  processor shall  obliged  use encryption
+keys  ensure  protection  information systems containing personal data 
+accidental loss unauthorised access  information systems unlawful use recording
+destructing altering blocking copying disseminating personal data   interference
+  processor shall  obliged  prevent  access  appropriate technologies 
+processing personal data  persons    right thereto  ensure   data
+subject  processing      accessed   lawful user   systems  
+data   allowed   used
+
+  requirements  ensuring security  processing  personal data  information
+systems  requirements  tangible media  biometric personal data  technologies 
+storage   personal data   information systems shall  prescribed   decision
+  government   republic  armenia
+  case  body exercising control  prescribed  law  body within  scope 
+powers reserved    law may prescribe higher requirements    provided 
+ part     prescribed   decision   government   republic 
+armenia
+ use  storage  biometric personal data   information systems may  carried 
+   tangible media application   technologies  forms  ensure
+ protection   data   unauthorised access thereof unlawful use destruction
+alteration blocking copying dissemination   personal data etc
+ processors  personal data   persons provided    law shall  obliged 
+maintain confidentiality    course  performing official  employment duties
+concerning  processing  personal data   completing thereof
+  control   fulfilment   requirements    shall  exercised 
+ authorised body   protection  personal data without  right  process personal
+data  processed   information systems
+ legal persons processing personal data   recognised electronic systems 
+processing  personal data   possession    adequate level  protection
+ including    register may apply   authorised body   protection 
+personal data
+           responsibilities  processor  personal data  cases  written request
+
+                      data subject  authorised body familiarisation  personal data
+                     revelation  violations  processor  authorised person
+  processor shall  obliged  provide information   data subject  authorised
+body  prescribed      law   availability  personal data   data
+subject   provide  opportunity  get familiarised   within five working days
+upon receipt   written request
+  processor shall  obliged  inform  data subject   destruction  personal
+data within three working days upon destruction  processor shall  obliged  provide
+ opportunity   data subject  get familiarised  personal data relating   data
+subject free  charge  case personal data   data subject   complete  accurate 
+outdated    obtained unlawfully    necessary  achieving  purposes 
+ processing  processor shall     revealed   processor   authorised
+person   application  received   data subject  legal representative 
+authorised person   obliged  immediately        opportunity
+within three working days carry  necessary operations  completing updating
+rectifying blocking  destructing 
+  processor shall  obliged  provide    basis   written request  
+authorised body   protection  personal data  information necessary  
+activities thereof within five working days upon receipt   request
+   provision rectification blocking  destruction  personal data   data
+subject   basis   written request   data subject  rejected  processor shall
+ obliged  provide  data subject   authorised body  within five days following
+ receipt   request    written reasoned decision  making  reference  
+provisions   law  served   ground  delivering  decision
+
+   authorised body considers  grounds  rejecting  provision
+rectification blocking  destruction  personal data unjustified  processor shall 
+obliged  immediately provide rectify block  destruct personal data   data subject 
+appeal  decision   authorised body  judicial procedure
+           responsibilities  processor  eliminating violations  legislation
+                     committed   course  processing personal data rectifying blocking
+                      destructing personal data
+  case  reliability  lawfulness  processing  personal data  challenged  
+basis   request   data subject   authorised body   protection  personal
+data  processor shall  obliged  block personal data concerning  data subject upon
+receipt   request   completion  control activities
+  case   confirmed  personal data  inaccurate  processor shall  obliged 
+rectify personal data  unblock    basis  documents   necessary
+documents submitted   data subject   authorised body   protection 
+personal data
+  case unlawful operations performed upon personal data  revealed  processor shall
+ obliged  immediately   later  within three working days eliminate 
+committed violations  case   impossible  eliminate  violations  processor shall
+ obliged  immediately destruct personal data  processor shall  obliged  inform
+ data subject     representative   elimination  violations  
+destruction  personal data within three working days    request  received
+  authorised body   protection  personal data  also  body
+
+  case  outflow  personal data  electronic systems  processor shall  obliged
+ immediately publish  announcement thereon meanwhile reporting   outflow 
+police   republic  armenia  authorised body   protection  personal data
+  case  purpose   processing  personal data  achieved  processor shall 
+obliged  immediately terminate  processing  data unless otherwise provided  
+law
+  case  withdrawal   data subjects consent given  writing validated 
+signature  electronically validated  electronic digital signature  processor shall 
+obliged  terminate  processing  personal data  destruct  data within ten working
+days following  receipt   withdrawal unless otherwise provided   mutual
+consent   data subject   processor   law  processor shall  obliged 
+inform  data subject   destruction  personal data within three working days upon
+destruction
+          procedure  exercise powers  authorised body   body
+                    exercising control
+  case  body exercising control  prescribed  law  body exercising control
+shall provide  authorised body   opinion  recognising electronic systems 
+processing  personal data  legal persons    adequate level  protection
+  case  body exercising control  prescribed  law  authorised body shall
+transfer  applications   protection  personal data  well  information  
+protection  personal data
+
+  body exercising control shall within  short time limit forward  decisions
+delivered   field  personal data protection  information  operations carried  
+ protection  personal data   authorised body
+ decisions actions  inaction   body exercising control may  appealed 
+judicial procedure
+           notification   authorised body  processing  personal data
+  processor prior   processing  personal data shall   right  notify 
+authorised body   protection  personal data   intention  process data
+   request   authorised body  processor shall  obliged  send notification 
+ authorised body
+  processor prior   processing  biometric  special category personal data shall
+ obliged  notify  authorised body   protection  personal data   intention
+ process data
+  notification shall include  following information
+ name surname name patronymic   processor     authorised person 
+ registered office  place  registration actual residence
+ purpose  legal grounds  processing personal data
+ scope  personal data
+ scope  data subjects
+ list  operations performed upon personal data general description   ways 
+processing personal data   processor
+
+ description  measures   processor  obliged  undertake  ensuring security
+ processing personal data
+ date  starting  processing  personal data
+ time limits  conditions  completing  processing  personal data
+  authorised body   protection  personal data shall enter  information
+provided   part      well   information   date  sending 
+given notification   register  processors within thirty days following  receipt 
+ given notification
+ expenses related   consideration   notification  processing personal data 
+ authorised body   protection  personal data  well    entry  information
+  register  processors may   imposed   processor
+  case  information submitted   processor provided   part   
+  incomplete  inaccurate  authorised body   protection  personal data
+shall   right  require  processor  specify  submitted information prior  
+entry   register  processors
+  case  change  information provided   part      processor shall
+ obliged  notify  authorised body   protection  personal data  changes within
+ten working days   changes  made
+                                           
+                  basic principles  processing personal data
+            authorised body   protection  personal data
+
+  protection  personal data shall  carried    authorised body 
+operates   structure prescribed   decision   government   republic
+ armenia
+  authorised body   protection  personal data shall operate independently based
+  law   legal acts
+ authorised body   protection  personal data
+ check   initiative    basis   appropriate application  compliance 
+ processing  personal data   requirements   law
+ apply administrative sanctions prescribed  law   case  violation  
+requirements   law
+ require blocking suspending  terminating  processing  personal data violating 
+requirements   law
+ require   processor rectification modification blocking  destruction 
+personal data  grounds provided    law exist
+ prohibit completely  partially  processing  personal data   result  examination
+  notification   processor  processing personal data
+ keep  register  processors  personal data
+ recognise electronic systems  processing  personal data  legal persons   
+adequate level  protection  include    register
+ check  devices  documents including  existing data  computer software
+used  processing data
+ apply  court  cases provided   law
+ exercise  powers prescribed  law
+
+ maintain  confidentiality  personal data entrusted  known     course  
+activities
+ ensure  protection  rights   data subject
+ consider applications  natural persons regarding  processing  personal data 
+deliver decisions within  scope   powers
+ submit   year  public report   current situation   field  personal data
+protection    activities   previous year
+ conduct researches  provide advice  processing data   basis  applications 
+coverages  processors  inform  best practices  processing  personal data
+ report  law enforcement bodies  doubts arise  regard  violations 
+criminal law nature   course   activities
+ decisions   authorised body   protection  personal data may  appealed
+ judicial procedure
+ activities   authorised body   protection  personal data shall  financed 
+ expense   funds   state budget presented   separate line
+  advisory body may operate   voluntary basis adjunct   authorised body  
+protection  personal data  procedure   formation  activities   shall 
+prescribed   order   head   authorised body   protection  personal
+data
+           appointment  head  authorised body   protection  personal
+                     data termination  powers  requirements    
+
+  head   authorised body   protection  personal data shall  appointed 
+ term  five years   prime minister   republic  armenia upon nomination 
+ minister  justice   republic  armenia   basis  joint recommendations 
+ least five nongovernmental organisations carrying  law enforcement activities 
+candidate   head   authorised body nominated   minister  justice  
+republic  armenia   prime minister   republic  armenia must    list
+ candidacies suggested  nongovernmental organisations
+  procedure  recommending candidacies  nongovernmental organisations shall 
+prescribed   government   republic  armenia
+   person may   appointed   position   head   authorised body
+  protection  personal data    two consecutive terms
+  head   authorised body   protection  personal data shall manage activities
+  authorised body   protection  personal data   responsible   exercise
+ powers   authorised body   protection  personal data
+  head   authorised body   protection  personal data shall   rights
+ responsibilities prescribed  law   legal acts
+  head   authorised body   protection  personal data
+ must  higher education enjoy  high reputation    least five years 
+professional work experience
+ must refrain   kind  activities casting doubt     ability  act
+independently  impartially
+  head   authorised body   protection  personal data shall  removed 
+office   following grounds exist
+   basis   written application
+
+     attained  age   age  holding office   term  office 
+expired
+      elected  appointed  another position   took another job
+incompatible   position   head   authorised body   protection 
+personal data
+  case  failure  report   service    consecutive days due  temporary
+incapacity  work     consecutive days   past  months excluding 
+pregnancy  maternity leave   leave  taking care   child
+      reported  work    five consecutive days without 
+reasonable excuse
+      declared  incapable   limited capacity missing  dead  
+judgement   court entered  legal force
+  judgement  conviction      entered  legal force
+                                            
+       transfer  personal data  third parties   states
+           transfer  personal data  third parties
+  processor may transfer personal data  third parties  grant access  data without
+ personal data subjects consent    provided   law    adequate level
+ protection
+  processor may transfer special category personal data  third parties  grant access
+ data without  personal data subjects consent 
+
+  data processor  considered   processor  special category personal data
+prescribed  law   interstate agreement  transfer   information  directly
+provided   law    adequate level  protection
+  exceptional cases provided   law special category personal data may 
+transferred  protecting life health  freedom   data subject
+           transfer  personal data   states
+ personal data may  transferred   country   data subjects consent  
+ transfer  data stems   purposes  processing personal data andor  necessary
+  implementation   purposes
+ personal data may  transferred   state without  permission   authorised
+body   given state ensures  adequate level  protection  personal data 
+adequate level  protection  personal data shall  considered   ensured 
+ personal data  transferred  compliance  international agreements
+ personal data  transferred     country included   list officially
+published   authorised body
+ personal data may  transferred   territory   state  ensuring  adequate
+level  protection    permission   authorised body  personal data 
+transferred   basis   agreement   agreement provides   safeguards
+ regard   protection  personal data   approved   authorised body
+ ensuring adequate protection
+
+  cases referred   part      processor  personal data shall  obliged
+ prior   transfer  data   country  apply   authorised body  obtain
+permission  processor  personal data shall  obliged  specify   application 
+country  personal data  transferred  description   recipient  personal data
+name legal form description content  personal data purpose  processing 
+transferring personal data agreement   draft thereof  authorised body shall 
+obliged  permit  reject  application within  days  authorised body may require
+  processor  personal data additional information  observing  time limit 
+ consideration   application  case   authorised body finds  contractual
+safeguards   sufficient  shall  obliged  specify  necessary changes  will
+ensure safeguards   protection  personal data
+  authorised body   protection  personal data regularly   less  
+  year shall  obliged  revise  list  countries ensuring  adequate level 
+protection  personal data  publish  changes   official journal    official
+website
+ personal data   disposition  state bodies may  transferred  foreign state
+bodies  within  scope  interstate agreements   nonstate bodies 
+accordance   norms   
+                                             
+                      final part  transitional provisions
+           final part
+  law shall enter  force   july 
+
+  repeal  law   republic  armenia hon   october   personal
+data upon entry  force   law
+     law shall enter  force   january 
+            transitional provisions
+   entry  force   law  processing  personal data  processed
+prior   entry  force   law shall continue   carried   prescribed  
+law
+  processors  processed personal data prior   entry  force   law 
+continue processing personal data   entry  force   law shall  obliged 
+send  mandatory notification provided    law   authorised body  
+protection  personal data   september 
+                 president
+       republic  armenia                                                      s sargsyan
+                  june 
+                    yerevan
+                   hon
+

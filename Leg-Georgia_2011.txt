@@ -1,0 +1,587 @@
+                                           law  georgia  personal data protection
+                                                                         
+                                                                   general provisions
+      purpose   law
+        purpose   law   ensure  protection  human rights  freedoms including  protection   right  privacy  
+course   processing  personal data
+      definition  terms
+        terms used   law shall   following meaning
+     personal data hereinafter  data   information relating   identified  identifiable natural person  identifiable person   one
+        can  identified directly  indirectly  particular  reference   identification number    factors specific  hisher physical
+       physiological mental economic cultural  social identity
+b     special category  data  data relating  racial  ethnic origin political opinions religious  philosophical beliefs tradeunion
+       membership state  health sex life  conviction   person  well  biometric data  allow   persons identification  
+       abovementioned factors
+c     biometric data   physical mental  behavioral feature fingerprints iris scan retina retinal images facial features  dna  
+       unique  permanent   natural person   can  used  identify  person
+d     processing  data   operation performed upon data whether    automatic means   collection recording photographing
+       audio  video recording organization storage alteration restoration consultation use  disclosure  transmission dissemination 
+       otherwise making data available alignment  combination blocking erasure  destruction
+e     automatic processing  data  processing  data  means  information technologies
+f     data subject   natural person regarding  data  processed
+g     consent  free consent   data subject   processing  data regarding himher   specific purpose expressed orally  means 
+       telecommunication   relevant means  can clearly indicate  will   data subject  receiving relevant information 
+       himher
+h     written consent   data subject  free consent   data subject   processing  data regarding himher   specific purpose signed
+        otherwise noted  writing    equivalent form   data subject  receiving relevant information  himher
+     data processor   public institution natural  legal person  alone  jointly  others determines  purposes  means  
+       processing  personal data processes personal data individually    help   authorized person
+j     authorized person   natural  legal person  processes data    behalf   data processor
+                                                                             
+
+k      data recipient   private  public institution natural  legal person employee   private  public sector   data   handed
+         except   personal data protection inspector
+l      third party   natural  legal person public institution    data subject  personal data protection inspector  data processor
+          authorized person
+m      filing system   structured set  data   arranged  accessible according  specific criteria
+n      catalogue   filing system   detailed description   structure  content   filing system
+o      register   catalogues  filing systems   register  ensures  detailed registration  existing filing systems
+p      blocking  data  temporal suspension   processing  data
+q      depersonalization  data   type  modification  data   make  impossible  link    data subject   require
+        disproportionately huge efforts costs  time  establish   link
+r      identification number   personal identification number    identification number determined   law  linked   natural
+        person      possible  search  disclose data   filing system   identification number  also processed
+s      personal data protection inspector   official responsible   supervision  implementation   data protection legislation
+t      direct marketing  offering product service employment  temporary employment  means  mail telephone call email   means
+         telecommunication
+        scope  application   law
+       law shall apply   territory  georgia   processing  data wholly  partly  automatic means  well    processing
+otherwise   automatic means  data  form part   filing system   processed  form part   filing system
+       law shall also apply 
+      processing  data  diplomatic missions  consular posts  georgia abroad
+b      activities   data processor    registered   territory  georgia  applies technical means present  georgia  
+        processing  data except   cases   technical means  applied   transfer  data    cases  data processor
+        shall designatedetermine  representative registered  georgia
+       law shall  apply 
+      processing  data   natural person  purely personal purposes   processing   connected  hisher commercial 
+        professional activities
+b      processing  data  case management purposes   court
+c      processing  information   considered state secret
+d      processing  data   purposes  public  state security including economic security defense operativeinvestigative activities 
+        criminal investigation
+       law except    shall  apply   processing  data  media means   purposes  informing  public  well 
+  processing  data  artistic  literature purposes
+      articles      law shall  apply   processing  data   members  political parties trade   unions 
+religious organizations
+                                                                              
+
+      principles   processing  data
+        following principles shall  applied   processing  data
+     data shall  processed fairly  lawfully inflicting  damage   dignity   data subject
+b     data shall  processed   explicitly specified legitimate purposes
+c     data shall  processed    extent necessary  achieve respective legitimate purposes data shall  adequate   excessive 
+       relation   purposes     processed
+d     data shall  valid  accurate false  inaccurate data shall  rectified   data    collected without legitimate
+       grounds   data   incompatible   processing purposes shall  blocked erased  destroyed
+e     data shall  kept    long    necessary   processing  data purposes  achieving  purpose   data  
+       processed  shall  blocked erased  destroyed  shall  kept   form  leading  identification   person unless otherwise
+       prescribed   law
+                                                                         ii
+                                                            rules   processing  data
+      grounds   processing  data
+        processing  data shall  permissible 
+     data subject  given hisher consent
+b     processing  data  envisaged   law
+c     processing  data  necessary  compliance   obligations compelled   legislation    data processor  subject
+d     processing  data  necessary  order  protect  vital interests   data subject
+e     processing  data  necessary   protection  legitimate interests   data processor   third party except   interests 
+       overridden   advanced interest   protection  rights  freedoms   data subject
+f     according   law data  publicly accessible   data subject  made  publicly accessible
+g     processing  data  necessary   protection   important public interest  accordance   law
+h     processing  data  necessary   consideration   application   data subject  providing service  himher
+      processing  special category  data
+      processing  special category  data shall  prohibited
+      prohibition envisaged  paragraph     shall  apply 
+     data subject  given written consent   processing  special category  data
+b     data subject  made  data regarding himher public without explicit prohibition   usage
+c     processing  data  necessary  carrying   employment obligations  enjoying  related rights   data processor
+                                                                              
+
+d      processing  data  necessary   protection  vital interests   data subject   third person   data subject  physically  legally
+        incapable  giving hisher consent   processing  data
+e      data  processed   purposes   protection  public health   protection   natural persons health   medical institution
+        employee also    necessary   management  functioning  healthcare system
+f      data  processed   course  conducting legitimate activities   political philosophical religious  tradeunion association  
+        noncommercial organization   cases  processing  data can  related solely   members   organization    persons
+          regular contact   organization
+        course   processing  data   basis  subparagraph f  paragraph     disclosure  data   third person
+without  consent   data subject shall  prohibited
+       protection  data   diseased person
+       death   data subject  processing  data regarding himher shall  allowed   consent   data subjects parent child
+grandchild   spouse    years  elapsed since  death   data subject except   grounds envisaged  articles      law
+       death   data subject  processing  data regarding himher shall also  allowed    necessary  realization   rights 
+inheritance
+       processing  data   grounds envisaged  paragraphs       shall  prohibited   data subject  expressed 
+writing  will   prohibition   processing  data regarding himher  death except   processing   grounds envisaged 
+articles      law
+        processing   deceased persons name sex dates  birth  death presence   ground   processing  data envisaged 
+ law shall   required
+       data   deceased person can  disclosed   historical statistical  research purposes except   cases   deceased
+person prohibited  disclosure  writing
+       processing  data   purposes  direct marketing
+       data received  publicly accessible sources can  processed   purposes  direct marketing
+      regardless   purpose   collecting  data  following data can  processed   purposes  direct marketing name names
+address telephone number email address fax number
+        basis   consent   data subject issued  accordance   rules established   law  data can  processed  
+purposes  direct marketing
+       data subject shall   right  request  writing  termination  using  data regarding himher   purposes  direct
+marketing   data processor   time
+       data processor shall  obliged  terminate  processing  data   purposes  direct marketing within  later   working days
+upon  receipt   request   data subject
+        processing  data   purposes  direct marketing  data processor shall  obliged  notify  data subject   right
+envisaged  paragraph    
+                                                                              
+
+        processing  biometric data   public institution
+       processing  biometric data   public institution shall  allowed    purposes   security  persons  protection 
+property  well   avoiding  disclosure  secret information    impossible  achieve  objectives   means   involves
+disproportionately huge efforts
+      regardless   conditions envisaged  paragraph      processing  biometric data shall  allowed  accordance 
+ rules established   law   purposes  issuing  identity document   identifying  person crossing  state border
+       processing  biometric data   private person
+         processing  biometric data   private person shall  allowed     necessary   purposes  conducting activities  
+security  persons  protection  property  well   avoiding  disclosure  secret information    impossible  achieve 
+objectives   means   involves disproportionately huge efforts  using biometric data  data processor shall notify  personal data
+protection inspector detailed information   processing  biometric data including  information notified   data subject  purpose  
+processing  data   safeguards   protection  data unless otherwise provided   law
+        video surveillance   streets
+      conducting video surveillance   streets shall  allowed    purposes  crime prevention  well    security  persons
+ protection  property public order   protection  minors  negative influence
+       case  installing  video surveillance system public  private institutions shall  obliged  post  relevant warning sign   visible
+place   case  data subject shall  considered   informed   processing  data regarding himher
+       video surveillance system  recordings shall  protected  unlawful damage  use
+        video surveillance   buildings  public  private institutions
+        purposes  conducting proper monitoring public  private institutions shall  allowed  conduct video surveillance  
+buildings    necessary   purposes   security  persons  protection  property   protection  minors  negative influence
+  protection  secret information
+       outdoor perimeter  entrance   building can  monitored   video surveillance system
+      installation  video surveillance system   place  work can   allowed  exceptional cases    necessary   purposes 
+ security  persons  protection  property  well    protection  secret information     impossible  achieve 
+objectives   means
+      conducting video surveillance  dressing rooms   places  hygiene shall  prohibited
+       employees working   relevant private  public institution shall  informed  writing   video surveillance  conducted
+   rights
+       data processor shall  obliged  create  filing system designed  storing video recordings except  recordings photosvoice 
+system  contain  information   date place  time   processing  data
+                                                                              
+
+       video surveillance   residential building
+      installation   video surveillance system   residential building shall require  written consent     half   owners  
+building
+      installation   video surveillance system   residential building shall  allowed    security purposes  persons  property
+        entrance  common space can  monitored   video surveillance system installed   residential building monitoring  
+apartments  owners shall  prohibited
+      monitoring   entrance   apartment   video surveillance system shall  allowed    basis   decision   owner  
+apartment  hisher written consent
+      processing  data   purposes  registering entries  exits   buildings  public  private institutions
+        purposes  registering entries  exits   buildings public  private institutions can collect  following data name
+number  type   identification document address dates  time  entries  exits  well  purposes  entries  exits  
+buildings
+       term  storage   data envisaged  paragraph     shall  exceed  years   day   registration unless
+otherwise provided   law   expiry   threeyear term  shall  erased  destroyed
+                                                                         iii
+                                        rights  obligations   data processor   authorized person
+      supply  data   data subject
+        collecting  data  conducted directly   data subject  data processor   authorized person shall  obliged  supply  data
+subject   following information
+      identities  registered address   data processor    authorized person  applicable
+b      purpose   processing  data
+c      whether  supply  data  obligatory  voluntary  obligatory   legal consequences  refusing
+d      right   data subject  obtain information   data processed regarding himher request  rectification update addition blocking
+        erasure  destruction
+      supply   information mentioned  paragraph     shall   obligatory   data subject already  
+       case  collecting  data   conducted directly   data subject  data processor   authorized person shall  obliged  supply
+ information mentioned  paragraph       data subject upon request
+       collecting information   statistic scientific  historic purposes  supply shall   obligatory   supply  information 
+ data subject involves disproportionately huge efforts
+                                                                               
+
+       processing  data   authorized person
+        authorized person can process data   basis   legal act   written contract concluded   data processor    
+compliance   requirements established   law   normative acts   envisage  rules  restrictions established  
+law
+        data processor shall process data within  scope   relative normative act  agreement   processing  data   data
+processor    purposes shall  prohibited  transfer   right   processing  data    person   authorized person
+without  consent   data processor shall  prohibited
+       concluding  agreement   processing  data shall  prohibited  due   activities andor purposes   authorized person 
+  risk   nontarget processing  data
+        data processor shall make sure   authorized person will apply appropriate organizational  technical measures   protection 
+data heshe shall  obliged  monitor  processing  data conducted   authorized person
+        case   dispute   authorized person   data processor  authorized person shall  obliged  transfer  data available 
+himher   data processor upon request
+        case   termination   activities   authorized person  data shall  immediately transferred   data processor
+        obligation  apply measures  data security shall  envisaged   agreement concluded   authorized person
+       data security
+        data processor shall  obliged  apply  organizational  technical measures  ensure  protection  data  accidental 
+unlawful destruction alteration disclosure access    form  unlawful use  accidental  unlawful loss
+        data processor shall  obliged  ensure  registration   actions performed  electronic data   processing  nonelectronic
+data  data processor shall  obliged  register  actions   disclosure andor alteration  data
+        measures applied  data security shall  adequate   risks related   processing  data
+        employee   data processor    authorized person  participates   processing  data shall  obliged   exceed 
+scope  powers granted  himher moreover heshe shall  obliged  protect data security even   termination   term  hisher office
+        measures   protection  data security shall  defined   georgian legislation
+       obligations   data processor    authorized person   disclosure  data
+           disclosure  data  data processor   authorized person shall  obliged  ensure  registration   following
+information  data    disclosed       legal grounds  information shall  stored together   data  
+data subject   period   storage
+       catalogue   filing system
+     data processor shall  obliged  keep  catalogue   filing system   filing system   register  following information
+                                                                              
+
+      title   filing system
+b      titles  address   data processor    authorized person place  storage andor  processing  data
+c      legal grounds   processing data
+d      category   data subject
+e      category  data   filing system
+f      purpose   processing  data
+g      term  storage  data
+h      facts  grounds  restricting  rights   data subject
+      recipient   data stored   filing system   categories
+j      information   transfer  data  another state  international organization  legal grounds   transfer
+k      general description   procedure established   protection  data security
+       data processor shall  obliged  ensure regular update   information envisaged  paragraph    
+       obligation  notify  personal data protection inspector
+       data processor shall  obliged  notify  writing   electronic means  information envisaged      law   personal
+data protection inspector  creating  filing system   entering new category  data  
+       data processor shall  obliged  notify  personal data protection inspector  making alterations   information envisaged  
+   law  later    days  making  alteration
+       data processor  number  employees     exceed  shall  exempt   fulfillment   obligation envisaged 
+paragraph    
+                                                                         iv
+                                                                  rights   data subject
+       right   data subject  request information
+       data subject shall   right  request information   data processor   processing  data regarding himher  data processor
+shall provide  following information   data subject
+       information regarding himher   processed
+b      purpose   processing  data
+c      legitimate grounds   processing  data
+d      ways  collecting data
+e      persons    data regarding himher ware issued  grounds  purposes  issuance
+      supply   data envisaged  subparagraph e  paragraph       data subject shall   obligatory   data 
+made public  accordance   law
+                                                                              
+
+      data subject shall receive  information envisaged  paragraph     without delay  later    days   day 
+request  made
+      form  submitting  information envisaged  paragraph     shall  selected   data subject
+       person shall   right  check  personal data regarding himher stored   public institution  obtain  copies   data
+free  charge except   data issuance   requires fees  accordance   georgian legislation
+      right   data subject  request rectification update addition blocking erasure  destruction  data
+       case  data subject requests  data processor shall  obliged  rectify update add block erase  destroy data    incomplete
+inaccurate outdated    collected  processed  violation   law
+       data processor shall notify  data recipients   rectification updating addition blocking erasure  destruction  data except 
+ cases   submission   information  impossible due   multiplicity  data recipients  disproportionately huge costs 
+personal data protection inspector shall  notified   latter circumstance
+       case  receiving information  accordance  paragraph      recipient party shall  obliged  rectify update add
+block erase  destroy  data accordingly
+      procedures  rectification updating addition blocking erasure  destruction  data
+       submission   request envisaged  paragraph       law can  made  writing orally   electronic means
+       data processor shall  obliged  rectify update add block erase  destroy data   notify  data subject   grounds   refusal
+within  days   receipt   request   data subject
+        data processor independently without  request   data subject considers   data available  himher  incomplete inaccurate
+ outdated heshe shall accordingly rectify  update  data  shall notify  data subject thereof
+       submitting  request envisaged  paragraph       law   data subject  data processor shall  authorized 
+block data   basis   applicants request
+       decision   blocking  data shall  made within  days  submitting  respective request  shall   force  making 
+decision   rectification updating addition erasure  destruction  data
+       decision   blocking  data shall  attached  respective data   existence   reason  blocking
+      restriction   right   data subject
+       rights   data subject envisaged  articles       law can  restricted   georgian legislation  realization 
+ rights might threaten
+      national security  defense interests   country
+b      public security interests
+c      detection investigation  prevention  crime
+d      important financial  economic interests   country including monetary budgetary  taxation matters
+                                                                             
+
+e      rights  freedoms   data subject   others
+       measure envisaged  paragraph     can  applied    extent necessary  achieving  purpose   restriction
+       case  grounds envisaged  paragraph      present  decision   data processor    personal data protection
+inspector shall  notified   data subject   manner   hinder  purpose   restriction   right
+      objection  consent
+       data subject shall   right  refuse hisher prior consent   time  without explanation   request  termination  
+processing  data andor  destruction   processed data
+       data processor shall  obliged  terminate  processing  data  accordance   request   data subject andor  destroy 
+processed data within  days   submission   application      grounds   processing  data
+        shall  apply   information processed   consent   data subject concerning  compliance  monetary
+obligations  himher
+      right  appeal
+       case  violations   rights envisaged   law  data subject shall   right  apply   personal data protection inspector 
+  court  accordance   rules established   law   case  data processor   public institution  application can also 
+submitted     higher administrative organ
+       data subject shall   right  request  blocking  data   organ deciding upon  case  rendering  decision
+       data subject shall  right  appeal  decision   higher administrative organ    personal data protection inspector   court 
+accordance   rules established   law
+       case  dispute arises concerning  existence   consent   data subject   processing  data  data processor shall bear 
+burden  prove regarding  existence   fact   consent   data subject
+                                                                         v
+                                                           personal data protection inspector
+      basic purposes   activities   personal data protection inspector
+       personal data protection inspector hereafter  inspector shall  responsible  monitoring  legality   processing  data 
+georgia  main purposes   activities   personal data protection inspector shall 
+l       provide consultations  public  private institutions persons  matters related   data protection
+m       consider applications   data protection
+n       examine  inspect  lawfulness   processing  data  public  private institutions
+                                                                             
+
+o       inform  public   situation concerning  protection  data  important developments related thereto  georgia
+       terms  activities   inspector   exercising hisher powers shall  defined   statute   approved   government 
+georgia
+      appointment  termination   term  office   inspector
+       inspector shall  appointed   open competition procedure
+       prime minister  georgia shall establish  competition commission   selection   inspector  commission shall include 
+representatives   government  georgia   parliament  georgia   judicial authority   office   public defender  georgia
+ well    nongovernmental sector   basis   principle  proportionality
+       inspector shall   citizen  georgia   relevant high education relevant professional experience  possesses professional 
+moral qualities  enable himher  perform  functions   inspector
+       competition commission   selection   inspector shall select  candidate   inspector   majority  votes  shall present
+himher   prime minister  georgia   appointment
+       prime minister shall appoint  inspector within  days  shall announce  new competition
+       inspector shall  appointed   term   years   person can  appointed   inspector   consecutive terms 
+        inspector shall  selected  earlier   days prior   expiry   term  office   incumbent   later   days 
+ expiry  hisher term  office
+       term  office   newlyappointed inspector shall commence   day following  expiry   term  office   incumbent 
+case heshe  appointed   expiry   term    day following  appointment   case heshe  appointed   expiry 
+ term   case  incumbents term  prematurely terminated
+       term  office   inspector shall  terminated upon  expiry   years   appointment  upon  premature termination
+thereof
+      inspector shall   deputy appointed   inspector
+      incompatibility   office   inspector
+       office   inspector shall  incompatible   membership   state  local selfgovernment representative bodies  georgia
+ holding  public office   engaged  remunerated activities   scientific pedagogic  artistic activities heshe   
+member   political party  shall  restricted  participating  political activities
+      within  month   selection  inspector shall  obliged  terminate activities incompatible  hisher office   inspector fails 
+comply    requirement within  mentioned term hisher term  office shall  terminated   competition commission  
+selection   inspector shall present  new candidate   inspector   primeminister  georgia
+      premature termination   term  office   inspector
+       term  office   inspector shall  prematurely terminated 
+      heshe loses citizenship
+                                                                             
+
+b      heshe  unable  perform hisher obligations   consecutive months
+c      court judgment  conviction  himher enters  force
+d      court finds himher lacking legal capacity recognizes missing  declares deceased
+e      heshe  accepted  holds  post incompatible   office   inspector  conducts  activities incompatible  hisher office
+f      heshe resigns
+g      heshe dies
+        cases envisaged  paragraph      term  office   inspector shall  considered   terminated   moment
+   abovementioned grounds  established  shall  notified   prime minister  georgia without delay  prime minister 
+georgia shall issue  respective administrativelegal act   termination   term  office   inspector
+       cases envisaged  paragraphs b  e  paragraph      term  office   inspector shall  terminated  
+decision   prime minister  georgia
+       case   premature termination   term  office   inspector    selection   new inspector   competition
+commission   selection   inspector  deputy inspector shall carry  hisher obligations  shall  subject   rights  legal
+safeguards granted   inspector
+      independence   inspector
+       exercising hisher powers  inspector shall  independent  shall   subordinated    public official  body  inspector
+shall  guided   constitution  georgia international agreements  law  normative acts   statute  influence  interference
+  inspectors activities shall  prohibited  punished   law
+       ensuring  independence   inspector  state shall  obliged  provide himher  appropriate working conditions
+       inspector shall   right   testify concerning  fact confided  himher    inspector  right shall  preserved 
+himher even   termination   term  office
+      financial  organizational support   activities   inspector
+       inspector shall enjoy hisher rights  carry  hisher obligations   support   inspectors office hereinafter  office
+       structure   office rules  activities   division  powers among  employees shall  established   statute   office
+       office shall  managed directly   inspector    deputy   inspector  hisher instructions
+      activities   inspector    office shall  financed   state budget  georgia  inspector shall present  draft expenditure
+plan  accordance   rules established   law  banknotes necessary   activities   inspector    office shall  defined
+  separate    state budget  georgia
+        implementation   rights  obligations envisaged   law  inspector shall  authorized  receive grants 
+contributions  accordance   rules established   georgian legislation
+      providing consultations  conducting educational activities
+                                                                              
+
+       case   relevant request  inspector shall  obliged  provide consultations   state  local selfgovernment bodies  georgia
+ public institutions legal persons  private law  natural persons   matter related   processing  protection  data
+      inspector shall conduct educational activities   matters related   processing  protection  data
+      consideration   application   data subject   inspector
+       inspector shall  obliged  consider  application   data subject   processing  data   apply  measures envisaged 
+ law
+      within  days   adoption   application  inspector shall make  decision   measures   taken  shall notify 
+applicant thereof
+       inspector shall  authorized  conduct  examination   purposes  studying  analyzing  circumstances related  
+application  case   inspectors request  data processor   authorized person shall  obliged  supply himher  relevant information
+ documents
+      time   consideration   application   data subject   inspector shall  exceed  months time   consideration  
+application can  prolonged      month   basis   grounded decision   inspector
+        completion   consideration   application   data subject  inspector shall  authorized  make  decision  
+blocking  data regardless   blocking  data  processing   data can  prolonged    necessary   protection   vital
+interests   data subject   third person  well    purposes  state security  defense
+        consideration   application   data subject  inspector shall make  decision   application  one   measures
+envisaged      law  shall  notified   data subject   data processor without delay
+      examination conducted   inspector
+       inspector shall  authorized  conduct  examination   data processor  authorized person based  hisher  initiative 
+well    statement   interested person
+      examination conducted   inspector shall imply
+      establishing   protection   principles   processing  data    existence   legitimate grounds   processing 
+        data
+b      examining  compatibility   applied procedures  organizational  technical measures  accordance   requirements
+        established   law
+c      examining  compliance   requirements established   law concerning  catalogue  filing system register   catalogues 
+        filing systems  registration  data issuance
+d      examining  lawfulness   transmission  data   states  international organizations
+e      examining  compliance   rules related   protection  data established   law   normative acts
+        course  examination  inspector shall  authorized  request documents  information necessary  conducting  examination
+within  scope established  paragraph       institution natural  legal persons
+       data processor   authorized person shall  obliged  submit  information  document   inspector without delay   
+impossible due  physical  legal reasons  can submit information  documents   inspector  later   days   request
+                                                                              
+
+        inspector shall  authorized  enter  institution  organization   purposes  conducting  examination  check 
+document  information regardless   content   way   stored except   cases envisaged  paragraph    
+        inspector shall  obliged  give  prior notification  least  days  advance   planned examination   scope  
+institution activities    related   state security  defense   conducts operativeinvestigative activities
+       considering  results   examination  inspector shall  authorized  apply  measures envisaged      law
+        inspector hisher deputy   employees   office shall  obliged   disclose  conduct  unlawful processing  
+information    revealed     course  examination    result    kind  official activities
+       participation   inspector   lawmaking process
+          inspector shall  authorized  submit proposals   parliament  georgia   public institutions   purposes  
+improvement   legislation  prepare conclusions   laws   normative acts related   processing  data  hisher 
+initiative
+       cooperation   inspector   organizations  institutions
+          inspector shall  authorized  cooperate   institutions international organizations  relevant institutions   states  
+matter related   protection  data
+       annual report   inspector
+        inspector shall submit  report   government  georgia   year   situation concerning  protection  data   country
+ inspectors report shall  made public   inspector shall ensure  publication
+        inspectors report shall include general assessment   situation concerning  protection  data conclusions  recommendations
+ well   information  important violations identified   year   measures undertaken
+       measures applied   inspector   implementation   law
+         inspector identifies  violation   law   normative acts regulating  processing  data heshe shall  authorized
+        require  eradication   violation   deficiencies related   processing  data   form  within  term indicated 
+         himher
+b        require  temporary  permanent termination   processing  data   measures  procedures applied   data processor  
+         authorized person   safety  data   comply   requirements   law
+c        demand  termination   processing  data  blocking erasure destruction  depersonalization  heshe considers  
+         processing  data  conducted unlawfully
+d        demand  termination   transfer  data  another state  international organization   transfer  conducted  violation 
+          requirements   law
+                                                                               
+
+e       give written advices  provide recommendations   data processor   authorized person  case  minor violations   rules 
+         processing  data  
+       data processor   authorized person shall  obliged  comply   requirements   inspector   term indicated  himher
+ notify  inspector thereof
+       inspector shall  authorized  address  court   data processor   authorized person   comply   requirements  
+inspector
+        inspector reveals  administrative offence heshe shall  authorized  draw   administrative offence protocol  respectively
+impose administrative liability   data processor   authorized person  accordance   rules established   law
+        inspector considers   course  activities   elements  crime  present heshe shall  obliged  notify    competent
+state authority  accordance   rules established   law
+       inspectors decision shall  obligatory   implemented   shall  appealed    court  accordance   rules
+established   law
+      register   catalogues  filing systems
+       inspector shall  obliged  keep  register   catalogues  filing systems  shall contain  information envisaged 
+paragraph       law
+       information contained   register   catalogues  filing systems shall  made public   inspector shall ensure  proper
+publication
+                                                                          vi
+                                          transfer  data   states  international organizations
+      transfer  data  another state  international organization
+     transfer  data  another state  international organization shall  allowed   grounds   processing  data envisaged   law
+ present   adequate safeguards   protection  data  ensured   respective state  international organization
+     transfer  data  another state  international organization except  paragraph     shall also  allowed 
+      transfer  data  envisaged   international agreement  georgia
+b      data processor provides adequate safeguards   protection  data   protection   fundamental rights   data subject  
+        basis   agreement concluded   data processor   respective state  natural  legal person   state   international
+        organization
+     transfer  data   basis  subparagraph b  paragraph     shall  allowed    permission   inspector
+      establishing adequate safeguards   protection  data
+                                                                             
+
+        presence  adequate safeguards   protection  data   foreign state andor   international organization shall  assessed 
+decided upon   inspector   basis   analysis   processing  data legislation  practice
+                                                                       vii
+                                                  administrative liability  violations   law
+       processing  data   absence   grounds envisaged   law
+       processing  data   absence   grounds envisaged   law 
+shall entail  warning   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall entail  fine   amount  gel 
+       violation   principles   processing  data
+      violation   principles   processing  data envisaged   law 
+shall result   warning   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+   processing  special category  data   absence   grounds envisaged   law
+       processing  special category  data   absence   grounds envisaged   law 
+shall result   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+       failure  comply   requirements  data security
+      failure  comply   requirements established   law  data security 
+shall result   warning   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+                                                                            
+
+shall result   fine   amount  gel 
+       violation   rules  using data   direct marketing purposes
+       using  data   direct marketing purposes  violation   rules established   law 
+shall result   fine   amount  gel 
+        act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+       violation   rules  video surveillance
+       violation   rules  video surveillance established   law 
+shall result   warning   fine   amount  gel 
+        act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+       violation   rules   processing  data regarding entries  exits   buildings  public  private institutions
+         violation   rules established   law   processing  data regarding entries  exits   buildings  public  private
+institutions 
+shall result   warning   fine   amount  gel 
+       violation   rules  notification   data subject   data processor
+       violation   rules established   law  notification   data subject   data processor 
+shall result   warning   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+       giving assignment   data processor   person authorized  process data  violation   rules
+     giving assignment   data processor   person authorized  process data  violation   rules established   law 
+shall result   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+                                                                              
+
+shall result   fine   amount  gel 
+       violation   rules envisaged      law   authorized person
+      violation   rules envisaged      law   authorized person 
+shall result   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year  
+shall result   fine   amount  gel 
+       failure  comply   requirements   inspector
+      violation   rules  submitting information  documents   inspector    person authorized  himher   data processor 
+  authorized person 
+shall result   warning   fine   amount  gel 
+       act committed   person subjected   administrative penalty   violation envisaged  paragraph     
+ year 
+shall result   fine   amount  gel 
+       violation   rules   processing  data
+        violation   rules established   law except   actions envisaged  articles    law 
+shall result   warning   fine   amount  gel 
+       reviewing  case  administrative offence
+      inspector shall   right  review  cases  administrative offences envisaged  articles    law   impose relevant
+administrative sanctions
+       inspector shall  authorized  draw   administrative offence protocol
+      person authorized   inspector draws   administrative offence protocol  reviews  case  accordance   rules established
+    administrative offences  georgia
+                                                                       viii
+                                                                 transitional provisions
+                                                                            
+
+       entry  force   law
+        law except  articles    law shall enter  force   may 
+       articles    law shall enter  force   january 
+   articles       law shall enter  force  regard   private sector   january 
+president  georgia                          mikhail saakashvili
+tbilisi
+december  
+rs
+                                                                             
+

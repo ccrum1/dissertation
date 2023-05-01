@@ -1,0 +1,1097 @@
+state  california
+authenticated
+electronic legal material
+                                       senate bill  
+                                            
+         act  amend sections    
+          
+             add
+    section    civil  relating  personal information 
+    declaring  urgency thereof  take effect immediately
+                          approved  governor september   filed 
+                                 secretary  state september  
+                                  legislative counsels digest
+        sb  dodd california consumer privacy act  
+         existing law  california consumer privacy act   grants
+    commencing  january    consumer various rights  regard 
+    personal information relating   consumer   held   business
+    including  right  request  business  delete  personal information
+      consumer collected   business  requires  business 
+    comply   verifiable consumer request   effect unless  
+    necessary   business  service provider  maintain  customers
+    personal information  order  carry  specified acts  act requires 
+    business  collects personal information   consumer  disclose
+     consumers right  delete personal information described   
+    internet web site    online privacy policy  policies
+         bill  modify  requirement  requiring  business 
+    collects personal information   consumer  disclose  consumers
+    right  delete personal information   form   reasonably accessible
+     consumers   accordance   specified process
+          act establishes several exceptions   requirements imposed
+     rights granted   act including prohibiting  act  
+    interpreted  restrict  ability   business  comply  federal state
+     local laws   providing   act   apply     conflict
+      california constitution
+         bill  provide   rights afforded  consumers  
+    obligations imposed   business   act   apply  
+    rights  obligations  infringe   noncommercial activities 
+    people  entities described   specified provision   california
+    constitution addressing activities related  newspapers  periodicals
+     bill  also prohibit application   act  personal information
+    collected processed sold  disclosed pursuant   specified federal law
+    relating  banks brokerages insurance companies  credit reporting
+    agencies among others   also except application   act  
+    information pursuant   california financial information privacy act
+                                                                                  
+
+ch                               
+ bill  provide   exceptions   exception provided
+ information collected processed sold  disclosed pursuant  
+drivers privacy protection act     apply  specific provisions
+  act related  unauthorized theft  disclosure  information 
+bill  revise  expand  exception provided  medical information
+ except  provider  health care   covered entity   also
+except information collected  part  clinical trials  specified  bill
+ also clarify   act   apply     conflict  
+united states constitution
+     act generally provides   enforcement   attorney
+general  also provides   private right  action  connection 
+certain unauthorized access  exfiltration theft  disclosure  
+consumers nonencrypted  nonredacted personal information  defined
+  purpose provided   consumer bringing  action notify 
+attorney general   action  accordance   specified process 
+act provides   business service provider   person  violates
+ provisions  fails  cure  violations within  days  liable 
+ civil penalty  laws relating  unfair competition   action  
+brought   attorney general  act prescribes  formula  allocating
+civil penalties  settlements assessed   actions    
+allocated   jurisdictions   behalf    action  brought
+    bill  clarify    private right  action permitted 
+ act   private right  action described   violations 
+unauthorized access  exfiltration theft  disclosure   consumers
+nonencrypted  nonredacted personal information   delete 
+requirement   consumer bringing  private right  action notify 
+attorney general  bill  remove references  laws relating 
+unfair competition  connection  attorney general actions described
+  bill  limit  civil penalty   assessed   attorney
+general action   context     $ per violation  $
+per  intentional violation   specify   injunction  also
+available  remedy  bill  eliminate  formula  allocating
+penalties  settlements   instead provide     moneys
+ deposited   consumer privacy fund   intent  offset costs
+incurred   courts   attorney general  connection   act
+ bill  also revise timelines  requirements regarding 
+promulgation  regulations   attorney general  connection  
+act
+     act makes  provisions operative  january   provided
+ specified contingency  satisfied provisions   act supersede 
+preempt laws adopted  local entities regarding  collection  sale 
+ consumers personal information   business
+    bill  make  provisions   act  supersede  preempt
+laws adopted  local entities  described  operative   date 
+bill becomes effective
+     bill  also make various technical  clarifying changes
+  act
+                                                                              
+
+                                                                   ch 
+     bill  declare     take effect immediately  
+urgency statute
+   people   state  california  enact  follows
+   section  section    civil   added  section
+      statutes    amended  read
+      consumer shall   right  request   business
+ collects  consumers personal information disclose   consumer
+ categories  specific pieces  personal information  business 
+collected
+   b  business  collects  consumers personal information shall 
+   point  collection inform consumers    categories 
+personal information   collected   purposes   
+categories  personal information shall  used  business shall  collect
+additional categories  personal information  use personal information
+collected  additional purposes without providing  consumer  notice
+consistent   section
+   c  business shall provide  information specified  subdivision 
+  consumer  upon receipt   verifiable consumer request
+   d  business  receives  verifiable consumer request  
+consumer  access personal information shall promptly take steps  disclose
+ deliver free  charge   consumer  personal information required
+  section  information may  delivered  mail  electronically
+  provided electronically  information shall    portable  
+ extent technically feasible   readily useable format  allows 
+consumer  transmit  information  another entity without hindrance
+ business may provide personal information   consumer   time
+ shall   required  provide personal information   consumer
+  twice   month period
+   e  section shall  require  business  retain  personal
+information collected   single onetime transaction   information
+  sold  retained   business   reidentify  otherwise link
+information    maintained   manner    considered
+personal information
+     section    civil   added  section  
+    statutes    amended  read
+      consumer shall   right  request   business
+delete  personal information   consumer   business 
+collected   consumer
+   b  business  collects personal information  consumers shall
+disclose pursuant  section   consumers rights  request 
+deletion   consumers personal information
+   c  business  receives  verifiable consumer request  
+consumer  delete  consumers personal information pursuant 
+subdivision    section shall delete  consumers personal
+                                                                            
+
+ch                                
+information   records  direct  service providers  delete 
+consumers personal information   records
+   d  business   service provider shall   required  comply 
+ consumers request  delete  consumers personal information   
+necessary   business  service provider  maintain  consumers
+personal information  order 
+    complete  transaction    personal information 
+collected provide  good  service requested   consumer  reasonably
+anticipated within  context   businesss ongoing business relationship
+  consumer  otherwise perform  contract   business
+  consumer
+    detect security incidents protect  malicious deceptive
+fraudulent  illegal activity  prosecute  responsible   activity
+    debug  identify  repair errors  impair existing intended
+functionality
+    exercise free speech ensure  right  another consumer  exercise
+   right  free speech  exercise another right provided   law
+    comply   california electronic communications privacy act
+pursuant    commencing  section   title   part
+   penal 
+    engage  public  peerreviewed scientific historical  statistical
+research   public interest  adheres    applicable ethics 
+privacy laws   businesses deletion   information  likely 
+render impossible  seriously impair  achievement   research 
+ consumer  provided informed consent
+     enable solely internal uses   reasonably aligned  
+expectations   consumer based   consumers relationship  
+business
+    comply   legal obligation
+    otherwise use  consumers personal information internally  
+lawful manner   compatible   context    consumer
+provided  information
+     section    civil   added  section  
+    statutes    amended  read
+      consumer shall   right  request   business
+ collects personal information   consumer disclose  
+consumer  following
+     categories  personal information   collected  
+consumer
+     categories  sources    personal information 
+collected
+     business  commercial purpose  collecting  selling personal
+information
+     categories  third parties    business shares personal
+information
+     specific pieces  personal information   collected  
+consumer
+                                                                                
+
+                                                                    ch 
+   b  business  collects personal information   consumer shall
+disclose   consumer pursuant  paragraph   subdivision  
+section   information specified  subdivision  upon receipt
+  verifiable consumer request   consumer
+   c  business  collects personal information  consumers shall
+disclose pursuant  subparagraph b  paragraph   subdivision 
+ section 
+     categories  personal information   collected  
+consumer
+     categories  sources    personal information 
+collected
+     business  commercial purpose  collecting  selling personal
+information
+     categories  third parties    business shares personal
+information
+     specific pieces  personal information  business  collected
+  consumer
+   d  section   require  business    following
+    retain  personal information   consumer collected  
+single onetime transaction    ordinary course  business 
+information   consumer   retained
+    reidentify  otherwise link  data    ordinary course 
+business   maintained   manner    considered personal
+information
+     section    civil   added  section  
+    statutes    amended  read
+      consumer shall   right  request   business
+ sells  consumers personal information   discloses   
+business purpose disclose   consumer
+     categories  personal information   business collected
+  consumer
+     categories  personal information   business sold 
+ consumer   categories  third parties    personal
+information  sold  category  categories  personal information 
+ third party    personal information  sold
+     categories  personal information   business disclosed
+  consumer   business purpose
+   b  business  sells personal information   consumer  
+discloses  consumers personal information   business purpose shall
+disclose pursuant  paragraph   subdivision   section 
+ information specified  subdivision    consumer upon receipt
+  verifiable consumer request   consumer
+   c  business  sells consumers personal information   discloses
+consumers personal information   business purpose shall disclose
+pursuant  subparagraph c  paragraph   subdivision   section
+
+                                                                             
+
+ch                                
+     category  categories  consumers personal information  
+sold    business   sold consumers personal information 
+shall disclose  fact
+     category  categories  consumers personal information  
+disclosed   business purpose    business   disclosed 
+consumers personal information   business purpose  shall disclose
+ fact
+   d  third party shall  sell personal information   consumer
+   sold   third party   business unless  consumer 
+received explicit notice   provided  opportunity  exercise  right
+ optout pursuant  section 
+      section    civil   added  section  
+    statutes    amended  read
+       consumer shall   right   time  direct 
+business  sells personal information   consumer  third parties
+  sell  consumers personal information  right may  referred
+   right  optout
+   b  business  sells consumers personal information  third parties
+shall provide notice  consumers pursuant  subdivision   section
+   information may  sold   consumers  
+right  optout   sale   personal information
+   c notwithstanding subdivision   business shall  sell  personal
+information  consumers   business  actual knowledge  
+consumer  less   years  age unless  consumer   case 
+consumers     years  age   consumers parent 
+guardian   case  consumers   less   years  age 
+affirmatively authorized  sale   consumers personal information
+ business  willfully disregards  consumers age shall  deemed 
+  actual knowledge   consumers age  right may  referred
+   right  optin
+   d  business   received direction   consumer   sell
+ consumers personal information    case   minor consumers
+personal information   received consent  sell  minor consumers
+personal information shall  prohibited pursuant  paragraph  
+subdivision   section   selling  consumers personal
+information   receipt   consumers direction unless  consumer
+subsequently provides express authorization   sale   consumers
+personal information
+      section    civil   added  section  
+    statutes    amended  read
+        business shall  discriminate   consumer
+  consumer exercised    consumers rights  
+title including   limited  
+    denying goods  services   consumer
+   b charging different prices  rates  goods  services including
+  use  discounts   benefits  imposing penalties
+                                                                            
+
+                                                                    ch 
+   c providing  different level  quality  goods  services  
+consumer
+   d suggesting   consumer will receive  different price  rate
+ goods  services   different level  quality  goods  services
+    nothing   subdivision prohibits  business  charging 
+consumer  different price  rate   providing  different level 
+quality  goods  services   consumer   difference  reasonably
+related   value provided   consumer   consumers data
+   b   business may offer financial incentives including payments
+ consumers  compensation   collection  personal information
+ sale  personal information   deletion  personal information 
+business may also offer  different price rate level  quality  goods 
+services   consumer   price  difference  directly related  
+value provided   consumer   consumers data
+     business  offers  financial incentives pursuant  subdivision
+ shall notify consumers   financial incentives pursuant  section
+
+     business may enter  consumer   financial incentive program
+   consumer gives  business prior optin consent pursuant 
+section   clearly describes  material terms   financial
+incentive program   may  revoked   consumer   time
+     business shall  use financial incentive practices   unjust
+unreasonable coercive  usurious  nature
+     section    civil   added  section  
+    statutes    amended  read
+      order  comply  sections  
+     business shall   form  
+reasonably accessible  consumers
+    make available  consumers two   designated methods 
+submitting requests  information required   disclosed pursuant 
+sections    including   minimum  tollfree
+telephone number    business maintains  internet web site 
+web site address
+    disclose  deliver  required information   consumer free 
+charge within  days  receiving  verifiable consumer request  
+consumer  business shall promptly take steps  determine whether 
+request   verifiable consumer request   shall  extend 
+businesss duty  disclose  deliver  information within  days 
+receipt   consumers request  time period  provide  required
+information may  extended    additional  days  reasonably
+necessary provided  consumer  provided notice   extension within
+ first day period  disclosure shall cover  month period
+preceding  businesss receipt   verifiable consumer request  shall
+ made  writing  delivered   consumers account  
+business   consumer maintains  account   business   mail
+ electronically   consumers option   consumer   maintain
+ account   business   readily useable format  allows 
+                                                                             
+
+ch                             
+consumer  transmit  information  one entity  another entity
+without hindrance  business shall  require  consumer  create 
+account   business  order  make  verifiable consumer request
+     purposes  subdivision b  section 
+     identify  consumer associate  information provided  
+consumer   verifiable consumer request   personal information
+previously collected   business   consumer
+   b identify  category  categories  personal information collected
+  consumer   preceding  months  reference  
+enumerated category  categories  subdivision c   closely
+describes  personal information collected
+     purposes  subdivision b  section 
+    identify  consumer  associate  information provided  
+consumer   verifiable consumer request   personal information
+previously collected   business   consumer
+   b identify  category  categories  personal information  
+consumer   business sold   preceding  months  reference 
+ enumerated category  subdivision c   closely describes 
+personal information  provide  categories  third parties  
+ consumers personal information  sold   preceding  months
+ reference   enumerated category  categories  subdivision c 
+ closely describes  personal information sold  business shall
+disclose  information   list   separate   list generated 
+ purposes  subparagraph c
+   c identify  category  categories  personal information  
+consumer   business disclosed   business purpose   preceding
+ months  reference   enumerated category  categories 
+subdivision c   closely describes  personal information 
+provide  categories  third parties    consumers personal
+information  disclosed   business purpose   preceding  months
+ reference   enumerated category  categories  subdivision c 
+ closely describes  personal information disclosed  business
+shall disclose  information   list   separate   list generated
+  purposes  subparagraph b
+    disclose  following information   online privacy policy 
+policies   business   online privacy policy  policies   
+californiaspecific description  consumers privacy rights   
+business   maintain  policies   internet web site 
+update  information  least  every  months
+     description   consumers rights pursuant  sections 
+    one   designated methods  submitting
+requests
+   b  purposes  subdivision c  section   list  
+categories  personal information   collected  consumers  
+preceding  months  reference   enumerated category  categories
+ subdivision c   closely describe  personal information
+collected
+                                                                             
+
+                                                                     ch 
+   c  purposes  paragraphs     subdivision c  section
+ two separate lists
+     list   categories  personal information   sold 
+consumers   preceding  months  reference   enumerated
+category  categories  subdivision c   closely describe 
+personal information sold    business   sold consumers personal
+information   preceding  months  business shall disclose  fact
+   ii  list   categories  personal information   disclosed 
+consumers   business purpose   preceding  months  reference
+  enumerated category  subdivision c   closely describe 
+personal information disclosed    business   disclosed
+consumers personal information   business purpose   preceding
+ months  business shall disclose  fact
+    ensure   individuals responsible  handling consumer inquiries
+  businesss privacy practices   businesss compliance 
+ title  informed   requirements  sections  
+   section    direct consumers  exercise 
+rights   sections
+    use  personal information collected   consumer 
+connection   businesss verification   consumers request solely
+  purposes  verification
+   b  business   obligated  provide  information required 
+sections       consumer   twice 
+ month period
+   c  categories  personal information required   disclosed
+pursuant  sections    shall follow  definition 
+personal information  section 
+     section    civil   added  section  
+    statutes    amended  read
+      business   required  comply  section
+ shall   form   reasonably accessible  consumers
+    provide  clear  conspicuous link   businesss internet
+homepage titled   sell  personal information   internet
+web page  enables  consumer   person authorized   consumer
+ optout   sale   consumers personal information  business
+shall  require  consumer  create  account  order  direct 
+business   sell  consumers personal information
+    include  description   consumers rights pursuant  section
+ along   separate link     sell  personal
+information internet web page 
+     online privacy policy  policies   business   online
+privacy policy  policies
+   b  californiaspecific description  consumers privacy rights
+    ensure   individuals responsible  handling consumer inquiries
+  businesss privacy practices   businesss compliance 
+ title  informed   requirements  section   
+                                                                             
+
+ch                                 
+section    direct consumers  exercise  rights  
+sections
+     consumers  exercise  right  optout   sale  
+personal information refrain  selling personal information collected
+  business   consumer
+      consumer   optedout   sale   consumers
+personal information respect  consumers decision  optout   least
+ months  requesting   consumer authorize  sale  
+consumers personal information
+    use  personal information collected   consumer 
+connection   submission   consumers optout request solely
+  purposes  complying   optout request
+   b nothing   title shall  construed  require  business  comply
+  title  including  required links  text   homepage 
+ business makes available   public generally   business maintains
+ separate  additional homepage   dedicated  california consumers
+  includes  required links  text   business takes
+reasonable steps  ensure  california consumers  directed  
+homepage  california consumers    homepage made available
+  public generally
+   c  consumer may authorize another person solely  optout  
+sale   consumers personal information   consumers behalf 
+ business shall comply   optout request received   person
+authorized   consumer  act   consumers behalf pursuant 
+regulations adopted   attorney general
+     section    civil   added  section  
+    statutes    amended  read
+     purposes   title
+    aggregate consumer information means information  relates
+  group  category  consumers   individual consumer
+identities   removed    linked  reasonably linkable 
+ consumer  household including via  device aggregate consumer
+information   mean one   individual consumer records 
+  deidentified
+   b biometric information means  individuals physiological
+biological  behavioral characteristics including  individuals
+deoxyribonucleic acid dna  can  used singly   combination
+      identifying data  establish individual identity
+biometric information includes    limited  imagery   iris
+retina fingerprint face hand palm vein patterns  voice recordings
+   identifier template    faceprint  minutiae template
+  voiceprint can  extracted  keystroke patterns  rhythms gait
+patterns  rhythms  sleep health  exercise data  contain
+identifying information
+   c business means
+     sole proprietorship partnership limited liability company
+corporation association   legal entity   organized  operated
+                                                                               
+
+                                                                    ch 
+  profit  financial benefit   shareholders   owners 
+collects consumers personal information    behalf   
+information  collected   alone  jointly  others determines
+ purposes  means   processing  consumers personal
+information   business   state  california   satisfies
+one     following thresholds
+     annual gross revenues  excess  twentyfive million dollars
+$  adjusted pursuant  paragraph   subdivision  
+section 
+   b alone   combination annually buys receives   businesss
+commercial purposes sells  shares  commercial purposes alone  
+combination  personal information     consumers
+households  devices
+   c derives  percent     annual revenues  selling
+consumers personal information
+     entity  controls   controlled   business  defined 
+paragraph    shares common branding   business control
+ controlled means ownership    power  vote   
+percent   outstanding shares   class  voting security   business
+control   manner   election   majority   directors  
+individuals exercising similar functions   power  exercise 
+controlling influence   management   company common
+branding means  shared name servicemark  trademark
+   d business purpose means  use  personal information  
+businesss   service providers operational purposes   notified
+purposes provided   use  personal information shall  reasonably
+necessary  proportionate  achieve  operational purpose  
+ personal information  collected  processed   another
+operational purpose   compatible   context    personal
+information  collected business purposes 
+    auditing related   current interaction   consumer 
+concurrent transactions including   limited  counting ad
+impressions  unique visitors verifying positioning  quality  ad
+impressions  auditing compliance   specification  
+standards
+    detecting security incidents protecting  malicious deceptive
+fraudulent  illegal activity  prosecuting  responsible  
+activity
+    debugging  identify  repair errors  impair existing intended
+functionality
+    shortterm transient use provided  personal information  
+ disclosed  another third party    used  build  profile 
+ consumer  otherwise alter  individual consumers experience outside
+ current interaction including   limited   contextual
+customization  ads shown  part    interaction
+    performing services  behalf   business  service provider
+including maintaining  servicing accounts providing customer service
+                                                                              
+
+ch                                
+processing  fulfilling orders  transactions verifying customer
+information processing payments providing financing providing advertising
+ marketing services providing analytic services  providing similar
+services  behalf   business  service provider
+    undertaking internal research  technological development 
+demonstration
+    undertaking activities  verify  maintain  quality  safety 
+ service  device   owned manufactured manufactured  
+controlled   business   improve upgrade  enhance  service
+ device   owned manufactured manufactured   controlled 
+ business
+   e collects collected  collection means buying renting
+gathering obtaining receiving  accessing  personal information
+pertaining   consumer   means  includes receiving information
+  consumer either actively  passively   observing 
+consumers behavior
+   f commercial purposes means  advance  persons commercial 
+economic interests    inducing another person  buy rent lease
+join subscribe  provide  exchange products goods property
+information  services  enabling  effecting directly  indirectly 
+commercial transaction commercial purposes   include  
+purpose  engaging  speech  state  federal courts  recognized
+ noncommercial speech including political speech  journalism
+   g consumer means  natural person    california resident 
+defined  section   title    california   regulations
+  section read  september   however identified including
+  unique identifier
+   h deidentified means information   reasonably identify
+relate  describe  capable   associated    linked directly
+ indirectly   particular consumer provided   business  uses
+deidentified information
+     implemented technical safeguards  prohibit reidentification
+  consumer    information may pertain
+     implemented business processes  specifically prohibit
+reidentification   information
+     implemented business processes  prevent inadvertent release
+ deidentified information
+    makes  attempt  reidentify  information
+    designated methods  submitting requests means  mailing
+address email address internet web page internet web portal tollfree
+telephone number   applicable contact information whereby
+consumers may submit  request  direction   title   new
+consumerfriendly means  contacting  business  approved  
+attorney general pursuant  section 
+   j device means  physical object   capable  connecting 
+ internet directly  indirectly   another device
+                                                                              
+
+                                                                     ch 
+   k health insurance information means  consumers insurance policy
+number  subscriber identification number  unique identifier used 
+ health insurer  identify  consumer   information  
+consumers application  claims history including  appeals records
+  information  linked  reasonably linkable   consumer 
+household including via  device   business  service provider
+   l homepage means  introductory page   internet web site 
+ internet web page  personal information  collected   case
+  online service    mobile application homepage means 
+applications platform page  download page  link within  application
+    application configuration  information 
+settings page    location  allows consumers  review 
+notice required  subdivision   section  including  
+limited   downloading  application
+   m infer  inference means  derivation  information data
+assumptions  conclusions  facts evidence  another source 
+information  data
+   n person means  individual proprietorship firm partnership joint
+venture syndicate business trust company corporation limited liability
+company association committee    organization  group 
+persons acting  concert
+   o  personal information means information  identifies relates
+ describes  capable   associated    reasonably 
+linked directly  indirectly   particular consumer  household
+personal information includes    limited   following  
+identifies relates  describes  capable   associated   
+ reasonably linked directly  indirectly   particular consumer 
+household
+    identifiers    real name alias postal address unique personal
+identifier online identifier internet protocol address email address account
+name social security number drivers license number passport number
+  similar identifiers
+   b  categories  personal information described  subdivision e
+ section 
+   c characteristics  protected classifications  california  federal
+law
+   d commercial information including records  personal property
+products  services purchased obtained  considered   purchasing
+ consuming histories  tendencies
+   e biometric information
+   f internet   electronic network activity information including
+  limited  browsing history search history  information
+regarding  consumers interaction   internet web site application
+ advertisement
+   g geolocation data
+   h audio electronic visual thermal olfactory  similar information
+    professional  employmentrelated information
+                                                                              
+
+ch                                 
+   j education information defined  information    publicly
+available personally identifiable information  defined   family
+educational rights  privacy act  usc section g  cfr
+part 
+   k inferences drawn     information identified  
+subdivision  create  profile   consumer reflecting  consumers
+preferences characteristics psychological trends predispositions behavior
+attitudes intelligence abilities  aptitudes
+    personal information   include publicly available
+information   purposes publicly available means information
+  lawfully made available  federal state  local government
+records   conditions associated   information publicly
+available   mean biometric information collected   business
+  consumer without  consumers knowledge information  
+publicly available   data  used   purpose    compatible
+  purpose    data  maintained  made available  
+government records      publicly maintained publicly
+available   include consumer information   deidentified 
+aggregate consumer information
+   p probabilistic identifier means  identification   consumer 
+ device   degree  certainty   probable   based  
+categories  personal information included   similar   categories
+enumerated   definition  personal information
+   q processing means  operation  set  operations  
+performed  personal data   sets  personal data whether   
+automated means
+   r pseudonymize  pseudonymization means  processing 
+personal information   manner  renders  personal information 
+longer attributable   specific consumer without  use  additional
+information provided   additional information  kept separately 
+ subject  technical  organizational measures  ensure   personal
+information   attributed   identified  identifiable consumer
+   s research means scientific systematic study  observation
+including basic research  applied research     public interest 
+ adheres    applicable ethics  privacy laws  studies
+conducted   public interest   area  public health research 
+personal information  may   collected   consumer  
+course   consumers interactions   businesss service  device
+  purposes shall 
+    compatible   business purpose    personal
+information  collected
+    subsequently pseudonymized  deidentified  deidentified 
+  aggregate    information  reasonably identify relate
+ describe  capable   associated    linked directly 
+indirectly   particular consumer
+    made subject  technical safeguards  prohibit reidentification 
+ consumer    information may pertain
+                                                                             
+
+                                                                     ch 
+    subject  business processes  specifically prohibit reidentification
+  information
+    made subject  business processes  prevent inadvertent release 
+deidentified information
+    protected   reidentification attempts
+    used solely  research purposes   compatible   context
+   personal information  collected
+      used   commercial purpose
+    subjected   business conducting  research  additional
+security controls limit access   research data    individuals
+  business   necessary  carry   research purpose
+   t  sell selling sale  sold means selling renting
+releasing disclosing disseminating making available transferring 
+otherwise communicating orally  writing   electronic   means
+ consumers personal information   business  another business 
+ third party  monetary   valuable consideration
+     purposes   title  business   sell personal information
+
+     consumer uses  directs  business  intentionally disclose
+personal information  uses  business  intentionally interact  
+third party provided  third party   also sell  personal
+information unless  disclosure   consistent   provisions
+  title  intentional interaction occurs   consumer intends
+ interact   third party via one   deliberate interactions
+hovering  muting pausing  closing  given piece  content 
+ constitute  consumers intent  interact   third party
+   b  business uses  shares  identifier   consumer  
+opted    sale   consumers personal information   purposes
+ alerting third parties   consumer  opted    sale  
+consumers personal information
+   c  business uses  shares   service provider personal
+information   consumer   necessary  perform  business purpose
+    following conditions  met
+     business  provided notice  information  used  shared
+  terms  conditions consistent  section 
+   ii  service provider    collect sell  use  personal
+information   consumer except  necessary  perform  business
+purpose
+   d  business transfers   third party  personal information  
+consumer   asset   part   merger acquisition bankruptcy 
+ transaction    third party assumes control    part 
+ business provided  information  used  shared consistently 
+sections      third party materially alters  
+uses  shares  personal information   consumer   manner  
+materially inconsistent   promises made   time  collection 
+shall provide prior notice   new  changed practice   consumer
+ notice shall  sufficiently prominent  robust  ensure  existing
+                                                                               
+
+ch                                    
+consumers can easily exercise  choices consistently  section
+  subparagraph   authorize  business  make material
+retroactive privacy policy changes  make  changes   privacy
+policy   manner   violate  unfair  deceptive practices
+act   commencing  section   part   division 
+  business  professions 
+   u service  services means work labor  services including
+services furnished  connection   sale  repair  goods
+   v service provider means  sole proprietorship partnership limited
+liability company corporation association   legal entity  
+organized  operated   profit  financial benefit   shareholders
+  owners  processes information  behalf   business  
+  business discloses  consumers personal information  
+business purpose pursuant   written contract provided   contract
+prohibits  entity receiving  information  retaining using 
+disclosing  personal information   purpose     specific
+purpose  performing  services specified   contract   business
+  otherwise permitted   title including retaining using 
+disclosing  personal information   commercial purpose  
+providing  services specified   contract   business
+   w third party means  person       following
+     business  collects personal information  consumers 
+ title
+      person    business discloses  consumers personal
+information   business purpose pursuant   written contract provided
+  contract
+    prohibits  person receiving  personal information 
+    selling  personal information
+   ii retaining using  disclosing  personal information  
+purpose     specific purpose  performing  services
+specified   contract including retaining using  disclosing  personal
+information   commercial purpose   providing  services
+specified   contract
+   iii retaining using  disclosing  information outside   direct
+business relationship   person   business
+   ii includes  certification made   person receiving  personal
+information   person understands  restrictions  subparagraph 
+ will comply  
+   b  person covered   paragraph  violates    restrictions
+set forth   title shall  liable   violations  business  discloses
+personal information   person covered   paragraph  compliance
+  paragraph shall   liable   title   person receiving
+ personal information uses   violation   restrictions set forth 
+ title provided    time  disclosing  personal information
+ business    actual knowledge  reason  believe  
+person intends  commit   violation
+                                                                                   
+
+                                                                     ch 
+   x unique identifier  unique personal identifier means  persistent
+identifier  can  used  recognize  consumer  family   device
+  linked   consumer  family  time  across different services
+including   limited   device identifier  internet protocol address
+cookies beacons pixel tags mobile ad identifiers  similar technology
+customer number unique pseudonym  user alias telephone numbers 
+ forms  persistent  probabilistic identifiers  can  used 
+identify  particular consumer  device  purposes   subdivision
+family means  custodial parent  guardian   minor children 
+  parent  guardian  custody
+   y verifiable consumer request means  request   made  
+consumer   consumer  behalf   consumers minor child   
+natural person   person registered   secretary  state authorized
+  consumer  act   consumers behalf    business can
+reasonably verify pursuant  regulations adopted   attorney general
+pursuant  paragraph   subdivision   section    
+consumer    business  collected personal information 
+business   obligated  provide information   consumer pursuant
+ sections      business  verify pursuant
+ subdivision  regulations adopted   attorney general pursuant
+ paragraph   subdivision   section    consumer
+making  request   consumer    business  collected
+information    person authorized   consumer  act  
+consumers behalf
+     section    civil   added  section  
+    statutes    amended  read
+      obligations imposed  businesses   title shall
+ restrict  businesss ability 
+    comply  federal state  local laws
+    comply   civil criminal  regulatory inquiry investigation
+subpoena  summons  federal state  local authorities
+    cooperate  law enforcement agencies concerning conduct 
+activity   business service provider  third party reasonably  
+good faith believes may violate federal state  local law
+    exercise  defend legal claims
+    collect use retain sell  disclose consumer information  
+deidentified    aggregate consumer information
+    collect  sell  consumers personal information  every aspect 
+ commercial conduct takes place wholly outside  california 
+purposes   title commercial conduct takes place wholly outside 
+california   business collected  information   consumer
+ outside  california  part   sale   consumers personal
+information occurred  california   personal information collected
+  consumer   california  sold  paragraph shall  permit
+ business  storing including   device personal information 
+ consumer   consumer   california   collecting 
+                                                                               
+
+ch                                 
+personal information   consumer  stored personal information
+ outside  california
+   b  obligations imposed  businesses  sections  
+ inclusive shall  apply  compliance   business 
+ title  violate  evidentiary privilege  california law 
+shall  prevent  business  providing  personal information  
+consumer   person covered   evidentiary privilege  california
+law  part   privileged communication
+   c   title shall  apply     following
+    medical information governed   confidentiality  medical
+information act part  commencing  section   division  
+protected health information   collected   covered entity  business
+associate governed   privacy security  breach notification rules
+issued   united states department  health  human services
+parts     title      federal regulations established
+pursuant   health insurance portability  accountability act  
+public law    health information technology  economic
+ clinical health act public law 
+   b  provider  health care governed   confidentiality  medical
+information act part  commencing  section   division  
+ covered entity governed   privacy security  breach notification
+rules issued   united states department  health  human services
+parts     title      federal regulations established
+pursuant   health insurance portability  accountability act  
+public law    extent  provider  covered entity maintains
+patient information    manner  medical information  protected
+health information  described  subparagraph    section
+   c information collected  part   clinical trial subject   federal
+policy   protection  human subjects also known   common
+rule pursuant  good clinical practice guidelines issued   international
+council  harmonisation  pursuant  human subject protection
+requirements   united states food  drug administration
+     purposes   subdivision  definitions  medical
+information  provider  health care  section  shall apply 
+ definitions  business associate covered entity  protected
+health information  section   title      federal
+regulations shall apply
+   d  title shall  apply   sale  personal information   
+ consumer reporting agency   information    reported   used
+ generate  consumer report  defined  subdivision d  section
+  title    united states   use   information 
+limited   federal fair credit reporting act  usc   et
+seq
+   e  title shall  apply  personal information collected processed
+sold  disclosed pursuant   federal grammleachbliley act public
+law   implementing regulations   california financial
+                                                                               
+
+                                                                   ch 
+information privacy act division  commencing  section  
+ financial   subdivision shall  apply  section 
+   f  title shall  apply  personal information collected processed
+sold  disclosed pursuant   drivers privacy protection act  
+ usc   et seq  subdivision shall  apply  section
+
+   g notwithstanding  businesss obligations  respond   honor
+consumer rights requests pursuant   title
+     time period   business  respond   verified consumer
+request may  extended     additional days  necessary taking
+ account  complexity  number   requests  business shall
+inform  consumer    extension within  days  receipt  
+request together   reasons   delay
+      business   take action   request   consumer
+ business shall inform  consumer without delay    latest within
+ time period permitted  response   section   reasons  
+taking action   rights  consumer may   appeal  decision
+  business
+     requests   consumer  manifestly unfounded  excessive
+ particular    repetitive character  business may either
+charge  reasonable fee taking  account  administrative costs 
+providing  information  communication  taking  action requested
+ refuse  act   request  notify  consumer   reason 
+refusing  request  business shall bear  burden  demonstrating
+  verified consumer request  manifestly unfounded  excessive
+   h  business  discloses personal information   service provider
+shall   liable   title   service provider receiving 
+personal information uses   violation   restrictions set forth  
+title provided    time  disclosing  personal information 
+business    actual knowledge  reason  believe  
+service provider intends  commit   violation  service provider shall
+likewise   liable   title   obligations   business 
+  provides services  set forth   title
+     title shall   construed  require  business  reidentify 
+otherwise link information    maintained   manner  
+ considered personal information
+   j  rights afforded  consumers   obligations imposed  
+business   title shall  adversely affect  rights  freedoms 
+ consumers
+   k  rights afforded  consumers   obligations imposed  
+business   title shall  apply   extent   infringe 
+ noncommercial activities   person  entity described  subdivision
+b  section       california constitution
+      section    civil   added  section  
+    statutes    amended  read
+        consumer whose nonencrypted  nonredacted
+personal information  defined  subparagraph   paragraph  
+                                                                             
+
+ch                                 
+subdivision d  section   subject   unauthorized access
+ exfiltration theft  disclosure   result   businesss violation
+  duty  implement  maintain reasonable security procedures 
+practices appropriate   nature   information  protect  personal
+information may institute  civil action     following
+     recover damages   amount  less  one hundred dollars
+$   greater  seven hundred  fifty $ per consumer
+per incident  actual damages whichever  greater
+   b injunctive  declaratory relief
+   c   relief  court deems proper
+     assessing  amount  statutory damages  court shall consider
+ one     relevant circumstances presented     parties
+  case including   limited   nature  seriousness  
+misconduct  number  violations  persistence   misconduct
+ length  time    misconduct occurred  willfulness 
+ defendants misconduct   defendants assets liabilities  net
+worth
+   b actions pursuant   section may  brought   consumer 
+prior  initiating  action   business  statutory damages  
+individual  classwide basis  consumer provides  business  days
+written notice identifying  specific provisions   title  consumer
+alleges      violated   event  cure  possible 
+within   days  business actually cures  noticed violation 
+provides  consumer  express written statement   violations 
+ cured     violations shall occur  action  individual
+statutory damages  classwide statutory damages may  initiated 
+ business  notice shall  required prior   individual consumer
+initiating  action solely  actual pecuniary damages suffered   result
+  alleged violations   title   business continues  violate 
+title  breach   express written statement provided   consumer
+  section  consumer may initiate  action   business
+ enforce  written statement  may pursue statutory damages  
+breach   express written statement  well    violation 
+ title  postdates  written statement
+   c  cause  action established   section shall apply  
+violations  defined  subdivision   shall   based  violations
+   section   title nothing   title shall  interpreted 
+serve   basis   private right  action    law  shall
+  construed  relieve  party   duties  obligations imposed
+  law   united states  california constitution
+      section    civil   added  section  
+    statutes    amended  read
+       business  third party may seek  opinion  
+attorney general  guidance    comply   provisions 
+ title
+   b  business shall   violation   title   fails  cure 
+alleged violation within  days   notified  alleged
+                                                                               
+
+                                                                      ch 
+noncompliance  business service provider   person  violates
+ title shall  subject   injunction  liable   civil penalty  
+  two thousand five hundred dollars $   violation 
+seven thousand five hundred dollars $   intentional violation
+ shall  assessed  recovered   civil action brought   name
+  people   state  california   attorney general  civil
+penalties provided    section shall  exclusively assessed 
+recovered   civil action brought   name   people   state 
+california   attorney general
+   c  civil penalty assessed   violation   title   proceeds
+  settlement   action brought pursuant  subdivision b shall 
+deposited   consumer privacy fund created within  general fund
+pursuant  subdivision   section    intent  fully offset
+ costs incurred   state courts   attorney general  connection
+  title
+     section    civil   added  section  
+    statutes    amended  read
+        july    attorney general shall
+solicit broad public participation  adopt regulations    purposes
+  title including   limited   following areas
+    updating  needed additional categories  personal information 
+ enumerated  subdivision c  section   subdivision
+o  section   order  address changes  technology data
+collection practices obstacles  implementation  privacy concerns
+    updating  needed  definition  unique identifiers  address
+changes  technology data collection obstacles  implementation 
+privacy concerns  additional categories   definition  designated
+methods  submitting requests  facilitate  consumers ability  obtain
+information   business pursuant  section 
+    establishing  exceptions necessary  comply  state  federal
+law including   limited   relating  trade secrets 
+intellectual property rights within one year  passage   title  
+needed thereafter
+    establishing rules  procedures   following
+     facilitate  govern  submission   request   consumer
+ optout   sale  personal information pursuant  paragraph  
+subdivision   section 
+   b  govern business compliance   consumers optout request
+   c   development  use   recognizable  uniform optout
+logo  button   businesses  promote consumer awareness  
+opportunity  optout   sale  personal information
+    adjusting  monetary threshold  subparagraph   paragraph
+  subdivision c  section   january  every oddnumbered
+year  reflect  increase   consumer price index
+    establishing rules procedures   exceptions necessary  ensure
+  notices  information  businesses  required  provide
+pursuant   title  provided   manner  may  easily understood
+                                                                                
+
+ch                                 
+  average consumer  accessible  consumers  disabilities 
+ available   language primarily used  interact   consumer
+including establishing rules  guidelines regarding financial incentive
+offerings within one year  passage   title   needed thereafter
+    establishing rules  procedures    purposes  sections
+     facilitate  consumers   consumers
+authorized agents ability  obtain information pursuant  section 
+  goal  minimizing  administrative burden  consumers taking
+ account available technology security concerns   burden  
+business  govern  businesss determination   request  information
+received   consumer   verifiable consumer request including treating
+ request submitted   passwordprotected account maintained 
+ consumer   business   consumer  logged   account
+  verifiable consumer request  providing  mechanism   consumer
+   maintain  account   business  request information
+  businesss authentication   consumers identity within one
+year  passage   title   needed thereafter
+   b  attorney general may adopt additional regulations  necessary
+   purposes   title
+   c  attorney general shall  bring  enforcement action 
+ title  six months   publication   final regulations issued
+pursuant   section  july   whichever  sooner
+     section    civil   added  section  
+    statutes    amended  read
+     provision   contract  agreement   kind 
+purports  waive  limit   way  consumers rights   title
+including   limited   right   remedy  means  enforcement
+shall  deemed contrary  public policy  shall  void 
+unenforceable  section shall  prevent  consumer  declining 
+request information   business declining  optout   businesss
+sale   consumers personal information  authorizing  business 
+sell  consumers personal information  previously opting 
+     section    civil   added  section  
+    statutes    amended  read
+     title  intended  supplement federal  state law 
+permissible  shall  apply   application  preempted   
+conflict  federal law   united states  california constitution
+     section    civil   added  section  
+    statutes    amended  read
+     subject  limitation provided  subdivision b  
+section   title shall  operative january  
+   b  title shall become operative   initiative measure 
+  consumer right  privacy act    withdrawn 
+ ballot pursuant  section    elections 
+     section   added   civil   read
+    notwithstanding section  section  shall
+ operative   effective date   act adding  section
+                                                                                
+
+                                                                ch 
+      act   urgency statute necessary   immediate
+preservation   public peace health  safety within  meaning 
+ iv   california constitution  shall go  immediate effect
+ facts constituting  necessity 
+   order  prevent  confusion created   enactment  conflicting
+local laws regarding  collection  sale  personal information  
+necessary   act take immediate effect
+                                      o
+                                                                          
+

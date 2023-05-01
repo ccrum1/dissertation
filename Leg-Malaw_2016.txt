@@ -1,0 +1,2213 @@
+                       electronic transactions                                
+                  part ipreliminary provisions
+    act may  cited   electronic transactions          short title 
+cyber security act   shall come  operation         commence
+date   minister may appoint  notice published   gazette
+                                                                      ment
+     act unless  context otherwise requires             interpretation
+     authority means  malawi communications regulatory
+  authority established  section    communications         cap 
+  act
+     cctld means  country  top level domain 
+     top level   internet domain name system assigned
+  according   two letter codes   international standards
+  iso  icann
+     certification authority means  trusted third party
+  organization  company licensed  authorized   authority
+   issue digital certificates used  create digital signatures 
+  publicprivate key pairs
+     child pornography means visual  pornographic material
+   depicts presents  represents  person   age 
+  eighteen engaged  sexually explicit conduct   image
+  representing  person   age  eighteen engaged 
+  sexually explicit conduct
+     comparative advertising means  advertising 
+  explicitly  impliedly identifies  competitor  goods 
+  services offered   competitor
+     computer system means  device   group  interconnect
+  ed  related devices one     performs automatic
+  processing  data pursuant   program
+     consumer means  person  enters  intends  enter
+    contract  electronic means   supplier   enduser
+    goods  services offered   supplier  acts  
+  purpose outside  trade business  profession
+     content provider means  person  organization 
+  supplies information  use   website   electronic media
+  platform
+     critical data means data   declared   minister 
+  accordance   act    importance   protection 
+  national security   republic   economic  socio well
+     citizens
+     cryptography  means  method  storing  transmitting
+  data  transferring   unreadable format    
+      intended can process  read 
+
+              electronic transactions                           
+     cyber inspector means  person appointed   
+  section 
+     data means electronic presentation  information  
+  form
+     data controller means  person  acting either alone  
+  common   persons determines  purpose  
+    manner    personal data  processed   
+   processed  thus controls   responsible   keeping
+   using  personal data   term includes  person 
+  collects processes  stores personal data
+     data subject means  person   data relating  
+  person  collected processed  stored   data controller
+     digital certificate means  electronic document  prove
+  ownership   public key  certificate includes information
+    key owners identity   digital signature  
+  entity   verified  certificates contents  correct
+     digital signature means  electronic signature consisting 
+   transformation   electronic message using  asymmetric
+  crypto system   hash function    person  
+  initial  transformed electronic message   signatorys
+  public key can accurately determine
+         whether  transformation  created using  private
+     key  corresponds   signatorys public key 
+        b whether  initial electronic message     
+      transformation  made
+     digital signature certificate means  record   issued
+    authority   purpose  supporting  digital signature
+     distance contract means  contract concluded  
+  supplier   consumer   organized remote sales 
+  serviceprovision scheme run   supplier   
+  purpose   contract makes exclusive use  one  
+  electronic means    including  time   
+  contract  concluded
+     domain name means  alphanumeric designation  
+  registered  assigned  respect   electronic address  
+  resources   internet
+     egovernment service means  public service provided 
+  electronic means
+     electronic commerce means  economic activity provided
+   electronic means including remote services  products
+  particularly services  consist  providing online information
+
+                      electronic transactions                              
+  commercial communications research tools  access  
+  downloading  online data access   communication network
+    hosting  information
+     electronic message means  communication created sent
+  received  stored  electronic communication means  
+  computerized data exchange system electronic mail system 
+  instant messaging
+     electronic record means  record created generated sent
+  communicated received  maintained  electronic means
+     electronic signature means data attached  incorporated 
+   logically associated   data    intended 
+   user  serve   signature
+     encryption means  method  transforming signals 
+  messages   systematic way    signal  
+  unintelligible without  suitable receiving apparatus
+     financial services   meaning ascribed   term  cap 
+  section    financial services act
+     financial services law   meaning ascribed   term
+   section    financial services act                     cap 
+     icann means internet corporation  assigned name 
+  numbers
+     information system means  system  generating sending
+  receiving storing displaying  otherwise processing electronic
+  messages including internet
+     intermediary service provider means  person  entity
+   provides electronic communications services consisting 
+   provision  access  communications networks storage
+  hosting  transmission  information  communication
+  networks
+     internet means  interconnected system  networks 
+  connects computers around  world using transmission control
+  protocolinternet protocol tcpip   protocols 
+  includes future versions thereof
+     internet service provider isp means  company 
+  provides access   internet   related services  
+  website building  virtual hosting  individuals  
+  companies
+     key means  piece  information  determines 
+  functional output   cryptographic algorithm
+     key pair means  pair  keys used  cryptography
+     malawi cert means  malawi computer emergency
+  response team established  section 
+
+               electronic transactions                           
+     misleading advertising means  advertising   
+  way including  presentation deceives   likely  deceive 
+  person     addressed    reaches   
+  reason   deceptive nature  likely  affect  economic
+  behaviour     reasons injures   likely  injure
+   competitors economic  business interests
+     online public communication means  transmission 
+  digital data signs signals texts images sounds  messages 
+  whatever nature    private correspondence  electron
+  ic communication means  enable  reciprocal exchange 
+  information   issuer   receiver
+     optin means  system   consumer gives consent  
+  electronic communication service provider  receive  
+  communication
+     open standard means  protocol  communication
+  interconnection  exchange   format  interoperable data
+  whose technical specifications  public   access  use
+  thereto   restricted
+     personal data means  information relating  
+  individual 
+         may  directly identified 
+        b   directly identified may  identifiable  reference
+       identification number  one  several elements related
+       physical physiological genetic psychological cultural
+     social  economic identity
+     place  business means  place   person 
+  established   stable  lasting way  activity whatever  
+    regards  legal person  place   registered office
+   located      principal activity
+     pornography means visual material  depicts images  
+  person engaged  sexually suggestive  explicit conduct
+     private key means  key   pair   isometric cryptal
+  system used  create  digital signature   holder  
+  digital signature   exclusively known   holder  
+   made available  anyone
+     processing  data means  operation  set  operations
+    performed upon data whether    automatic
+  means   collection recording organization storage
+  adaptation  alteration retrieval consultation use disclosure 
+  transmission dissemination  otherwise making available
+  alignment  combination blocking erasure  destruction
+
+                       electronic transactions                              
+     public key means  key   pair   isometric cryptal
+  system used  verify  digital signature   holder  
+  digital signature makes available   public  intended
+  recipients
+     recipient means  person    sender intends  send
+   electronic communication    include  inter
+  mediary   communication
+     record means recorded information   form including
+  data  computer systems created  received  maintained 
+   public body   course  official duties  kept  evidence
+    activity
+     record keeping means making  maintaining  complete
+  accurate  reliable evidence  official formalities   form
+   recorded information
+     registrar means  entity designated   authority 
+  manage  maintain  reservation  domain names 
+  domain name registry
+     registry means  central place  domain names  kept
+   maintained   organized way
+     sender means  person    whose name  
+  whose behalf  electronic communication  sent  created
+    stored  necessary    include 
+  intermediary   communication
+     signatory means  person  holds  digital signature
+  creation device  acts either    behalf   behalf 
+   person  represents
+     subscriber means  person  agrees  receive  
+  allowed  access electronic texts  services  subscription
+     supplier means  person  entity    source  goods
+   services
+     transmission control protocolinternet protocol tcpip
+  means  system  digital rules  data exchange within 
+   computers 
+     virus means  malicious program  script  negatively
+  affects  functioning   computer  creating files moving
+  files erasing files  consuming computer memory causing 
+  computer   function properly
+    objectives   act                                  objectives
+       set   responsive information  communication
+  technology legal framework  shall facilitate competition
+  development  information  communication technology 
+
+                              electronic transactions                          
+                   participation  malawi   information age  economy
+                    particular
+                          ensure   development deployment  exploita
+                     tion  information  communication technology within 
+                     economy  society  related legal provisions shall balance
+                      well  protect community  individual interests
+                     including privacy  data protection issues
+                        ii  address ethical issues   use  information 
+                     communication technology  order  protect  rights 
+                     children   underprivileged
+                        iii  liaison   malawi revenue authority  create
+                      legal framework  favourable tax policies  promote
+                     information  communication technology products 
+                     services  originate  within malawi 
+                        iv  provide  responsive  efficient regulatory
+                     environment promote economic subsectors asset accumula
+                     tion  tax activities  arise   use  information 
+                     communication technology
+                     b  ensure  information  communication technology
+                  users  protected  undesirable impacts  information 
+                  communication technology including  spread  pornographic
+                  material cybercrime  digital fraud 
+                     c  put  place mechanisms  safeguard information 
+                  communication technology users  fraud breach  privacy
+                  misuse  information  immoral behaviour brought   use
+                   information  communication technology
+principles          following principles shall   times  adhered  
+                implementation  application   act
+                      etransactions shall benefit   secure legal framework
+                   recognizes  legal value  electronic transactions 
+                  electronic documents
+                     b freedom  communication  electronic networks shall
+                   promoted   exception  specific reasons  provided
+                     act
+                     c  shall  clear  fair specification  responsibilities
+                   intermediaries  editors 
+                     d consumers rights shall  respected protected 
+                  upheld
+implementation     unless otherwise provided   act  authority shall 
+  act    responsible   implementation   act
+
+                          electronic transactions                              
+                          part iiadministration
+      hereby established  malawi cert  shall       establishment
+  unit   authority                                             malawi
+                                                                         cert
+     malawi cert shall take charge   information
+infrastructure protection actions  serve   base  national
+coordination  respond  information  communication
+technology security threats
+     authority shall ensure   malawi cert  capable
+ providing reactive  proactive services communicating timely
+information  recent relevant threats  whenever necessary
+bringing  assistance  bear  response  incidents
+     authority shall ensure   malawi cert executes 
+following minimum services
+             reactive services earl warning  precaution notice
+      incidents processing incidents analysis incident response
+            facility incidents response coordination incident response
+        web vulnerability treatment vulnerability analysis
+      vulnerability response  vulnerability response coordination
+            b proactive services public notice technological
+      surveillance security audit  assessment security
+      installations  maintenance security tools development
+      intrusion detection servicesand security information
+      dissemination
+            c artefacts treatment artefacts analysis response 
+      artefactscoordination  response  artefacts risk analysis
+      continuationand resumption  activities  disaster security
+      consultationand sensitization campaign education  training
+       product appraisal  certification 
+            d  anything incidental   functions  malawi
+      cert
+part iiiformation  validity  electronic transactions
+         notwithstanding  contrary intention   written law    recognition
+  law requires  certain information    matter       electronic
+                                                                         writing
+ writing typewritten  printed form  requirement shall 
+satisfied   information   matter 
+        rendered  made available   electronic form
+       b accessible 
+       c capable   retained   subsequent reference
+
+                            electronic transactions                           
+electronic          law requires  document   signed 
+signature     electronic form   document shall satisfy  requirement  
+              electronic signature  used
+                   electronic signature shall  authentic 
+                      means  creating  electronic signature  within 
+                 context     used linked   signatory   
+                  person
+                    b  means  creating  electronic signature   
+                 time  signing   control   signatory   
+                  person   done without duress  undue influence
+                 
+                    c  alteration made   electronic signature  signing
+                  detectable
+                  subsection   limit  right   person
+                      prove  authenticity   electronic signature  
+                  lawful way 
+                    b  adduce evidence  respect  nonauthenticity  
+                 electronic signature
+equal             except  otherwise provided    act  provisions
+treatment     act shall  exclude restrict  affect  legality  
+              method  creating  electronic signature 
+electronic
+signature
+                     satisfies  requirements   act
+                    b meets  requirements   statutory provision 
+                    c  provided    contract
+conduct          person may sign  electronic record  affixing 
+ person
+relying 
+              personal digital signature  using   recognized secure 
+ digital     verifiable mode  signing agreed  parties  recognized  
+signature     particular industry   safe reliable  acceptable
+bearing legal      person  relies   digital signature shall bear  legal
+consequences
+ relying 
+              consequences  failure 
+electronic           take reasonable steps  verify  authenticity  
+signature
+                 digital signature 
+                    c take reasonable steps   digital signature  supported
+                   certificate 
+                        verify  validity   certificate 
+                       ii observe  limitation  respect   certificate
+
+                         electronic transactions                                   
+    unless otherwise prescribed  law  person may                recognition
+decide  use   digital signature digital signature certificate       digital
+                                                                            signature
+  mode  authentication   choice                            certificates
+     authority may  notice published   gazette
+                                                                             digital
+                                                                            signatures
+approve digital signatures certification authorities offering digital
+certificates  authentication   foreign information security
+service provider  use   public
+     authority shall ensure  digital certificates comply
+ international best practices  standards
+     certification authority shall  liable  damages incurred
+  person  reasonably relied   digital certificate issued
+  certification authority 
+         part   information contained   digital
+   certificate   date  issuance  incorrect
+      b   part   data required   digital certificate tobe
+   regarded  qualified  incomplete
+      c  digital certificate   issued without checking 
+    signatory  duly entitled  receive  digital certificate
+      
+      d  certification authority   registered  revocation
+     digital certificate    made  information
+   available  third parties  
+     certification authority shall   responsible  damage
+caused   use   digital certificate  exceeds fixed limits 
+ use   value  transactions    digital
+certificate   used   condition   made available
+  users prior   use   certificate
+      law requires  signature statement                   notarization
+document   notarized acknowledged verified  made               acknowledge
+oath  requirement shall  satisfied   electronic signature 
+                                                                            ment
+                                                                            
+ person authorized  perform  acts  affixed                  certification
+electronic record
+      law requires  permits  person  provide 
+certified copy   document   document exists  paper  
+another physical form  requirement shall  satisfied  
+electronic copy   document  certified    true copy 
+using  electronic signature   certifying person
+     requirement   written law  multiple copies          
+ document   submitted   single recipient    time           requirements
+shall  satisfied   submission   single electronic record 
+
+                                electronic transactions                          
+                   document   capable   reproduced  
+                  recipient
+                        corporate seal  required   affixed  
+                  document  requirement shall  satisfied   electronic
+                  signature   corporate body  affixed   electronic record
+                   accordance   provisions relating   use  
+                  corporate seal
+ determination          written law requires information  
+  originality   presented  retained   original form  requirement shall 
+                  satisfied   electronic record 
+   electronic
+                            reliable assurance   integrity  
+                      electronic record 
+                         b  electronic record  capable   displayed  
+                      person       presented
+                        purposes   section
+                          criteria  assessing integrity  information shall 
+                      whether   remained complete  unaltered save  
+                      addition   endorsement    change  may arise
+                        normal course  communication storage  display
+                      
+                         b  standard  reliability required shall  assessed  
+                      light   purpose    information  created 
+                        light    circumstances thereof
+ admissibility         electronic message shall  admissible  evidence
+  evidential    court proceedings  provided    act
+ weight 
+ electronic
+                       assessing  evidential weight   electronic message
+                   court shall  regard   following
+ messages
+                           reliability   manner    electronic record
+                       generated displayed stored  communicated
+                         b  reliability   manner    integrity  
+                      information  maintained
+                         c  manner    originator   electronic
+                      message  identified 
+                         d   facts   court may consider relevant
+ storage              written law requires   document record
+ electronic        information shall  retained  requirement shall  satisfied
+                    document record  information  held  electronic form
+ messages
+                  
+                       accessible
+
+                        electronic transactions                              
+      b  capable  retention  subsequent reference
+      c  retained   format     generated sent 
+   received    format  can  demonstrated  represent
+   accurately  information generated sent  received 
+      d  retained  enable  identification   origin 
+   destination   electronic record   date  time  
+    sent  received
+     document record  information referred   subsection
+ shall  kept  electronic form   least seven years
+     obligation  retain  document record  information
+  section shall  extend  information whose purpose 
+  enable  message   sent  received
+     provisions   section may  satisfied   use 
+services  another party  long    provisions   section
+ complied 
+      security procedure   applied            secure
+electronic record   specific point  time  record shall     electronic
+                                                                       record
+secure electronic record   time  security procedure 
+ applied
+     unauthorized alteration   security procedure shall
+render  record invalid
+     alteration shall  unauthorized    done   person
+without  lawful authority   person  originally applied 
+security procedure
+    validity   contract shall   affected   sole        validity  
+reason    executed  electronic form   contract      contract
+fulfilled   requirements  formation   type 
+                                                                       executed 
+                                                                       electronic
+contract                                                              form
+    unless otherwise agreed   parties  dispatch     time 
+ electronic message shall occur   message leaves           place 
+information system   control   sender   agent  
+                                                                       dispatch 
+                                                                       receipt  
+sender                                                                electronic
+                                                                       message
+    unless otherwise agreed   parties receipt  
+electronic message shall occur
+         recipient  designated  information system
+     purpose  receiving  electronic message  
+   electronic message  entered  designated information
+   system 
+
+                            electronic transactions                          
+                     b   recipient   designated  information
+                  system   electronic message enters  information
+                  system    recipient retrieves  electronic
+                  message
+                   unless otherwise agreed   parties  electronic
+               message shall  dispatched   senders registered place 
+               business  shall  received   recipients registered place 
+               business
+                     sender  recipient    one registered
+               place  business  retained place  business shall   one
+                 closest link   underlying operation   
+               absence   underlying operation   principal place 
+               business
+                     sender  recipient     place  business 
+               place  usual domicile shall  taken  consideration
+                    provisions   section shall apply even though 
+               information system supporting  electronic address  
+               recipient differs   place   electronic message 
+               considered   received   section
+offer           unless otherwise agreed   parties  offer 
+acceptance     acceptance   offer may  wholly  partly expressed 
+               electronic means
+                    contract concluded  parties  means  electronic
+               messages shall  concluded   time   place  
+               acceptance   offer  received   recipient
+                  provided  parties may agree   contract  concluded
+                 place  residence  one party   place  location  
+               legal entity  accepted  offer
+attribution       electronic message shall  considered    
+electronic      sender    sent
+messages 
+sender                  sender personally
+                     b   agent   sender 
+                     c   information system programmed   sender  
+                  behalf   sender  send electronic messages automatically
+                    recipient   electronic message shall justifiably
+               consider   electronic message came   sender  act
+               accordingly 
+                      recipient properly applied  procedure previously
+                  agreed   sender   purpose 
+
+                       electronic transactions                                
+      b  electronic messages received   recipient results
+     actions   person whose relationship   sender
+      agent   sender enabled  recipient  gain access
+     method used   sender  identify  electronic message
+       sender
+     parties   agreed   procedure  ascertaining
+ sender   electronic message  sender shall 
+presumed    person  objectively appears    sender
+     presumption  subsection  shall  apply  
+following circumstances
+              recipient   electronic message  timely
+      notified   sender   electronic message  note
+      manate   sender
+           b   recipient   electronic message 
+      received notice   sender   electronic message
+       issuedwithout  knowledge  consent   sender
+           c   recipient   electronic message knew 
+        reasonably known    used  agreed
+      procedure   electronic message   come  
+      sender    person  sent  electronic message 
+         authority   sender  issue  send 
+      electronic message 
+           d  recipient   electronic message knew  
+       reasonably known   electronic message resulted
+        transmission error
+     recipient   electronic message shall  entitled 
+consider  electronic message received   separate electronic
+message  act accordingly unless  duplicates another electronic
+message   recipient knew    known 
+taking reasonable steps  complying   agreed procedure 
+ electronic message   duplicate
+     acknowledgment   electronic message             acknowledge
+required  sender   message shall indicate  requirement     ment 
+                                                                        receipt  
+ recipient   message    sending  message          electronic
+                                                                        message
+      sender   electronic message   specified 
+particular form  acknowledgement  recipient may apply one 
+ following methods
+        communication  automated means   
+   means  originated   recipient 
+      b  act   recipient reasonably sufficient  notify 
+   sender   electronic message  received
+
+                             electronic transactions                          
+                    sender   electronic message states  
+              electronic message shall  valid  receipt  acknowledgement 
+               recipient  electronic message shall   considered  sent
+                acknowledgement  received
+                    sender   electronic message receives 
+              recipients acknowledgement  receipt   message  shall 
+              presumed   message  reached  recipient  
+              presumption shall  mean   electronic message
+              corresponds   message received
+                    party   indicated   communication  
+              electronic message  conditional  receipt   electronic
+              message  acknowledgement    received  
+              recipient within  time specified  agreed    time  
+              specified  agreed within  reasonable time
+                      sender   electronic message may notify 
+                 recipient   acknowledgement   received 
+                 specify  reasonable time    acknowledgement shall 
+                 received 
+                    b   acknowledgement  receipt   received within 
+                 specified period stipulated  paragraph   sender  
+                 electronic message may upon notice   recipient treat 
+                 electronic message  though   never  sent  exercise
+                   right   sender may 
+                    acknowledgement  receipt indicates  
+              electronic message complies   technical conditions
+              prescribed either   agreement   applicable law 
+              conditions shall  deemed   fulfilled
+                  except insofar   relates   sending  receipt  
+              electronic message  section shall  affect  legal
+              consequences  may flow either   message   
+              acknowledgement   receipt
+                 part ivliability  online intermediaries  content
+                             editors  protection  online users
+freedom         subject   act  shall   limitations  online
+communication public communication
+ 
+limitations       notwithstanding  provisions  subsection  online
+              public communication may  restricted  order 
+                     prohibit child pornography
+                    b prohibit incitement  racial hatred xenophobia 
+                 violence
+
+                         electronic transactions                                 
+      c prohibit justification  crimes  humanity
+      d promote human dignity  pluralism   expression 
+  thoughts  opinions
+      e protect public order  national security
+      f facilitate technical restriction  conditional access  online
+  communication 
+      g enhance compliance   requirements   
+  written law
+     intermediary service provider shall   liable         liability 
+ civil  criminal proceedings   information contained          
+                                                                           intermediary
+ electronic message  respect    provides services 
+ intermediary service provider
+                                                                           service
+                                                                           provider
+         initiated  transmission   message
+      b   actual knowledge   act  omission  gives
+   rise   civil  criminal liability   case may   respect
+     message 
+      c   knowledge   facts  circumstances  
+    likelihood   civil  criminal liability  reasonably
+      known
+    nothing   section shall  construed 
+       requiring  intermediary  monitor  information
+   contained   electronic message  order  establish
+   knowledge   act omission fact  circumstance giving rise
+    civil  criminal liability  imputing knowledge  
+   liability 
+      b relieving  intermediary  complying   law
+  court order ministerial direction  contractual obligation 
+  respect   electronic message
+     relation  information contained   electronic
+message  respect    intermediary service provider
+renders  services  intermediary service provider 
+       actual knowledge   act  omission  gives rise 
+  civil  criminal liability   case may   respect  
+  message 
+      b knowledge   fact  circumstance   
+  likelihood   civil  criminal liability  reasonably 
+    known  shall forthwith remove  document 
+   electronic communication system within  control  shall
+  cease  provide services  relation   message
+
+                              electronic transactions                          
+                     intermediary service provider shall   liable  
+                act done  good faith pursuant   section
+liability         intermediary service provider shall  
+  conduit supplying services  transmission  information   offering
+                access  online public communication  held liable  
+                information transmitted  condition   intermediary service
+                provider
+                         monitor  online communication
+                      b   initiate  transmission
+                      c   select  receiver   transmission 
+                      d   select  modify  information contained  
+                   transmission
+                     acts  transmission routing  provision  access
+                include  automatic intermediate  transient storage  
+                information transmitted   far   takes place
+                         sole purpose  carrying   transmission  
+                   information system
+                      b   manner  makes  ordinarily inaccessible  anyone
+                      anticipated recipient 
+                      c  storage   period  longer   reasonably
+                   necessary   transmission
+liability         intermediary service provider shall   liable  
+caching         automatic intermediate  temporary storage   electronic
+services
+                message   intention   storage    onward
+                transmission   recipients  requested    intermediary
+                service provider
+                         modify  electronic message
+                      b complies   conditions  access  electronic
+                   message
+                      c complies  rules regarding updating   electronic
+                   message specified   manner widely recognized  used 
+                    information  communication technology industry
+                      d   interfere   lawful use  technology  
+                   widely recognized  used   information  communica
+                   tion technology industry  obtain information   use 
+                   electronic message
+                      e acts expeditiously  remove   disable access  
+                   information   shared upon obtaining actual knowledge  
+                   fact   information   initial source   transmission
+                     removed  access     disabled    court
+
+                       electronic transactions                               
+     administrative authority  ordered  removal 
+   disablement 
+      f removes  disables access   electronic messages  
+   stored upon receiving  takedown notice
+     intermediary service provider  provides  service         liability 
+comprising storage  electronic messages shall   liable     supply 
+information stored 
+                                                                       hosting
+                                                                       services
+          aware   unlawful character   stored
+   information 
+      b immediately  becoming aware   unlawful
+   character   stored information  took  necessary
+   measures  withdraw  information   make access  
+   information impossible 
+      c upon receipt   takedown notice issued   act
+    expeditiously removes  disables access   information
+     intermediary service provider shall  exercising   saving 
+ activities prescribed  section  maintain  preserve      data
+data  permits  identification   person  contributed 
+ creation    part   content relating   services
+rendered   intermediary service provider
+     high court may require   intermediary service
+provider communication   data referred   subsection 
+     authority may issue regulations governing  retention
+ data referred    section
+     intermediary service provider offering access         takedown
+online public communication services shall provide  inform      notification
+subscribers   existence   technical means  permit
+restriction  access  certain services
+     intermediary service provider shall set   easily
+accessible  visible system  enable  person inform 
+intermediary service provider   content   unlawful 
+infringes  may infringe   persons rights
+     intermediary service provider shall
+       inform promptly  authority   organs   illegal
+   content reported  indicated  subsection   made available
+   online   beneficiaries   services 
+      b make public  means taken  fight  
+   dissemination   illegal content
+
+                        electronic transactions                           
+               person  claims   published electronic message 
+          unlawful  infringes   right shall notify  intermediary
+          service provider   message
+               notification stipulated  subsection  shall  
+          permanent medium addressed   complainant   intermedi
+          ary service provider  shall include  following information
+                  full name  address   complainant
+                b  written  electronic signature   complainant
+                c  right    infringed
+                d identification   material  activity   claimed 
+               subject   infringing  unlawful activity
+                e  remedial action required   taken   intermedi
+             ary service provider  respect   complaint
+                f telephone  electronic mail contacts
+                g  statement   complainant  acting  good faith 
+                h  statement   complainant   information  true
+              correct
+               person  notifies  intermediary service provider 
+           infringement  unlawful activity  content knowing  
+          notification  false commits  offence   liable   fine 
+          k  imprisonment  twelve months
+               intermediary service provider shall   liable  
+          takedown  response   wrongful  false notification
+online         online content provider shall display   conspicu
+content   ous manner  following information   webpage
+providers
+                  case   natural person full name domicile telephone
+             number  email address   editor
+                b  case   legal entity corporate name postal 
+             physical address   registered office telephone number email
+             address authorized share capital  registration number  
+             editor
+                c  applicable  name   corporate officer
+             appointed  director   publication   online public
+             communication   editor  chief 
+                d  name title corporate name postal  physical address
+              telephone number email address   intermediary service
+             provider prescribed   section
+               person editing online public communication  
+          nonprofessional basis may make publicly available  name 
+
+                       electronic transactions                                
+well   name  address   intermediary service
+provider prescribed   act
+   provided   person  duly communicated   interme
+diary service provider  particulars  personal identification
+prescribed  subsection 
+     intermediary service provider identified   section
+shall  subject  professional secrecy  regards disclosure  
+particulars  personal identification    information sufficient
+ identify  source  online content
+     person may act   editor   online public communica
+tion    intermediary service provider   activities fall
+  regimes
+      person acts   editor   online public
+communication    intermediary service provider  provided
+ subsection  legal obligations   regimes shall apply
+respectively   activity
+     intermediary service provider exercising  activities
+prescribed   section shall provide  editors  online content
+  section  technical means  comply  
+requirements  identification prescribed   section
+     person  can  directly  indirectly identified     right  reply
+ online public communication shall   right  demand 
+publication   response without prejudice   right  request
+correction  deletion   content
+     request stipulated  subsection  shall  addressed  
+editor  chief designated  section  c
+      event   person editing  online public
+communication   nonprofessional basis elects  remain
+anonymous  complainant shall directly address  request  
+hosting intermediary service provider
+     online editor shall publish  response stipulated 
+subsection  within twenty four hours  receipt   request 
+subsection 
+     person  contravenes subsection  commits  offence
+  liable   fine  k  imprisonment  twelve
+months
+     right  reply shall  exercised free  charge
+
+                            electronic transactions                           
+                                 part velectronic commerce
+information      supplier  goods  services  electronic
+ provided  commerce   act otherwise referred    supplier shall
+               make available  following information  consumers
+ supplier
+                     full name  legal personality
+                    b postal  physical address  telephone number
+                    c website address  email address
+                    d  case   corporate entity  registration number name
+                   office bearers   place  registration
+                    e   supplier  subject   tax  consumer goods 
+                 services  tax personal identification number
+                    f details  membership   regulatory  accreditation
+                 body    supplier belongs  subscribes   contact
+                 information   body
+                    g   activity   supplier  subject   professional
+                 regulation reference   applicable professional rules 
+                 professional title  place   title  granted 
+                 organization    person  registered
+                    h   supplier belongs   selfregulatory body  
+                 professional association   organisation  dispute
+                 settlement     relevant certification organization 
+                 supplier shall provide adequate information  ensure easy
+                 means  verification   belonging   access  
+                 codes  practices applicable   body association 
+                 organisation 
+                     physical address   supplier receives service  legal
+                 documents
+                   supplier shall  conclusion   contract provide 
+               consumers  following information regarding  terms
+               conditions  costs associated   transaction
+                     sufficient description  goods  services subject  
+                 contract
+                    b instructions  use   particular  warnings related
+                  security  health
+                    c restrictions limitations  conditions related  
+                 purchase    agreement   parent    guardian 
+                  territorial  temporal restrictions
+                    d details  full costs including taxes  costs  shipping
+                  delivery   paid   consumer  terms 
+                 conditions  payment
+
+                        electronic transactions                               
+      e conditions  delivery  execution    time 
+   delivery  goods  provision  services
+      provided 
+          unless otherwise agreed   parties  supplier shall
+       bound  deliver  goods   provide  services
+      immediately upon conclusion   contract 
+         ii   supplier fails  deliver  goods  provide
+       services  stipulated  subparagraph   consumer
+      shall  entitled  terminate  contract
+      f mode  payment
+      g information regarding available aftersale service
+      h details  conditions  withdrawal denunciation return
+   cancellation  reimbursement  accordance   provisions
+    sections     
+       warranty conditions
+      j return exchange  refund policy   supplier
+      k manner   period within   consumer can
+   maintain  full record   transaction
+      l  alternative dispute resolution    
+   supplier subscribes    details  content   
+   may  accessed electronically   consumer 
+      m security procedures  privacy policy   supplier 
+   respect  payment payment information  personal informa
+   tion   consumer
+    avery contract   value exceeding k        formation 
+  value  will  prescribed   minister  notice published    electronic
+  gazette concluded  electronic means shall  achieved       contracts
+                                                                        
+ supplier   period   less  seven years   date    consumers
+  contract  formed
+     supplier shall ensure   terms  conditions referred
+  subsection 
+       specify  time  manner  contract  formed 
+      b    form  guarantees  preservation 
+   production
+     supplier shall
+       provide  technical means  permit  consumer 
+   review  transaction  correct  errors made
+      b indicate  languages    contract shall 
+   formed
+
+                          electronic transactions                          
+                  c  case  contract  archived provide  conditions 
+                archiving   supplier   conditions  access  
+               archived contract 
+                  d  applicable provide  way  access  electronic
+               means professional  commercial rules   supplier
+               considers binding
+                every contract   value exceeding k concluded
+             electronic means shall  archived   supplier  
+            period   less  seven years   date   contract
+             formed
+coolingoff      consumer shall  entitled  exercise  right 
+period      withdrawal   contract concluded  electronic means without
+            giving reasons  without penalties
+                    respect  goods within seven days  receipt  
+               goods   period  agreed   two parties   agreement
+                  b  respect  services within seven days   formation
+                 contract   period  agreed   two parties  
+               agreement
+                 consumer  cancelled  contract  
+            section  consumer may  necessary bear return costs  
+            goods supplied  services rendered
+                  consumer  cancelled  contract  
+            section  supplier shall within fourteen days  cancellation  
+            contract   consumer reimburse   consumer  sums paid
+                 expiry   period specified  subsection   sum
+            due shall attract interest   prevailing bank rate  specified 
+             reserve bank  malawi
+                 supplier shall reimburse   consumer  sums due  
+            payment mode agreed   parties
+               provided    event   parties fail  agree  
+            mode  reimbursement shall  made    mode  
+             consumer paid  supplier
+               notwithstanding subsection   consumer shall 
+            withdraw   contract concluded  electronic means 
+                   provision  services started   consumers
+              consent   end   seven day period
+                 b  price   goods  services depends  
+              fluctuations  financial market rates   price    
+              control   supplier
+                 c  provision  goods  made according  
+              consumers  specifications  clearly personalized  goods
+                 nature   returned   liable 
+              deteriorate rapidly
+
+                       electronic transactions                                
+      d  contract relates   provision  audio  video
+   recording  software
+      e  contract relates   provision  newspapers
+   periodicals  magazines 
+      f  contract relates   provision  betting 
+   authorized lotteries
+     supplier shall put technical measures                performance
+electronic platform  will enable  consumer  verify             
+accuracy   details   order failing   electronic
+                                                                        electronic
+                                                                        transaction
+transaction made   platform shall  invalid
+     supplier shall acknowledge receipt   order
+electronically within forty eight hours  receipt   order
+    unless  parties agree otherwise  supplier shall execute 
+order within thirty days  receipt   order
+      supplier  failed  execute  order within 
+thirty days  within  agreed period  consumer may  
+expiration   period cancel  contract upon giving  seven
+days written notice
+     order  acceptance   order   acknowledge
+ment  receipt   acceptance   order shall  considered
+received  accordance  section 
+      purposes   section  order shall amount  
+offer
+      supplier fails  perform  part   contract default 
+ supplier shall inform  consumer   failure             contract
+                                                                        performance
+supplier shall refund  consumer  sums paid within seven days
+ notifying  consumer   failure    expiry  
+thirty days    expiry   period agreed   parties
+whichever comes first
+      supplier fails  refund  consumer  required 
+subsection  interest shall accrue   sum   applicable
+bank rate  specified   reserve bank  malawi
+      consumer  contractually required  bear costs 
+returning goods   supplier  delivered   consumer 
+supplier shall inform  consumer   fact  advance
+     supplier shall provide   consumer                review 
+opportunity    following                                       cancellation
+                                                                         contract 
+                                                                         consumer
+
+                              electronic transactions                          
+                       review  entire electronic transaction
+                      b correct  errors 
+                      c withdraw   transaction  finally placing 
+                   order
+                      suppliers transaction fails  comply  subsection
+                  consumer  entitled  cancel  transaction within fourteen
+                days  receiving  goods services  facilities   
+                transaction applies
+                      transaction  cancelled  subsection 
+                        consumer shall return  goods  cease using 
+                   services  facilities supplied pursuant   transaction  
+                   case may require 
+                      b  supplier shall refund  payments made   consumer
+                    respect   transaction
+                     supplier shall utilize  payment system   sufficiently
+                secure  regard 
+                       accepted technological standards   time  
+                   transaction 
+                      b  type  transaction concerned
+                     supplier shall  liable   damage suffered  
+                consumer due   failure   supplier  comply  subsection
+                
+cancellation       consumer may require  cancellation   payment 
+payment         case  fraudulent use   payment   purposes  execution
+                  contract  electronic means     case  sums paid
+                shall  reimbursed   consumer
+prohibition        person dealing  online communication shall 
+misleading      advertise   misleading manner
+advertising
+                     determining whether online advertising  misleading
+                account shall  taken    features   particular  
+                information  contains concerning
+                        characteristics  goods  services   
+                   availability nature execution composition method  date 
+                   manufacture  provision fitness  purpose uses quantity
+                   specification geographical  commercial origin  results  
+                   expected   use   results  material features 
+                   tests  checks carried    goods  services
+                      b  price   manner    price  calculated 
+                    conditions    goods  supplied   services
+                   provided 
+
+                        electronic transactions                                  
+      c  nature attributes  rights   advertiser   
+   identity assets qualifications ownership  industrial commer
+   cial  intellectual property rights   awards  distinctions
+    comparative advertising shall  far   comparison 
+concerned  permitted   advertising
+         misleading within  meaning  subsections 
+   
+      b compares goods  services meeting   needs 
+   intended    purpose
+      c objectively compares one   material relevant
+   verifiable  representative features   goods 
+   services  may include price
+      d   discredit  denigrate  trade marks trade
+   names  distinguishing marks goods services activities 
+   circumstances   competitor
+      e  products  designation  origin relates   case
+    products    designation
+      f   take unfair advantage   reputation   trade
+   mark trade name   distinguishing marks   competitor 
+     designation  origin  competing products
+      g   present goods  services  imitations  replicas
+    goods  services bearing  protected trade mark  trade
+   name 
+      h   create confusion among traders  
+   advertiser   competitor    advertisers
+   trademarks trade names  distinguishing marks goods 
+   services     competitor
+    subject   consumer protection act              identification
+written law  advertisement made  electronic means shall            
+                                                                           advertisement
+clearly identifiable     natural  legal person        content
+ advertisement  placed shall  clearly identifiable                 cap 
+     terms  conditions  benefiting  promotional
+offers   participating  sweepstakes lotteries   
+promotional games shall  clearly  precisely indicated 
+easily accessible
+    except   case   notice sent   electronic           unsolicited
+communications provider   customer  relation  services            communica
+person shall  send unsolicited electronic communications  
+                                                                           tions
+consumer without obtaining  prior consent   consumer
+
+                            electronic transactions                           
+                   person  sends electronic commercial communication 
+               consumer shall provide  consumer
+                       option  unsubscribe   mailing list  
+                 person 
+                    b   request   consumer  identifying particulars 
+                  source    person obtained  consumers
+                 personal information
+                   recipient shall   opportunity  object free  charge
+                use   personal data  prospection purposes   data
+              controller
+                   person  contravenes subsection  commits  offence
+               shall upon conviction  liable   fine  k 
+              imprisonment  five years
+                   person  sends unsolicited commercial communications
+               another person   continues  send unsolicited commercial
+              communications   person  unsubscribing  accordance
+               subsection  commits  offence  shall upon
+              conviction  liable   fine  k  imprisonment 
+              twelve months
+                   provisions  subsection    shall  apply
+              
+                      sender   electronic message  obtained 
+                 personal data   recipient   course  negotiations  
+                 sale   product   provision   service referred  
+                  electronic message 
+                    b  commercial solicitation  directly linked   product
+                   service
+scope           subject   payment systems act   
+application   financial services law  provisions   part shall apply  
+ financial
+              supply  electronic financial services without prejudice 
+              application 
+provisions
+  
+                     specific legal  regulatory obligations applicable 
+                 certain financial products instruments  services 
+                    b  provisions applicable  contracts concluded 
+                 natural persons   supplier   consumer
+                   minister  finance  recommendation  
+              authority   governor   reserve bank  malawi shall
+              make regulations defining specific obligations  regards 
+              online banking
+
+                         electronic transactions                              
+      conclusion   distance contract  acceptance    identity  
+  offer  consumer shall receive   supplier  informa    provider 
+tion indicated  section    applicable
+                                                                        financial 
+                                                                        banking
+         supplier uses  services   representative   services
+   supplier shall communicate   consumer  identity  
+   representative   address   following information
+           fact  financial services  linked  instruments
+      involving special risks related   specific features  
+      operations   executed   fact   price depends 
+      fluctuations   financial markets outside  suppliers
+      control
+         ii  fact  past performances   allow  predict
+      future performances 
+         iii  limitation   term    information
+      provided  valid  conditions  payment  execution 
+       necessary  existence   specific additional costs 
+       consumer arising    use  electronic communica
+      tion
+      b  necessary  existence   right  withdrawal 
+   prescribed  section   duration  possible pecuniary
+   consequences   exercise  well   address   used 
+    consumer  notify  supplier   decision
+      c   case   right  withdrawal   exercisable
+    supplier shall inform  consumer    
+   consequences
+      contract   withdrawal period  supplier shall
+inform  consumer  without  express consent 
+contract may   executed  expiry   withdrawal
+period
+     terms  conditions   contract   particular 
+information indicated  subsections    shall 
+       provided   clear  comprehensible manner   
+   way appropriate   means  electronic communication used
+      b communicated   consumer  writing prior  
+   conclusion   contract 
+      c communicated   consumer  writing upon 
+   consumers request   time   contractual relations
+    notwithstanding  provisions  section               right 
+consumer entering   distant contract   provision           withdrawal
+financial services shall  twenty calendar days unless otherwise
+                                                                         
+                                                                        contract
+agreed   parties within   may exercise  right 
+
+                 electronic transactions                        
+   withdraw   contract without penalty  without giving
+   reasons
+        period referred   subsection  shall  extended 
+   forty five calendar days  distance contracts relating  life
+   insurance  retirement
+        term    right  withdrawal may 
+   exercised starts
+          either   day   distance contract 
+      concluded except  case   life insurance  respect 
+        term  withdrawal starts   date  
+      consumer became aware   conclusion   distance contract
+      
+         b   day   consumer received  terms 
+      conditions   contract   period  later   period
+      prescribed  subsection 
+        right  withdrawal shall  apply
+           financial services  prices dependent 
+      fluctuations   financial market    supplier  
+      influence    susceptible  occur  
+      withdrawal period
+         b  insurance  travel  luggage  similar types 
+      shortterm insurance  exceeding one month 
+         c  contracts
+             executed exclusively   supplier   consumer
+            ii executed upon  express request   consumer 
+            iii   consumer   yet exercised  right 
+         withdrawal
+         d  online auctions
+         e  supply  food stuffs beverages   goods
+      intended  daily consumption
+         f  audio  video recordings  computer software 
+      downloaded  unsealed   consumer
+         g  sell  newspapers periodicals magazines  books
+         h   provision  gaming  rotary services
+           online gambling
+         j   provision  accommodation transport  catering
+      services 
+         k  start  transactions   minister may  notice
+      published   gazette prescribe
+
+                       electronic transactions                                 
+    unless otherwise agreed   parties   consumer
+exercises  right  withdrawal  may   required  pay
+within seven days   financial services already provided  
+supplier pursuant   distant contract   execution  
+contract may  start upon consent   consumer  
+amount due
+         exceeded  amount proportionate   service
+   already rendered  compared   services   rendered 
+    contract 
+      b     circumstances   value  nature 
+    constitute  penalty
+     supplier may  require  consumer  pay  amount due
+ subsection  unless  supplier proves   consumer
+ duly notified   amount
+      supplier  started  execute  contract 
+expiry   term  withdrawal  supplier may   
+circumstances require  consumer  process  payment
+    unless otherwise agreed   parties  supplier shall 
+required  reimburse   consumer  later  fourteen days 
+sums   paid   consumer   distant contract
+     fourteen day period referred   subsection  shall
+commence   supplier receives  notification   decision  
+consumer  withdraw   contract
+    unless otherwise agreed   parties   supplier fails
+ reimburse   consumer  sums due within  period 
+fourteen days  amount shall attract interest   prevailing bank
+rate  specified   reserve bank  malawi
+     consumer shall return   supplier  later 
+fourteen days   period  agreed   parties  
+calculation  time   section shall start   
+goods received   supplier   fourteen day period shall
+start   day   consumer  sent  notification 
+withdrawal   supplier
+              part visecurity  digital economy
+      portion   electronic message  signed        use supply
+  digital signature  digital signature shall  treated     transfer etc
+secure electronic signature  respect   portion  
+message 
+        digital signature  created   operational
+   period   valid digital signatures certificate   verified 
+   reference   public key listed   certificate
+
+                             electronic transactions                           
+                    b  public key   signatory    identity  
+                 certificate based   fact 
+                         digital signature certificate  issued   competent
+                    licensed certification authority
+                       ii  digital signature certificate  issued   certifica
+                    tion authority outside malawi recognized   purpose 
+                     authority
+                       iii  digital signature certificate  issued   organ
+                    licensed   authority  act   certification authority 
+                    accordance   act  
+                       iv  sender   recipient  expressly agreed
+                       use digital signatures   security
+                    procedure   digital signature  properly verified 
+                    reference   senders public key
+presumptions      except  information identified  subscriber information
+regarding         verified   information included  
+              digital signature certificate issued   licensed certification
+digital
+signature
+certificates  authority shall  deemed correct   subscriber accepted 
+              digital signature certificate unless evidence   contrary 
+              adduced
+unreliable        unless otherwise provided    written law 
+digital
+signatures
+              contract  person relying   digitally signed electronic message
+              shall bear  risk   digital signature  invalid   signature
+               authentication   signed electronic message  reliance  
+              digital signature   reasonable   circumstances 
+              regard   following factors
+                     acts   person relying   digitally signed
+                 electronic message knows   notice  including  facts
+                 listed   digital signature certificate  incorporated   
+                 reference
+                    b  value  importance   digital signed electronic
+                 message  known
+                    c  course  dealing   person relying  
+                 digital signed electronic message   subscriber  
+                 available indication  reliability  unreliability apart  
+                 digital signature 
+                    d  usage  trade particularly trade conducted 
+                 trustworthy systems   electronic means
+reliance         person  relies   digital signature shall  deemed
+digital         relied   valid certificate containing  public key 
+                digital signature may  verified
+signature 
+certificate
+
+                       electronic transactions                               
+    digital signature certificate may  published         requirements
+                                                                       publish
+         issued   competent authority                 digital
+     b  subscriber mentioned   digital signature           signature
+                                                                      certificate
+  certificate  accepted  
+     c  digital signature certificate    revoked 
+  suspended
+    authority shall accredit certification authorities    authority 
+                                                                      appoint 
+    minister shall  time  time issue certification       certification
+authorities accreditation regulations  consultation          authority
+authority  may include
+      application procedures accreditation
+     b applicable fees
+     c terms  conditions  accreditation
+     d standards   maintained  accreditation authorities
+     e   terms deemed necessary
+    authority shall
+      keep  maintain  register  certification authorities
+  
+     b   things  necessary   implementation  
+  act
+   aperson shall  provide cryptograph services           encryption
+products  malawi without registration   part
+   registration  provision  cryptograph services  products
+shall  made
+        authority
+     b   prescribed manner  form 
+     c upon payment  applicable fees
+    minister  consultation   authority shall issue
+regulations
+       respect  use importation  exportation  encryption
+  programmes  encryption products 
+     b prohibiting  exportation  encryption programmes 
+   encryption products  malawi generally  subject 
+   restrictions  may  prescribed
+     avoidance  doubt subject   regulations made
+ subregulation    lawful   person  use
+encryption programme  product provided    lawfully
+come  possession   person
+
+                            electronic transactions                           
+trustworthy       certification authority shall utilize  trustworthy
+system        system  performing  services
+                  registration   provision  cryptalgraphic services 
+              products shall  made
+                       authority
+                    b   prescribed manner  form 
+                    c upon payment  prescribed fees
+                  minister  consultation   authority shall issue
+              regulations
+                      respect  use importation  exportation  inscription
+                programmes  products 
+                    b prohibiting  exportation  inscription programmes 
+                 inscription products  malawi generally  subject 
+                 restrictions  may  prescribed
+                   avoidance  doubt subject   regulations made
+               subregulation    lawful   person  use encryption
+              programme  product provided    lawfully come 
+              possession   person
+disclosure        certification authority shall disclose
+                      digital signature certificate  contains  public key
+                corresponding   private key used   certification
+                authority  digitally sign another digital signature certificate
+                    b  relevant certification practice statement
+                    c notice   revocation  suspension   certification
+                authority certificate 
+                    d   fact  materially  adversely affects either
+                 reliability   digital signature certificate   authority
+                 issued   authoritys ability  perform  services
+                  case   occurrence  materially  adversely affects
+               certification authority trustworthy system   certification 
+              certification authority shall
+                    use reasonable efforts  notify  person   known 
+                 foreseeably affected   occurrence 
+                    b act  accordance  procedures governing  
+                occurrence specified   certification practice statement
+issuance       certification authority may issue  certificate  
+digital       prospective subscriber  
+signature
+certificate            received  request   prospective subscriber
+                
+
+                        electronic transactions                                   
+      b  prospective subscriber   certification practice
+  statement  compliance   content   statement
+  including procedures regarding identification   prospective
+  subscriber
+     absence   certification practice statement 
+certification authority shall confirm     
+authorized agent 
+        prospective subscriber   person   listed  
+  digital signature certificate   issued
+      b   prospective subscriber  acting  one  
+  agents  subscriber authorized  agent   custody  
+  subscribers private key   request issuance   digital
+  signature certificate listing  corresponding public key
+      c  information   digital signature certificate  
+  issued  accurate
+      d  prospective subscriber rightfully holds  private key
+  corresponding   public key   listed   digital
+  signature certificate
+      e  prospective subscriber holds  private key capable 
+  creating  digital signature 
+      f  public key indicated   digital signature certificate 
+  capable  verifying  digital signature affixed   public key
+    issuing  digital signature certificate  certification     representa
+authority represents  person  relies   digital signature        tions upon
+                                                                           issuance  
+certificate   digital signature verifiable   public key            digital
+indicated   certificate  accordance   applicable             ignature
+certification practice statement                                          certificate
+     absence   certification practice statement 
+representing certification authority confirms 
+        certification authority  complied   applicable
+  requirements   act  issuing  digital signature
+  certificate    certification authority  published 
+  submitted    relying person  shall confirm  
+  subscriber listed   digital signature  accepted 
+      b  subscriber identified   certificate holds  private
+  key corresponding   public key listed   digital signature
+  certificate
+      c  subscribers public key  private key constitute 
+  functioning key pair
+      d  information   digital signature certificate 
+  accurate unless  certification authority  stated  
+  digital signature certificate  incorporated  reference  
+
+                              electronic transactions                            
+                  certificate  statement   accuracy  specified information
+                    confirmed 
+                      e  certification authority   knowledge  
+                  material fact      included   digital signature
+                  certificate  adversely affect  reliability   representa
+                  tions  mentioned
+suspension       certification authority  issued  digital signature
+digital         certificate  shall suspend  certificate  receiving  request
+signature
+                 
+certificate
+                        subscriber listed   digital signature certificate 
+                      b  person acting  behalf   subscriber  
+                   subscriber   available
+revocation         certification authority shall revoke  digital signature
+digital         certificate   issued
+signature
+certificate            upon request   subscriber   representative
+                      b upon receipt   certified copy confirming  
+                   subscriber  dead
+                      c upon presentation  documents effecting  dissolution 
+                    subscriber 
+                      d upon confirming   evidence   subscriber 
+                    dissolved   ceased  exist
+revocation           certification authority shall revoke  digital signature
+without        certificate  regardless  whether  subscriber listed  
+                                          certification authority confirms 
+subscribers
+consente        certificate  consents
+                        material fact represented   digital signature
+                   certificate  false
+                      b  requirement  issuance   digital signature  
+                  satisfied
+                      c  certification authoritys private key  trustworthy
+                  system  compromised   manner materially affecting 
+                  digital signature certificates reliability 
+                      d  subscriber  ceased  activities
+notice           immediately upon suspension   digital signature
+suspension      certificate   certification authority  certification authority
+                shall publish  signed notice   suspension
+ digital
+signature
+certificate         certification authority shall keep  maintain  register
+                containing notices  suspended digital signature certificates 
+                registers shall  open  inspection   public
+notification       immediately upon revocation   digital signature
+ revocation certificate   certification authority  certification authority
+  digital
+signature       shall publish  signed notice   revocation
+certificate
+
+                        electronic transactions                                   
+     certification authority shall keep  maintain  register
+containing notices  revoked digital signature certificates 
+shall  open  inspection   public
+      subscriber generates  key pair whose public key        generating 
+  listed   digital signature certificate issued   certification  key pairs
+authority  accepted   subscriber  subscriber shall
+generate  key pair using  trustworthy system
+     section shall  apply   subscriber  generates 
+key pair using  system approved   certification authority
+     subscriber shall  make material representations             accurate 
+certification authority  purposes  obtaining  digital signature      complete
+certificate including  information known   subscriber 
+                                                                           representa
+                                                                           tions
+represented   certificate unless  representations  accurate
+ complete
+     subscriber shall  deemed   accepted  digital        acceptance
+signature certificate   publishes  writing  authorizes           digital
+publication   digital signature certificate
+                                                                           signature
+                                                                           certificate
+        one   persons
+      b   register 
+      d  another digital signature certificate  produced
+   orproved  written evidence
+     accepting  digital signature certificate issued  
+subscriber   certification authority  subscriber listed  
+certificate certifies    reasonably rely   information
+contained   certificate 
+        subscriber rightfully holds  private key
+   corresponding   public key listed   digital signature
+   certificate 
+      b  representations made   subscriber  
+   certification authority  material   information listed 
+    digital signature certificate  true
+     accepting  digital signature certificate issued         control  
+certification authority  subscriber identified   certificate      private key
+shall assume  duty  exercise reasonable care  retain control 
+ private key corresponding   public key listed  
+digital signature certificate  shall prevent  disclosure  
+person  authorized  create  subscribers digital signature
+     duty referred   subsection  shall continue  
+operational period   digital signature certificate   
+period  suspension   certificate
+     subscriber   accepted  digital signature certificate      requesting 
+shall  soon  possible request  issuing certification authority   suspension 
+                                                                          revocation
+
+                             electronic transactions                         
+                suspend  revoke  certificate   private key corresponding
+                 public key listed   certificate   compromised
+provision         person  provides encryption services shall declare
+encryption       authority  technical characteristics   encryption
+               means  well   source    software used
+services
+                   regulations made   act shall define  conditions
+                making declarations referred   subsection   may
+               define encryption services whose technical characteristics 
+               conditions  supply     regard  national defence
+                internal security interests  provision shall  require 
+               prior formality
+                    encryption services provider shall  bound  professi
+               onal secrecy
+                   unless   proved   intentional wrongful conduct 
+               negligence  involved  provider  encryption services 
+               confidentiality purposes shall  liable notwithstanding 
+               contractual provision   contrary   damage suffered  
+               persons  entrusted  management   confidential
+               conventions    case  violation   integrity confiden
+               tiality  availability   data object   convention
+administrative     without prejudice  applicable criminal sanctions
+sanctions        supplier  encryption including free  charge encryption
+                 comply   obligations   act  authority
+               may   given  supplier  opportunity  give 
+               observations prohibit  distribution   concerned encryption
+                    prohibition  distribution shall entail  obligation 
+                supplier  withdraw
+                       distribution networks  prohibited encryption 
+                     b materials constituting encryption whose distribution 
+                   prohibited     acquired  payment
+                  directly   distribution networks
+appointment         authority shall appoint  person   cyber
+ cyber       inspector  perform  functions provided    part  
+               term  two years renewable  another term  two years
+inspectors
+                    person may  appointed   cyber inspector  
+               person
+                        citizen   resident  malawi
+                     b possesses qualifications expertise  experience  
+                  fields  communications technology law economics  finance
+                  
+                     c   individual   committed  fairness openness
+
+                         electronic transactions                              
+   accountability   principles    authority  guided
+     person shall  disqualified   appointed   cyber
+inspector  
+         member  parliament
+      b   minister  deputy minister 
+      c   member   committee   political party
+     authority shall provide  person appointed   cyber
+inspector   certificate  appointment
+     certificate  appointment referred   subsection 
+may  accompanied   digital signature   authority
+     cyber inspector shall  performing  function  
+act
+         possession   certificate  appointment referred
+     subsection  
+      b upon request   person   subject  investigations
+     employee   person show  certificate  appoint
+   ment   person
+     cyber inspector shall   following powers         powers 
+functions                                                              functions 
+                                                                          cyber
+                                                                         inspector
+        monitor  inspect  website database  critical
+   data  activity   information system   public domain
+    report  unlawful activity   authority
+      b  respect  suppliers  encryption  encryption service
+   providers
+          investigate  activities  suppliers  encryption 
+       encryption service providers  relation  compliance 
+       act 
+         ii  issue orders  writing  suppliers  encryption 
+      encryption service providers  comply   provisions 
+       act
+      c   performance   functions   reasonable time
+   without prior notice    authority   search warrant
+   issued   court  enter  premises  access  information
+   system 
+          search  premises   information system
+         ii search  person   premises    reasonable
+      grounds  believe   person  possession  
+      document record   element   connected  
+      investigation
+
+                             electronic transactions                          
+                       iii take extracts   make copies   book
+                    document record   element     premises  
+                     information system    bearing   investigation
+                       iv demand  production   inspect relevant
+                    authorizations declarations  certificates
+                       v inspect  facilities   premises   linked 
+                    associated   information system
+                       vi access  inspect  operation   computer 
+                    equipment forming part   information system  
+                    associated apparatus  material   cyber inspector 
+                    reasonable cause  believe     used  connection
+                      commission   offence
+                       vii use  cause   used  information system  part
+                    thereof  search  data contained   available  
+                    information system
+                       viii require  person     whose behalf 
+                    cyber inspector  reasonable cause  suspect  computer
+                     information system     used  require 
+                    person  control   otherwise involved   operation
+                      computer  information system  provide  cyber
+                    inspector   reasonable technical   assistance
+                      cyber inspector may require   purposes   part
+                    
+                       ix make  inquiries  may  necessary  ascertain
+                    whether  provisions   act    written law 
+                      investigation  based   complied 
+                   person 
+                     hinders  obstructs  cyber inspector   performance 
+                  powers  functions   part
+                    b refuses  cooperate   cyber inspector 
+                    c falsely holds     cyber inspector
+                 commits  offence  shall upon conviction  liable   fine
+               k  imprisonment  seven years
+                    proper performance   functions   act 
+              cyber inspector maybe accompanied   police officer
+                             part viidata protection  privacy
+processing         
+                    data controller shall ensure  personal data 
+personal data
+                     processed fairly  legally
+                    b collected  specified explicit  legitimate purposes 
+                   processed   way incompatible   purposes
+                    c adequate relevant   excessive  relation  
+                 purposes     collected  processed
+
+                        electronic transactions                               
+      d accurate   necessary kept   date
+      e every reasonable step shall  taken  ensure  data
+     inaccurate  incomplete  regard   purposes
+       collected      
+   processed  erased  rectified 
+      f kept   form  permits identification  data subjects
+     longer   necessary   purposes    data
+    collected       processed
+    personal data may  processed  
+        data subject  unambiguously given  consent
+      b  processing  necessary   performance  
+   contract    data subject  party   order  take steps
+     request   data subject prior  entering   contract
+      c  processing  necessary  compliance   legal
+   obligation    data controller  subject
+      d  processing  necessary  order  protect  vital
+   interests   data subject
+      e  processing  necessary   performance   task
+   carried    public interest    exercise  official
+   authority vested   data controller    third party  
+    data  disclosed 
+      f  processing  necessary   purposes  
+   legitimate interests pursued   data controller    third
+   party  parties    data  disclosed except  
+   interests  overridden   interests  fundamental rights
+    freedoms   data subject
+     purposes   section consent means  freely given
+specific  informed indication   data subject   wishes 
+agreement   personal data  collected processed  stored
+     data subject shall  entitled  obtain   data       rights  
+controller without constraint  unreasonable delay              data subject
+expense
+       confirmation   whether    data relating   
+    processed
+      b communication     data undergoing processing
+      source 
+      c communication   purposes   processing  
+   recipients    data  disclosed
+     data subject shall  entitled  object   time 
+legitimate grounds relating   situation   processing  data
+
+                               electronic transactions                          
+                 relating        justifiable objection 
+                 processing instigated   data controller may  longer involve
+                  data
+                      data subject shall  entitled  obtain   data
+                 controller  appropriate  rectification erasure  blocking 
+                 data  processing     comply   provisions 
+                  act  particular    incomplete  inaccurate nature
+                   data
+accuracy          data controller shall provide  data subject  
+completeness     data relating    collected   least  following
+                 information
+ information
+                         identity   data controller    representative
+                     
+                       b  purposes   processing    data 
+                    intended
+                       c  existence   right  access    right 
+                    rectify  data concerning  
+                       d  existence   right  object   processing  
+                    data concerning 
+security              data controller shall implement technical 
+obligations      organizational measures enabling  protect personal data 
+                 accidental  unlawful destruction  accidental loss alteration
+                 unauthorized disclosure  access  particular  
+                 processing involves  transmission  data   network 
+                    unlawful forms  processing
+                      regard   state   art   cost  
+                 implementation  measures shall ensure  level  security
+                 appropriate   risks represented   processing   nature
+                   data   protected
+                             part viiidomain name  management
+appointment           authority shall appoint  registrar  shall
+  registrar administer  manage  mw domain name space   
+                 malawian names   used  domain names   act
+ domain
+names
+                 otherwise referred    registrar
+                      person holding  office   registrar shall hold 
+                 office   duration   authority   discretion may
+                 determine
+functions            without prejudice  generality  section   person
+ powers     holding  office   registrar shall perform  following
+ registrar
+                 functions
+
+                       electronic transactions                                
+       ensuring compliance  users  international best
+   practices   administration   mw domain name space
+      malawian names   used  domain names 
+      b publishing guidelines 
+           general administration  management   mw
+      domain name space    malawian names   used
+        domain names
+         ii  requirements  procedures  domain name
+      registration 
+         iii  maintenance   public access   registry
+     registrar shall enhance public awareness  
+economic  commercial benefits  domain name registration
+     registrar  relation  domain name regulation
+       may conduct  investigations   may consider
+   necessary
+      b shall conduct research   keep abreast  develop
+   ments  malawi  elsewhere   domain name system 
+   identifiers
+      c shall continually survey  evaluate  extent  
+    mw domainname space    malawian names 
+    used  domain names meet  needs   citizens 
+   malawi 
+      d may issue information   registration  domain names
+    malawi
+     registrar may
+       liaise consult  cooperate   person  
+   authorities  various fields   deems fit   purpose 
+   implementing  act 
+      b appoint experts   consultants   conditions 
+    authority may determine
+     authority may make recommendations                recommen
+minister  relation  policy   matter relating   mw     dations
+                                                                       relating 
+domain name space    malawian names   used           domain
+domain names                                                          names
+     authority shall continually evaluate  effectiveness 
+ act   management   mw domain name space 
+  malawian names   used  domain names
+     authority shall  relation   mw domain name
+space    malawian names   used  domain names
+existing prior   coming  force   act uphold 
+
+                                electronic transactions                          
+                 vested rights  interests   party involved  
+                 management  administration   mw domain name space
+                    malawian names   used  domain names  
+                 date   establishment
+                    provided 
+                         party shall  granted  period  six months 
+                      may continue  operate  respect   existing
+                    delegated subdomains 
+                       b  authority may among  persons consider 
+                    existing registrars  appointment   post  registrar  
+                    expiry   six months
+offence             person  administers manages  operates second
+administering level domain name without authority commits  offence  shall
+without authori upon conviction  liable   fine  k   imprison
+domain name
+ty               ment  seven years
+dispute               unresolved dispute   part shall  submitted
+resolution        arbitration  accordance   arbitration act
+concerning
+domain names
+cap                  part ixelectronicgovernment transactions
+requirement           public body shall take steps including entering  
+ electronic    arrangement  ensure   functions  carried  delivered 
+                 accessed electronically  online  full compliance  interna
+filing 
+issuing 
+documents        tionally recognized best practices
+                      department  egovernment shall assist  supervise
+                 public bodies   establishment  delivery  egovernment
+                 services
+                       law provides   public body may
+                        accept  filing   document  requires   document
+                     created  retained
+                       b issue  permit licence   approval 
+                       c provide   making   payment  public body
+                    may
+                           accept  document   filed created  retained  
+                       form   electronic message
+                          ii issue  permit licence  approval   electronic
+                       form 
+                          iii make  receive payment  electronic means
+                      public body shall treat  official records electronic records
+                 generated  received   public body   course  official
+                 duties
+
+                        electronic transactions                              
+     public body shall maintain electronic records   reliable
+record keeping system  defined  regulations made  
+act
+     department  egovernment shall   purposes         specific
+section   time  time publish guidelines specifying          guidelines 
+                                                                        public bodies
+        manner  format    electronic message
+   shall  filed created  retained
+      b  manner  format    permit licence 
+   approval shall  issued
+      c   electronic message    signed  type 
+   digital signature required
+      d  manner  format    digital signature shall
+    attached   incorporated   electronic message
+      e  appropriate control process   procedure  ensure
+   adequate integrity security  confidentiality   electronic
+   messages   payment 
+      f   requirements  respect   electronic message
+    payment
+     application   provisions   part shall           implementati
+subject   adoption  necessary regulations made               
+minister  shall establish
+                                                                        egovernment
+        legal framework  ensure security storage confiden
+   tiality  integrity  acts  exchanges done  electronic
+   means 
+      b  legal framework  ensure confidentiality  personal
+   data  guaranteeing inviolability  private life
+                          part xoffences
+     court may  application   cyber inspector issue    search
+search warrant                                                         warrant
+      purposes   section  court may issue  warrant
+
+        offence   committed  malawi 
+      b  subject   investigation 
+           malawian   person ordinarily resident  malawi
+         ii present  malawi   time   warrant  applied
+       
+         iii information relevant   investigation  accessible
+       within  area  jurisdiction   court
+
+                              electronic transactions                          
+                     warrant  enter search  seize may  issued   time
+                 shall
+                       identify  premises  information system  may 
+                   entered  searched 
+                      b specify  acts may  performed   cyber inspector
+                    accordance   part
+                     warrant  enter  search shall  valid
+                       subject  paragraph d   warrant  
+                   executed
+                      b   warrant  cancelled   court  issued 
+                      c   purpose  issuing  warrant  lapsed 
+                      d  one month  passed   date   
+                   warrant  issued
+                     warrant  enter  search premises may  executed 
+                  day unless  court  issued  authorizes   may
+                 executed    time
+                    prohibition  disclosure  information  unauthorized
+                persons shall  governed   following provisions
+                       except   purposes   act    prosecution 
+                    offence  pursuant   order   court  person  
+                   pursuant   powers conferred   part obtained access
+                     information shall  disclose  information  
+                    person 
+                      b  person  contravenes paragraph  commits 
+                   offence  shall upon conviction  liable   fine 
+                   k    imprisonment  five years
+unauthorized         person shall  gain unauthorized access  
+access         intercept  interfere  data
+interception 
+interference         minister shall  regulations come   specific
+ data
+                cases  unauthorized access   interception   inter
+                ference  data may  permitted  specific conditions set  
+                 regulations
+                     person  intentionally accesses  intercepts  data
+                without authority  permission      exceeds 
+                authorized access commits  offence  shall upon conviction
+                 liable   fine  k   imprisonment  five years
+                     person  intentionally  without authority   
+                interferes  data   way  causes  data   modified
+                destroyed  otherwise rendered ineffective commits  offence
+                 shall upon conviction  liable   fine  k  
+                imprisonment  five years
+
+                       electronic transactions                   
+     person  unlawfully produces sells offers  sell
+procures  use designs adapts  use distributes  possesses
+ device including  computer program  component   phone
+  designed primarily  overcome security measures  
+protection  data  performs    acts  regard  
+password access     similar kind  data  
+intent  unlawfully utilizing  item commits  offence 
+shall upon conviction  liable   fine  k  
+imprisonment  five years
+     person  utilizes  device  computer program
+referred   subsection   order  unlawfully overcome
+security measures designed  protect  data  access thereto
+commits  offence  shall upon conviction  liable   fine 
+k   imprisonment  five years
+     person  commits  act described   section
+  intent  interfere  access   information system 
+  constitute  denial including  partial denial  service 
+legitimate users commits  offence  shall  liable upon
+conviction   fine  k   imprisonment  five
+years
+     person 
+       communicates discloses  transmits  data informa
+   tion program access   command   person  entitled
+    authorized  access  data information program  
+   command
+      b knowingly introduces  spreads  software  
+   damages  computer computer system  network
+      c accesses  destroys  files information computer
+   system  device without authorisation    purposes 
+   concealing information necessary   investigation  
+   commission  otherwise   offence 
+      d damages deletes alters suppresses  communication 
+   data without authorisation
+   commits  offence  shall upon conviction  liable   fine
+ k   imprisonment  five years
+     person  knowingly receives data    
+authorized  receive commits  offence  shall upon
+conviction  liable   fine  k   imprisonment
+ five years
+
+                             electronic transactions                         
+                     offence   section  committed 
+               relation  data   concerned  national security  
+               provision   essential service  person shall upon conviction
+                liable  imprisonment   term   less  ten years 
+                exceeding fifteen years
+child              child pornography   electronic form  prohibited
+pornography      act
+                    person 
+                      produces pornographic material   purpose  
+                  distribution   computer system
+                     b reproduces pornographic material   purpose  
+                  distribution   information system
+                     c offers  makes available  pornographic material
+                    information system
+                     d exposes  child  pornographic material  
+                  information system
+                     e distributes  transmits  pornographic material 
+                   information system
+                     f procures  pornographic material   computer
+                  system  oneself   another person 
+                     g possesses  child pornographic material   computer
+                  system    computer data storage medium
+                     commits  offence  shall upon conviction  liable  
+                  fine  k   imprisonment  fifteen years
+                     sake  protecting children  pornography 
+               provided  subsection 
+                      establishments serving  public  places open  
+                  public proposing access  internet shall use  adequate pornog
+                  raphy filtering software  defined  subsidiary legislation made
+                    act
+                     b failure  comply   obligation provided  
+                  subsection shall   offence punishable upon conviction 
+                   fine  k   imprisonment  fifteen years
+prohibition       person  uses  computer system 
+cyber          continues
+harassment
+                      making  request suggestion  proposal  
+                  obscene lewd lascivious  indecent 
+                     b threatening  inflict injury  physical harm   person
+                   property   person 
+
+                       electronic transactions                                 
+      c knowingly permits  electronic communications device
+     used     abovementioned purposes
+commits  offence known  cyber harassment  shall upon
+conviction  liable   fine  k  
+imprisonment  five years
+     person  wilfully  repeatedly uses electronic           prohibition 
+communication  disturb  attempts  disturb  peace quietness    offensive
+ right  privacy   person   purpose  legitimate
+                                                                        communica
+                                                                        tion
+communication whether    conversation ensues commits 
+misdemeanour  shall upon conviction  liable   fine 
+k   imprisonment  twelve months
+     person  wilfully maliciously  repeatedly uses        prohibition 
+electronic communication  harass another person  makes            cyber stalking
+threat   intent  instil reasonable fear   person  
+safety    member   persons immediate family commits
+ offence known  cyber stalking  shall upon conviction 
+liable   fine  k   imprisonment  twelve
+months
+     person  hacks   computer system                 prohibition 
+knowingly introduces  spreads  virus   computer system        hacking
+                                                                        cracking 
+network commits  offence  shall upon conviction  liable     introduction
+ fine  k   imprisonment  seven years                 viruses
+     person  wilfully  maliciously renders                  unlawfully
+computer system incapable  providing normal services             disabling 
+legitimate users commits  offence  shall upon conviction      computer
+                                                                        system
+liable   fine  k   imprisonment  seven years
+     person  transmits  unsolicited electronic              prohibition 
+information  another person   purposes  illegal trade       spamming
+commerce   illegal activity commits  offence  shall
+upon conviction  liable   fine  k  
+imprisonment  five years
+     person  uses  internet   medium               prohibition 
+illegal activity  trade fraudulent transaction    means       illegal trade
+procuring  internet related fraud commits  offence  shall
+                                                                        
+                                                                        commerce
+upon conviction  liable  imprisonment  ten years
+     person  attempts  commit  offence          attempting
+provision   act commits  offence  shall upon               aiding 
+conviction  liable   penalty  exceeding one half  
+                                                                        abetting
+                                                                        crime
+maximum penalty imposable   provision creating  complete
+offence
+     person  aids  abets   person  commit  
+ offences   act commits  offence  shall upon
+
+                             electronic transactions                        
+                conviction  liable   penalty imposable   provision
+                creating  offence  actually committing  offence
+                     provisions   section making reference  penalties
+                imposed upon conviction shall apply mutatis mutandis 
+                administrative monetary penalties imposable   authority 
+                 act   regulations made   act
+offences              legal person  convicted   offence  
+committed     act every person 
+legal persons
+                         director    otherwise concerned  
+                   management   legal person 
+                      b knowingly authorized  permitted  act  omission
+                   constituting  offence
+                      commits   offence   legal person  guilty 
+                    may  proceeded    sentenced accordingly
+general offence      person  violates  provision   act whose
+ penalty     penalty    provided commits  offence  shall upon
+                conviction  liable   fine  k   imprisonment
+                 seven years
+                                   part xigeneral provisions
+lodging            person affected   criminal offence defined 
+complaints     act may lodge  complaint   authority  shall direct 
+                cyber inspector  assess  relevance   complaint   
+ authority
+                complaint  considered relevant  reasonable proceed 
+                investigations
+                     interested organization whose members  affected  
+                criminal offence defined   act  entitled  lodge 
+                complaint   authority
+                     authority shall ensure   complaining organization
+                 kept informed   investigations
+public               authority shall implement public educational
+education       programs   safe use  internet focusing  particular 
+programmes
+                      scope  cybercrimes
+                     b tips  safe cyber experience
+                     c promotion  educational uses  internet 
+                     d remedies  procedures  affected  cybercrime
+intermediary          purposes  implementing  public educational
+services        programmes referred   section   authority may impose
+                intermediary service providers levy  intermediary service
+providers levy
+                providers  offer access  communications networks
+
+                        electronic transactions                               
+     order  promote  development   use           codes 
+information technologies  electronic communications  malawi        conduct
+ contribute  effective application   act professional
+associations  organizations shall  encouraged  develop codes
+ conduct
+       conduct shall  particular facilitate
+        implementation  selfregulation practices  
+   assistance  representatives  consumers
+      b access  consumers  information  advice regarding
+   ecommerce
+      c  setting   alternative dispute resolution mechanisms
+    professionals  consumers   fee  consumers
+   
+      d communication cooperation elaboration  effective
+   implementation  joint initiatives  companies represen
+   tative consumer associations   government  fight 
+   fraudulent misleading  unfair practices
+       conduct shall  notified   authority  enter
+ force upon publication   gazette
+      inconsistency arises   provision        act  prevail
+act   provision    written law relating               case 
+regulation  electronic transactions  provisions   act shall
+                                                                        inconsistency
+prevail   extent   inconsistency
+     authority may   discretion impose administrative       administrativ
+penalties  persons  violate  provision   act           e penalties
+regulations made    imposing  fine  exceeding
+k 
+     minister may  consultation   authority      regulations
+ notice published   gazette make regulations  carrying
+  purpose  provisions   act  effect 
+prescribing  matters   necessary  convenient  
+prescribed   better carrying    provisions   act
+ without derogation   generality   foregoing 
+regulations may provide 
+        requirements  standards  registries  
+   registrar shall meet  order  operate  operational accuracy
+   stability robustness  efficiency
+      b  circumstances  manner   registrations may
+    assigned registered renewed refused  revoked  
+   registries
+
+                  electronic transactions                        
+            c  pricing policy
+            d  provisions   restoration   domain name
+         registration  penalties  late payments
+            e  terms   domain name registration agreement
+          registries   registrar shall adopt  use 
+         registering domain names including issues  respect 
+         privacy consumer protection  alternative dispute
+         resolution
+            f  processes  procedures  avoid unfair 
+         anticompetitive practices including bias   preferential
+         treatment  actual  prospective registrants registries  
+         registrar protocols  products
+            g  requirements  ensure   domain name
+         contains  administrative  technical contact
+            h  creation  new subdomains
+              procedures  ensuring  monitoring  compliance
+           act including compliance  regular mw
+         domain name    malawian names   used
+          domain names space technical audits
+            j   matter relating   mw domain name
+         space    malawian names   used  domain
+         names  may  necessary  achieve  objectives  
+         act
+            k declaring certain classes  information   critical
+         data
+            l establishing procedures  identification  database
+          critical data
+            m  registration  database  critical data
+            n prescribing minimun standards regarding management
+         access  transfer  control  databases  critical data
+            o  inspection  databases   authority 
+            p   matter ralating  management protection
+         recovery  control  databases  critical data
+       notwithstanding section  e   general interpretation
+   act  regulations made   act may create offences 
+   respect   contravention   regulations  may  
+    contravention impose  fine    k  
+   imprisonment    seven years
+
+                      electronic transactions                              
+     minister may  consultation   authority      exemption
+notice published   gazette make  order  exempt certain     orders
+transactions   application   requirements  
+provisions   act
+     minister shall  order published   gazette       transitional
+appoint  date  dates beyond  stakeholders affected     provision
+act shall  required  comply   act
+   passed  parliament  fourth day  july two thousand  sixteen
+                                                        fiona kalemba
+                                                      clerk  parliament
+

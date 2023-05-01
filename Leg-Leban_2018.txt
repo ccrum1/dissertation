@@ -1,0 +1,1187 @@
+  purposes   present law   terms will   meaning assigned    follows
+writing<U+200B><U+200B>  process  writing  recording letters numbers characters  symbols provided   
+legible  comprehensible regardless   format used paper  electronic   medium 
+  information  transferred
+electronic document<U+200B><U+200B>  ordinary  official document  defined   civil procedure law issued  
+electronic form pursuant    herein
+signature<U+200B><U+200B>  signature required  complete  legal process  order  identify  party thereto 
+confirm  consent   signed legal process
+service provider<U+200B><U+200B>  public  private law enforcement officer  issues  certificates  authentication
+ applying  protection measures  secure one     functions outlined    herein
+electronic commerce<U+200B><U+200B>  activity whereby  person provides  remotely offers goods  services 
+another person
+bank card<U+200B><U+200B>  instrument issued   bank   institution licensed  banque du liban allowing  holder
+ withdraw cash money  perform electronic payments    banking  financial services
+electronic money<U+200B><U+200B> electronic monetary units stored  electronic form
+network service provider<U+200B><U+200B>  business  organization  enables  user  access  electronic
+communication network  provides  latter  direct information transfer services including 
+temporary storage  information sent provided    result   modification   stored data 
+ storage  information  solely used  deliver  service successfully without exceeding  assigned
+time limit
+data host<U+200B><U+200B>  system used  store thirdparty information   type either free  charge   return  
+consideration  make  accessible   public  direct communication services
+
+traffic data<U+200B><U+200B>  <U+200B>data<U+200B> relating   <U+200B>communication<U+200B>  means   computer connected   network
+generated   computer system  indicating  <U+200B>communication<U+200B>s origin destination <U+200B>route<U+200B> <U+200B>format<U+200B> intent
+time date size duration etc
+domain name<U+200B><U+200B>  system used  translate  alphanumeric domain name   website   internet
+protocol number
+personal data<U+200B><U+200B>  information  helps  directly  indirectly identify  natural person  comparing
+ data  overlapping data collected  multiple sources
+processing  personal data<U+200B><U+200B>  action  set  actions performed   data regardless   medium
+used including data collection recording organization storage adaptation modification extraction reading
+use transmission copy dissemination deletion destruction  otherwise disposing  
+personal data subject<U+200B><U+200B>  natural person   data enable  identify
+personal data processor <U+200B> natural  legal person responsible  setting  processing objectives 
+methods
+personal data recipient<U+200B><U+200B>  person authorized  receive  personal data     different
+  personal data processor  public authorities    legal mandate  request personal data
+  considered  personal data recipients
+ 
+          information technology    service   people provided     prejudice 
+individual identity rights private life  individual  public freedoms
+ 
+          provisions   applicable laws shall  enforced   matters  mentioned   present
+law    extent     contradictory   provisions
+part  electronic writing  evidence
+  general provisions
+ 
+         electronic writings  signatures shall    legal effect   writings  signatures
+made  paper    medium provided   person producing   identifiable   
+ organized  stored   way  preserves  safety  electronic writing    meet 
+criteria  shall  considered  introduction  written evidence
+
+ 
+          expression storage  electronic data mentioned     means  recording  
+data   storage medium   way  ensure   data  safe  accessible   times   way 
+allows copying  extracting content
+ 
+          electronic documents shall  governed   civil procedure law   applicable laws 
+deemed appropriate according   electronic nature   general provisions stipulated herein
+         trade books  governed   relevant provisions     land trade
+ ii electronic documents  evidence
+ 
+          electronic document shall  accepted  evidence   deemed     significance
+ power  proof   written paperbased document provided    possible  identify  person
+issuing  document    latter  organized  stored   way  ensures  integrity
+ 
+         official electronic documents   produce  legal effects unless   organized 
+governed  virtue   decree issued   council  ministers upon  proposal   minister  justice
+         said decree shall govern  special procedures  guarantees pertaining   documents 
+ scope
+ 
+          electronic signature  issued   use   safe medium  identifies  signatory 
+provides  guarantee   signature corresponds   legal process  question
+           signature  linked   protection measures authenticated   authorized authentication
+service provider according   four herein  shall  presumed   satisfied  criteria set forth
+  subsection    present  unless proven otherwise
+ 
+          multiple copy rule stipulated      civil procedure law  deemed satisfied 
+ ordinary document  organized  per  reliability requirements herein    partys
+mechanism allows  obtain  access  copy   document
+
+ 
+            law   stipulate  rules    parties fail  conclude  agreement 
+ effect  judge shall arbitrate  disputes arising   written evidence  case  multiple
+documents  determine   possible means   reliable document regardless   medium
+ taking  consideration  official documents power  proof
+ 
+           denial  refusal  acknowledge  claim  forgery   related   electronic document
+ electronic evidence  judge shall  conducting  investigation  per  provisions   civil
+procedure law ensure    reliability requirements  confirm  validity   electronic document
+ signature  met   terms  judge shall ensure   document  organized  stored 
+conditions  preserve  integrity    person issuing  document can  identified  
+reliable mechanism  per articles    herein
+           judge may request  parties  provide   digital traces   possession  appoint 
+expert  look   traces  resort  technical expertise
+            circumstances  general rules pertaining  denying signature  claiming forgery 
+electronic documents  signatures shall apply depending   nature   documents  signatures
+ 
+           electronic document  meeting   requirements set   articles     herein
+may  considered   introduction  written evidence
+ iii protection  electronic writings
+ 
+          electronic writing   free act   person shall  bound  resort  protection means unless
+otherwise stipulated   law
+ 
+ protection measures  used  electronic writings  signatures  make   reliable
+           protection measures help perform several functions   verifying  identity  
+document organizer assigning  correct date   document andor ensuring  storage   integrity
+  content
+             functions   provided  one   authentication service provider  shall
+upon performance  said functions deliver  certificate  authentication   concerned person
+             functions  may  performed   techniques  well
+
+ 
+          pursuant    herein  provision  authentication services shall   subject 
+prelicensing however   possible   request   qualified authentication service provider 
+according   provisions   four   part  obtain  accredited certificate issued 
+ lebanese accreditation council colibac established   law  notwithstanding
+articles    thereof
+ 
+            electronic signature  produced  authenticated   procedure   authorized
+authentication service provider   presumed   reliable    satisfied  requirements set forth
+   herein unless proven otherwise
+ 
+            electronic signature  produced   electronic writing  organized dated  stored 
+ authentication procedure provided   unauthorized authentication service provider  judge may 
+  discretion assess  power  proof   electronic signature  writing unless  parties agree
+otherwise
+ 
+           authorized  unauthorized authentication service providers shall  subject  
+professional secrecy clause regarding  data requiring authentication except   information contained
+  issued certificate
+           professional secrecy may  lifted  need   virtue   decision issued   competent
+judicial authority    purpose  legal proceedings  arbitration
+ iv accreditation principles
+ 
+          colibac accredits  authentication service providers  issue certificates  electronic
+writings  signature provided  meet  requirements outlined  articles    
+          colibac decisions regarding  implementation   present law may  challenged  
+state council
+ 
+          colibac shall develop  terms  reference tor setting   terms  obligations applied 
+ protection procedures proposed   authentication service provider requesting accreditation 
+terms  reference also identify  administrative technical  financial components   
+enclosed   accreditation application
+
+          order  identify  tor technical specifications colibac takes  consideration 
+international standards  criteria   electronic signature   related products services 
+software
+         colibac shall review  terms  reference  least  per year   required  light  future
+technology developments
+ 
+           purpose  issuing  renewing  accredited certificate colibac shall take 
+consideration  following criteria
+  infrastructure  technical measures undertaken  protect  electronic writing  organizational
+procedures   human resources delegated   authentication service provider    must 
+compliant   international standards
+  audit periodicity  scope  ensure   services provided   authentication service provider
+ consistent   latters announcements  policies
+  presence  financial guarantees   service provider  conducts  business
+  presence   insurance policy   financial effects  civil liability
+  guarantees  impartiality independence  integrity   authentication service provider
+  accreditation  previous assessment   competent body   quality  protection measures
+ international standards   authentication service provider  based abroad
+           standards  used  well  assess  reliability   protection measures provided 
+ unauthorized authentication service provider
+ 
+         colibac shall examine  accreditation application   expenses   authentication service
+provider requesting  accreditation   purpose colibac may request additional information 
+ service provider including  request  conduct  investigation   premises    employees
+  service provider
+          examination process aims  verify   tor specifications  compliant  accreditation
+requirements especially  protection measures   seeking accreditation 
+         upon  completion   examination process colibac drafts  sends  report  
+authentication service provider   latter  comment  
+ 
+
+           light   evaluation report   authentication service providers comments  applicable
+colibac shall take  decision within    two months based   requirements satisfaction 
+lack thereof   provider
+            event  time limit set   subsection  elapses  colibac  reached  decision
+ application shall  automatically deemed rejected
+           colibac decides   authentication service provider satisfies  requirements colibac
+shall issue  accredited certificate outlining  protection measures encompassed   accreditation 
+shall determine  validity provided    exceed three years
+ 
+            time   accreditation period colibac may conduct  audit  may suspend 
+immediately revoke  accredited certificate  case  violation   accreditation requirements 
+terms  reference   legally defined technical administrative  financial components
+           decision  suspend  revoke  certificate may   taken  allowing  providers
+representative  express  comments within  time limit determined  colibac
+ 
+            authorized authentication service provider shall notify colibac  writing  registered
+letter   change  may affect  components proposed   accreditation application  penalty
+ enforcing     present law
+ 
+              authorized authentication service provider shall deliver  copy   certificate issued 
+colibac   parties requesting 
+             colibac shall publish  make accessible   public  list   accredited authentication
+service providers   regularly updated especially  colibac website
+ 
+               authentication service provider based outside  lebanese territories  satisfying 
+requirements may apply   accreditation  colibac
+ 
+
+             notwithstanding  agreement   contrary  authentication service provider  deemed
+responsible   reliability   protection measures covered   accredited certificate  shall 
+bound  indemnify  clients   damages resulting   defective performance   obligations
+  contract
+part ii electronic commerce  contracts
+  general provisions
+ 
+         electronic commerce shall  free   extent permissible  law
+          matters related  ecommerce   mentioned   present law shall  governed  
+applicable laws particularly    commerce    obligations  contracts  civil
+procedure law   consumer protection law
+ 
+           persons practicing ecommerce   business must ensure   persons  deal   easy
+ direct access   following information   times
+  natural persons  first name last name  place  residence
+  legal entities  name  name   legal representative  headquarters  
+commercial address
+  detailed address   persons place  residence  email  website  telephone
+numbers    means  contact
+ number  place  registration   commercial registry   competent tax department
+  professional capacity   professional rules  principles  govern  business  case 
+ members   organized profession  trade union
+  detailed statement outlining  price   payable tax fee  expenses
+ 
+           promotional ads   accessible online   electronic device  contain 
+reference  indicate   material   promotional ad  define  person    ad  placed
+
+           forbidden  communicate unsolicited marketing  advertising emails spam using  real
+persons name  address unless  person  consented   type  advertising except  cases
+  sender   unsolicited advertisement  legally obtained  clients address  
+previous engagement  
+         every promotional  marketing email  contain  reference   email   recipient can
+reply   order  request   stop receiving  emails permanently  free  charge
+ ii electronic commerce contracts
+ 
+      person  offers  part   business goods  services  electronic means shall include 
+following   offerings
+      steps  follow  sign  contract electronically
+       contract terms  conditions   form  can  saved  duplicated
+      technical features  allow  addressee  double check  electronic contract  errors 
+         correct    submitting  final approval  conclude  contract
+        extent  offeror undertakes  store  digital traces   negotiation   contract
+         signed  case   undertaking  offeror shall determine  duration thereof  method 
+           will store  digital traces   conditions  accessing  stored documents
+       contract official language
+ 
+          offer shall  binding   offeror   long   can  accessed  electronic means
+ 
+          offeror shall notify   party  receiving  consent within  reasonable time limit 
+within  time limit specified   offer
+          offeror shall indemnify   party   damage resulting   breach   obligation
+ 
+         articles      law shall  apply  contracts   exclusively concluded 
+exchange  emails   separate personal correspondences
+ 
+          contracts signed  dealers alone  professionals alone  ecommerce   dealers
+ professionals  parties   contract may choose   abide   provisions  articles  
+ 
+ 
+
+          acceptance   electronic means   used  civil  commercial contracts shall  
+considered sufficient  originate  contract  addressee may reexamine  parties contractual
+obligations  confirming  will  proceed   contract
+          bargains  civil  commercial contracts  made electronically  contract shall  
+originated   offeror receives  addressees consent
+          electronic communication  taken   dispatched   enters  first information system
+outside  senders control
+          electronic communication  taken   received   addressee   following cases
+       enters  system designated  receipt   addressee
+       addressee extracts  electronic communication   private electronic address  case
+          specific information system  designated  receipt
+unless proven otherwise  electronic communication  taken   dispatched   senders place 
+    business  received   addressees place  business   offeror  addressee    one
+    place  business  one   closest relationship   underlying transaction  considered 
+        transaction  principal place  business  considered   offeror  addressee 
+     place  business  legal domicile  ordinary place  residence  considered
+     offeror   addressee may agree  special rules  govern sending  receiving electronic
+    communications
+ 
+     civil  commercial contracts require organizing  written document   contract   legally
+    valid  document may  written  saved  electronic form    document  signature
+    satisfy  rules  evidence  specified  articles    
+      contracting party must include  handwritten statement  may    electronic form  
+    guarantees   statement may   originated  said contracting party
+ 
+          competent interim relief judge  entitled  require compliance   obligations set forth 
+articles    herein  penalty  coercive fine
+          subject matter jurisdiction   interim relief judge   preclude filing  counterclaim 
+damages  civil courts  bring legal action  competent criminal courts
+  bis
+          provisions   consumer protection law shall apply  matters related  electronic
+commerce provided    conflict   present law
+ iii
+electronic banking  financial services
+part  electronic payment  money transfer
+
+ 
+           electronic payment  money transfer   operation carried  partly  entirely  electronic
+means  order  perform  operation  client authorizes  bank  financial institution  
+institution legally authorized  licensed  <U+200B>banque du liban  perform  electronic payment operation
+electronic money transfer  credit pushdebit pull payments   account  another account
+           expression electronic means  subsection  refers     electronic means including
+digital means provided  one   aforementioned institutions  subsidiary thereof  used  
+client  perform  instruct  perform one  several electronic payments  money transfers
+ 
+            institutions referred     herein perform electronic payments  money
+transfers  shall make sure   transactions comply   applicable laws  banque du liban
+regulations
+ 
+           client shall give  prior written consent   conditions governing electronic payments
+transfers  cancellation thereof provided   conditions  clear explicit  compliant  banque
+du liban regulations include  rights  obligations relating  electronic banking services  determine
+ fees expenses commissions  taxes  
+ 
+           institutions stated    herein shall notify  client  writing  least  days prior 
+ amendment   contract conditions
+           client either consents   amendments  terminates  contract   said institutions
+          however  justified exceptional cases    case   standards  protection safety
+ preserving  integrity   clients account    electronic paymenttransfer system  
+met  institutions referred     herein may set restrictions  electronic payments 
+transfers performed   client provided   promptly communicate  restrictions   client
+ bears  financial liability   result
+ 
+           electronic means used shall  able  communicate  store  electronic payment  money
+transfer order thus allowing clients  institutions  refer thereto  appropriate
+          institutions referred      shall use  technical system  identify  entity issuing
+ order  perform  epayment  transfer   prove   client  indeed made  order  
+institution
+          said institutions shall also use  information system  promptly informs  party giving 
+order  writing whether  order  accepted  rejected   causes  rejection
+           case  rejection  due   material error     possible process  place  fix 
+  effect banque du liban shall  solely responsible  specifying  basic standards  said system
+ 
+
+         except  cases  serious error gross negligence  bad faith  client shall   responsible 
+ electronic payment  transfer transaction made   account provided   promptly notify 
+writing  institutions referred      within  days   date   transaction resulting
+    following cases
+         third party might  accessed  account illegally
+         third party might  known  account personal identification number pin
+         client knows   operation  performed   account either without 
+         consent  knowledge   mistake  illegally
+ client  deemed   notified  institution  per  previous subsection    followed 
+     rules  procedures issued   banque du liban
+ 
+           event    institutions referred       informed   unexecuted
+electronic payment operation  transfer      cases described      concerned
+institution shall investigate  matter  advise  client  writing   result   cases  concerned
+institution   burden  proving  contrary   clients claims
+           investigation shows    indeed  unexecuted operation   one   cases 
+  reported    occurred  duly informed institution take  following actions 
+ client shall  incur  related fees  expenses
+       assume full responsibility  duly performing  unexecuted operation   soonest
+       take  appropriate measures  protect  clients account
+       correct  error  reverse  illegal transaction
+       compensate  losses charged   clients account  
+ 
+          orders  perform electronic payments  transfers shall  made  writing  shall 
+manually  electronically signed  penalty  nullity
+          orders  electronically signed  signature shall  authenticated  accordance   rules
+issued   banque du liban
+ 
+          electronic payment  transfer order may   revoked <U+200B>   transaction amount 
+withdrawn   senders account unless approved    beneficiary   institution referred  
+  
+         periodic orders  perform electronic payments  transfers may  revoked provided  
+institutions referred      receive  revocation request  least two business days prior 
+ date   next transfer
+ 
+          institutions referred      shall  responsible   nonexecution  partial
+execution  electronic payment  transfer orders unless  prove one   following events
+       nonexecution  due   error negligence lack  orders  bad faith   client
+
+      funds available   clients account   enough  execute  transaction unless
+         otherwise agreed   client
+     occurrence  force majeure   event beyond  control   institution provided   made
+         every reasonable effort  avoid  event
+      events defined   banque du liban
+ case  aforementioned institutions  proven   liable   nonexecution  partial execution 
+ transaction   return  disputed amounts   client  compensate    damage
+incurred  appropriate
+ 
+          institutions referred     herein may  collect fees expenses commissions  taxes
+related  electronic payment  transfer amount unless  explicitly advise  client  obtain 
+written approval thereof
+ 
+          institutions referred       law shall provide  client  writing 
+periodic statements   transactions performed   account including information   electronic
+payments  transfers debited  credited   account   dates  value   transactions
+section ii
+bank cards
+ 
+          application submitted  agreement signed   issued  bank card shall   writing  
+issuing entity   bank card  comply   banque du liban regulations
+          bdllicensed bank  institution may  issue  deliver  activated bank card   person
+unless  apply    sign  agreement  receive  except   case  renewal  replacement  
+preagreed card
+ 
+          entity issuing  bank card shall
+     provide  card owner  identification information  enables   use 
+     ensure  confidentiality   identification information provided   card owner 
+         subsection    using  fitforpurpose uptodate  system
+     maintain complete statements   transactions completed using  card   duration specified
+           banque du liban
+     provide  card owner   appropriate means  report  card loss  theft
+     prevent  use   card right   loss  theft thereof   reported
+     issuing entity shall deliver  send immediate notifications  transactions completed using  card
+ main information   payment  transfer transaction    date  clients identity
+ 
+
+            card owner  use  card  accordance   agreed conditions  take  
+required precautions  protect  card   relevant identification information
+            card owner may  revoke  electronic payment order  promise  pay made  
+card upon approval   beneficiary   issuing entity
+ 
+            addition  cases  institutions    notified   results thereof  stated  articles
+   herein  card owner shall notify  issuing entity verbally  writing  electronically  
+  card loss  theft immediately upon noticing  theft   loss  issuing entity shall deactivate 
+prevent  use   card   information allowing third parties  use  illegally fraudulently   
+  two cases stated    
+ 
+            card owner shall   held accountable   card loss theft  illegal  fraudulent use  
+third party provided   immediately notify  institutions referred     herein  writing
+ electronically within  time limit specified   banque du liban   case  issuing entity shall
+  amount   fraudulent transactions refunded   card owners account  later  one month
+  date  notifying  issuing entity   card owner shall  incur  additional financial
+liability
+            card owner shall  fully liable   relevant institution proves   committed  serious
+error  gross negligence  acted  bad faith    meet  obligation  duly notifying  institution
+ per  provisions    subsection
+ 
+            card owner shall   held accountable   following    notified  issuing entity
+thereof  writing  electronically  within  time limit specified   banque du liban
+      illegal  fraudulent payment transactions executed remotely without physically presenting  card
+            identifying  identity   card holder
+      payment transactions executed using  forged card  case  original card  still   owners
+           possession   time  performing  contested transaction
+       cases  issuing entity shall   disputed amounts refunded   owners account within
+ time limit     one month   day   notified   financial liability incurred  
+card owner
+ 
+            card issuing entity shall  liable   bad  nonexecution   card owners orders 
+transactions executed without  approval andor errors   management   account
+ 
+           provisions set forth  section    present   relating  electronic payment
+transactions  electronic money transfers shall apply  bank cards   extent    contradict
+  provisions   present section
+section iii
+
+electronic  digital money
+ 
+           regulations issued   banque du liban define  electronic  digital money   issue
+ use     technical systems  regulations governing  type  money
+section iv
+electronic checks check digital copies check digital representations  digital checks
+ 
+           electronic check   type  checks   electronically generated signed  negotiated
+           check digital copy   scanned image   paper check  copy  associated  full
+technical guarantees according   banque du liban regulations
+           check digital representation   process  extracting      information   paper
+check  accordance   banque du liban regulations
+           banque du liban  set   definition   digital check concept    issued  used
+    technical systems  regulations governing  use thereof
+            electronic  paper checks shall include   information referred      
+  land trade  converting  paper check   digital copy
+section v
+general provisions
+ 
+           right granted   person   provisions    may  assigned   clause
+ agreement whereby  party assigns   right shall  considered void
+ 
+           general provisions relating   bookkeeping   bank transaction entries shall apply 
+electronic transaction entries  signatures
+           banque du liban may issue regulations related   rules set forth    particularly
+ terms  governing payment orders electronic  digital money electronic transfers  checks check
+digital copies digital checks  digital representations methods  issuing  using checks rules 
+bookkeeping bank transaction entries  duration thereof   required protection  safety measures
+part iii
+public communication  digital means
+ 
+general provisions
+
+ 
+          public communication  digital means   material   digitally made available  
+general public  groups thereof including  type  signs writings images recordings  messages 
+  fall   category  private correspondences
+ 
+          public communication  digital means  free   extent permitted   constitution 
+laws   public order
+ 
+            contract concluded   part  governed   foreign law   mandatory  
+business activities associated   contract remain subject   provisions   lebanese law  
+extent  relate 
+        anticompetitive practices
+        rights protected  intellectual property laws
+        arbitrary clauses  constitute  prejudice  consumer protection
+        public order rules governing  practice  trade business
+ ii
+ service providers
+ 
+          network service providers  data hosts   considered  service providers
+ <U+200B> 
+          network service providers shall   bound  monitor  information  send  store
+temporarily  shall  bound  immediately remove  prevent access   temporarily stored
+information upon  senders request   decision   competent court  penalty  law
+ 
+          data hosts shall   bound  monitor  information  store  order  make  available 
+ public however  shall  bound  remove  prevent access   information immediately 
+ become aware   illegal nature
+ 
+            person may   network service provider   data host    time
+            activities qualify  ecommerce  shall  governed  articles      
+present law
+ 
+
+           service provider shall save  traffic data    persons using  services  data 
+help identify  persons   technical data  communications  three years    service
+delivery date
+          notifying  competent judicial authority  judicial police may request   service
+providers  part   criminal investigations  store additional technical data   given incidence 
+specific individuals    data prescribed  subsection         thirty
+days considering  urgent nature   data   potential loss  modification thereof furthermore
+ data may   submitted   judicial police upon  decision   competent judicial authority
+           service provider may  invoke  technical failure causing  technical data   
+saved  shall take  appropriate technical measures  defined   decision   minister 
+telecommunications
+           service provider shall  bound  professional secrecy  preserve  confidentiality  
+technical data however   service provider may  invoke  secrecy   competent judicial
+authority   extent   investigations  trials require  disclosure   confidential data
+          data storage obligation set forth  subsection    include  stored  transferred
+content  expresses  views   author   exchanged correspondences  content 
+storedtransferred information  websites
+          mechanism  savingdeleting traffic data   nature   data shall  defined  
+decree issued   council  ministers upon  proposal   minister  justice
+ 
+           service provider shall  accountable   clients   good fulfilment   contractual
+obligations
+          contracts  clients  appendices thereof shall define  service level type  duration
+           service provider  partly  completely relieved  liability   contract bad 
+nonperformance  proved   caused   error committed   client  force majeure   action 
+ third party
+ 
+          professional  makes information available online   public shall also include  personal
+identification details  stated    herein
+          nonprofessional  makes information available online   public may maintain anonymity
+  make  data host identification details available   public  shall also provide  data host
+  personal identification data  prescribed       data host shall store 
+  ten years
+ 
+           service provider regardless   nationality  principal place  business  case  
+legal entity  deemed   elected domicile  lebanon  practice  business    permanently
+residing 
+ 
+
+           service providers shall collaborate   competent court  authorities stated  law 
+   extent needed  uncover  truth  investigations  pending lawsuits
+           competent court  authorities identified  law      extent permitted 
+said law require   service provider  submit  data  store  control  case   deemed helpful
+  investigation  pending lawsuit  accordance   obligations stipulated  articles   
+
+            service provider upon  decision   competent court  judicial authorities stated  law
+     extent permitted  said law shall immediately provide  authority  traffic data
+  technical data  set forth  articles    herein  grant  realtime access  
+communication performed   providers network
+ 
+           breach    service provider     obligations stipulated  articles   
+ herein constitutes  misdemeanor   punishable  imprisonment  three  six months andor 
+fine  ten million  fifty million lebanese pounds
+part iv website names
+ 
+           codes lb  <U+202B> <U+FEDF><U+FE92><U+FEE8><U+FE8E><U+0646><U+202C>refer   internet country  toplevel domain cctld  lebanon
+ 
+            present law  body shall  established   name   lebanese
+domain name registry lbdr
+ lbdrs mandate   manage  register  names  websites including websites featuring  lebanese
+domains lb  <U+202B> <U+FEDF><U+FE92><U+FEE8><U+FE8E><U+0646><U+202C>  names  conducting  required investigation   consideration  
+fee  fairly reflects  development   registration market
+          lbdr shall  comprised  representatives   ministry  telecommunications  ministry
+ economy  trade  ministry  finance  ministry  justice  minister  state  administrative
+development  telecommunications regulatory authority  federation  chambers  commerce
+industry  agriculture  bar association  representatives  three  five associations operating 
+ sector  representatives will  nominated  lbdr  also reserves  right  replace
+associations  become nonoperational
+ 
+          lbdr shall define  administrative  technical terms  conditions  granting  managing
+ lebanese domain names  accredit registrars subject   rules set    international domain
+name registration bodies
+          lbdr shall include   terms  conditions  domain names  one document  make 
+publicly available   website
+          said document shall include objective nondiscriminatory terms  conditions  domain names
+ conformity   public order  applicable laws   rules  regulations set    relevant
+international bodies
+
+          minister  state  administrative development shall manage  register  government
+domain names  coordination   relevant ministries  departments
+ 
+          domain names may  registered  managed remotely  electronic means
+          domain name shall  registered without prejudice  third party rights
+          case  violation   present provisions  domain name applicant shall  legally liable 
+necessary   violation may cause  cancellation  transfer   domain name
+ 
+         disputes   domain names shall  referred  courts
+         lbdr shall   considered party   dispute   shall enforce  decisions taken  
+lebanese courts   effect
+         reconcilable disputes  domain names may  settled  nonjudicial methods  entity
+authorized  grant  manage domain names shall elect one   arbitration centers  settle 
+disputes   domain names  nonjudicial methods
+          decisions reached   arbitration bodies shall  effective  immediately enforceable
+  competent enforcement bodies
+          domain naming terms  conditions available online  include  list  potential
+arbitration centers   rules  settle disputes
+ 
+          entity authorized  grant  manage domain names   acquire  rights arising 
+ exercise   functions  granting  managing domain names
+         said entity shall   responsible   words  expressions chosen  applicants provided
+  comply   domain names terms  conditions
+ 
+          entity authorized  grant  manage domain names may cancel  reject domain names  
+ discretion  case  owner   pay  due fees    applicant  registration   meet
+ requirements  benefit   domain name    information provided  incomplete incorrect 
+outdated    chosen words  expressions   name violate  public order   public morals
+          domain names terms  conditions shall define  rules  automatic cancellation  rejection
+  domain name   duration given   noncompliant applicant  submit  remarks
+          fees  set  virtue   decree issued   council  ministers upon  proposal  
+minister  finance
+part v personal data protection
+section  general provisions
+
+ 
+ provisions contained   section shall apply   automatic  nonautomatic processing  data  
+personal nature however  said provisions shall  apply   processing related   personal
+activities carried    individual exclusively  fulfillment  hisher needs
+ agreement shall  made  contravene  provisions   section  govern  rights  
+persons concerned   processing   obligations   responsible   processing  
+agreement  contravening clause   undertaking pursuant  sole discretion shall  invoked
+ 
+everyone shall   right  review  object   personal data processing officer  
+information  analyses used   automated processing related thereto   invoked thereby
+ judicial  administrative decision requiring  assessment  human behavior may rely solely  
+automated processing  data   aimed  identifying  qualities   person  assessing certain
+aspects  hisher personality
+section ii collection  processing  personal information
+ 
+personal data shall  collected faithfully   legitimate specific  explicit purposes
+ data shall  appropriate  go beyond  stated objectives  correct  complete  remain  
+daily basis  relevant  possible
+  later stage  said data may   processed  purposes     line   objectives
+specified unless   related  processing data  statistical  historical purposes   scientific
+research
+ 
+ personal data processing officer   representative thereof shall inform  persons   
+personal data  derived   following
+       identity   dataprocessing officer   identity   representative thereof
+       objectives   processing
+       mandatory  optional nature  answering  questions raised
+       consequences  nonresponse
+       persons    data    sent 
+
+       right  access  correct information   means prepared   
+ forms used  data collection shall include  explicit  clear statement   information specified 
+paragraph    
+ 
+ personal data   collected   person concerned  dataprocessing officer shall inform 
+latter personally  explicitly   content   data   objectives  processing   hisher right
+ object  conducting  processing
+ mandatory requirement shall  waived   person concerned  aware   matter  
+informing himher  impossible  requires  effort    commensurate   benefit  
+conducting
+ 
+retention  personal data shall   legitimate except   period specified   declaration 
+processing    decision authorizing  
+ 
+ data shall  collected  processed   event  reveals directly  indirectly  health status genetic
+identity  sexual life   person concerned
+ prohibition shall  apply   following cases
+         event  person concerned  made  data available   public   explicitly agreed
+          process   unless    legal impediment
+         event data collection  processing  necessary  establish  medical diagnosis   provide
+         medical treatment   healthcare professional
+         event  right  proved  defended   court 
+         event  obtaining  license  accordance   provisions      law
+ 
+every natural person shall   right  object  legitimate reasons   dataprocessing officer
+  collection  processing  hisher personal data including  collection  processing  
+purpose  commercial promotion however  person shall   entitled  exercise  right  objection 
+ following two cases
+
+         event  dataprocessing officer  obliged  collect  data   law 
+         event   agreed upon processing  hisher personal data
+ 
+ personal data processing officer shall take  measures  light   nature   data   risks
+resulting  processing thereof  order  ensure  integrity  security   data   protect 
+   distorted damaged  accessed  unauthorized persons
+section iii actions required  implement processing
+ 
+ permit  license shall  required  process personal data   following cases
+         case  processing   common rights officials<U+200B> <U+200B>  per hisher jurisdiction
+         case  bookkeeping  nonprofit organizations npos   members  clients thereof
+         within  scope   normal  legal exercise   functions
+       case  processes  subject thereof  keeping  dedicated records  legal  regulatory
+         provisions  order  inform  public  can  accessed   person  persons  
+         legitimate interest
+       case  processes  subject thereof  pupils  students  educational institutions 
+         educational  administrative purposes   said institutions
+       case  processes  subject thereof   parties  members   institutions commercial
+         companies trade unions associations  selfemployed persons within limits    needs 
+         exercising  activities   legal manner
+       processes  subject thereof   clients  customers  institutions commercial
+         companies trade unions associations  selfemployed persons within limits    needs 
+         exercising  activities   legal manner
+      case  person concerned agrees  advance   processing  hisher personal data unless
+            legal impediment 
+ addition  processes  certain categories thereof may  exempted   authorization 
+         licensing procedures   event   deemed  implementing   shall   risk 
+         private life  personal freedoms   decree approved   council  ministers  
+         proposal   minister  justice   minister  economy  trade
+       case  processes provided   law    within  limits thereof
+ 
+
+  exception   exemptions provided    preceding   wishing  collect 
+process personal data shall inform  ministry  economy  trade   permit issued duly  
+receipt
+ 
+ permit submitted   ministry  economy  trade  accordance   preceding  shall
+include  following information
+       objectives   process
+       personal data   source thereof  processing
+       categories  persons concerned
+       third parties   categories thereof  can view  data
+       data retention period
+       identity  address   data processing officer
+       identity  address   representative   data processing officer   event  said officer 
+         residing outside  lebanese territory
+       agency  agencies assigned  implementing  processing
+       person  agency exercising  right  access    exercise  said right
+      subcontractor  
+       appropriate method  access    form  connection  data  
+         processes  well  possible data waivers  third parties
+       appropriate transfer  personal data  another state   form
+      actions taken  ensure  integrity  data   personal nature   ensure preservation 
+         secrets protected  law     properly implemented   data processing officer
+         
+      emphasizing   processing shall  carried   accordance   law
+ 
+personal data processes pertaining   following shall  subject  licensing
+       external  internal security   state   joint decision   minister  national defense
+           minister  interior   municipalities
+       penal offences  judicial proceedings  various kinds   decision issued   minister 
+         justice 
+       cases  health genetic identity  sexual life  persons   decision issued   minister 
+         public health
+ license decision shall  issued within two  months   date  submission   application
+otherwise  shall  deemed implicitly denied upon expiry   deadline
+
+ ministry  economy  trade   applicant shall  notified  writing   license  denial
+thereof
+ 
+ ministry  economic  trade shall make available   public especially   website  list 
+possible processes  meet  licensing  authorization requirements set forth   section
+ list shall define   authorized  licensed processing  following
+        license  permit granted  date thereof   date  commencement   processing
+        name  purpose   processing
+        identity  address   data processing officer
+        identity  address   representative   data processing officer   event  said officer 
+          residing outside  lebanese territory
+        personal data categories  processing
+        person  administration exercising  right  access  data
+        third parties   categories thereof   authorized  view  data
+         appropriate personal data intended  transfer   foreign state
+section iv right  access  correction
+ 
+ personal data owner    hisher heirs shall   right  inquire   data processing
+officer  processing   personal data  order  determine whether hisher data   
+processing  
+ personal data processing officer shall provide  owner   personal data    hisher heirs
+  copy   data belonging thereto  hisher request  case  data  encoded compressed 
+encrypted  owner   data   personal nature     hisher heirs shall  given 
+understandable copy
+ owner   data   personal nature    hisher heirs may also request  data processing
+officer  accordance   conditions specified  paragraph ii   hand   following
+additional information  purposes categories source subject  nature   processing identification
+  persons   categories    personal data   sent    can access  
+ well   timing  purposes   access
+ 
+
+ personal data processing officer may receive  payment  giving  copy   personal data belonging
+  owner thereof    hisher heirs  provided    preceding  provided  
+payment shall  exceed  cost  copying
+ personal data processing officer may object  requests   arbitrary nature  particular  regard
+  number  repetitive  systematic nature thereof   dispute arises  burden  proving 
+aforementioned arbitrary nature shall lie upon  personal data processing officer receiving  
+ 
+ owner   personal nature    hisher heirs shall   right  ask  data processing officer
+processing correcting completing updating  erasing   data   incorrect incomplete
+ambiguous expired  incompatible   purposes  processing   data      processed
+collected used saved  transferred
+  event  personal data subject   request  correction   sent   third party  data
+processing officer shall notify  latter   amendments made   request   owner thereof  
+ hisher heirs
+ personal data processing officer shall   request   owner   data    hisher heirs
+perform  required operations free  charge within ten  days   date  submitting 
+correction request  shall prove hisher performance   required
+ personal data processing officer shall automatically correct  said data    informed  one 
+ reasons requiring himher  modify  cancel  said data
+ 
+  owner   personal data     hisher heirs may resort   competent courts  particular
+ magistrate  summary justice  accordance   dispute rules  order  ensure  exercise  
+right  access  correction   report  application   provisions   section  respect 
+personal data relating thereto
+ 
+  event  processes  related  internal  external security   state  owner   data  
+personal nature shall   informed  hisher data  processing  case  may endanger 
+objectives   processes   internal  external security   state
+ 
+
+ right  individuals  access  public records  files   medical files containing personal data
+shall  subject   legal  regulatory provisions  govern  
+ 
+ provisions  articles       law shall  apply   processing  data   personal
+nature carried  solely   purposes  literary  artistic expression    purposes  
+professional exercise   journalistic activity within  limits   laws  force
+ preceding paragraph shall  preclude  application  laws  observe  conditions  exercise 
+ right  response  regulate exposure  private life   reputation  persons
+section v penal provisions
+ 
+ following shall  penalized   fine  one  million lebanese pounds  thirty  million
+lebanese pounds  imprisonment  three  months  three  years   one   following
+two penalties
+     <U+23AF>   anyone   processed personal data without providing  permit  without obtaining  prior
+         license  commencing  work  accordance   provisions  section iii   
+         
+     <U+23AF>   anyone   collected  processed personal data without complying   rules established
+          accordance   provisions  section ii   
+     <U+23AF>   anyone  even  negligently discloses personal data  processing  unauthorized persons
+ 
+ personal data processing officer  refuses  respond within ten  working days   responds
+incorrectly  imperfectly   request   person concerned  hisher agent regarding 
+aforementioned right  review  correction shall  liable   fine  one  million lebanese pounds 
+fifteen  million lebanese pounds  section iv   
+ 
+  event  recurrence     acts provided    section  penalties  fines provided 
+  aforementioned articles shall  increased  one third  onehalf
+
+ 
+ criminal proceedings  paragraph iii       shall  carried    
+basis   complaint   damaged compliant
+ general right shall  waived  accordance   waiver   personal right  respect  
+criminal acts  case  waiver occurs   judgment   case becomes final
+part vi crimes relating   system  data  bank cards  amendments   penal 
+ rules  procedure   evidence control  storage
+ 
+crimes related   systems  data
+  illegal access   information system
+          person  fraudulently accesses enters  stays    system  parts thereof shall  liable
+ imprisonment  three months  two years andor  fine  one million  twenty million lebanese
+pounds
+          penalty shall  increased  imprisonment  six months  three years   fine  two
+million  forty million lebanese pounds   act results  cancelling reproducing  amending digital data
+ software   jeopardizing  operation    system
+  compromising system integrity
+          person  fraudulently damages  hinders  operation    system   manner shall
+ punished  imprisonment  six months  three years andor   fine  three million  two hundred
+million lebanese pounds
+  compromising digital data integrity
+          person  fraudulently enters digital data    system  deletesmodifies digital data
+hosted   system shall  punished  imprisonment  six months  three years andor   fine 
+three million  two hundred million lebanese pounds
+  hindrance disturbance  disruption
+          person  hinders disturbs  disrupts intentionally    means  access  
+service  hardware software data sources  information   use   information network  
+computer    similar means shall  punished  imprisonment  three months  two years
+andor   fine  two million  thirty million lebanese pounds
+  misuse  hardware   platforms
+          person  imports produces acquires delivers disposes   publishes without  legitimate
+reason  hardware software  platform   developed  adapted data   intention  commit
+   offenses listed   preceding articles    shall  punished  imprisonment  six
+months  three years andor liable   fine  three million  two hundred million lebanese pounds
+ 
+
+          person  attempts  commit    offenses stated    shall  liable  
+ penalties
+ ii
+counterfeiting  forgery  bank cards  electronic  digital moneychecks
+ 
+          person 
+     counterfeits  forges  bank card
+     knowingly uses  trades   counterfeit  forged bank card
+     accepts  receive amounts  money knowing  payment  made using  counterfeit  forged
+         bank card
+     counterfeits electronic  digital money
+     knowingly uses counterfeit electronic  digital money
+     counterfeits  electronic  digital check
+     knowingly uses  counterfeit electronic  digital check
+shall  punished  imprisonment  six months  three years andor   fine  ten million  two
+hundred million lebanese pounds
+         provisions  articles    shall apply   offences stated   
+ iii
+nonobservance   rules applied  electronic commerce
+ 
+          person  violates  obligations imposed upon  originator   spam message  set forth
+   herein shall  punished   fine  two million  twenty million lebanese pounds
+ iv
+publishing  electronic means electronic publishing
+ 
+         subsection       penal  shall  amended  follows
+         writing drawings paintings pictures films  various types  signs  photos  case  
+displayed   public place  place open   seeable   public   case   sold offered  sale 
+distributed  one   persons  whatever means including electronic means
+ v
+electronic forgery
+ 
+             penal  shall  amended  follows
+
+         forgery  deliberate distortion   truth  changing  facts  data established  
+instrument manuscript paperelectronic medium    medium  forms  document   view
+ cause physical moral  social damage
+ vi
+exploitation  minors  pornographic materials
+ 
+         subsection    ii  part vii titled offences  public morality   law issued 
+legislative decree   dated  penal  shall  repealed  replaced   following
+provisions
+subsection   crimes  minors exploitation  purposes  pornography
+   <U+200B>minors exploitation  purposes  pornography means photographing showing  physically
+depicting  minor  whatever means   drawings photos writings films  signs showcasing
+ minors sex organs   minor himselfherself  engaging  acting  though engaging  explicit
+sexual activities
+          penal  provisions shall apply  offences relating  minors exploitation  purposes 
+pornography  validated without prejudice   provisions   following 
+   <U+200B> development  production  pornographic materials effectively involving minors 
+considered   form  human trafficking   perpetrator   crime shall  punished  accordance
+ articles   onwards  human trafficking   penal 
+          minors   effectively involved   pornographic material  perpetrator shall 
+punished  imprisonment  one  three years    fine  five hundred thousand  two million
+lebanese pounds
+          person  delivers communicates reproduces displays disposes  distributes exports
+imports posts transmits  promotes minors pornography  whatever means shall  punished 
+imprisonment  one  three years    fine  five hundred thousand  two million lebanese pounds
+         penalties set forth     increased  accordance    penalties  case 
+ use   electronic communication network    internet radio  tv broadcasting  publish 
+distribute minors pornography   unspecified audience
+           penalties shall apply  attempts  commit  crimes set forth   preceding
+subsections
+         notwithstanding anything   contrary herein  person  regularly takes  displays
+pornographic materials involving minors via radiotv broadcast  communication service targeting 
+general public    means  deliberately holds   materials shall  punished 
+imprisonment     one year andor  fine  exceeding two million lebanese pounds
+          provisions    shall  applied  pornographic images   person looking like 
+minor
+          case  criminal offence set forth     committed   legal entity  shall 
+suspended  work  one month  least  two years  
+
+ vii
+rule  procedure  seizing  retaining  evidence
+ 
+          traces   data created voluntarily    persons   systems databases  services 
+networks  traces  considered digital   evidence
+          evidence includes hardware software data applications  traces   like
+         sops prescribed    shall  followed  seize  evidence upon  decision   public
+prosecution   competent judicial authority
+          privacy    evidence shall  protected particularly  data  images   
+related   criminal case
+          judicial police shall take  standard procedures  seize  retain  evidence  prescribed 
+  upon  decision   competent judicial authority
+          specialized office shall assist  judicial police  seizing  retaining  evidence
+ 
+          court may estimate    discretion  power  proof  authenticity   digitalit
+evidence provided   evidence   altered   way  seizure retention  analysis
+ 
+          every itdigital evidence seized  record shall  written detailing  seizure retention
+analysis examination  transfer thereof  one authority  another etc  record shall also include 
+detailed overview   procedures actions  authorities  held  evidence  method  transferring
+  particularly  ensuring evidence integrity   moment  seizure thereof
+           cases  true copy   asis digital evidence data  software shall  maintained  
+electronic medium used  store   shall  stamped sealed  submitted   relevant judicial
+authority along   written record
+         without prejudice   provisions     case  seizure    evidencedata stored
+  portable electronic medium    cd   laptop  provisions   criminal procedure  shall
+ applied  relation  searching  impounding evidence  flagrant  nonflagrant offences
+particularly articles    thereof
+ 
+         seizure  data  software shall  conducted   manner  compromising  rights  good
+faith persons   person directly involved  copying  seized data  software    terms
+ hardware containing  seized data  software shall   seized especially   hardware 
+used   legitimate purposes
+           time  seizure  case  downloading  transferring datait evidence   website  
+computer  source thereof shall  specified
+
+          data  digital evidence stored    system located   lebanese territories may  seized
+ access thereto  possible    system falling   search warrant scope
+          data stored    system may  accessed  seized whether    lebanon  abroad
+   made available   public   case  legally authorized person approves  disclosing 
+data    system   lebanese territories
+             evidence  seized  public prosecution   judicial authority examining  case
+may decide   process  downloading transferring  copying datasoftware shall  done  
+presence   relevant person   specialized technician appointed   relevant person  
+written authorization
+          appropriate  scene   search operations  conducted   location  
+electronic medium containing  datasoftware shall  closed  sealed pending  arrival  
+technician within  specified time limit otherwise  search operations may take place   presence 
+two relatives   concerned person  lawyer  two witnesses nevertheless  competent judicial
+authority may decide   presence   necessary
+          copy   seized datasoftware may  given   concerned person   time  seizure 
+decision   judicial authority taking  action
+          judicial authority may request  person  knows   operate   system 
+protection measures thereof  provide  investigator  charge   required information  access 
+requested data  software
+          may also request  person  data  software   serve   evidence  make 
+hold  copy thereof  seizure  decided
+ 
+          court examining  case may order   final decision  suspension  certain electronic
+services block certain websites  cancel accounts   websites  case   associated  crimes
+relating  terrorism minors pornography prohibited gambling organized electronic frauds money
+laundering crimes  internal  external security  crimes  compromising  system integrity 
+ spreading viruses
+ 
+          public prosecution may decide  temporarily suspend certain electronic services block
+websites  freeze accounts   websites     thirty days  period may  renewable
+    justified decision   action will legally cease   effect upon expiry   time
+limit
+            investigating judge   competent court examining  case may decide   actions
+temporarily pending  final decision   case  judicial authority may also reverse  decision  case
+ new compelling circumstances arise  decision   investigating judge   court  suspend
+certain electronic services  block websites  freeze accounts   websites may  duly challenged
+within  time limits   release decision
+ 
+
+          evidence seized  retained  breach    provisions     considered invalid
+  corresponding investigation shall  revoked
+         however evidence invalidity shall  prevent  use   information deemed helpful  
+investigation  case  information  uncovered   result  seizing  processing  invalid evidence
+provided    accompanied  <U+200B>corroborative evidence<U+200B>
+part vii
+amendments  consumer protection law   dated 
+ 
+          following subsection shall  added      consumer protection law  
+dated 
+         electronic contracts shall  concluded pursuant   provisions  articles    
+   electronic transactions  personal data law
+ 
+             consumer protection law   dated  shall  repealed 
+replaced   following provision
+         notwithstanding anything   contrary herein  consumer  enters   contract 
+accordance    may reverse  decision  buyhire goods  benefit   service within 
+period  ten days starting   date  concluding  contract  services  delivery date  goods
+unless  parties agree  longer periods   contract
+         however  consumer may  exercise  right set forth   preceding subsection  
+following events
+         benefit   service  use  goods   elapsing   tenday period
+         contract includes goods made  order  according  specifications defined   consumer
+         contract involves video tapes discs  cds  case  covers   removed
+         contract involves  purchase  newspapers magazines   publications
+        case <U+200B> goods<U+200B> become defective due  bad maintenance   consumer
+         contract involves accommodation transport food  entertainment services delivered  
+         specific date  periodically  agreedupon intervals
+        contract involves  purchase  software services online except   software  
+         downloaded  functional
+ 
+             consumer protection law   dated  shall  repealed 
+replaced   following
+          professional  uses indirect  electronic means  sale  lease shall abide   provisions
+  law particularly  relation  deceptive advertising promotion  public safety
+part viii
+final provisions
+
+ 
+         colibac bod shall also include  director representing  ministry  telecommunications 
+appointed  accordance     law  
+ 
+         enforcement   present law shall comply   provisions   banking secrecy law
+promulgated    provisions        money  credit  provisions
+ act   dated    general mission  banque du liban  provisions  law  
+dated  related   protection  secrecy  communications carried    communication
+means     ethics relating   relevant profession
+ 
+         way  exception   provisions     onwards   iv   present
+law  banque du liban may grant  following  relation  financial  banking transactions
+     certificates  authentication  electronic signatures  banks  institutions supervised 
+        banque du liban   capital markets authority   institutions departments  bodies
+        dealing  banque du liban   laws governing  ie bdl operations
+     accredited certificates  banks  institutions supervised  banque du liban   capital
+        markets authority   capacity  provider  authentication services  electronic signatures 
+         customers
+    banque du liban sets  technical standards  rules   procedures set forth 
+ 
+ 
+        subject   provisions    details  enforcement   present law
+shall  defined  necessary  decrees issued   council  ministers upon 
+proposal   minister  justice  minister  economy  trade  minister 
+finance  minister  industry   minister  telecommunications  within 
+limits   competences
+ 
+        electronic commerce activities shall  subject  taxes  fees imposed 
+nonelectronic activities  accordance  applicable laws subject  law   dated
+ tax procedures law   amendments particularly pertaining   tax
+administrations right  obtain information
+ 
+         present law shall  effective three months  publication thereof  
+official gazette
+
+rationale   electronic transactions  personal data draft law
+         past years  world  witnessed  revolution   field  information
+technology   uses  electronic transactions  fact electronic transactions 
+grown   emergence  steady expansion   internet    now used 
+ universal market  promote goods  deliver services thus representing  key
+component  developing  electronic commerce
+       etransactions  become  daily fact  lebanon    carried  
+ legislative framework   applicable lebanese laws   keep   
+developments  finding adequate legal solutions   therefore critical  recognize 
+accept  electronic documents  signatures   means  proof considering  ever
+accelerating trend towards paperless contracts  documents   now also essential 
+regulate  processing  personal data processing  enforce adequate legal controls 
+preserve individuals privacy  personal freedoms furthermore  sector involving
+electronic commerce  transactions communication service delivery data hosting 
+granting lb  <U+202B> <U+FEDF><U+FE92><U+FEE8><U+FE8E><U+0646><U+202C>domain names need   regulated  legislations 
+controls  protect transactors  citizens provided   controls   hinder 
+development   ecommerce  etransaction sector     discourage
+investments   otherwise benefit  national economy  large especially 
+  internet   etransactions  open    crossborder nature
+        present draft law consists  eight parts covering  themes addressed 
+ content   part  outlined 
+       part  tackles  legal provisions  electronic writings  evidence legal rules
+  part recognize  electronic documents signatures  grant  electronic
+written document   power  proof granted   paper document  case  satisfies
+certain conditions  also make  possible  approve  official electronic documents
+pursuant   decree issued   council  ministers  step will allow 
+management  make  required preparations  develop  required controls 
+safeguards  part also deals  various issues   storing electronic data
+disputes  written evidence  multiple copy rule  ordinary documents denial 
+alleged forgery  electronic documents  signatures protection measures  electronic
+writings role  electronic authentication service providers   accreditation 
+colibac  conditions thereof
+       part ii deals   electronic commerce  outlines  obligations binding 
+ecommerce practitioners sets   regulations governing electronic offerings defines
+ specific provisions  electronic approvals  contracting partys electronic instead 
+handwritten statements  spam messages   electronic banking services  part
+
+addresses electronic payment orders electronic transfers bank cards electronic money
+electronic checks  well  banks financial institutions  clients
+obligationsresponsibilities  agreements signed   respect  concludes 
+highlighting  powers  banque du liban   regard
+       part iii   law sets forth  legal provisions  public communication 
+digital means ie  obligations  responsibilities  technical service providers
+network service provider  data host  also governs  process  making information
+anonymously available   public online
+       part iv regulates  lb  <U+202B> <U+FEDF><U+FE92><U+FEE8><U+FE8E><U+0646><U+202C>domain names   internet  granted 
+managed  also sets   national administrative technical  legal requirements 
+well   requirements  approvals prescribed   international domain names
+registration entities  part also discusses  role   lebanese institution authorized
+ grant  manage domain names outlining  rights  responsibility   words
+ expressions used  domain names   cases  revoking  granted domain name
+part iv also deals   settlement  disputes  domain names  nonjudicial
+methods    competent courts
+       part v provides comprehensive legal regulation  personal data protection 
+defines  objectives  limitations  processing personal information cases 
+processing   information  legally banned  method   personal
+information  collected   obligations  responsibilities  persons processing 
+data  part also includes  lengthy list  processing practices    require
+authorization  licensing
+       part v also defines  rules governing  authorized licensed processing  data
+   apply  authorization   competent authority  also addresses 
+legal rights   person whose data   processed  rights  object  
+inquire   processing request information thereon  request correction update
+completion  deletion etc   information
+       part vi deals   crimes related   systems  data bank cards  certain
+amendments   penal  legislative decree   dated   part
+also includes penal provisions  crimes related   systems  data counterfeiting 
+forgery  bank cards  noncompliance  ecommerce rules  regulations  also
+includes amendments   penal   connection     publication
+means     forgery
+       part vii includes amendments  certain provisions   consumer protection law
+  dated   ensure consistency   ecommerce provisions
+
+       finally part viii provides  concluding  transitional provisions related 
+ present law particularly  terms  compliance   banking secrecy law 
+ laws  defining banque du liban powers  licensing  authentication 
+electronic signatures used   financial  banking sector
+       therefore
+       considering  foregoing  government  prepared  enclosed draft law 
+presently submits     honorable chamber  deputies  adoption
+

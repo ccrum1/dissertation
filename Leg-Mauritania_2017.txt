@@ -1,0 +1,784 @@
+law n ° 
+  protection  personal character data
+ national assembly   senate  adopted
+ president   republic promulgates  law whose content following
+ one general provisions
+section   subject   law
+first  without prejudice   provisions   law n °   january   repealing
+ replacing  law n °   june   relating   civil status    implementing
+texts  purpose   law    place  normative  institutional framework  data processing
+ personal character   view  guarantee better services  protect  privacy breaches
+ may   occasioned   use  technologies information  communication
+ lays   conditions    treatment relating  personal data  whatever form
+either respect  fundamental rights  freedoms  citizens
+section  definitions
+    purposes   law  following definitions apply 
+       driving   set  rules including charters  use developed   controller 
+         compliance   law  order  establish correct use  resources  internet 
+         communications electronics   structure concerned  approved   data protection
+         authority  personal character 
+      communication electronic   broadcast transmission  reception  signs signals writing
+         images  sound  electromagnetic pathway  defined  law n °   july  
+         relating  communications electronic 
+      consent   person whose personal data make subject  processing   express
+         manifestation  will unequivocal  free    person concerned   representative
+         legal accepts   data  personal character  subject  manual processing  electronic
+         
+      copies temporary  data temporarily copied   space dedicated   limited time  
+         needs  processing software operation 
+      data personal   information whatever  support   whatever kind including sound
+          image relative  one natural person identified  directly identifiable  indirectly 
+         reference   number identification  one   elements specific   physical
+         physiological identity genetic psychic cultural social  economic   qualified sensitive
+      data genetic   information regarding hereditary characteristics   individual   group
+         related individuals 
+
+     data sensitive   information relating  opinions  activities religious philosophical
+         political union  sex life race health social measures prosecution criminal  administrative
+         sanctions 
+     data   health field   information regarding  physical  mental state   given
+         person 
+     file personal data   together structured personal data accessible according  determined
+         criteria   set either centralized decentralized  distributed  functional 
+         geographic
+     interconnection personal data  linking personal data processed   determined purpose 
+          data processed  identical  nonidentical purposes 
+     country third   state    islamic republic  mauritania 
+     responsible treatment   natural  legal person public private    structure 
+         association  alone  jointly  others makes  decision  collect  process data 
+         personal character 
+     subcontractor   natural  legal person public  private   organization 
+         association  processes data   account  controller 
+     treatment personal data   operation  set  operations carried   using automated
+         processes    applied personal data   collection recording organization
+         conservation adaptation  modification extraction consultation use communication 
+         transmission distribution    form  updating layout reconciliation 
+         interconnection  well  locking encryption erasure  destruction
+section  scope   law
+   scope   act  personal data includes
+  processing  character data personnel carried    natural person   state local
+authorities legal persons governed  public law   law private 
+      automated processing    contained data  called  appear   file   exception
+          treatments mentioned      law 
+      processing implemented   manager   mauritanian territory  anywhere 
+         mauritanian law applies 
+      processing implemented   manager established     mauritanian territory 
+         uses means treatment located   national territory excluding means     used
+           transit purposes 
+      processing  data concerning public security defense research  prosecution criminal
+         offenses   state security even linked    interest   state subject  exceptions
+           act  provisions specific   area set   laws 
+   provisions   act  personal data   apply 
+
+      data processing implemented   natural person   exclusive framework   personal
+         activities  servants  however  data   intended   communication  authorized 
+         third parties   dissemination 
+      temporary copies made  part  technical activities  transmission  provision  access
+           network digital  automatic intermediate  data transient    fm  allow
+          service recipients  best possible access  information transmitted
+ h principles fundamentals relating   processing  personal character
+data
+section  basic principles   treatment  personal data
+  processing  character data personnel carried  without  consent   data subject 
+prohibited
+however  requirement may  waived  consent  processing  necessary 
+      compliance   legal obligation    person responsible  treatment  subject 
+       execution   mission  public interest  relating   exercise  public authority
+         including  invested  manager  processing   third party    data 
+         communicated 
+       performance   contract    data subject   party 
+      safeguarding  interests  rights  freedoms fundamentals   data subject
+   collection recording processing storage  transmission  personal data must 
+lawful fair   fraudulent
+  personal data must  collected  purposes determined explicit  legitimate  
+ treated   incompatible manner later   predefined purposes
+ must  adequate relevant   excessive  look   purposes     collected
+ processed later
+ must  kept   period    exceed  period necessary  purposes   
+ collected  processed
+beyond  duration  data  personal character   subject  conservation   sight
+respond specifically  treatment  historical statistical  research purposes   provisions legal
+  personal data collected must  accurate   necessary put   date  reasonable
+measure must  taken   inaccurate  incomplete data  regard  purposes   
+ collected  processed  deleted  rectified
+  processing  character data personnel  carried   accordance   principle 
+transparency  involves mandatory information   person responsible   treatment
+  personal data  treated confidentially   protected  accordance   provisions
+     law  particular   processing involves transmissions data   network
+
+   data processing  personal character made  behalf   person  charge 
+treatment must  governed   legal act recorded  writing  links  processor   controller
+  provides  particular   subcontractor acts    sole instruction   controller
+   planned obligations   law also fall  
+  context  subcontracting  activities related  data processing  participating person  
+execution   mission  subject   obligation  confidentiality
+section  principles specific   treatment  certain categories  character data staff
+    prohibited  collect   treatment  reveals racial origin ethnic linguistic 
+regional parentage political opinions religious  philosophical convictions union membership life
+sexual genetic data   usually  relating   state  health   person concerned
+   prohibition set     precedent   apply  categories  treatment
+following 
+       processing  personal data relates  data clearly made public   person concerned
+          
+       data subject  given written consent  whatever  medium   treatment 
+       processing  personal data  necessary  safeguard interests vital   data subject 
+          person   event   data subject   physical mental incapacity  legal  give
+         consent 
+       treatment  necessary   observation   exercise   defense   legal right 
+       judicial procedure   criminal investigation concerning  data subject  open 
+       processing  personal data turns  necessary   reason  interest public  particular 
+         historical statistical  scientific purposes 
+       processing  necessary   performance   contract    person concerned 
+         gone 
+       processing  necessary  comply   legal obligation     manager 
+         treatment  subject 
+       processing  necessary   execution   mission   public interest   carried 
+           authority public   assigned   public authority   responsible treatment   third
+         party    data  communicated 
+       processing  carried   part   activities legitimate   foundation association 
+          organism nonprofit  political philosophical religious mutual  union however
+         treatment must relate  members   body  persons   regular contacts linked
+           purpose    data   communicated  third parties without  consent 
+          persons concerned
+   processing  personal data relating  offenses criminal convictions  measures 
+security can   implemented  
+
+       courts public authorities  legal persons managing  public service acting within 
+          framework   attributions legal 
+       auxiliaries  justice   strict needs   exercise  missions   entrusted 
+            law
+   processing  personal data  health purposes   legitimate 
+        person concerned  given  consent 
+        relates  data clearly made public   person concerned 
+         necessary   defense  interests vital   data subject     person 
+           case    physically mentally  legal  give consent 
+         necessary   achievement   purpose fixed  law 
+         necessary   promotion  protection  public health  screening 
+          example 
+         necessary  prevent  certain danger   punishment   offense criminal
+          determined 
+         necessary   recognition exercise  defense   legal right 
+         necessary  preventive medicine purposes medical diagnoses administration care
+           treatment either   person concerned    parent   health services act  
+          interest   person concerned
+   data  healthrelated personal character  collected   person concerned 
+dont can  collected  sources   condition  collection  necessary   purposes 
+processing    data subject  unable  provide  data 
+  processing  character data personnel performed  journalism research   artistic 
+literary expression  allowed    put  effect works  literary expression purposes  
+artistic  exercise   professional capacity   activity  journalist  researcher respecting ethical
+rules legislative  regulatory   professions
+ provisions   act   preclude  application   provisions   laws relating  
+press written  audiovisual   penal 
+    prohibited  prospect direct using  means  communication using   form
+personal data   natural person    express prior consent  receive  surveys
+personal data   communicated  third parties  used  purposes  prospecting   soon 
+ person concerned  formally expressed  agreement
+   court decision involving  appreciation   persons behavior   foundation
+automated data processing  personal character intended  assess certain aspects   personality
+
+ decision producing legal effects   regard   person   taken    one basis 
+automated data processing  personal character intended  define  profile   person concerned
+  assess certain aspects   personality
+section  principles specific   transfer  personal data   third country
+   controller  transfer personal data   third country    state ensures 
+adequate level  protection  privacy fundamental rights  freedoms  people  regard 
+processing    data   may  subject
+   data protection authority personal information publishes  maintains  list  states
+ considers  offer  adequate level  protection privacy freedoms  rights fundamentals  people
+ regard  data processing  personal character
+    data transfer  personal character   third country  included   list 
+controller must inform beforehand  character data protection authority staff
+ transfer  personal data     according   conditions  rules  procedure
+adopted   data protection authority personal
+   sufficiency   level  protection   country appreciates according  particular 
+security applied   accordance   law specific characteristics   treatment   
+purposes  duration  well   nature origin  destination  data processed
+   controller may transfer personal data   third country    meeting 
+conditions set        law   transfer  punctual  massive    person
+   data relate  consented expressly upon transfer    transfer  necessary  one
+  following conditions 
+       safeguarding  life   person 
+       safeguarding  public interest 
+       compliance  obligations  ensure  recognition exercise  defense   legal right 
+        execution   contract   controller   interested party
+   authority  protection  personal data may authorize   basis   duly requested
+request motivated  transfer   set  data transfers   third country    provide  level
+ protection adequate   controller offers sufficient guarantees  regard   provisions 
+ law  guarantees may result  contractual clauses appropriate
+section  interconnections  files  personal data
+   interconnection  files relating  personal data constitutes  processing  meaning 
+point       law
+  interconnection  files belonging  one   several legal persons managing  public
+service including purposes correspond  public interests different must  subject  authorization 
+ authority  protection  personal data
+
+  applies   treatments implemented   state    purpose  making users
+available  administration one  several remote services  part   administration electronic
+  interconnection  files belonging  people private  whose main purposes 
+different  also subject  authorization   authority  protection  character data staff
+   interconnection  files must allow achieve legal  statutory objectives   interest
+legitimate  controllers  beneficiaries  users
+  lead  discrimination  reduction  rights freedoms  guarantees  people concerned
+ must take  account  principle  relevance   data subject  interconnection
+   interconnection authorization request includes   necessary information  
+       nature  personal data relating  interconnection 
+       purpose   interconnection  considered necessary 
+       duration   interconnection  desired 
+         information useful  taking decision
+   authorization request interconnection  well  interconnection authorizations 
+entered   directory  treatments
+ ill  formalities prealable   processing  personal character data
+section  exemptions  formalities
+   exempt   formalities prior  data processing  character personnel regardless 
+ support   treatment  accordance   texts  force 
+       treatments mentioned      law 
+       treatments whose sole purpose   keep  register   virtue  legislative 
+         regulatory provisions  intended exclusively  public information   open  consultation
+              person   legitimate interest 
+       treatments implemented   association   organization   purpose nonprofit
+          religious philosophical political  union  soon   data correspond   object 
+          association    organization    concern  members   
+            communicated  third
+       treatments carried    written consent   concerned person
+section   reporting regime
+   data processing except  cases provided   articles      law must subject
+  declaration   authority  protection  personal data
+ declaration conforming   model established   data protection authority  character staff
+includes  commitment   processing meets  requirements   law
+
+ character data protection authority staff attests   acknowledgment  receipt  
+required declaration   made  issues immediately  receipt  allows  applicant 
+implement  envisaged treatment   receipt gives right  implementation   treatment
+   data processing  personal character belong    body   identical 
+linked purposes  can  subject   single declaration
+  case  information required  application       law   provided  
+treatment     long    specific  
+     common categories  processing  personal data including  implementation
+ work   likely  harm life privacy  freedoms  individuals  authority  protection 
+personal data establishes  publishes standards  simplify  exempt  reporting obligation
+standards  simplified reporting specify 
+       purposes   processing operations subject   declaration simplified 
+       personal data  categories  personal data processed 
+         categories  persons concerned 
+       recipients  categories  recipients    data  communicated 
+       retention period  character data staff
+ standards can take  account  codes  driving approved   protection authority data
+personal
+   data protection authority   personal nature may define among  categories 
+treatments referred        law    exempt  declaration   
+ data protection authority  personal character takes  account  purposes   recipients
+ categories  recipients  data  personal character processed  shelf life   
+categories  persons concerned
+   conditions  protection authority  personal data may authorize  responsible 
+certain categories  treatments  make  single declaration  accordance  provisions    
+ law
+section  authorization regime
+   implemented  authorization   character data protection authority staff 
+       processing  personal data relating  genetic data   research   field health 
+       processing  personal data relating  offenses convictions  security measures 
+       processing  personal data   object file interconnection 
+       treatments relating   national identification number    general identifier 
+       processing  personal data including biometric data 
+
+       processing  personal data   reason  public interest  particular  historical ends
+         statistical  scientific
+   treatments  meet   purpose relate  data categories identical  
+  recipients  categories  recipients may  authorized   single decision   authority
+ protection  personal data   case  person responsible   processing addresses  
+authority  protection  character data staff  commitment  conformity thereof   description
+given   authorization
+   data protection authority personal decision within two    month  receipt  
+request however  deadline can  renewed   decision motivated   president
+  data protection authority  personal character   rule   deadlines 
+authorization request  deemed    rejected
+section  authorization regime  notice   character data protection authority staff
+  except  cases   must  authorized  law   derogation   provisions
+ articles previous data processing  personal character operated  behalf   state   public
+establishment   local authority   legal person  private law managing  public service 
+authorized  regulatory act taken  notice reasoned   authority  data protection 
+personal character
+ treatments relate  
+       state security defense  security public 
+       prevention investigation finding  prosecuting offenses criminal  enforcement 
+         convictions criminal  security measures 
+       population census 
+       personal data showing directly  indirectly racial origins ethnic  regional parentage
+         political philosophical  religious  union membership people    relative health 
+         sex life   
+       salary pensions taxes fees   liquidations 
+       implementation  resource recovery   state
+   protection authority  personal data seized   request   opinion  pronounced 
+two    months   receipt   request however  period may  renewed  
+reasoned decision   president
+  data protection authority  personal character entered   rule  expiration 
+deadline set   previous paragraph  opinion  deemed   favorable
+   regulatory act taken   advice   protection authority 
+personal data  authorizing treatments referred       law specifies 
+       name  purpose   processing 
+
+      service    right  access  exercised 
+      categories  personal data saved 
+      recipients  categories  recipients authorized  receive communication   data 
+      derogations   information obligation provided   provisions     
+         law    location
+section  common provisions
+  requests  opinions declarations  authorization requests must specify
+     identity   address   controller      established   national territory
+            representative duly mandated 
+        purposes   processing 
+      planned interconnections    form  connection   treatments 
+      personal data processed  origin   categories  persons concerned  treatment 
+      retention period   information processed 
+        departments responsible  implementing  processing  well   categories 
+         people     functions   service needs  direct access  data saved 
+      authorized recipients      data communicated 
+      function   person  service    right  exercised access 
+      measures taken  ensure  safety  treatments   data 
+      indication  use   subcontractor  applicable 
+      personal data transfers envisaged   third country
+ requests advice  treatments relevant   safety  state national defense  security public
+may  include   information listed  subject  information minimums provided   
+   law
+   controller already declared  authorized must carry   new declaration  request 
+authorization   character data protection authority personnel  case  change affecting 
+information mentioned   previous 
+  notice declaration  request  authorization can  sent   protection authority 
+personal data  electronic means  conventional transmission channel  support paper   post
+ character data protection authority staff issues  receipt  notice  reception  necessary 
+electronic
+ character data protection authority personnel can  seized   acting person  
+  lawyer     person physical  moral duly mandated
+
+ iv obligations relating   conditions  processing  personal character
+data
+section  confidentiality obligation
+  processing  character data staff  strictly confidential   performed exclusively  people
+ act   authority   controller     instructions
+  processing  manager must choose people  regard  preservation   confidentiality
+ data  guarantees   terms  technical  legal knowledge    personal integrity
+without prejudice   application   provisions   law  commitment written  signed people
+   process  data respect confidentiality   security  data
+ contract binding  processor   controller includes indication  protection obligations  
+data security  confidentiality incumbent   subcontractor  well    agents intervening 
+processing  personal data  provides   subcontractor   may act    instruction
+  controller
+section  security obligation
+   controller  required  take  useful precaution  regard   nature   data
+  particular  prevent    deformed damaged   unauthorized third parties
+ access    takes  particular  measure aimed  
+     guarantee  authorized persons can  access personal data   skill 
+     guarantee  can  checked  noted  identity  people   access  information
+         system   data   read  entered   system     nobody 
+     guarantee  can  checked  found  identity  third parties   data  personal
+         character can  transmitted 
+     prevent  person  authorized  access  premises  equipment used  processing
+          data 
+     prevent  data carriers may   circumstances  read copied modified erased destroyed
+          displaced   unauthorized person
+     prevent  unauthorized introduction   data   information system  well  
+         socket  knowledge  unauthorized modification  deletion  data saved 
+     prevent  data processing systems can  used  people  authorized  aid data
+         transmission facilities 
+     save data  making security copies 
+     refresh   necessary convert  data  storage perennial
+section  obligation  conservation
+  personal data   can  kept beyond  duration necessary    purpose 
+ treated  historical statistical  scientific
+
+section  obligation  maintain
+   controller  required  take  useful measure  ensure  character data processed
+personnel may  exploited later whatever  technical support used
+ controller  required  save  data   constitution  security copies   necessary convert
+data  perennial storage
+ v rights conferred  persons whose data  personal character   subject
+  treatment
+section  right  information
+   character data staff  collected directly   person concerned  controller 
+ representative must provide    latest  collection      means 
+supports used  following information 
+      identity  controller   representative 
+         purposes  s    processing    data  intended
+       data categories concerned 
+         recipients    data may  communicated 
+       whether  answer  questions  mandatory  optional  well  possible consequences
+            lack  response 
+      existence  right  access rectification  opposition  data 
+       data retention period 
+        appropriate transfers  envisaged data  destination   foreigner
+        able  ask   longer appear   file  procedure  follow  
+          consequences
+however  provisions        apply  data collected  used
+           treatment implemented  behalf   state  concerning  state security
+          defense national  public security     object  execution  criminal convictions
+           measures  security 
+           extent    limitation  necessary  respect  purposes continued 
+          treatment  prevention research finding  prosecution   offense 
+           treatment  necessary  take  account  significant economic  financial interest
+            state y included   monetary budgetary customs  fiscal
+    data  personal character   collected   concerned person 
+information referred    previous  transmitted  said person   time  recording  data
+   communication  planned   latest   first communication
+
+  unless otherwise provided  user information  communication technologies must 
+informed clearly  completely   manager   processing   representative 
+l   purpose   action tending  access  electronic transmission channel  information
+stored   connection terminal equipment   register    means information  
+equipment connection terminal 
+  means   disposal  oppose 
+  strictly prohibited  make access   service available   electronic communications network
+acceptance   subscriber   user concerned   processing  information stored  
+equipment
+however  provisions   preceding paragraph     applicable  access  information
+stored  enduser equipment  information entry  user equipment 
+         exclusive purpose  allow  facilitate communication  electronic channel 
+        strictly necessary   provision   service  online communication   express
+           request   user
+section  law access
+   natural person  can prove  identity   right  request  writing whatever
+ medium  responsible processing  character data staff  provide 
+        information allowing  know  possibly  contest  treatment 
+        confirmation  personal data concerning     subject   treatment 
+        communication   accessible  intelligible form  data personal matters 
+           concern  
+        information relating   purposes   processing   categories personal data
+           processed  recipients    data  communicated 
+         applicable information relating  transfers  personal data envisaged  destination
+             third country
+    person concerned requests   controller must issue   data subject  copy 
+medium used character data staff concerning 
+ controller may make  delivery   copy  payment   amount  exceeding cost 
+reproduction
+ case  risk  concealment  disappearance  data personal  person concerned can inform 
+data protection authority  personal character   takes  measures likely  avoid 
+concealment  disappearance
+   person    exercise   right access  serious reasons  maintain  
+data    communicated      accordance   data processed may inform
+ authority protection  personal data  carry   necessary checks
+
+   patients right  access  data personal matters concerning   exercised   patient
+    doctor   designated
+  event   patients death  spouse living     children   parents  father 
+mother      minor can exercise  right  access   doctor  designate
+   data controller  personal character can oppose manifestly abusive requests 
+particular   number  repetitive nature  systematic
+  event   dispute  burden  proof  character manifestly abusive   requests rests 
+ controller     addressed
+   way  derogation   provisions  articles   following   law  
+treatment   interest  state security national defense  public security  right  access 
+exercised   following conditions
+  request  addressed   protection authority personal data  designates one  
+members  magistrate   carry   necessary investigations  latter may  assisted  agent 
+ authority  multisectoral regulation   notified   applicant    carried   checks
+
+   data protection authority  personal character notes  agreement   manager
+ processing   communication   data contained therein     question 
+purposes security   state  national defense  public security  data can  communicated
+  applicant 
+   processing  likely  include information including communication   jeopardize
+ ends   assigned  regulatory act creating  file may provide   information 
+communicated  requesting   manager   file directly entered
+section  right  opposition
+  except   case   treatment responding   legal obligation  natural person  
+right  object   cost  data   character personnel concerning   subject  treatment
+ person concerned   right   one hand   informed  data concerning    
+ first time communicated  third parties  used  behalf  third party  purposes prospecting
+    hand seeing   expressly offer  right  oppose free  charge  said
+communication  use
+  anyone affected  processing   right  object subject  legal exceptions  
+personal data concerning   subject   lifting  professional secrecy
+section  right  rectification  deletion
+   natural person  can prove  identity may require  controller     case
+may  rectified completed updated locked  deleted data  character staff concerning   
+inaccurate incomplete ambiguous outdated  whose collection use communication  conservation
+ prohibited
+
+    person concerned requests   written whatever  medium  controller
+must justify free  charge   applicant   proceeded  operations required   
+previous within    month  registration   request  case  dispute  burden  proof rests
+  responsible  treatment    right  rectification  exercised
+ data   transmitted   third party  controller  required  perform due diligence useful
+  notify  operations   carried   accordance  first paragraph
+   heirs   person deceased proof   identity may  elements brought  
+attention leave  assume  personal data  concerning  treated    updated
+require  controller  process let  take  consider death  proceed  day  must  
+consequence
+  heirs request   controller justifies   cost   applicant   proceeded 
+operations required    previous
+ vi regulations  protection  personal character data
+section    protection authority  personal data
+   authority  protection  personal data responsible  ensure  data processing
+personal   islamic republic  mauritania  implemented  accordance   provisions  
+ law
+ character data protection authority personnel   legal person  public law independent 
+financial  management autonomy   attached   prime minister
+ informs  persons concerned   responsible  treatment   rights  obligations 
+ensures   use  information  communication technologies   pose  threat  regard
+ public freedoms  privacy
+   composition   protection authority  personal data terms  conditions 
+conditions   appointment   members  set  decree
+ government commissioner appointed   prime minister sits   authority  protection 
+data  personal character  commissioner  government  summoned    sessions  
+authority    conditions   members   latter  informs  authority 
+government guidelines   motivations   administration concerning  implementation 
+treatments    take part   vote
+   data protection authority personal services  authority   president  also 
+ personnel made available     state  may provide  recruitment  agents according 
+ needs   operation
+sworn officers  may  called  participate   implementation  verification mentioned 
+articles      law must  authorized   protection authority  personal data 
+authorization    exempt  application provisions defining  procedures allowing access
+ protected secrets  law
+
+   mandate   members   protection authority personal data  four    years
+renewable  
+  exception   president  members   authority  protection  character data staff
+  exercise  functions exclusively subject  planned incompatibilities  section 
+members   data protection authority  personal character  irremovable  duration  
+mandate unless   serious misconduct  functions   terminated   case 
+resignation  impediment noted   character data protection authority staff   conditions
+set  decree
+members   data protection authority  personal character  bound  professional secrecy 
+accordance   texts  force
+ character data protection authority staff establish internal rules  specifies  particular 
+rules relating  deliberations instruction  presentation  files
+ rules relating   organization  operation   data protection authority  character
+personnel  fixed  decree
+  membership   authority protection  personal data  incompatible   status 
+member   government   exercise  functions  business leaders detention participation 
+  communications companies electronic
+ member   data protection authority  personal character must inform  latter  interests
+direct  indirect   holds  plans  hold functions  exercises  plans  exercise  
+mandate  holds  plans  hold within  legal person
+ appropriate  authority takes   measures useful  ensuring independence 
+impartiality   members    conduct  put  place   purpose
+     term  office  president   member   character data protection
+authority staff ceases  exercise  functions  replacement   conditions provided hereby
+law
+ mandate   successor thus designated  limited   remaining period  last may 
+designated   single mandate
+  members   protection authority personal data  entering function take  oath
+  supreme court sitting  solemn hearing  oath whose content follows    swear  
+name  allah  almighty  good  faithfully fulfill  function  member   authority  data
+protection  personal character  complete independence  impartiality  dignified  loyal 
+ keep  secret  deliberations 
+  agents chosen   protection authority  personal data ready oath   
+conditions
+  members   protection authority personal data enjoy  immunity total  opinions
+expressed   financial year   exercising  function   exercise   allocation
+members   data protection authority personal receive  instruction  authority
+
+  ministers public authorities leaders  public  private companies responsible  various
+groupings   generally  holders  users  processing  data files  personal character take
+ measures  facilitate  task   authority  data protection personal unless  law provides
+otherwise  subject   right  object   visit referred       law   
+may oppose  action   authority  protection  personal data   reason    
+section  powers   protection authority personal data
+   data protection authority personal exercise  following missions 
+  ensures   processing  data  personal character  implemented  accordance 
+provisions   law 
+  informs  persons concerned   responsible  treatment   rights  obligations
+  end 
+       receives formalities prior  creation  data processing  character staff 
+     b  receives complaints petitions  complaints relating   implementation  treatments
+          data personal  informs  authors   consequences data   
+   c      immediately inform  public prosecutor   offenses     aware   can
+           justice  case  violation    law 
+     d  may  special decision charge one     members  agents   departments 
+          proceed  checks   processing   applicable  necessary obtain copies  
+          document  support information useful   mission 
+     e  may   conditions defined  articles  et seq    law pronounce  sanction
+            regard   controller 
+     f    responds   request   opinion
+  approves  codes  good conduct presented   
+ maintains  directory  data processing  personal character available  public 
+       advises people  organizations  use  treatment  personal data   
+          proceeding  tests  experiments likely  lead   treatments 
+       adopt  conditions  rules  procedure relating  crossborder data transfers 
+          character personnel  authorizes   necessary   conditions provided  herein
+          law 
+       present   government  suggestion likely  simplify  improve  legislative
+          framework  regulatory   regard   processing  character data staff 
+       cooperate  data protection authorities personal character  third countries participates
+           international negotiations   protection  personal data 
+       publish  authorizations granted   notices issued   data processing directory 
+          character staff 
+
+       draw   annual activity report submitted   prime minister parliament  minister
+           communications charge electronic
+section  control  administrative  financial sanctions
+  agents   protection authority personal data  well  service sworn  access 
+ conditions provided   provisions    et seq     procedure criminal relating
+  punishment  offenses flagrant   exercise   missions  places premises speakers
+installations  establishments used   implementation   data processing personal   
+ professional use excluding parts thereof affected   private home
+ prosecutor   republic  territorial jurisdiction  previously informed
+   case  opposition   site manager  visit   may take place   
+authorization   judicial authority competent   jurisdiction    premises  located 
+visit   delegated judge    magistrate  seized   request   president  
+authority  data protection personal  rules   reasoned order  emergency procedure 
+without obligation  presence
+  agents   protection authority personal data  agents mentioned     
+law may request communication   documents necessary   accomplishment   mission
+whatever  medium  take  copy  can collect  site  upon convocation  information
+  useful justification  can access programs   data request transcription   processing
+ appropriate documents directly usable  control needs
+ can  assisted  experts chosen   president  said authority
+ minutes   checks  visits carried   application  articles previous
+   data protection authority   personal nature may pronounce  following measures 
+       warning   controller  respecting   obligations arising   law 
+          regulatory provisions  force
+       formal notice  put  end   shortcomings concerned   deadline  sets
+    manager  treatment   comply   formal notice   addressed
+ authority  protection  personal data may pronounce     procedure contradictory
+ following sanctions 
+  provisional withdrawal   authorization granted   maximum duration  three months 
+       final withdrawal   authorization granted withdrawal final can follow  period withdrawal
+          provisional   end    controller     comply   requirements
+           formal notice 
+       financial fine   conditions provided       law
+   case  emergency   implementation   processing   exploitation 
+personal data leads   violation rights  freedoms  data protection authority   character staff
+ procedure contradictory can decide 
+
+      interruption  implementation   treatment   maximum duration  three month 
+       locking  certain personal data processed   maximum  three months 
+       ban temporary  permanent treatment contrary   provisions    law  
+         treatment  authorized  regulatory act   conditions defined      
+         law  data protection authority   personal nature informs  minister  load  electronic
+         communications  take  necessary measures  stop  violation noted
+ minister  made known   character data protection authority staff  followup  gave 
+ information   late fifteen days  receiving 
+   case  breaches  legal provisions  regulations relating  character data personnel
+except    sanctions  protection authority  personal data can take sanctions pecuniary
+ offenders  amount   financial penalty  proportionate   severity   breach
+  zef failure   exceed ten million     ouguiyas
+ case  default reiterated within five years   date    sanction pecuniary previously
+pronounced  become final    may exceed fifty million     ouguiya   
+case    company    turnover excluding taxes   last financial year closed
+penalties  collected  accordance    legislation relating   recovery  receivables state
+foreign  tax   field
+  sanctions imposed   protection  personal data  taken   basis   report
+drawn   one   members appointed   president   said authority
+ report  notified   controller  can file observations   represented  assist
+  sanctions imposed   protection  personal data may  made public  decision  
+president   latter may also order   expense  people sanctioned  insertion  
+sanctions  publications newspapers   media    designated
+  sanctions  decisions taken   character data protection authority staff  subject 
+appeal   supreme court
+section  criminal provisions
+   punished      three    month  imprisonment   one hundred thousand 
+   one million    fine ouguiyas  one   two penalties  intentionally
+obstructing  without rights  action   authority  data protection personal either 
+       opposing  exercise   missions entrusted   members  authorized agents 
+          visit  authorized   judge
+       refusing  communicate   members    authorized agents  information 
+         documents useful   mission  concealing  said documents  information  
+         making  disappear
+
+       communicating information    comply   content  records   
+           request   formulated       content   directly accessible
+         form
+   fact including  negligence  proceed   done   data processing
+personal without  formalities   respected prerequisites  implementation   
+provided    law  punished      two    month imprisonment  fifty     five
+hundred thousand    ouguiya fine  one   two penalties 
+    penalties  punishable  previous    even  mistake imprudence
+ negligence  proceed     treatment    subject  one   measures provided
+   articles       law
+    penalties  punishable   collecting character data personal  fraudulent
+unfair  unlawful means
+    penalties  punishable section  proceeding   done  processing 
+personal data without putting  implements security measures planned    law
+    penalties  punishable    fact  carrying   treatment  data
+personal information concerning  person physical despite  latters opposition   processing
+meets prospecting purposes including commercial    opposition  founded  grounds
+legitimate
+   fact apart   cases provided   law  putting  keep  computerized
+memory without consent express  interested parties data  personal character  directly 
+indirectly  appear racial  ethnic origins political opinions philosophical  religious  affiliations
+peoples unions   relate   health  identity    punished  fifteen days    
+one    month  imprisonment  fifty    five hundred thousand    orguiya fine 
+one   two sentences 
+    penalties  punishable   preceding  fact except  cases provided
+   law  put  keep  computerized memory  personal data concerning offenses convictions
+ judicial security measures
+  keeping    processing data personal beyond  duration planned  law  regulation
+ authorization request  notice    prior declaration sent   data protection authority 
+personal character  punished  fifteen days         month imprisonment  one hundred 
+  five hundred thousand    ouguiya fine  one   two penalties  unless 
+conservation  carried    conditions provided   law  historical ends statistical 
+scientific
+   fact   person holding personal data   occasion   recording 
+classification transmission    form  process  divert  information   purpose 
+defined  law regulation  decision   data protection authority   character personnel
+authorizing automated processing   prior statements  implementation   treatment 
+punished      three    month  imprisonment  one hundred thousand     one
+million      fine     two sentences 
+
+  except  cases   law provides otherwise  made   person  
+collected   occasion   recording  classification transmission   form 
+processing personal data whose disclosure  affect  consideration   person  privacy  life
+deprived    carry without authorization   person  data   knowledge   third party
+    quality  receive   punished      three    month  imprisonment 
+one hundred thousand     one million    fine ouguiyas  one   two
+sentences 
+disclosure provided    paragraph previous    committed  carelessness  negligence
+ punished  fifteen days        month imprisonment  fifty thousand    two cents 
+    fine  one   two penalties 
+  cases provided    two preceding paragraphs prosecution can   exercised  victims
+complaint  legal representative   beneficiaries
+    cases provided     articles    section erasing   part  
+data   personal nature subject  processing  given rise   offense may  ordered
+members  agents   protection authority  personal data  empowered  note  erasure
+  data
+  legal persons    state local authorities  public establishments  criminally
+responsible   offenses provided     law committed   behalf   natural person
+acting either individually    member   organ   legal person  exercises  power 
+direction within  founded sure
+       power  representation   legal person 
+     b  authority  make decisions  behalf   legal person 
+   c     authority  exercise control within  person moral
+legal person can  held responsible   absence  monitoring  control   part   nobody
+physical mentioned   previous paragraph made possible  commission   offense
+ liability  legal persons   exclude   natural persons perpetrators  accomplices  
+ facts
+   penalties incurred  legal persons  
+       fine  maximum quantum    equal  five times  provided  natural persons
+         
+       dissolution   case   legal person   penalty imprisonment greater  five   
+         months     crime   offense committed   natural person 
+                ban definitively    period  five years    exercise directly  indirectly
+                   one   activities professional  social  relation   facts 
+                permanent closure    period     five years      one
+                     companys establishments  participated  commit  acts complained  
+
+              exclusion public contracts definitively    duration  five years   
+               seizure  confiscation   thing  served   intended  commit 
+                  offense   thing   product 
+              display  court decision pronounced   dissemination thereof either   written
+                  press    means  communication   public  particular  electronic means
+   public prosecutor notifies  president   character data protection authority staff
+  criminal prosecution provided    law   case  applicable followup given  
+ informs    date  subject   judgment hearing  least ten days   date
+ investigating  trial court may call  president   data protection authority  character staff
+  representative  submit  comments   develop  orally   hearing
+ provisions   section apply without prejudice   rules relating  liberty  press  force 
+ islamic republic  mauritania  particular ordinance  tag>   july   
+freedom  press   subsequent texts  law  tag>   july   relating 
+audiovisual communication  well  sanctions applicable   event   breach   rules
+organizing  freedom
+ vii transitional  final provisions
+    date  entry  force    law   effective establishment  
+protection  personal data  character data processing staff must meet  requirements within 
+deadlines  
+ three years  data processing operations  behalf   state  public establishment   local
+authority   legal person governed  private law managing  public service 
+ two years  character data processing personnel  behalf  persons    subject 
+ provisions   previous point
+    absence  regularization   deadlines set   previous  treatments 
+deemed    exercised without declaration  without authorization  defiance  provisions 
+ law
+   law will  enforced  state law  published   official journal   republic
+islamic  mauritania
+

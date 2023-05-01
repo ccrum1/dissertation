@@ -1,0 +1,1227 @@
+                                                official gazette
+                                issue   thursday  july 
+decree    concerning  issuance   personal data protection law
+                                hamad bin isa al khalifa king   kingdom  bahrain
+ read
+      <U+F0A7>      constitution
+      <U+F0A7>      civil  commercial procedure law promulgated  legislative decree     amended
+      <U+F0A7>     legislative decree    concerning judicial fees  amended
+      <U+F0A7>     law    concerning  regulation  retirement pensions  benefits  government
+            employees  amended
+      <U+F0A7>      penal  promulgated  legislative decree     amended
+      <U+F0A7>     legislative decree    concerning statistics  census
+      <U+F0A7>     legislative decree    concerning  central population register  amended  law  
+            
+      <U+F0A7>      law  evidence  civil  commercial matters promulgated  legislative decree   
+             amended
+      <U+F0A7>     legislative decree    concerning online transactions  amended
+      <U+F0A7>      law  judicial authority promulgated  legislative decree     amended
+      <U+F0A7>        criminal procedures promulgated  legislative decree     amended
+      <U+F0A7>     legislative decree    concerning  regulation  press printing  publishing
+      <U+F0A7>      communications law promulgated  legislative decree     amended  legislative
+            decree   
+      <U+F0A7>     law    concerning trade secrets  amended
+      <U+F0A7>     law    concerning  ratification   arab charter  human rights
+      <U+F0A7>     law    concerning identity cards
+      <U+F0A7>     law    approving  accession   government   kingdom  bahrain  
+            international covenant  civil  political rights
+      <U+F0A7>      central bank  bahrain  financial institutions law promulgated  law   
+      <U+F0A7>     law    approving  accession   government   kingdom  bahrain  
+            international covenant  economic social  cultural rights
+      <U+F0A7>      civil service law promulgated  legislative decree     amended  legislative
+            decree   
+      <U+F0A7>     law     information technology crimes
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+ shura council   council  representatives  approved  following law   
+ratified  promulgated
+ 
+personal data protection shall  governed   provisions   accompanying law
+ 
+ provisions   law shall  prejudice  rights prescribed  international conventions 
+treaties  force   kingdom  bahrain
+ 
+ board  directors   personal data protection authority shall issue  necessary decisions  
+implementation   provisions   law within  period  exceeding  first day   month
+following six months   date   publication   official gazette
+ 
+ provisions   accompanying law shall  implemented   prime minister  ministers 
+within  respective jurisdiction  capacity  shall  effective    first day   month
+following one year   date   publication   official gazette
+                                                                                                          king   kingdom  bahrain
+                                                                                                                    hamad bin isa al khalifa
+issued  riffa palace
+  shawwal  h
+corresponding   july 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+                                        one processing provisions
+                                               section one  preliminary provisions
+                                                                definitions
+  application   provisions   law  following terms  expressions   meanings
+unless  context requires otherwise
+data  personal data  information   form relating   identified  identifiable individual
+either directly  indirectly particularly  hisher personal id number  one    hisher
+physical physiological intellectual cultural  economic characteristics  social identity
+ determine whether  individual  identifiable  means used    may  available   data
+manager    person   considered
+sensitive personal data  personal information  reveals directly  indirectly  individuals race
+ethnicity political  philosophical views religious beliefs union affiliation criminal record   data
+related  hisher health  sexual life
+processing  operation  set  operations carried   personal data  automated  non
+automated means   collecting recording organising grouping storing modifying adjusting
+retrieving using  disclosing  data  transmitting disseminating transferring making available
+integrating blocking deleting  destroying 
+file system  set  personal data    processed   automated device based 
+instructions given      arranged    way   obtain information   individuals 
+data belongs 
+person  natural person  corporate entity including  public entity
+individual  natural person
+data manager  person  decides solely   association  others  purposes  means 
+processing  certain personal data   purposes  means  prescribed  law  data
+manager   person responsible  processing data
+data processor  person  processes  data    behalf   data manager  including
+whoever works   data manager  data processor
+data protection supervisor  person approved   authority according      law
+data owner  individual  subject   data
+third party  person  
+ data owner
+ data manager
+ data processor
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+ data protection supervisor
+  person working   supervision   data manager  data processor  authorised 
+       process data  behalf   data manager  data processor
+data receiver  person   personal data  disclosed whether  third party   
+including  person   data  disclosed  exercise  specific legal jurisdiction  perform 
+specific public duty
+blocking annotation   means   stored data  prohibits  subsequent processing except
+storage
+direct marketing  communication   means    marketing  advertising material 
+directed   specific person
+minister  minister  justice  islamic affairs    minister nominated   decree
+authority  personal data protection authority pdpa established  virtue      law
+board  board  directors  pdpas board  directors formed according      law
+chairman   board  chairman  chairman   pdpas board  directors
+chief executive officer ceo  pdpas chief executive officer appointed according     
+law
+appeal committee  committee mentioned  clause       law
+investigation committee  committee formed according  clause       law
+                                                       scope  application
+  provisions   law apply 
+        data processing using automated means  whole   part
+       b data processing using nonautomated means forming  part   files system  intended   
+            part   system
+  provisions   law apply 
+        every natural person usually residing   kingdom  bahrain    place  business 
+       b every corporate entity   place  business   kingdom  bahrain
+       c every natural person  corporate entity  usually residing   kingdom  bahrain  
+              place  business   processes data using means available   kingdom
+            unless  use   means   pass data   kingdom without   purpose
+ every corporate entity referred   clause  c    shall appoint  authorised
+       representative   kingdom  carry   obligations prescribed   provisions   law
+        shall notify  pdpa immediately   appointment    changes  appointment
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       shall  preclude  authority  others  taking  legal action   data manager 
+        latter violates    abovementioned obligations
+ notwithstanding  provisions  clause      provisions   law   apply 
+        data processing carried    individual  purposes  exceeding personal  family matters
+       b national securityrelated data processing carried    ministry  defence  ministry 
+            interior  national guard  national security service   security services
+  provisions   law shall  prejudice  necessary confidentiality requirements   affairs
+         bahrain defence force
+                               section two  general rules  legitimacy  processing
+                                                       data quality controls
+personal data can  processed
+  fair  legitimate
+  collected   legitimate specific  clear purpose   processing   carried    way
+         inconsistent   purpose  collection  subsequent processing  data carried  
+       historical statistical  scientific research purposes shall   considered inconsistent  
+       purpose  collection provided    carried   support  decision  action concerning 
+       specific individual
+  sufficient relevant   excessive  view   purpose   collection  subsequent
+       processing
+  correct accurate  subject  updates whenever necessary
+     remain   form allowing  identification   data owner   purpose 
+       collecting  processing  data   achieved data stored  longer periods  historical
+       statistical  scientific research purposes shall  kept   anonymised unattributable form   
+        possible  identity   data owner must  encrypted
+                                 general requirements  legitimate processing
+ processing  personal data  prohibited without  consent   owner unless  processing 
+necessary 
+ implement  contract    data owner   party
+ conclude  contract   data owners request
+ implement  obligation prescribed  law contrary   contractual obligation   order  
+       competent court   public prosecution
+ protect  vital interests   data owner
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+ exercise  legitimate interests   data manager   third party    data  disclosed
+       unless  conflicts   fundamental rights  freedoms   data owner
+                           requirements  processing  sensitive personal data
+processing sensitive personal data without  consent   owner  prohibited unless
+ processing  required   data manager  carry   obligations  exercise  rights
+       prescribed   law  employment relationship reasons
+ necessary  protect  person   data owner    guardian  trustee    legally able  give
+        consent provided  permit  obtained   authority according      law
+  data  made available   public   owner
+ necessary  exercise claims  legal rights   defence including    required  
+       preparation   matter
+ necessary   purposes  preventive medicine medical diagnosis provision  healthcare
+       treatment  management  healthcare services   person licensed  exercise medical practices 
+       legally bound  maintain confidentiality
+ carried  within  activities  associations unions   nonprofit organisations provided
+        processing remains within  limits    necessary   purpose    association
+            union  organisation  established
+       b processing  carried   data related  members   association union organisation 
+            individuals    regular contact  virtue   nature   activity
+       c data shall   disclosed    person unless  data owner agrees
+ processing  carried    competent public entity   extent required   performance  
+       tasks entrusted     law
+ necessary  ascertain equal opportunities  treatment  individuals    different races 
+       ethnic origins provided  appropriate guarantees   rights  freedoms  data owners
+       prescribed   law  considered
+ board  directors shall determine  rules  procedures  data managers will follow
+                                data processing  journalism literature  arts
+ provisions  articles       law shall  apply   processing  personal data carried
+ exclusively   purposes  journalism literature  art provided 
+  data  correct accurate  subject  updates  correction
+b measures ensure  data   used    purpose
+c    prejudice  legislation regulating  press printing  publishing
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+      data processing  filing  prosecuting criminal proceedings  convictions
+ processing data relating   filing  prosecution  criminal proceedings  convictions shall 
+       prohibited except
+        processing carried    competent public entity   extent required   performance
+              tasks entrusted     law
+       b processing carried    corporate entity   extent required   achievement  
+            purposes prescribed   law
+       c processing carried    person   extent required   initiation  litigation
+            proceedings   cases filed    
+       d processing carried   lawyers   extent required   exercise   clients business
+       e processing carried   journalism  scientific research
+  exceptions referred   clause     shall  prejudice  legally binding obligation
+       concerning data confidentiality  board  directors shall determine  rules  guarantees  
+       considered  preserve  confidentiality   data
+  public prosecution military court military prosecution  ministry  justice   ministry 
+       interior shall   exclusive right  establish  maintain full records  register  criminal
+       proceedings  issued convictions
+                                                      security  processing
+  data manager must apply technical  organisational measures capable  protecting data
+        unintentional  unauthorised destruction accidental loss unauthorised alteration disclosure
+        access    form  processing  measures shall    capable  providing 
+       appropriate level  security subject  stateoftheart technological protection methods  
+       costs  nature   data  processed   risks  may arise   processing
+       technical  organisational measures shall  written  accessible   parties concerned 
+       authority  data manager   data processor
+  board  directors shall specify  terms  conditions  satisfy  technical 
+       organisational measures referred   clause      decision may require specific
+       activities  applying special security requirements  processing personal data
+   data processer  tasked  processing data  data manager shall consider
+         data processer  provides sufficient guarantees regarding  technical  organisational
+            measures  must  followed  processing data shall  selected  data manager must
+            take reasonable steps  verify compliance   measures
+       b processing must comply   written contract   data manager   data processor
+             stipulates 
+              data processor shall  process data  accordance   data managers instructions
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+              data processor shall comply    security  confidentiality requirements
+                  prescribed   data manager
+                                                 confidentiality  processing
+  data manager  prohibited  disclosing  personal data except  approval   data
+       owner   implementation   judicial order issued   competent court  public prosecution 
+       investigating judge   military prosecution
+  data manager shall  prohibited  processing  personal data  violation   provisions
+         law  person  access  personal data  prohibited  processing  data except
+        approval   manager   data   implementation   judicial order issued  
+       competent court investigating judge  public prosecution   military prosecution  data
+         used   personal benefit    benefit   third party  prohibition remains 
+       effect even   work relationship  contract period ends
+                                                 data protection supervisor
+  data protection supervisor shall
+        help  data manager  exercising hisher rights  fulfilling hisher obligations prescribed 
+             law
+       b coordinate   pdpa   data manager  respect   latters application  
+            personal data processing provisions
+       c verify   data manager  processed  data  accordance   provisions   law
+               evidence   violation  must notify  data manager immediately   
+            reasons   violation can  eliminated  corrective procedures can  undertaken  soon 
+            possible
+       d notify  pdpa  violations     serious proof indicating    
+            committed   data manager   eliminated  reasons  said violation  undertaken 
+            corrective procedures necessary  rectify  within ten days  notification
+       e maintain  register   processing operations covered      law  data
+            manager must maintain  register   data protection supervisor  appointed  register
+            shall   minimum contain  data   submitted  accordance     data
+            protection supervisor must provide  pdpa   updated copy   register   month
+       f perform  functions independently  impartially
+  pdpa will create  register called  data protection supervisors register   accredited  data
+       protection supervisor    registered  board  directors shall decide data protection
+       supervisors activities specifying  terms  conditions required   registered registration
+       procedures effective periods  renewal procedures
+  fee shall  assessed  applications  registration  registrations  approved  
+       renewed  minister shall issue  decision setting fee categories exemptions  refunds 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       approved   council  ministers
+  data manager may appoint  data protection supervisor  board  directors may require
+       specific categories  data managers  appoint data protection supervisors data managers must
+       notify  pdpa  appointments within three business days
+                                                             register data
+ personal data listed  registers shall  publicly accessible   extent necessary   
+       purposes    registers   created
+  board  directors shall specify  terms  conditions   followed  creating 
+       registers referred   clause    
+                         section three  transfer  personal data outside  kingdom
+    transfer  personal data  countries  regions  provide  sufficient level
+                                                                    protection
+ data manager shall  prohibited  transferring personal data outside  kingdom except 
+  transfer  made   country  region listed   statement   pdpa prepares  updates
+       listing countries  regions   pdpa deems   statutes  regulations  effect  provide
+       sufficient personal data protection  statement shall  published   official gazette
+  transfer occurs  specific permission issued   pdpa   casebycase basis   deems
+         data will  sufficiently protected  pdpas discretion shall  based   circumstances
+       surrounding  data transfer process specifically
+         nature   data   transferred  purpose  processing   processing period
+       b  country  region    data originate  final destination   personal
+            data protection measures available   countries  regions
+       c  international agreements  relevant statutes  effect   country  region   
+            data will  transferred
+ permission may  conditional    specific period  time
+                                                              exceptions
+   exception   provisions      law  data manager may transfer personal data
+       outside  kingdom   country  region    provide  sufficient level  protection 
+        data 
+         data owner  consented   transfer
+       b  data   transferred   extracted   register   created  accordance 
+             law   purpose  providing information   public regardless  whether  register 
+            publicly accessible  restricted   parties concerned  accordance  specific terms 
+            conditions   instance access   information requires   terms  conditions
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+            prescribed  access   register shall  satisfied
+       c  transfer  necessary 
+             execute  contract   data owner   data manager   undertake preceding
+                  steps   data owners request  conclude  contract
+             execute  conclude  contract   data manager   third party   data
+                  owners benefit
+             protect  data owners vital interests
+             fulfil  noncontractual obligation imposed   law   order issued   competent
+                  court  public prosecution  investigating judge   military prosecution
+             prepare execute  defend  legal claim
+ without prejudice   provisions  clause      pdpa may authorise  transfer 
+       personal data   set thereof   country  region      sufficient level  protection
+        accordance   requirements      law   data manager provides sufficient
+       guarantees regarding  protection  privacy  well  individuals basic rights  liberties 
+       particular  guarantees may  made pursuant   contract    data manager   party
+         case  pdpa shall require  satisfaction  certain conditions  granting 
+       authorisation
+                                           section four  notices  authorisations
+                                                       notifying  pdpa
+  data manager must notify  pdpa  beginning  automatic  complete  partial data
+       processing procedure  set  procedures intended  achieve  single purpose  several interrelated
+       purposes  data manager shall  exempt  providing  notice 
+        processing solely  maintain  register  accordance   law   provide information 
+             public regardless  whether viewing  register  available  everyone  limited  
+            parties concerned
+       b processing data within  course  activities   types  associations syndicates  
+            nonprofit entities
+       c  employer processes hisherits employees data   extent necessary   employer 
+            fulfil hisherits tasks  obligations organise hisherits affairs exercise hisherits rights 
+            protect  rights  hisherits employees
+       d  data protection supervisor  appointed
+  notice referenced  clause     must  comply   rules  procedures  
+       specified   board  directors  notice must contain
+         name  address   data manager   data processor  
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       b  purpose   processing
+       c  description   data   categories  data owners  well  data recipients  
+            categories
+       d  intended data transfer   country  region outside  kingdom
+       e  statement enabling  pdpa  evaluate  suitability   available measures  satisfy 
+            security requirements referred       law
+  board  directors may decide  limit  obligation referenced  clause      
+       provision   simplified notice    likely due   nature   data  processed 
+        will   effect   data owners legally prescribed rights  liberties  simplified notice
+       shall  submitted  accordance   rules  procedures   specified  shall contain
+         purpose   processing
+       b  data   processed   categories   data
+       c  categories  owners   data   processed  well   recipients   data  
+            categories
+       d  period    data may  stored
+       e  information  shall  included   notice
+  pdpa may within ten business days   receipt   notice referenced  clauses     
+        ask  data manager  remedy  deficiency   notices data  applicant must 
+       refrain  processing  data   deficiency   remedied
+  notices referenced  clauses       shall  recorded   register referenced 
+           law  soon    received however   pdpa asks  data manager 
+       accordance  clause      remedy  deficiency   notices data  pdpa must
+       issue  decision  underlying reasons removing  deficient notice   register  pdpa
+       must notify  data manager   decision  soon    issued
+  data manager must notify  pdpa   change  notified information within thirty days
+                                                        prior authorisation
+ certain processing without prior written authorisation   pdpa  prohibited
+        automatic processing  sensitive personal data   instances referenced  clause    
+              law
+       b automatic processing  biometric data biometrics used  identification purposes
+       c automatic processing  genetic data except  treatment provided  physicians  specialists
+              licensed medical establishment  necessary  preventative  diagnostic medicine  
+             provision  treatment  health care
+       d automatic processing  entails  connection  personal data files   possession  two 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+             data managers   processed  different purposes
+       e visual recordings   used  monitoring purposes
+ applications  prior authorisation shall  submitted  decided upon  accordance   rules
+        procedures   issued   board  directors  authorisation application shall  
+       contain  data required   notice  shall  submitted  accordance      law
+        pdpa may within five business days   receipt   application ask  data manager 
+       remedy  deficiency   applications data   applicant must remedy  deficiency within
+       five business days otherwise  pdpa will decide   application based upon  information set
+       forth
+  pdap shall grant authorisation   application fulfils  terms  conditions set   
+       board  directors  pdpa must decide   application  notify  party concerned  
+       result within thirty days  submission   data manager   receive  response   pdpa
+       within  time  request   regarded  rejected
+                                                               register
+  pdpa shall maintain  notices  authorisations register  record
+         notices referenced  clause       law including  data set forth  clauses 
+              d   
+       b  notices subject   simplified procedures  accordance   provisions  clause  
+                law including  data set forth  clauses    d   
+       c  responses   authority may issue   notices referenced  clauses    b  
+            
+       d  notices   authority may receive   data managers regarding  changes 
+            may occur   data   notices referenced  clauses    b   
+       e prior authorisation applications submitted  accordance   provisions     
+            law  well  data   law  decisions issued   pdpa
+       f   data related   notices  authorisations  pdpa deems   recorded
+  pdpa shall   continuously update data   register   manner  reflects  changes
+  person may ask  pdpa using free forms prepared   purpose  view  notices 
+       authorisations register  official business hours    presence   pdpa employee 
+       charge   register
+  person may ask  pdpa using  forms prepared   purpose   paying 
+       prescribed fee  obtain excerpts   notices  authorisations register   negative certificate
+       indicating   particular matter   listed  minister shall set  fee  approved  
+       council  ministers
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+                                                section five  rights  data owners
+                             information    data owner shall  aware
+  data  directly obtained   data owner  data manager must  upon registration 
+       inform  data owner 
+         full name   data manager field  activity  profession  address
+       b  purposes    data    processed
+       c   necessary information  accordance   circumstances   case  ensure
+             processing  fair   data owner including
+              names  categories   recipients   data
+              statement indicating whether  response     questions posed   data owner
+                    mandatory  optional   necessary  explanation   consequences 
+                   arise  failing  respond
+              statement   data owner   right   notified  requested   data
+                   pertaining    full   rectify  data
+              statement indicating whether  data will  used  direct marketing purposes
+               information necessary   data owner  exercise  rights prescribed  
+                   provisions   law
+   data   obtained   data owner directly  data manager must  within five days
+        registration starting  inform  data owner 
+         information referred   clause    
+       b  purposes    data  collected
+       c   necessary information  accordance   circumstances   case  ensure
+             processing  fair   data owner including
+              information referred   clause  c   
+              categories   data
+              source   data   exception  cases  maintaining professional secrets 
+                   prescribed  law requires   source must   disclosed
+  provision  clause       apply
+          processing   data  made  historical statistical  scientific research purposes 
+            informing  data owner   data referred    possible  requires  exertion 
+            cumbersome extraordinary efforts  board  directors will specify requirements  conditions
+              instances
+       b  data  processed  fulfil  obligation arising   law  opposed   contractual
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+            obligation   order   competent court  public prosecution  investigating judge 
+             military prosecution
+  data owners failure  exercise  right prescribed   provision  either clause   
+           shall  result   loss     rights prescribed   interest 
+       accordance   provisions   
+      application   data owner   notified   processing   personal
+                                                                          data
+  data manager must based   application   data owner together  proof  identity
+       notify  applicant free  charge within fifteen business days   data manager  processing 
+       applicants personal data   data   processes  data manager must notify  data owner
+       
+         data subject  processing  full
+       b  information given  available   data manager   data source   exception
+             cases   law obliges confidentiality
+       c  reason  processing  data
+       d  names  categories   recipients   data
+       e   decision    made based solely   data   way  affects  personal  direct
+            interests   data owner   will  used must  stated   way   clear  
+            ordinary person without infringing    methods intellectual property rights  trade
+            secrets
+  data manager may within ten days  receiving  application based  clause    
+       notify  applicant  deficiencies   application
+  data manager may  accept applications referred   clause       application
+         fulfil  condition  compliance   requirements  clause      
+       grace period  passed    right  reject     entails  arbitrary use   data
+       owner   right  know   case  data manager shall notify  applicant within 
+       maximum deadline  fifteen business days   date   application   application 
+         accepted  rejected   case may    reasons   
+   event   application referred   clause   rejected   period specified 
+       responding    expires without  data owner  received  notice   
+       occurred  regard   application  data owner shall   right  submit  complaint 
+        authority   data manager
+            notifying data owners    right  object  direct marketing
+  data manager shall    expected  retained personal data will  used  direct
+       marketing purposes including personal data made available   public  law notify  data
+       owner     right  object free  charge  direct marketing
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+                     right  object  processing  direct marketing purposes
+  data manager must within ten business days  receiving  application   data owner
+       together  proof  identity refrain  processing    applicants personal data  direct
+       marketing purposes
+  data manager must notify  data owner free  charge within ten business days  receiving 
+       application whether
+         application   responded 
+       b  application   partially responded  explaining    extent   response
+       c  application   rejected    reason
+  data owner   accept   occurred   application   period referred  expires
+without  data owner  received  notice   application  data owner can file 
+complaint   pdpa   data manager
+     right  object  processing  causes harm  distress   data owner
+                                                                       others
+  data manager must within ten business days  receiving  application   data owner
+       together  reasons   application  proof  identity refrain completely  processing 
+         applicants personal data   specific purpose    specified manner 
+         processing   purpose    manner causes substantial  unwarranted harm 
+            distress   data owner  others
+       b   reasonable grounds  believe   processing   purpose    manner
+            will cause substantial  unwarranted harm  distress   data owner  others
+  provision  clause       apply   data owner  agreed   processing 
+         cases stipulated  clauses       law  available    instances 
+       resolution  determine   shall  issued   board  directors
+  provisions  clause     apply   application submitted  accordance  
+       provisions   
+              right  object  decisions made based  automated processing
+   decision  taken based    automated processing  personal data  evaluate 
+       data owner  terms  performance  work financial position level  efficiency  borrowing
+       behaviour  trustworthiness  data owner may request  another method  used   
+        rely  automated processing  person  takes  decision must respond   request 
+        charge  board  directors shall issue  resolution  determine  procedures  submitting
+        deciding requests
+  provision prescribed  favour   data owner  accordance  clause     shall 
+       apply  instances   decision  taken   context   conclusion  execution  
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       contract   data owner provided   measures ensuring  rights  secured  taken
+        includes giving  opportunity   data owners point  view   heard
+                            right  demand rectification blocking  erasure
+  data owner may apply   data manager  proof  identity  rectify block  erase
+       personal data   case may    processing contravenes  provisions   law  
+       particular   data  incorrect incomplete    date    processing  illegal  data
+       manager unless    legally acceptable justification must respond   application free 
+       charge within ten business days  receiving  application
+  provision  clause       apply  publicly accessible registers   law 
+         register   created requires specific procedures  rectification blocking  erasure
+ data    blocked based   provision  clause     may  processed 
+         approval   data owner    purposes  evidence   protect  rights   third
+       party
+  provisions  clause     apply   application submitted  accordance  
+       provisions   
+  data manager must within fifteen days   response full  partial   application submitted
+         based   provision  clause     notify  third party    disclosed
+        data   rectification block  erasure  occurred   result   application referred
+        unless    possible    realised
+                                                 approval   data owner
+  data owners approval   deemed valid
+         must  issued   fully eligible person
+       b  must  written explicit  clear  specify  processing  specific data
+       c  must  issued based   free will  consent   data owner   data owner  fully
+            informed   purpose  purposes   processing   data  informed 
+            necessary   consequences  arise   failure  grant approval
+       d   data owner  wholly  partially incompetent  approval   guardian executor 
+            custodian shall  considered within  limits prescribed  law   accordance  
+            conditions referred   clause  b  c   
+       e  data owner may pursuant   notice issued   data manager   time withdraw
+            approval   processing  personal data  board  directors shall determine withdrawal
+            procedures  decisions   data manager
+                                                  submission  complaints
+ stakeholder may submit  complaint   authority    reason  believe   provisions 
+ law   violated    person  processing personal data  contravention  
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+provisions
+ resolution issued   board  directors  specifies  procedures  rules  submitting
+complaints  ruling   shall apply   complaints submitted  accordance   provisions
+  law
+   submission  applications notices objections  complaints   exchange
+                                                               correspondence
+subject   provisions  legislative decree    concerning online transactions applications
+notices objections  complaints may  submitted  correspondence may  exchanged  using 
+  electronic means   specified   resolution   board  directors
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+                                  two  data protection authority
+                                                  section one  general provisions
+                                      establishment  logo   authority
+  public authority known   personal data protection authority pdpa shall  established  
+       shall   legal personality  enjoy financial  administrative independence  shall  subject
+         control   minister
+  decree shall  issued  determine  administrative body  will assume  responsibility  
+       duties  powers prescribed   pdpa pursuant   provisions   law   time 
+        financial provision   pdpa  set aside   states general budget   decree  issued 
+       form  board  directors  decree will determine  member   administrative body referred 
+        shall  responsible   duties  powers prescribed   law   board 
+       directors  chairman   board   chief executive
+  pdpa shall   logo   resolution   board  directors shall  issued  determine 
+       form  state  ways  may  used  authority shall   exclusive right  use  logo 
+       prevent others  using   using    badge identical  similar  
+                             control   minister   authoritys functions
+  pdpa shall submit regular reports   minister   activity  progress  reports
+       shall  particular include  achievements  specify impediments   performance   
+       causes   solutions    adopted  avoid   minister may request  pdpa
+        provide   details information documents minutes registers  reports  enable  
+       control  authoritys functions
+ without prejudice   independence   authority enjoys  exercise  duties  powers 
+       accordance   provisions   law  minister shall assume  responsibility  monitoring
+        level  compliance   authority   provisions   law   states policy  
+       field   authoritys function   level   exercise   duties   competent  efficient
+       manner within  limits   financial provisions available  
+   minister finds     conflict   authoritys function   provisions  
+       law   states policy   authoritys function      carrying   duties  
+       competent  efficient manner  shall   right  object  notify  board  directors 
+        opinion   board insists   opinion  matter shall  presented   council  ministers
+        resolve  dispute within thirty days   matter  presented
+                                  authoritys budget  financial resources
+  pdpa shall   separate budget  authoritys financial year shall commence  
+       commencement   states financial year  end   ends
+  authoritys financial resources consist 
+         provisions allocated     states general budget
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       b gifts  subsidies   manner    conflict   authoritys objectives subject 
+             prior approval   council  ministers
+       c  proceeds   fees referred   clause     clause      clause 
+                 law
+       d  proceeds  fines referred   clauses  b   c      law
+       e funds obtained   authority  carrying   activities related   objectives
+                                           duties  powers   authority
+ authority shall directly assume  responsibility    duties  powers necessary  protect
+personal data       right 
+ acquaint data managers   public   rights  obligations prescribed   provisions 
+        law
+ monitor compliance   provisions   law
+ control  inspect  actions  data managers processing personal data  verify   
+        complied   laws provisions   encourage   develop systems  ensure 
+       protection   data   way   consistent   provision   law
+ receive  consider notices  accordance      law
+ grant prior licences  accordance      law
+ approve data protection supervisors  accordance      law
+ control  inspect  actions  data protection supervisors  verify     complied
+         provisions   law
+ receive notifications  complaints relating  contraventions   law examine  
+       ascertain  seriousness
+ investigate serious notifications  complaints relating  contraventions   law  violations
+         discovers     referred     minister  investigate  accordance  
+       provisions  section one   three   law
+ arrange training  educational courses  programs   aim  creating awareness  
+       provisions   law spreading  culture  protection  personal data conducting  supporting
+       research  studies   field  working  benefit   conclusions
+ study legislation relevant   protection  personal data  recommend amendments thereto  
+       manner consistent   internationally recognised standards   regard
+ express  opinion   draft laws  relevance   protection  personal data
+ represent  kingdom  international conferences   basis     competent body  
+       protection  personal data
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+ cooperate  similar authorities  respect  matters    common concern
+ carry   duties  powers stipulated   law
+                     exercise  duties  powers  conducting consultations
+  authority shall exercise  powers  duties   efficient effective transparent impartial 
+       appropriate manner  shall   line   states general policy pertaining   authoritys
+       field  operation
+                                                       conflicts  interest
+  member   board  directors shall   board  considering  matter   
+       member   direct  indirect interest  conflicts   requirements   post disclose 
+         writing   comes  know   board intends  consider  matter  member
+       shall  attend  boards discussion  regard   matter  vote thereon
+  chief executive     authoritys employees shall  prohibited    direct 
+       indirect interest   authoritys field  operation  conflicts   requirements  
+       position  shall immediately notify  writing   interest  arises   favour  
+       regard   period  occupy  position   authority
+  notice referred   shall  given   board   chief executive  respect  
+        employees   authority  notice shall  given   chief executive  authority shall
+       maintain  conflict  interests register      interests referred   paragraphs   
+          shall  included  stating  name  post  position   person concerned 
+       details   interest   decisions issued  procedures taken   authority  regard 
+        matter
+access   conflict  interests register obtaining extracts     negative certificate   non
+inclusion   specific matter shall  made  accordance   provisions stipulated  clauses  
+      law
+                                               authoritys annual reports
+  authority shall prepare  annual report approved   board  directors   activity 
+       work progress   previous financial year  shall  particular include  achievements 
+       specify  impediments   performance   faced    solutions    adopted
+        avoid   suggestions  authority deems   will ensure  strengthening 
+       maintaining protection  personal data    matters   authority   minister wish
+        include   annual report
+  annual report shall  published  full together   copy   authoritys final audited
+       accounts    financial year within  maximum  four months   end   financial
+       year   means specified   board  directors  ensure  access    
+       available   public  summary   annual report   summary   final accounts referred
+         soon    approved   board  directors shall  published   official gazette
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+         least two local daily newspapers one    issued  arabic     english
+                                          appeal  authoritys decisions
+ every interested party shall  paying  due fees   right  appeal   decision
+       rendered   authority  accordance   provisions   law within thirty days   date
+         informed   decision
+  committee called appeal committee shall  established   authority  shall  entrusted
+        adjudication   filed appeals pursuant  clause      committee shall 
+       formed   decision   minister every three years  shall consist  three judges  
+       high civil court  appeal   delegated   supreme judicial council  addition   specialist
+        committee shall  chaired    senior judge
+ committees member   judges shall take  following oath   chairman  
+       committee  swear  almighty god   will carry   mission sincerely  honestly 
+       respect  laws  regulations   kingdom  committee member   judges shall
+       participate   deliberation   appeal without   right  voting  respect  
+       decisions issued   committee  clerk  among  authoritys staff shall attend  meetings
+         committee    evidence procedures  order  draw   necessary transcripts 
+       shall sign   together   chairman   committee  said transcripts   
+       papers shall  kept   clerk  appeal committee shall   powers vested   high civil
+       court  appeal within  scope   jurisdiction
+  decisions   committee shall  reasoned  reached  majority vote however    
+       majority   opinions  divided    different two opinions another judge shall 
+       delegated  shall   casting vote  delegation shall  made  accordance  clause 
+          writ  execution shall  affixed   decisions   clerks   high civil court 
+       appeal  thereafter shall   force   decision issued   high civil court  appeal 
+       execution judge shall undertake  formalities pertaining   execution   decision pursuant 
+        provisions   civil  commercial procedure law  final decision   appeals committee
+       may  challenged   court  cassation  accordance   procedures prescribed  
+       regard
+  rules prescribed   civil  commercial procedure law promulgated  legislative decree  
+        without violating  nature   committees duty   provisions    shall apply
+         rules  procedure   committee  well    proceedings  appeal hearing  
+          means  notifying  concerned parties   decisions  details   foregoing 
+       well   rules  remunerations   committees member   judges shall  determined
+         regulation issued   minister  justice  consultation   authority
+ due fees  appeals presented   appeals committee rules  assessment   fees exemption
+        delay    shall  governed   provisions prescribed  law  judicial fees 
+       relation  cases filed  courts
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+                                                          authoritys staff
+ adequate number  experienced  competent staff   domains   authority shall 
+       appointed  shall  assisted  adequate number  administrative staff   regular staff
+   event   specific provision   provided   authoritys staff affairs regulations 
+       provisions   civil service law promulgated  legislative decree     well  
+       provisions  law    concerning  regulation  retirement pensions  benefits 
+       government employees shall apply   authoritys staff
+                                                              inspection
+ inspectors delegated   chief executive  among  authoritys staff  others  carry 
+       inspection  ensure compliance   provisions   law shall   following powers
+        entering  places relevant   competence   authority   purpose  examining 
+            inspecting   perusing  reproducing  records books documents  statements
+            located therein
+       b hearing  statements  employees suspected    connection   subject matter 
+            investigation   places set   paragraph     
+ inspectors appointed   minister  justice  agreement   minister shall   capacity
+        judicial officers  relation   crimes prescribed   law   committed   areas
+        competence   relevant   performance   duties
+ inspectors indicated  clauses     may  enter residential places without 
+       authorisation   public prosecution
+                    maintenance  confidentiality  information  documents
+  authority   staff shall  disclose  information  documents presented   purpose
+         law except  otherwise explicitly permitted   relevant party   information 
+       documents   legal representative   case may 
+ clause     shall  apply 
+        information  documents   available   public   time  disclosure
+       b disclosure  information  documents   form  summarised  compiled information  
+               linked  attributed   certain person
+ notwithstanding clause      authority may disclose  said information 
+       documents   disclosure
+        enables  person acting  behalf   authority  perform  duty  accordance  
+            provisions   law provided   person maintains  confidentiality  information 
+            documents  may receive  peruse
+       b  made   experienced  competent person whose advisory opinion  sought  
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+            authority provided   person maintains  confidentiality  information  documents
+             may receive  peruse
+       c  made  part   cooperation   counterpart authorities   countries  relation 
+             matter  common interest  accordance   provisions  clause     hereof
+       d  made  execution  judicial order issued   competent court  investigating judge 
+            public prosecution   military prosecution
+       e  made  implementation  provisions   law   international treaties   
+            kingdom   party
+                                        notifying  central bank  bahrain
+ chief executive shall notify  governor   central bank  bahrain   inspection intended
+  authority  accordance   provisions   law  relation   activities   financial
+institutions subject   control   central bank  bahrain  governor may delegate banks
+employees   may deem appropriate  attend  inspection  record  notes
+                                                   section two  board  directors
+                                                               formation
+  authority shall   board  directors   formed   decree  consist  seven
+       members including  chairman   board  directors  follows
+         member nominated   council  ministers
+       b  member nominated  university  bahrain  among  faculty members provided  
+            holds  degree  less   associate professor specialised   field corresponding   nature
+             authoritys duty
+       c  member nominated   telecommunications regulatory authority  among 
+            occupiers  top positions
+       d  member nominated   central bank  bahrain  among  occupiers  top positions
+       e  member nominated  bahrain chamber  commerce  industry
+       f  member nominated   body representing  wider spectrum  business owners  
+            financial institutions sector  may  determined   minister  consultation  
+            governor   central bank  bahrain
+       g member nominated   body representing  wider spectrum   specialists  may 
+            determined   minister
+     bodies referred   subclauses eg  clause     fails  nominate 
+       representative within thirty days   notified  board  directors may  formed 
+       nomination   minister   member   category   body  fails  make 
+       nomination
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+  minister may  serve   board member
+  decree forming  board shall state  person  will assume  position   chairman 
+        board  directors membership period shall  four years renewable  however 
+       membership period   board chairman  three board members   first board  directors
+       shall  four years   membership period   remaining board members shall  three years
+         decree forming  board shall state  membership period    
+  board  directors shall elect board vicechairman  replace  chairman  case   absence
+       inability  office vacancy  vicechairman shall continue   position   end  
+       membership period
+   position   board member becomes vacant   reason  replacement thereof shall 
+       appointed using   method  manner indicated  clause        new
+       member shall resume  membership period   former member   said membership period 
+       less  one year  may  renewed  two successive periods
+ board member may   removed  office prior   end   membership period except 
+        event  gross violation   duties  inability  assume  duties   failure  observe 
+       requirements  honesty  good behaviour removal shall  effected   decree  
+       recommendation passed   majority   board  directors
+ remuneration   board chairman  board members shall  fixed   decree
+                                                        duties  powers
+  board  directors   authority entrusted  laying   policy   authority  shall
+       supervise  affairs  take whatever necessary  enable   perform  duties  powers 
+       shall  particular
+        issue regulations  resolutions  take  necessary arrangements  implement 
+            provisions   law
+       b approve  organisational structure  issue bylaws organising  authoritys staff affairs
+            including  procedures  rules  appointment promotion relocation determination 
+            salaries  rewards disciplinary rules   relevant affairs without  bound  
+            provisions   civil service law rules  conduct  shall  observed  well   instances
+              cases conditions  rules  disclosure  financial liability
+       c approve  draft annual budget   authority   audited final account
+       d accept  financial resources indicated  paragraph  b   
+       e study  periodical reports presented   chief executive  business conduct   authority
+             decide whatever necessary   respect
+       f assume   duties  powers  prescribed   provisions   law
+       g  board  directors may delegate one   committees formed  among  members
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+             board chairman  board member   chief executive  assume certain duties  
+            exception  issuance  regulations  resolutions  fall within  competence   board
+             directors  prescribed   law
+                                                               meetings
+  board  directors shall hold  least four ordinary meetings every year   board chairman
+       may call   extraordinary meeting   time
+  chairman   board  directors shall call  board   extraordinary meeting   held
+       within fifteen days   date  receiving  written reasoned request   minister   least
+       two board members   chief executive   cases  notice   meeting call shall state 
+       purpose thereof  shall  attached   agenda   meeting
+  chief executive shall attend  meetings   board  directors except   cases specified 
+        bylaws  shall    right  voting   deliberations  board may invite 
+       experienced  concerned parties  attend  meetings  hear  discussions  opinions
+       provided  none     right  voting   deliberations
+  board  directors shall appoint  secretary  shall prepare  agendas   board meetings
+        draw   minutes  meetings keep  relevant documents  records  carry  
+        tasks assigned     board  relevant   nature  business   authority
+                                                       quorum  voting
+ meeting   board  directors shall  deemed valid  attended   majority   members
+including  board chairman  vicechairman  resolutions   board shall  passed  
+majority   attending votes unless   cases requiring special majority according   law  
+implementing regulations  decrees   event  tie  votes  meeting chairmans side shall prevail
+                                                    section three  chief executive
+                                appointment remuneration  office vacancy
+  authority shall   chief executive appointed   decree   threeyear term upon 
+       recommendation   board  directors  chief executive may   reappointed  two
+       successive terms  three years 
+  board  directors shall decide  remuneration   chief executive including  bonuses
+        benefits
+   position   chief executives office  vacant   reason  replacement shall  appointed
+        means    method  manner set   clause    
+  board  directors may issue  resolution  appoint  deputy chief executive  shall replace 
+       chief executive   absence inability  office vacancy  deputy chief executive shall assume 
+       duties assigned     board  directors   chief executive  resolution appointing 
+       deputy chief executive shall  published   official gazette
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+   event   vacancy   chief executives position   failure  appoint  replacement 
+       deputy chief executive  board  directors shall resolve  designate  chairman   nominee
+        among  directors  authoritys staff  carry   duties   chief executive  
+       interim basis  resolution shall  published   official gazette
+                                                        duties  powers
+  chief executive shall represent  authority   courts    relations  
+       parties  accountable   board  directors   technical administrative  financial
+       performance   authority  assume  powers   authority except   powers vested
+         board  directors pursuant   provisions   law  shall  particular
+        manage  authority direct  affairs  supervise  conduct   business  employees
+       b implement  resolutions   board  directors
+       c prepare  authoritys draft budget   report thereon  submit    board 
+            directors  least two months   end   financial year
+       d prepare  authoritys final account   report thereon  submit    board 
+            directors within two months   end   authoritys financial year
+       e prepare  annual report   authoritys activities  set     hereof  
+            past financial year  submit  report accompanied   copy   authoritys audited
+            accounts    financial year   board  directors  approval within  maximum 
+            three months   date   end   financial year
+       f prepare  draft   authoritys organisational structure  present    board  directors
+             approval
+       g prepare  present   board  directors regular quarterly reports   authoritys activities
+             progress   business  particularly  achievements pursuant   set plans 
+            programs  well   performance impediments    solutions proposed  avoid 
+            unless  board  directors decides   shorter period  submission   reports
+       h exercise  duties  powers vested   chief executive   provisions   law
+  chief executive may delegate  writing  employee   authority  exercise   
+       duties    ensure   authoritys business  performed   appropriate manner
+                                                              resignation
+ chief executive may resign   office via  written request submitted     board 
+directors  least three months prior   resignation date set therein  board  directors shall issue
+ resolution accepting  resignation
+                                                       relieve  office
+  chief executive may  relieved   office prior   expiry   term   violates  job
+       duties  fails  fulfil  duties efficiently  effectively  violates  duty  integrity  good
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       conduct relief shall  made   decree based   recommendation   board  directors 
+        made   majority   members
+  board  directors shall enable  chief executive  express  defences prior  
+       recommendation  relieving    office  record  defences   separate transcript  
+       event  issuing  recommendation  relieve  chief executive  latter shall continue  fulfil 
+       duties  exercise  powers   decree relieving    office  issued however  
+       recommendation  relieving   office  made   result  failure  observe  duty  integrity
+        good conduct  board  directors shall pass  resolution ceasing  work
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+           three  accountability   data manager  data
+                                                                  supervisor
+                                        section one  accountability   authority
+                                               initiation   investigation
+  authority may conduct  investigation    upon  request   minister  according
+         serious reports  complaints received thereby  order  verify whether    data
+       manager  data protection supervisor  committed  violation   provision   law also 
+       authority may conduct  investigation   serious evidence  available thereto leading   believe
+         violation    occur
+  authority shall  initiating  investigation procedures notify  concerned data manager
+        data protection supervisor   case may    reasons leading   believe   violation
+        occurred     occur  notification shall include  evidence  information
+       available   authority   violation however   resolution issued   chairman 
+       first stages  investigation  determined   resolution may  conducted without addressing 
+       notification  case serious evidences  available   truth may   reached 
+       investigation may  hindered   authority shall address  notification   mentioned
+       reasons   exist anymore
+  concerned data manager  data protection manager shall   right  reply   notice
+       within seven business days    date  receipt thereof   reply shall include  defence 
+       notes  shall  accompanied   documents  papers available thereto  well  
+       evidence supporting  point  view
+  authority may  studying  reply   notification order  close  case  initiate 
+       investigation procedures  shall notify  concerned parties   order issued thereby  either
+       case
+  authority shall initiate  investigation    constitute   purpose  tripartite
+       committee  experienced individuals      authority  assign  qualified individual 
+        
+                                                  investigation procedures
+  investigation committee may  case  initiating  investigation procedures request 
+       interested party  provide    data information  clarifications necessary  conducting 
+       investigation  well   documents related   subject matter within  period specified
+       thereto
+  concerned parties appearing   investigation sessions shall always   right  
+       accompanied  lawyers   sessions   lawyer may speak whenever authorised  
+       investigation committee   
+  investigation committee may address   concerned parties appearing   investigation 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       questions  inquire   subject matter  request   reply verbally   writing within 
+       period specified thereby   purpose
+  investigation committee shall give  fair chance   concerned parties   investigation 
+       defend  interests within  period specified   investigation  shall   purpose hold
+       hearing sessions  discuss   concerned parties   witnesses  allow   submit
+        opinions arguments  defence
+  investigation committee shall establish  necessary reports  prove  procedures taken
+       thereby  everything happening   sessions
+  case  failure  provide  investigation committee   data information clarifications 
+       documents necessary   investigation within  period specified thereby   case  inadequacy
+       thereof  committee may complete  investigation  conclude  results according  
+       data information clarifications  documents available thereto
+  board  directors may issue  resolution determining additional controls  procedures  meet
+        requirements  justice  equity  regards   initiation   investigation
+                           request others  data information  documents
+  investigation committee may  serious evidences  available thereto leading   think  
+       data information  documents relating   subject matter   investigation   possession 
+       others  saved   computer   control order  person  provide  data information
+        documents within  period specified thereby  allow  investigation committee  
+       representative   access   computer  order  disclose  data information 
+       documents  case  failure  execute  mentioned order  investigation committee may
+         authority request  order  motion   supreme court ordering  mentioned
+       holder  execute  order  court may urgently issue  order without summoning  holder
+        may object   order   court  issued  within eight days   issuance date
+        court may confirm amend  revoke  order  may issue  substantiated decision  
+       case  reviewing  papers  hearing  statement   holder  possible
+  provisions  clause       apply   papers  documents  
+       concerned individual   investigation may  delivered   lawyer   consultant  order 
+       perform  mission entrusted      correspondence exchanged    
+       regard
+               appointing authorised individuals   capacity  judicial officers
+ investigation committee may  order  achieve  work appoint    judicial officers indicated
+     law  order  perform    missions    authorised  perform
+                                                         hearing witnesses
+ without prejudice   provisions  articles    evidence law   civil  commercial
+       articles issued  legislative decree          criminal procedure law
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       issued  legislative decree     committee may hear  testimony   witnesses
+       deemed thereby   heard  investigation committee shall hear  testimony   witnesses
+         requested   concerned parties   investigation   heard unless  deems  useless
+        hear 
+         investigation committee deems  action   witness involves crime  shall establish 
+       memorandum   respect   executive officer shall submit   letter issued thereby 
+        public prosecution
+                                   termination   investigation procedures
+ investigation committee shall establish  substantiated report   results concluded thereby 
+shall submit  along   full investigation file   executive officer within  period  exceeding
+six months    date   investigation procedures  initiated   decision  
+executive officer upon  request   investigation committee  period may  extended 
+termination thereof  additional periods  exceeding six months  total   cases  delay 
+caused due  reasons   control   committee
+                                            notification  interested parties
+ executive officer shall undertake within three business days    date   receives  report
+indicated      law  notify  interested parties thereof  deliver    copy  
+report   enclosures
+ interested parties may within  period  exceeding thirty days    date   receive 
+report   enclosures deposit   office   executive officer  memorandum including  data
+ notes commenting   report along   documents  support thereof   case  
+investigation  completed based upon  complaint   complainant uses  right  comment  
+report  complainant shall deliver   defendant  expiry   mentioned period  
+ office   executive officer  copy   comment  documents  support thereof   case
+ defendant shall deposit   authority  memorandum including  notes   comment within
+similar periods
+                                                  acting   investigation
+ executive officer shall undertake  submit  report along   opinion   board  directors
+  first session following  expiry   periods stipulated    paragraph    law 
+board  directors shall issue  substantiated decision  reserve  investigation  lack  proof  
+occurrence   violation  regards    investigation  conducted   data manager
+ take    measures stipulated      law  proving  violation   submit 
+matter     investigation committee  conduct  tracing  research   complete
+ investigation
+                          measures  may  taken   violation  proven
+ without prejudice   civil  criminal liability   violation  proven  board  directors
+       shall order  offender  stop  violation  remove reasons  effects thereof immediately 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+         period  time specified   board  case  failure  comply   assignment within
+        specified period  board  directors may issue  substantiated decision 
+        withdraw  previous statement issued   authority according   provision   
+              law   violation  related   statement
+       b impose  penalty calculated   daily basis  urge  offender  stop  violation  remove
+             reasons  effects  exceeding one thousand dinarsday  committing  violation 
+             first time  two thousand dinarday  committing another violation within three years
+               date   decision  issued     previous violation
+       c imposing  administrative penalty  exceeding twenty thousand dinars
+   cases stipulated  clauses  b  c    upon assessment   penalty 
+       seriousness   violation shall  taken  consideration  well   error committed  
+       offender   benefits earned thereby  addition   damage incurred   data owner 
+       consequence thereof penalty shall  collected   specified means  collect  amounts owed 
+        state    preference level   specified   custom taxes payable   public
+       treasury
+  authority may based upon  decision   board  directors publish  statement  
+       violation   proved    committed   data manager  data protection supervisor
+          method  means specified   decision  line   seriousness   violation
+       provided  publication shall  made   period  appeal   authoritys decision 
+       expired  proving  violation  issuing  final judgment proving violation   case may 
+  case  board  directors deems   investigation concluded  crime  shall submit 
+       papers   public prosecution
+                                                             emergencies
+  emergencies  upon  request   interested party    strong evidences leading 
+       think  continuous process  data   certain way  likely  lead  specific  obvious breach 
+        applicants rights  freedoms  legally specified  may   repaired later  
+       executive officer may issue  substantiated decision 
+        temporarily suspend  data process  full   part
+       b temporarily withhold  data  full   part
+  executive officer shall issue  decision  either case stipulated  clauses     b  
+         reviewing  papers  hearing  statements    interested party  
+       concerned data manager  giving   chance  submit  opinions arguments documents
+        papers   possession  addition   evidence  support   points  view  
+       foregoing shall  done within  deadlines  according   procedures specified  
+       decision   board  directors
+  authority   interested party may issue  order  petition   supreme civil court 
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+       execute  decision issued according   provisions  clause      court may
+       urgently issue  order without summoning  data manager   data manager may object 
+        order   court  issued  within eight days  issuance thereof  court may
+       confirm amend  revoke  order
+  case  decision  issued according   provision  clause      executive officer
+       shall within seven business days    date   decision  issued submit  violation
+       discovered    investigation   provisions      third title   law
+                                                        section two  civil liability
+                                                           compensation
+without prejudice   provisions   civil law  person  incurred  damage arising 
+processing  personal data   data manager  violating  provisions   law   data
+protection supervisor shall   right  compel  data manager  data protection supervisor 
+ case may   pay compensation repairing  damage
+                                                   section three  criminal liability
+                                                               penalties
+without prejudice    severe penalty imposed    law
+  sentence  imprisonment   period  exceeding one year andor  fine   less  one
+       thousand dinar   exceeding twenty thousand dinars shall  imposed   person 
+        processes sensitive personal data  violation      law
+       b transfers personal data outside  kingdom   country  region  violation   provision 
+            articles      law
+       c processes personal data without notifying  authority  violation   provision  clause  
+                law
+       d fails  notify  authority   change made   data     notified  authority
+             application   provision  clause       law  violation   provision 
+            clause     
+       e processes personal data without prior authorisation   authority  violation   provision
+                 law
+       f submits   authority   data owner false  misleading data   contrary   
+            established   records data  documents available   disposal
+       g withholds   authority  data information records  documents   
+            provide  authority therewith  enable   review   order  perform  missions
+            specified   law
+       h causes  hinder  suspend  work   authoritys inspectors   investigation  
+            authority  going  make
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+
+          discloses  data  information    allowed   access  due   job   
+            used    benefit    benefit  others unreasonably   violation   provisions
+              law
+  penalty  less  three thousand dinar   exceeding twenty thousand dinars shall 
+       imposed   person  violates  provision  clauses       law  
+       conviction  issued  court may order confiscation   amounts collected   crime
+  sentence  imprisonment   period  exceeding one month    fine  less  one
+       hundred dinars   exceeding five hundred dinars shall  imposed   person  unlawfully
+       uses  authoritys logo symbol   similar  identical sign
+                                             liability   corporate entity
+without prejudice   criminal liability   physical person  corporate entity shall  sentenced 
+pay  fine  specified   crime  case     crimes stipulated      law   
+committed   name   account    benefit  consequence   act omission approval
+concealment  serious default   member   corporate entitys board  directors   
+authorised director   corporate entity    person acting   capacity
+                                                             conciliation
+ board  directors   representative may approve conciliation  case   recidivism  
+  crimes stipulated  clauses  c d  e      law    case   claim
+ issuing  final judgment therein  payment   minimum fine specified within seven days
+   date  approving conciliation
+  conciliation   completed  criminal claim shall expire   crime subject  conciliation
+without prejudice   right   damaged party  compensation  case   required
+    english translation  bahrains personal data protection law  arabic version   law  released   july  
+translation may  periodically updated   recommend  check  see   updated version   released  omissions  errors 
+  english translation  inadvertent  document  provided  information purposes    seek appropriate
+professional advice   advisor  making  decision relating   particular circumstances
+

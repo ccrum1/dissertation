@@ -1,0 +1,936 @@
+machine translated  google
+                                          presidency   republic
+                                                 
+                                                     law n°   
+                                 protection  personal data
+                                                  explanatory memorandum
+                   computing information technologies  etechnology constitute today  important factor
+           development
+                    technologies unlike  industrial technologies  exported quickly  
+          area  propagation crosses borders without difficulty without  real consideration  physical
+          structures  therefore   advantage   easily usable  developing countries 
+          infrastructures necessary   use  reduced
+                    use   allows unprecedented time savings  productivity  well   rigor 
+          daily management  also makes  possible  offer new services remotely  nationally 
+          internationally
+                     nutshell economic development   consolidation  modernization 
+           state can  longer  conceived without  use  information processing technologies
+                   however alongside  expected benefits   use   technologies  
+          appropriate  consider   democracy geared towards progress  development  risks
+            technologies pose   freedoms   persons concerned     supervised
+           establishing guiding principles  new individual rights
+                   indeed  use  computers  communication networks  research information
+          interpersonal communication commercial  administrative purposes involves  processing 
+          personal data  third parties
+                   information relating  persons contained   file can  kept  long periods  time 
+             computerized  digitized  can  easily reconciled  others  subject 
+          misappropriation   purpose     collected  copied  manipulated without 
+          knowledge   persons concerned
+                    right   protection  personal data  recognized  
+          person    autonomous right  forms  integral part  human rights
+                    right   protection  personal data becomes  essential right   effective
+          exercise   fundamental rights  freedoms    freedom  come  go  
+          freedom  information
+                                                                                                                
+
+machine translated  google
+                  madagascar must adopt legislation  protect personal data
+                   law aims  protect individuals   risk  abuse  relation  files  
+          processing  personal data  regard   fundamental rights  freedoms
+                   protection  personal data  based  four pillars
+                fundamental principles  must govern  design  implementation  personal
+                  data processing    likely  prevent abuse    principle  
+                   legitimate purpose  data collection  processing   personal nature  principle
+                   fair collection  processing
+                rights  individuals namely  right  individuals  oppose  use   personal
+                  data  right  access  rectification
+                independent authority
+                   sanctions regime
+                   law comprises nine  chapters  seventyeight  articles
+                   first  speaks   double objective  computer science     
+           service   person   respect  human identity  freedoms   fundamental
+          rights  people
+                   ii circumscribes  scope  defines  terms used   personal data
+                   iii establishes  fundamental principles   rules likely  prevent risks
+                   iv consecrates  rights  persons
+                   v establishes  independent authority responsible  ensuring 
+          data processing   infringe  rights  freedoms  individuals
+                   vi concerns  personal data protection officer
+                   vii speaks   sanctions pronounced   independent authority  well 
+          criminal penalties
+                   viii deals  financial arrangements
+                   ix concerns transitional  final provisions
+                   law   subject   workshop attended  representatives   prime
+          ministers office various ministerial departments civil society  national council  human
+          rights currently called  independent national commission  human rights
+                                                                                                               
+
+machine translated  google
+                     noted  madagascar participated   first conference  francophone
+          data protection commissioners    constituent assembly   association 
+          francophone personal data protection authorities madagascar   observer member 
+           association     yet  data protection legislation
+                   adopting  law  malagasy government supports  creation  malagasy
+          companies   establishment  foreign companies responsible  processing personal
+          data
+                   development   important source  employment  young people  
+          country   activity   companies will  greatly facilitated  encouraged  
+          establishment   adequate level  protection  personal data  regard   legislation
+           force   main trading partners
+                     purpose   law
+                                                                                                           
+
+machine translated  google
+                                                      presidency   republic
+                                                            
+                                                               law n°   
+                                         protection  personal data
+                    national assembly adopted   session  december  
+                    president   republic
+                    regard   constitution
+                   considering  decision n°hccd  january     high constitutional court
+                   enacts  law whose terms follows
+                                                                 first 
+                                                           general provisions
+                     purpose   law   protect  rights  individuals  regard  
+          processing  personal data
+                 art   must    service   person  must respect human identity human rights
+          private life individual  public freedoms
+           development must take place within  framework  international cooperation
+                 everyone   right   protection  personal data concerning 
+                 art   court decision involving  assessment  human behavior may  based  
+          computer processing  personal data intended  define  profile   person concerned  
+          evaluate certain aspects   personality
+                    administrative  private decision involving  assessment  human behavior can 
+          based solely   computer processing  data intended  define  profile   person concerned
+            evaluate certain aspects   personality
+                    art  compliance   principles laid    law  subject   control  
+          independent authority called  malagasy commission  computing  liberties cmil
+                                                                                                                 
+
+machine translated  google
+                                                                     ii
+                                               scope  definitions
+                  art  scope
+                     law applies   processing whether automated    personal data contained  required 
+          appear  files processing carried   whole   part  malagasy territory
+                     law   apply   processing  personal data implemented
+          work 
+                               exercise  exclusively personal activities     sole
+                            purposes  journalism  literary  artistic expression
+                    art  determination   applicable law
+                     processing  personal data  subject   law
+                     ° whose manager  established  malagasy territory  data controller  carries   activity 
+             territory within  framework   installation whatever  legal form  considered   established 
+                    ° whose person  charge without  established  malagasy territory uses means  processing
+             located  malagasy territory excluding processing    used  transit purposes   territory
+                  art  definition  personal data
+                    personal data   information relating   natural person identified   can  identified directly 
+          indirectly  reference   name  identification number   one   elements specific   
+          elements  notably physical physiological psychic economic cultural  social
+                     determine whether  person  identifiable   necessary  consider   means  allow 
+          identification available     controller    person may  access
+                    art  definition  processing  file
+                    processing  personal data   operation  process  operations including manual operations relating
+            collection recording use communication   data regardless   process used   particular 
+          organization  elaboration storage adaptation  modification extraction consultation dissemination   
+          form  provision reconciliation  interconnection  well  blocking erasure  destruction
+                     personal data file   structured  stable set  personal data accessible according  determined
+          criteria
+                                                                                                                                   
+
+machine translated  google
+                   art  definition   personal data controller  controller   natural  legal
+          person
+                   public  private    power  decide   creation  processing alone 
+          jointly  others   determines  aims   means   implemented
+                 art  definition   subcontractor
+                    processor   person    controller defined     processing
+          personal data  behalf   controller  according   instructions
+                 art  definition   recipient  personal data
+                    recipient   natural  legal person public authority service    body
+           receives communication  data    data  made accessible
+                    authorities empowered within  framework   particular investigation mission 
+           recipients   data within  meaning   definition
+                 art  definition   data subject
+                    data subject   person    data subject  processing relate
+                 art  definition  data subject consent
+                    explicit manifestation  will free specific  informed    person
+          concerned accepts  personal data concerning   processed 
+                                                           iii
+                                                fundamental principles
+                 art   general principles relating  data  processing
+                   personal data must   collected  processed
+                           fair lawful  nonfraudulent manner  specific explicit  legitimate
+                             purposes   end  must   used subsequently   purposes
+                             except   consent   person concerned   purpose provided 
+                               legislative provision
+                          adequate relevant   excessive  relation   purposes 
+                                collected  used
+                          accurate complete   necessary updated  reasonable necessary measures
+                             must  taken  ensure  data   inaccurate  incomplete  regard
+                               purposes     collected       processed
+                              erased  rectified  kept   form allowing  identification   persons
+                             concerned   period
+                            exceed  necessary   purposes    
+                             collected  used
+                                                                                                                 
+
+machine translated  google
+                    provisions   preceding paragraph   preclude  storage  use   data
+          processed  archive management purposes   historical statistical  scientific purposes according
+            methods  appropriate guarantees defined   legislation    malagasy commission
+           computing  liberties   absence  legal provisions
+                 art  security obligation
+                    data controller shall take  useful precautions  regard   nature
+            data   risks involved  preserve  security   data
+                    must protect  processing  data   particular  destruction
+          accidental  unlawful accidental loss alteration dissemination  unauthorized access
+                 art  subcontracting
+                    processing  personal data may  subcontracted
+                   personal data may    subject   operation 
+          processing   processor    instructions   controller
+                    subcontractor must provide sufficient guarantees  ensure  implementation  security
+           confidentiality measures  requirement   exempt  data controller   obligation
+           ensure compliance   measures
+                    contract linking  subcontractor   controller includes  indication   obligations
+          incumbent   subcontractor  terms  protection   security  confidentiality  data 
+          provides   subcontractor can  act  instructions   controller   treatment
+                 art  legitimation  data processing
+                  processing  personal data must  received  consent   person concerned  meet
+          one   following conditions
+                    compliance   legal obligation incumbent   controller   protection 
+                    life   data subject   performance   public
+                   service mission entrusted   manager 
+                        recipient   processing
+                     execution either   contract    data subject   party   precontractual
+                        measures taken   latters request   fulfillment  
+                   legitimate interest pursued   controller    recipient subject   disregarding 
+                        interest   fundamental rights  freedoms   data subject
+                   art sensitive data
+                   due  risks  discrimination  infringement  individual freedoms  processing 
+          sensitive data  prohibited
+                                                                                                                      
+
+machine translated  google
+                  sensitive data includes data revealing racial origin biometric data genetic data political
+          opinions religious beliefs   beliefs trade union membership  data relating  health
+           sex life people
+                   way  derogation sensitive data may  processed  appropriate safeguards 
+          defined  law   commission   following cases
+                     data subject  given  express consent unless  law provides  
+                  prohibition  processing   lifted   consent   person
+                    processing  necessary  safeguard  life   person concerned    third
+                  party   person concerned  give  consent due  legal incapacity 
+                  material impossibility
+                    processing  implemented   association    nonprofit organization
+                    religious philosophical political  trade union nature  sensitive data
+                  corresponding   purpose   said association   said organization 
+                  provided     concern   members   association  organization
+                    applicable  persons  maintain regular contact     context 
+                   activity  processing   involve communication  third parties unless 
+                  persons concerned expressly consent  
+                    processing  necessary   establishment exercise  defense  legal claims
+                    processing  necessary   purposes  preventive medicine medical
+                  diagnosis  administration  care  treatment   management  health services
+                   carried    member   health profession    another person  
+                   obligation  professional secrecy provided    penal   imposed 
+                    functions
+                     processing   patients data  necessary  research   public interest
+                    field  health   person   objected  
+                    processing relates  data made public   data subject
+                    processing  necessary   pursuit   public interest  authorized  law
+                     commission  accordance      law
+                  art processing  personal data relating  offenses  convictions
+                   processing  personal data relating  offenses 
+          convictions  security measures can   implemented 
+                    courts  public authorities managing  public service acting within  framework
+                         legal attributions   legal
+                  assistants   strict needs   exercise   missions 
+                       assigned    law
+                                                                                                                
+
+machine translated  google
+                  art  transfer  personal data abroad
+                   data controller may  transfer personal data   foreign state   recipient
+          state  legislation ensuring  level  protection  individuals similar   provided  
+          law
+                   level  protection offered   third country  assessed  regard   
+          circumstances relating   transfer   category  data transfers  particular  nature 
+           data  purpose  duration   processings envisaged  countries  origin 
+          final destination  rules  law general  sectoral  force   third country  question
+           taken  consideration   well   professional rules  security measures  
+          respected 
+                    absence   similar level  protection  malagasy commission  computing
+           liberties may authorize  transfer  personal data   controller offers sufficient
+          guarantees  regard   protection  privacy  fundamental rights  freedoms 
+          individuals  guarantees may  particular result  appropriate contractual clauses 
+           adoption  internal rules
+                   way  derogation   preceding paragraphs  transfer  personal data  
+          third party    provide  similar level  protection may  carried   
+          exceptional basis provided 
+                data subject  unambiguously given  consent   intended transfer duly
+                  informed   absence   similar level  protection  b  transfer 
+              necessary   performance   contract   data subject   controller 
+                     performance  precontractual measures taken   request   data subject
+                   
+              c  transfer  necessary   conclusion  performance   contract concluded  
+                   concluded   interest   data subject   controller   third party
+                  
+              d  transfer  necessary  made legally obligatory   safeguard   important
+                  public interest    establishment exercise  defense  legal claims  e 
+                  transfer 
+              necessary  safeguard  vital interests   data subject
+                   
+              f     transfer takes place   public register   virtue  legislative  regulatory
+                   provisions  intended  public information   open  public consultation  
+                   person justifying  legitimate interest insofar   legal requirements 
+                   consultation  met   particular case
+                   recipient  prohibited  transferring  personal data  abroad except 
+           agreement   original controller     malagasy commission  computing
+           liberties
+                  art data collected  electronic certification service providers
+                  except   express consent   person concerned  personal data collected
+           electronic certification service providers   purposes  issuing  storing certificates
+          linked  signatures
+                                                                                                                  
+
+machine translated  google
+          electronic data must  sent directly   person concerned  may   processed 
+           purposes     collected
+                                                              iv
+                                                        personal rights
+                   art  right  object   included  processing
+                    person   legitimate reason   right  object   time  free 
+          charge   processing  personal data concerning    event   dispute 
+          legitimacy   reason  assessed   malagasy commission  computing  freedoms
+                  data subject   right  oppose   data concerning 
+           used  prospecting purposes without   justify  legitimate reason
+                  provisions   first paragraph   apply   processing meets  legal
+          obligation    application   provisions   excluded   express
+          provision   act authorizing  processing
+                   art  right  access  personal data
+                   everyone   right  know    affected  processing
+                    person subject  proving  identity   right  obtain   data
+          controller
+                    information relating   purposes   processing  categories  personal data
+                        processed   recipients  categories  recipients    data 
+                        communicated
+                     communication   understandable form    data concerning   well
+                          information available    origin
+                    information making  possible  know  contest  logic underlying  automated
+                         processing   event   decision taken   basis    producing legal
+                         effects  regard   interested party
+                    applicant exercises  right  access free  charge  site  remotely  request
+           granted without delay
+                    copy   data concerning   accordance   content   processing 
+          issued   interested party   request
+                     exercise   right  access applies  personal health data  may 
+          communicated   data subject according   choice directly    doctor 
+          designates   purpose effect
+                     event   risk  concealment  disappearance  data  malagasy commission
+           computing  liberties may order  measures likely  avoid 
+                    provisions      apply  processing concerning public security 
+          well    collection  information necessary  
+                                                                                                               
+
+machine translated  google
+          observation  offenses   implementation  consequent prosecutions     law   applicable
+                    art  abusive access requests
+                      controller may oppose manifestly abusive requests  particular   number  repetitive 
+          systematic nature   event   dispute  burden  proof   manifestly abusive nature   requests lies
+            person  charge     addressed
+                    art  right  rectification
+                     person may demand    necessary justification   data controller    case may
+           rectify complete update lock  delete personal data concerning    inaccurate incomplete ambiguous
+          outdated  whose collection use communication  storage  prohibited
+                       interested party  requests  controller must justify
+            cost   applicant    carried   required operations
+                       event   dispute  burden  proof rests   manager    right  access 
+          exercised except    established   disputed data  communicated   interested party   
+          agreement
+                       data controller  transmitted data   third party  must notify 
+           operations carried    data without delay
+                    art  indirect rights  access  rectification
+                      way  derogation      right  access      right  rectification 
+          processing concerns state security defense  public security  rights  access  rectification  data  exercised
+          indirectly
+                      request  addressed   malagasy commission  computing  liberties  appoints one 
+           members   judiciary    specially appointed  carry   useful investigations   
+          modifications made  latter may  assisted   agent   commission
+                       malagasy commission  computing  liberties finds  agreement   controller  
+          communication   data contained therein   jeopardize  security   state defense  public security
+           data  communicated   applicant failing   applicant  notified   checks  modifications
+            carried 
+                    art right   informed 
+                     controller ensures   person   personal data  collected  informed
+                           identity   data controller   applicable   
+                              representing  
+                          purpose pursued   processing   mandatory
+                          optional nature   information requested     categories  data processed
+                                                                                                                                      
+
+machine translated  google
+                      recipients  categories  recipients   data   rights 
+                     opposition access  rectification  well   terms
+                         exercise
+                       applicable transfers  personal data    case  guarantees
+                          attached   transfers  accordance   provisions     
+                          law
+                   information  brought   attention   person   form   understandable
+           adapted according   means used  collect  data   request  data subject
+          may also obtain  information   time
+                   user  electronic communications networks must  informed directly clearly 
+          completely   controller   representative
+                    purpose   action seeking  access  means  electronic transmission
+                  information stored   terminal connection equipment   register   
+                  means information   terminal connection equipment
+                    means   disposal  oppose 
+                   provisions   applicable   access  information stored   users
+          terminal equipment   recording  information   users terminal equipment
+                   either   exclusive purpose  allowing  facilitating communication  electronic
+                  means
+                     strictly necessary   provision   online communication service  
+                  express request   user
+                    personal data    collected   data subject  controller 
+           representative must provide  latter   information listed   soon   data
+           recorded    communication   data  third party  envisaged   latest  
+          first communication   data
+                   provisions      applicable  processing concerning public security
+           well    collection  information necessary   observation  offenses  
+          implementation  consequent prosecutions
+                                                           v
+                           independent authority responsible  
+            protection  personal data   control  processing
+                                                        division 
+                              malagasy commission  computing  freedoms
+                  art  creation
+                    established  independent authority   protection  personal data called
+           malagasy commission  computing  liberties cmil hereinafter referred   
+          commission   responsible  ensuring   processing 
+                                                                                                              
+
+machine translated  google
+          personal data  implemented  accordance   provisions   law
+                    end   regulatory  sanctioning powers
+                  art  composition method  appointment term  office  benefits
+                  art  composition
+                   malagasy commission  computing  liberties  composed  nine 
+          members  one
+                  deputy elected  plenary session   national assembly  
+                  senator elected   permanent bureau   senate 
+                   magistrate   judicial order   court  cassation elected   peers  
+                  magistrate   administrative order   council  state elected  
+                  peers   magistrate   financial order   court  auditors elected  
+                  peers   representative   private sector  experience  information 
+                       communication technologies appointed   federation  chambers  commerce
+                        industry
+                   two personalities  expertise  information  communication technologies
+                       designated   national federation   order  engineers   person 
+                       particular expertise 
+                   area  rights
+                       human rights designated   independent national commission  human rights
+                art method  designation
+                   appointment  members  recorded  decree issued   council  ministers
+                   absence  designation due   lack  proposal   source entity 
+          constitute  obstacle   normal  regular functioning   malagasy commission 
+          computing  freedoms
+                art term  office
+                  members  appointed   term  four  years renewable 
+               duration   mandate   event   elective mandate
+                   member  ceases  exercise  functions   term  office  replaced
+            conditions   remaining term  office
+                  except  resignation  mandate   member can   terminated   event 
+          impediment noted   malagasy commission  computing  freedoms  
+          conditions set  decree taken   council  ministers
+                  art  benefits
+                  allowances  allocated  members   participation   work   malagasy
+          commission  computing  liberties   end  receive  session allowance  
+           event   information mission  onsite inspection provided       law 
+          travel  subsistence allowance
+                   also receive  share   rebates  recovery  financial penalties imposed 
+           commission   criminal fines
+                   amounts  rates   benefits provided    preceding paragraphs relating 
+          members   commission  determined  decree issued   council  ministers
+                                                                                                              
+
+machine translated  google
+                     bureau members receive  monthly duty allowance 
+          amount  fixed   decree issued   council  ministers
+                    art  operation
+                      malagasy commission  computing  liberties   independent administrative authority
+                      includes  collegial deliberative body   office
+                    art deliberative body
+                      members   malagasy commission  computing  freedoms constitute  deliberative body
+                      commission meets  plenary formation   event   tie vote  chairmans vote  decisive
+                    art office
+                      malagasy commission  computing  liberties elects  president  two vicepresidents 
+          among  members  make   office
+                      president   deputy vicepresident may  appointed   commission
+          malagasy  computing  liberties  exercise    powers
+                       exception   members   office  members   exercise  function  
+          permanent basis
+                     art services
+                      malagasy commission  computing  liberties   services
+          whose organization chart  fixed  decree taken  council   government
+                      agents   malagasy commission  computing  liberties  appointed   president
+                      necessary  may set  decentralized offices  help  carry   functions
+                     art  professional secrecy
+                      members  agents   malagasy commission  computing  liberties  bound 
+          professional secrecy   information    know   exercise   functions   conditions
+          provided       penal    subject    necessary   establishment   annual
+          report
+                      taking office  members take   supreme court sitting  solemn audience  following
+          oath  mianiana aho fa hanatanteraka antsakany sy andavany ary amimpahamendrehana ny andraikitra aminny
+          mahampikambana ahy ao aminny vaomiera malagasy miandraikitra ny informatika sy ny fahafahanny olona
+          tsirairay tsy hiandany na aminiza na aminiza ary hitandro mandrakariva sy tsy hamboraka na oviana na oviana ny
+          tsiambaratelonny dinika
+                                                                                                                               
+
+machine translated  google
+                    art  immunity
+                     member   malagasy commission  computing  liberties may  prosecuted searched
+          arrested detained  judged   occasion  opinions expressed  acts performed   exercise   mandate
+           related   mission
+                    art independence
+                    within  framework   missions   exercise   powers  members   malagasy
+          commission  computing  liberties   receive instructions   authority
+                    public authorities managers  public  private companies heads  various groups   generally
+           holders  users  personal data processing  files  oppose  action   commission   members
+           must   contrary take  useful measures  facilitate  task
+                    art  activity report
+                     malagasy commission  computing  freedoms presents  report
+          annual report   activities
+                       president   republic   
+                    prime minister head  government   parliament   
+                    minister  justice
+                     makes  activity report public   means  deems appropriate
+                  art  incompatibilities
+                    membership   malagasy commission  computing  liberties  incompatible
+                       status  member   government   
+                    management function   legal person public  private   combination   status  
+                          function  constitute  conflict  interest
+                    incompatibilities  assessed   president   malagasy commission  computing  liberties
+            member takes office    year   term  office
+                      event   change   status  member declares    president 
+          latter appreciates  existence    incompatibility
+                    art conflicts  interest
+                     member may take part   deliberation  carry  verifications relating   organization within 
+              thirtysix months preceding 
+                                                                                                                                  
+
+machine translated  google
+          deliberation  verifications held  direct interest exercised functions  held  mandate
+                    malagasy commission  computing  liberties may call upon  person whose
+          competence  deems useful  certain matters   case  chairman ensures    
+          conflict  interest
+                   art allocations
+                    malagasy commission  computing  liberties  informs
+                    data subjects  data controllers 
+                          rights  obligations
+                    receives  declarations  creation  computer processing  gives  written opinion 
+                          written authorization   cases provided   law
+                    controls  creation  implementation  processing 
+                   establishes  publishes simplified standards  exemptions
+                    makes recommendations
+                    enacts standard rules  ensure  security  information systems  receives claims
+                   petitions  complaints related   mission  informs
+                          authors   followup given  
+                    issues warnings   interested parties  denounces   judicial authority 
+                         violations   provisions   law
+                    pronounces  administrative sanctions provided    law  monitors
+                   developments  information  communication technologies   legal environment 
+                         publishes  assessment   consequences  
+                   developments   protection  freedoms  privacy   context   annual report 
+                         proposes legislative  regulatory changes   government   deems likely 
+                   improve  protection  individuals   use  information  communication
+                         technologies  issues  opinion within two months renewable   necessary  
+                         draft text relating   protection  personal data  regard 
+                   computerized processing  responds  requests  indirect access  can issue labels 
+                         cooperates   personal data protection authorities set  
+                          states
+                    cooperates   network  personal data protection officers
+                     associated  international negotiation affecting  treatment
+          personal data
+                   art public information
+                    makes available   public  list  processing     subject  
+          declaration  authorisation
+                    list specifies   treatment
+                     act deciding  creation   processing   date   declaration 
+                    name  purpose   processing   identity
+                    address   data controller    latter   established  
+                         national territory    representative
+                     person  department    right  access  exercised
+                                                                                                                   
+
+machine translated  google
+                     categories  personal data subject  processing  well   recipients  categories
+                         recipients authorized  receive communication thereof
+                     applicable transfers  personal data  
+                         state
+                    also makes available   public  opinions authorisations decisions
+          recommendations declaration exemptions
+                    informs   means  deems appropriate  public authorities private organizations
+           representatives  civil society   opinions authorizations  decisions  issues  regard
+            protection  freedoms  well    recommendations
+                    decisions   malagasy commission  computing  freedoms   general
+          scope  published   official journal
+                   art exemption  publication
+                   decrees may   assent   malagasy commission  computing  liberties
+          provide   regulatory acts relating  certain data concerning state security defense  public
+          security   published
+                   art  powers
+                    carry   missions entrusted    law  malagasy commission  computing
+           freedoms may
+                          proceed  means  recommendations 
+                         take individual  regulatory decisions  adopt simplification
+                         measures  declaration exemptions  define  procedures  exercising 
+                         rights  individuals  particular 
+                            matter  information
+                          enjoin  persons responsible  processing  files  provide    useful
+                            information   computer files  use
+                    can decide  carry  factfinding  onsite inspection missions
+                   except  cases    bound  professional secrecy  persons questioned within
+           framework   verifications carried    commission  required  provide 
+          information requested   latter   exercise   missions
+                   art  rules  procedure
+                    bureau establishes  rules  procedure   submitted   approval  
+          commission
+                    particular  lays   rules relating  deliberations  examination  files 
+           presentation   deliberative body
+                   art  remedies
+                    administrative decisions   malagasy commission  computing 
+          freedoms  subject  appeal   council  state
+                                                                                                                   
+
+machine translated  google
+                                                                section 
+                                            formalities prior  implementation art 
+                   principle  declaration  keeping   register  processing
+                    computerized processing  whole   part  public  private bodies containing personal
+          data must prior   implementation  declared   malagasy commission  computing 
+          freedoms
+                     declaration can  submitted electronically
+                    computerized processing  recorded   register kept   data protection officer
+          protection  personal data designated   controller
+                   art  implementation  public sector processing
+                    except   case   must  authorized  law  automated processing 
+          personal data carried   behalf   state  public establishment  community   legal person
+          governed  private law managing  public service  decided  regulatory act  reasoned assent
+            malagasy commission  computing  freedoms
+                     regulatory act specifies  particular
+                           name  purpose   data processing  service
+                             right  access  exercised  
+                       categories  registered personal information  well   recipients  categories 
+                           recipients authorized  receive communication   information  data retention
+                           period
+                       
+                   art  implementation  private sector processing
+                     processing  personal data carried   behalf  persons    subject 
+           provisions    must prior   implementation   subject   declaration  
+          malagasy commission  computing   freedoms  statement includes  commitment 
+           processing meets  requirements   law
+                     receipt  issued without delay  computerized processing can  implemented
+          work however  declaration   way exonerates  declarant   responsibility
+                   art  authorization  implement processing operations presenting specific risks
+                    data processing    presents particular risks  rights  freedoms   
+          likely   content structure  purpose  infringe privacy must  authorized   malagasy
+          commission  computing  liberties prior   implementation
+                   art  simplified declarations  exemptions  declarations
+                       common categories  data processing   public  private nature  malagasy
+          commission  computing  freedoms establishes  publishes
+                                                                                                                   
+
+machine translated  google
+          simplification standards  exemption   implementation     likely  infringe privacy  freedoms
+                   standards specify
+                  °  purposes   processing covered   simplified declaration
+                  °  personal data  categories  personal data processed °  category  categories  persons
+                  concerned
+                  °  recipients  categories  recipients    personal data
+                    personnel  communicated
+                  °  retention period   personal data
+                      processing  meets  simplification standards   simplified declaration  compliance  one
+            standards  filed   malagasy commission  computing  liberties
+                    unless otherwise decided   latter  receipt  declaration  issued without delay upon receipt  
+          receipt  controller may implement  processing    exonerated   responsibility
+                    art  requests  opinions  authorizations
+                     malagasy commission  computing  freedoms seized  requests  advice  authorizations
+          decides within two months  receipt   request however  period may  renewed     reasoned
+          decision   president
+                     absence   response   supervisory authority within  time limit  interpreted
+            denial   request consequently  request must  reformulated
+                  art  common provisions
+                    declarations  requests  advice  authorization addressed   commission
+          malagasy  computing  liberties include
+                 identity  address   controller     person  entity  whose behalf  processing 
+                     carried    applicable  name   processing   purposes   processing  
+                     appropriate interconnections
+               reconciliations    forms 
+                     connection   treatments
+                 personal data stored  origin   categories  persons affected   processing   storage
+                     period   information processed   department  departments responsible  implementing 
+               processing  persons authorized  access  data   may obtain communication thereof   function
+                       person   service    data subjects can exercise  right
+                access   applicable transfers  personal data   states   measures envisaged  ensure
+                      security   processing  guarantee
+                secrets protected  law   applicable indication   use   subcontractor
+                                                                                                                                     
+
+machine translated  google
+                     data controller must notify  change   information communicated  
+          malagasy commission  computing  liberties  well   deletion   processing
+                                                                division 
+                                        control   implementation  processing
+                    art  control missions
+                     members  agents   malagasy commission  computing  liberties
+          participating  control missions  authorized   purpose  mission order duly signed 
+           president
+                     can 
+                     access      pm   type  premises  professional use used 
+                          implementation   processing  personal data
+                      unrestricted access   files  processing    materials used 
+                    take  copy   information whatever  medium  collect  declarations  
+                         data controller  representative   person placed   authority 
+                         working  
+                     may   request   president  assisted  designated experts
+                     contradictory report   control mission  drawn   report  sent  observation
+            controller
+                      event  opposition   person  charge   premises  visit can  take place
+            authorization   president   court  whose jurisdiction  premises   visited  located
+             judge delegated  
+                     magistrate  seized   request   president   commission  rules  
+          reasoned order
+                     visit  carried    authority  control   magistrate  authorized
+            latter may visit  premises   intervention   time  can decide  stop 
+          suspend  visit
+                                                           vi
+                     personal data protection delegate
+                  art appointment  missions
+                   data controller appoints  data protection officer 
+          personal character responsible  ensuring compliance   obligations   law
+                     personal data protection officer
+                   keeps  register  processing implemented   processing manager   date
+                 consulted prior   implementation   new
+                    treatments
+                                                                                                                            
+
+machine translated  google
+                consults  case  doubt  malagasy commission  computing  liberties  receives
+               requests  complaints  interested parties relating   processing carried    controller
+                       fall   responsibility  transmits    competent processing
+                    manager  notifies  interested parties  informs  controller   breaches noted 
+                    referral   malagasy
+               commission  computing  liberties seizes  malagasy commission  computing 
+                   liberties   event  breaches observed   data controller  
+                  take  necessary measures  put  end      event  doubt   application
+                      law draws   annual report   activities   presents   data controller 
+                      makes available   malagasy commission  computing  freedoms
+               
+                     appointment   data protection officer  notified   latter   process leaving 
+          written record
+                    commission keeps  list  designated delegates   date
+                   art  exemption  declarations
+                     data protection officer   appointed  data controller  exempted  
+           complete  declaration formalities   malagasy commission  computing  liberties except
+           cases   processing  subject   permission
+                   art  qualifications  incompatibilities
+                    delegates residing   territory   malagasy republic    knowledge 
+          qualifications necessary   exercise   mission may  appointed  may   person
+          exclusively attached   service   data controller   external person  data controller  
+          legal representative   appointed   delegate
+                    data protection officer carries   duties independently  particular    receive
+          instructions   controller    subject  sanctions    exercise   functions
+                    data controller must provide  data protection officer   means necessary  
+          performance   duties
+                    data protection officer  bound   duty  confidentiality   information collected 
+           investigation   complaint  request referred  
+                   art  revocation
+                    data protection officer   revoked   data controller
+          processing   serious reasons   informing  commission
+                    malagasy commission  computing  liberties may request  dismissal   delegate
+            event   conflict  interest   exercise   functions  delegate   exercised
+          elsewhere
+                                                                                                                         
+
+machine translated  google
+                      commission finds  collecting  observations   personal data protection
+          officer  failing   duties   mission  asks  controller  release    duties
+          pursuant   
+                                                               vii
+                                                               penalties
+                                                                division 
+                            penalties issued   malagasy commission 
+                                             freedoms
+                    art  penalties
+                     malagasy commission  computing  liberties may pronounce   data
+          controller   event  breach  one     provisions   law    contradictory
+          procedure  following sanctions
+                   warning   
+                 injunction  cease processing  withdrawal   authorization granted  
+                 financial penalty
+                      event   emergency   implementation   processing   exploitation
+            data processed leads   violation   rights  freedoms mentioned  articles    
+          commission may   adversarial procedure
+                decide  interrupt  implementation   processing   maximum period  three
+                    months   processing    implemented   state    relate  
+                    security   state  defense  public security   prevention investigation
+                    observation  prosecution  criminal offenses   execution  criminal convictions 
+                    security measures
+                decide  block    personal data processed   maximum period  three months
+                      processing   carried   purposes relating  state security defense  public
+                    security  whose purpose   prevention investigation observation  prosecution 
+                    criminal offenses   execution  criminal convictions  security measures
+                     sanction imposed must  recorded   register
+                      event   repeat offence  financial penalties will  doubled
+                    art  referral   judge  chambers
+                      event   serious  immediate violation   rights  freedoms mentioned 
+             president may request  way  summary proceedings  competent court  order
+           necessary  penalty  necessary security measure safeguarding  rights  freedoms
+                                                                                                                     
+
+machine translated  google
+                  art  injunction  modify  delete processing
+                   sanction decision pronounced may  accompanied   injunction  proceed
+          within  time limit   determines   modification  deletion   deems useful 
+           operation   personal data processings subject   sanction decision 
+                  art  contradictory procedure  appeal   sanction decision
+                   administrative sanctions provided    law  pronounced   basis  
+          report drawn    departments   malagasy commission  computing  liberties
+             member designated   president  report  notified   data controller 
+          may submit written  oral observations   represented  assisted
+                   rapporteur may present oral observations    take part  
+          deliberation
+                   malagasy commission  computing  liberties may hear 
+          person whose hearing seems   likely  contribute usefully   information
+                   decisions taken  substantiated  notified   controller
+                  decisions pronouncing  sanction may  appealed   council  state
+                  art amount  financial penalties
+                   amount   financial penalty provided   proportionate   seriousness 
+           breaches committed   benefits derived   breach  may  exceed  
+          turnover excluding tax   last financial year
+                   pecuniary sanctions  recovered like  debts   state
+                  art publication  sanction decisions
+                  penalty decisions  made public  identity  people
+          physical injuries mentioned  sanction decisions can  made anonymous
+                   malagasy commission  computing  liberties may also order  insertion 
+           sanctions decisions  pronounces   publications  newspapers  designates 
+          costs  borne   sanctioned persons
+                                                              division 
+                                                              penalties
+                art  obstruction
+                obstructing  action   malagasy commission  computing  liberties 
+          punishable  imprisonment  six months  two years   fine   ariary 
+           ariary
+                ° either  opposing  exercise   missions entrusted   members  
+                authorized agents pursuant   
+                                                                                                            
+
+machine translated  google
+                ° either  refusing  communicate   members    agents authorized 
+                application     information  documents useful   mission  
+                concealing  said documents  information   causing   disappear
+                °   communicating information    conform   content  
+                recordings      time  request  made     present 
+                content   directly accessible form
+                  art   noncompliance  prior formalities
+                   punished  imprisonment  six months  two years   fine   ariary 
+           ariary  fact including negligence  processing  causing   processed
+          personal data without   formalities prior   implementation provided   law
+            complied 
+                  art  use  sensitive data offense files  
+                             national identification number outside  legal framework
+                   punished  imprisonment  two  five years   fine   ariary 
+           ariary  fact  carrying    carried    manner   accordance
+            conditions provided   articles      treatment personal data including
+          among  data    relates  data referred   articles   
+                  art  breach  security
+                   punished  imprisonment  six months  two years   fine   ariary 
+           ariary  fact  proceeding   proceeded   processing  personal
+          data without implementing  measures prescribed  
+                  art  unfair collection
+                   punished  imprisonment  two  five years   fine   ariary 
+           ariary  fact  collecting personal data  fraudulent unfair  illicit means
+                  art  diversion  purpose
+                   punished  imprisonment  two  five years   fine   ariary 
+           ariary  act   person holding personal data  diverting  initial purpose 
+           personal data file  particular   occasion   recording classification transmission
+             form  processing
+                  art  failure  respect  rights  rectification  opposition
+                   punished  imprisonment  two  five years   fine   ariary 
+           ariary  fact  processing personal data concerning  natural person despite 
+          request  rectification   opposition   person   request  rectification 
+           opposition  based  legitimate grounds
+                  art  failure  respect  right  information
+                                                                                                              
+
+machine translated  google
+                    punished  imprisonment  two  five years   fine   ariary  
+          ariary  fact   respecting  provisions referred     relating   information 
+          persons
+                   art  nonrespect   right  access
+                    punished  imprisonment  two  five years   fine   ariary  
+          ariary  fact   respecting  provisions referred     relating   right  access
+                   art   failure  comply   retention period
+                    punished  imprisonment  six months  two years   fine   ariary 
+           ariary unless  storage  carried   historical statistical  scientific purposes
+            conditions provided   law  fact  keep personal data beyond  duration
+          provided    prior declaration sent   malagasy commission  computing  liberties
+                   art  violation   consideration  intimacy  private life
+                    punished  imprisonment  two  five years   fine   ariary 
+           ariary  fact   person   collected   occasion   registration
+           classification  transmission   form  processing  personal data whose
+          disclosure    effect  undermining  consideration   interested party  
+          intimacy   private life  bringing without  authorization   interested party   data
+            knowledge   third party    entitled  receive 
+                   art  additional measures
+                     cases provided   articles     erasure    part   personal data
+          subject   processing  gave rise   offense may  ordered  members  agents
+            malagasy commission  computing  liberties  authorized  verify  erasure 
+           data
+                 art  notice
+                    public prosecutor   competent court notifies  president   malagasy
+          commission  computing  liberties   proceedings relating  infringements  
+          provisions   law
+                    trial court may call  president   commission  
+          representative  file  observations  develop  orally   hearing
+                                                             viii
+                                                  financial provisions
+                   art  budget
+                    budget   malagasy commission  computing  liberties  supported
+            specific budget line within  presidency   republic
+                    commission may receive donations subsidies  legacies  national 
+          international organizations   madagascar   member   purpose  deposit account
+           opened   public treasury intended  house  said funds 
+                                                                                                                      
+
+machine translated  google
+          mobilization   deposit account must   subject  budgetary regularization  terms  
+          revenue  expenditure
+                     manager   account  appointed  order   ministry  finance  budget
+                     president   authorizing officer   commissions budget  can nominate 
+          secondary authorizing officer  replace 
+                    art  public accounting  auditing
+                     accounts   malagasy commission  computing  liberties  kept according
+            rules  public accounting   control   accounts   responsibility   court 
+          auditors
+                                                        ix
+                                         transitional  final provisions
+                    art  transitional provisions
+                     processing  data governed     already created   subject  
+          declaration   malagasy commission  computing  liberties   conditions provided
+             
+                     may however  decision apply  provisions    
+          set  time limit within   act regulating  processing  data must  taken
+                     processing  personal data implemented   entry  force   law must
+          comply   requirements   law within one year   publication according   sectoral
+          schedule drawn    commission  published   official newspaper
+                 art final provisions
+                 regulatory texts will specify  necessary  terms
+          application   law
+                 art   law will  published   official journal
+                  will  enforced  state law
+                                      promulgated  antananarivo january  
+                                         rajaonarimampianina hery martial
+                                                                                                                  
+

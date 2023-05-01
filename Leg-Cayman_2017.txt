@@ -1,0 +1,1570 @@
+                                                                          data protection law 
+cayman islands
+                                                                     law   
+                                                                         assent
+                                                                    helen kilpatrick
+                                                                       governor
+                                                                    th may 
+  law  provide   protection  personal data
+           incidental  connected purposes
+enacted   legislature   cayman islands
+       part   interpretation principles application
+                         obligations  office
+     law may  cited   data protection law                      short title 
+                                                                                     commencement
+       law shall come  force   date  may  appointed 
+order made   cabinet  different dates may  appointed  different
+provisions   law   relation  different matters
+     law                                                                    interpretation
+business includes  trade  profession
+commissioner means  information commissioner appointed  section
+   freedom  information law  revision                                 revision
+consent  relation   data subject means  freely given specific informed
+ unambiguous indication   data subjects wishes    data
+subject   statement    clear affirmative action signifies agreement  
+processing  personal data relating   said data subject
+                                          
+
+ data protection law 
+                   data controller means  person  alone  jointly  others determines
+                    purposes conditions  manner    personal data     
+                   processed  includes  local representative referred   section 
+                   data processor means  person  processes personal data  behalf  
+                   data controller    avoidance  doubt   include  employee 
+                    data controller
+                   data protection principles   meaning referred   section 
+                   data subject means 
+                                identified living individual 
+                              b  living individual  can  identified directly  indirectly 
+                                    means reasonably likely   used   data controller  
+                                      person
+                   enforcement order means  order  section 
+                   health professional means  individual registered  practise
+                       professions specified   health practice law         revision
+                    revision    law relating  health
+                   health record means  record  
+                                 consists  information relating   physical health mental
+                                    health  condition   data subject 
+                              b   made    behalf   health professional 
+                                    connection   care   data subject
+                   inaccurate  relation  personal data includes data   misleading
+                   incomplete    date
+                   nondisclosure provisions means  following provisions   extent 
+                     inconsistent   disclosure  question 
+schedules                    first data protection principle except   extent   
+                                    requires compliance   conditions  schedules   
+                              b  second  third data protection principles 
+                              c sections   
+                   person includes  corporation either aggregate  sole   club society
+                   association public authority   body  one   persons
+                   personal data means data relating   living individual  can  identified
+                    includes data   
+                                                              
+
+                                                                            data protection law 
+              living individuals location data online identifier  one 
+                  factors specific   physical physiological genetic
+                  mental economic cultural  social identity   living
+                  individual
+            b  expression  opinion   living individual 
+            c  indication   intentions   data controller  
+                  person  respect   living individual
+personal data breach means  breach  security leading   accidental 
+unlawful destruction loss alteration unauthorized disclosure   access 
+personal data transmitted stored  otherwise processed
+processing  relation  data means obtaining recording  holding data 
+carrying   operation  set  operations  personal data including 
+             organizing adapting  altering  personal data
+            b retrieving consulting  using  personal data
+            c disclosing  personal data  transmission dissemination 
+                  otherwise making  available 
+            d aligning combining blocking erasing  destroying  personal
+                  data
+public authority means 
+              ministry portfolio  department
+            b  statutory body  authority whether incorporated  
+            c  company  
+                    wholly owned   government    
+                        government   direct  indirect controlling interest 
+                  ii  specified   order made   cabinet 
+            d   body  organization specified   cabinet  order
+                    public authority  account  providing services   public
+                  nature   essential   welfare  caymanian society
+public register means  register  pursuant   requirement imposed 
+law   pursuance   international agreement  open  public inspection 
+open  inspection   person   legitimate interest   subject matter
+  register
+publish  relation  journalistic literary  artistic material means  make
+available   public   section   public
+recipient  relation  personal data includes  person    data 
+disclosed  well   person    employee  agent   relevant
+data controller  relevant data processor   employee  agent   data
+processor     disclosed   course  processing  data  
+                                           
+
+ data protection law 
+                        data controller    include  person   disclosure   may 
+                        made   result     view   particular inquiry    behalf  
+                        person made   exercise   power conferred  law
+                        registered company means  company within  meaning 
+                        section    companies law  revision                            revision
+                        regulations means regulations made   law
+                        sensitive personal data   meaning assigned  section 
+                        special purposes   meaning assigned  section 
+                        staff  relation   commissioner includes  individual employed  
+                        office   commissioner
+                        subject information provisions means 
+                                        first data protection principle   extent    requires
+schedule                                 compliance  paragraph   part   schedule  
+                                    b section  
+                        third party  relation  personal data means  person   
+                                      data subject
+                                    b  data controller 
+                                    c  data processor   person authorized  process data 
+                                           data controller  data processor
+sensitive personal data    law sensitive personal data means  relation   data subject
+                        personal data consisting  
+                                      racial  ethnic origin   data subject
+                                    b  political opinions   data subject
+                                    c  data subjects religious beliefs   beliefs   similar
+                                          nature
+                                    d whether  data subject   member   trade union
+                                    e genetic data   data subject
+                                    f  data subjects physical  mental health  condition
+                                    g medical data
+                                    h  data subjects sex life
+                                      data subjects commission  alleged commission  
+                                          offence 
+                                    j  proceedings   offence committed  alleged  
+                                           committed   data subject  disposal   
+                                                                    
+
+                                                                            data protection law 
+                  proceedings   sentence   court   islands 
+                  elsewhere
+       law special purposes means  one     following          special purposes
+               purposes  journalism
+             b artistic purposes 
+             c literary purposes
+  references   law   data protection principles                  data protection
+                                                                                        principles content
+principles set   part   schedule                                              consent  duty 
+                                                                                        comply
+         data protection principles shall  interpreted  accordance         schedule 
+ part   schedule 
+        schedules    set  conditions  apply   purposes        schedules   
+first principle  schedule  sets  transfers    eighth principle     schedule 
+ apply
+        subject  section   data controller shall comply   data
+protection principles  relate   personal data   data controller
+processes  shall ensure   data protection principles  complied 
+ relation   personal data   processed   data controllers behalf
+         determining consent   law  provisions  schedule           schedule 
+shall apply
+   law applies   data controller  respect   personal data            application  law
+                                                                                        duty  nominate 
+                                                                                 cayman islands
+                                                                                        representative
+                data controller  established   islands   personal
+                  data  processed   context   establishment 
+             b  data controller   established   islands  
+                  personal data  processed   islands otherwise   
+                  purposes  transit   data   islands
+         data controller referred   subsection b shall nominate 
+ purposes   law  local representative established   islands 
+shall   purposes within  islands   data controller  without
+limiting  generality   provision bear  obligations   law  
+ representative   data controller
+          purposes  subsections       following  
+ treated  established   islands 
+                individual   ordinarily resident   islands
+                                           
+
+ data protection law 
+                                   b  body incorporated  registered   foreign company  
+                                         law   islands
+                                   c  partnership   unincorporated association formed 
+                                          law   islands 
+                                   d  person    fall within paragraph  b  c 
+                                         maintains   islands 
+                                           office branch  agency    person
+                                               carries   activity 
+                                         ii  regular practice
+information               provisions   freedom  information law  revision relating
+commissioner
+                          office   information commissioner shall  effect  respect 
+ revision
+                         commissioner referred    law
+                        part   rights  responsibilities  data subjects 
+                                                              others
+fundamental rights       person  entitled   informed   data controller whether 
+access  personal data
+                        personal data    person   data subject   processed   
+                        behalf   data controller      case   given   data
+                        controller  description  
+                                     data subjects personal data
+                                   b  purposes          processed 
+                                           behalf   data controller
+                                   c  recipients  classes  recipients    data  
+                                         may  disclosed    behalf   data controller
+                                   d  countries  territories outside  islands    data
+                                         controller whether directly  indirectly transfers intends 
+                                         transfer  wishes  transfer  data
+                                   e general measures   taken   purpose  complying 
+                                          seventh data protection principle 
+                                   f   information   commissioner may require  data
+                                         controller  provide
+                                data subject  entitled  communication   intelligible form 
+                         relevant data controller  
+                                     data subjects personal data 
+                                   b  information available   relevant data controller   
+                                         source   personal data
+                                 processing  automatic means   data subjects personal
+                        data   purpose  evaluating matters relating   data subject including
+                         data subjects performance  work creditworthiness reliability  conduct
+                         constituted   likely  constitute  sole basis   decision
+                                                                  
+
+                                                                            data protection law 
+significantly affecting  data subject  data subject  entitled   informed
+  relevant data controller   reasons   decision
+        data controller shall   obliged  subsection     
+supply  personal data unless  data controller  received 
+             request  writing 
+           b  fee   data controller may require  fee 
+                 within  limits prescribed  regulations
+         data controller reasonably requires  information  order 
+ satisfied    identity   data subject making  request   locate
+ information   data subject seeks   informed  data subject 
+writing   requirement  data controller   obliged  comply  
+request unless supplied   information   period  time
+specified  subsection  shall automatically stand suspended
+        data controller shall comply   request   section within
+thirty days    period  may  prescribed  regulations   date
+   data controller receives   request  fee referred  
+subsection     data controller  requested  information
+ subsection   period shall  resume   information  
+supplied
+         data controller  comply   request without disclosing
+personal data relating  another data subject  can  identified  
+personal data  data controller   obliged  comply   request unless
+                data subject  consented   disclosure  
+                 personal data   person making  request 
+           b   reasonable    circumstances  comply  
+                 request without  consent    data subject
+        subsection   reference  personal data relating  another data
+subject includes  reference  personal data identifying   data subject 
+ source   personal data sought   request
+       subsection  shall   construed  excusing  data controller
+ communicating  much   personal data sought   request  can 
+communicated without disclosing  identity    data subject concerned
+whether   omission  names   identifying particulars  otherwise
+        determining   purposes  subsection b whether  
+reasonable    circumstances  comply   request without 
+                                          
+
+ data protection law 
+                      consent    data subject concerned  data controller shall  regard
+                        particular 
+                                    duty  confidentiality owed    data subject
+                                  b  steps taken   data controller  seek  consent  
+                                         data subject
+                                  c whether   data subject  capable  giving consent 
+                                  d  express refusal  consent    data subject
+                               commissioner  satisfied   application   data subject
+                        made  request   section   data controller  contravened
+                       section  failing  comply   request  commissioner shall issue 
+                      enforcement order  section  ordering  data controller  comply 
+                       request
+                              personal data   processed    behalf   data controller
+                       receives  request   section   data subject  obligation 
+                      supply  personal data   section includes  obligation  give  data
+                      subject  statement   data subjects rights   law   form 
+                        extent  may  prescribed  regulations
+treatment  requests    obligation imposed  section  shall  complied  
+ section 
+                      supplying  data subject   copy   personal data   format
+                      requested unless 
+                                      supply    copy   possible   involve
+                                        disproportionate effort 
+                                  b  data subject agrees otherwise
+                                 personal data referred   section   expressed
+                       terms    intelligible without explanation  copy shall 
+                      accompanied   adequate explanation
+                               data controller  previously complied   request 
+                      section    data subject referred  therein  data controller   obliged
+                       comply   subsequent identical  similar request   section  
+                      data subject unless  interval  compliance   previous request 
+                       making   current request  reasonable
+                              determining whether  interval referred   subsection  
+                      reasonable regard shall     nature   personal data  purpose 
+                        personal data  processed   frequency    personal
+                      data  altered
+                                                                 
+
+                                                                          data protection law 
+       section  shall   regarded  requiring  provision 
+information    logic   decisionmaking   information
+constitutes  trade secret
+       personal data   information supplied  section  shall 
+supplied  reference   data  question   time   request  
+personal data  received except  account may  taken   amendment 
+deletion made   time   time   information  supplied
+ amendment  deletion       made regardless 
+ receipt   request
+   data subject  entitled   time  notice  writing   data        right  stop processing
+controller  require  data controller  cease processing    begin
+processing   cease processing   specified purpose    specified
+manner  data subjects personal data
+        data controller shall  soon  practicable    case within
+twentyone days  receiving  notice  subsection  comply  
+notice unless 
+               processing  necessary   performance   contract 
+                   data subject   party   taking  steps  
+                 request   data subject   view  entering   contract
+            b  processing  necessary  compliance   legal
+                 obligation    data controller  subject   
+                 obligation imposed  contract
+            c  processing  necessary  order  protect  vital interests
+                   data subject 
+            d  processing  necessary    circumstances  may
+                  prescribed  regulations
+  data controller shall state   data subject  reasons   non
+compliance   notice
+          application   data subject   given notice 
+subsection   commissioner  satisfied   data controller  question
+ failed  comply   notice  commissioner may issue  enforcement
+order  section 
+        failure   data subject  exercise  right conferred 
+subsection    affect   right conferred   data subject  
+law
+                                         
+
+ data protection law 
+right  stop processing     section direct marketing means  communication 
+ direct marketing
+                         whatever means   advertising marketing promotional  similar material
+                           directed  particular individuals
+                                 data subject  entitled   time  notice  writing   data
+                         controller  require  data controller   end   period   reasonable
+                           circumstances  cease    begin processing   purposes 
+                         direct marketing personal data relating   data subject
+                                   application   data subject   given notice 
+                         subsection   commissioner  satisfied   data controller  question
+                          failed  comply   notice  commissioner may issue  enforcement
+                         order  section 
+                                 failure   data subject  exercise  right conferred 
+                         subsection    affect   right conferred   data subject  
+                         law
+rights  relation        data subject  entitled   time  notice  writing   data
+automated decision
+making                   controller  require  data controller  ensure   decision taken   
+                         behalf   data controller  significantly affects  data subject  based
+                         solely   processing  automatic means   data subjects personal data
+                           purpose  evaluating  data subjects performance  work
+                         creditworthiness reliability conduct    matters relating   data
+                         subject
+                                  notice   given  subsection    decision 
+                         significantly affects  data subject  based solely  processing specified  
+                         subsection 
+                                         data controller shall  soon  reasonably practicable notify
+                                            data subject   decision  taken   basis 
+                                     b  data subject  entitled within twentyone days  receiving
+                                            notification   data controller  notice  writing 
+                                           require  data controller  reconsider  decision   take 
+                                           new decision otherwise    basis
+                                 data controller shall within twentyone days  receiving  notice
+                          subsection b give  data subject  written notice specifying  steps
+                           data controller intends  take  comply   notice
+                                 notice  subsection     effect  relation  
+                         nothing  subsection  applies   decision 
+                                                                     
+
+                                                                            data protection law 
+                respect   one condition    subsections  
+                    satisfied 
+            b   made    circumstances  may  prescribed 
+                  regulations
+        first condition    decision 
+                taken   course  steps taken 
+                     purpose  considering whether  enter  
+                        contract   data subject
+                  ii   view  entering    contract 
+                  iii   course  performing   contract 
+            b  authorized  required     enactment
+        second condition   
+                effect   decision   grant  request   data subject
+                  
+            b steps   taken  safeguard  legitimate interests  
+                  data subject including  allowing  data subject  make
+                  representations
+         commissioner  satisfied   application   data subject
+  person taking  decision  respect   data subject  failed  comply
+  notice  subsection   b  commissioner may among 
+things issue  enforcement order directing  data controller  reconsider 
+decision   decision   based solely   processing mentioned 
+subsection 
+  person  suffers damage  reason   contravention   data                  compensation  failure
+                                                                                         comply
+controller   requirement   law   cause  action  compensation
+  data controller   damage
+    commissioner  satisfied   complaint made  section            rectification blocking
+                                                                                        erasure  destruction
+ personal data  inaccurate  commissioner may order  data controller
+ rectify block erase  destroy 
+              data 
+            b   personal data  respect    person   data
+                  controller   contain  expression  opinion  appears
+                    commissioner   based   inaccurate data
+       subsection  applies whether    personal data accurately
+record information received  obtained   data controller   data
+subject   third party    data accurately record  information 
+ commissioner may instead  making  order  subsection  
+                                           
+
+ data protection law 
+                                      make  order requiring  personal data   supplemented 
+                                          statement   facts relating   matters dealt   
+                                         data   commissioner may approve
+                                   b make  order   commissioner thinks fit  ensure 
+                                         accuracy   data  regard   purpose  purposes 
+                                           data  obtained   processed  
+                                         without   order requiring  data   supplemented 
+                                          statement   facts relating   matters dealt   
+                                         data   commissioner may approve 
+                                   c make  order requiring  data controller  ensure   data
+                                         indicate    data subjects view  data  inaccurate
+                                commissioner 
+                                    makes  order  subsection  
+                                   b  satisfied   complaint made  section   personal
+                                         data    rectified blocked erased  destroyed 
+                                         inaccurate
+                        commissioner may    considered reasonably practicable order  data
+                       controller  notify third parties    data   disclosed  
+                       rectification blocking erasure  destruction
+                             part   restricted processing  personal data
+                                                             breaches
+preliminary              cabinet may  consultation   commissioner   
+determination 
+commissioner       persons   cabinet may consider appropriate make regulations prescribing
+restricted processing   types  processing  require  prior approval   commissioner 
+                       processing   considered particularly likely  
+                                      cause substantial damage  substantial distress  data subjects
+                                         
+                                   b otherwise significantly prejudice  rights  freedoms  data
+                                         subjects
+personal data breaches     case   personal data breach  data controller shall without
+                       undue delay   longer  five days   data controller   
+                       exercise  reasonable diligence   aware   breach notify  data
+                       subject   data  question   commissioner   personal data breach
+                       describing 
+                                     nature   breach
+                                   b  consequences   breach
+                                   c  measures proposed  taken   data controller  address
+                                          breach 
+                                                                   
+
+                                                                          data protection law 
+            d  measures recommended   data controller   data
+                 subject   personal data  question  mitigate  possible
+                 adverse effects   breach
+        data controller  contravenes subsection  commits  offence
+  liable  conviction   fine  one hundred thousand dollars
+                                part   exemptions
+ except  provided   part  subject information provisions shall        effect   part
+ effect notwithstanding  law prohibiting  restricting  disclosure 
+authorizing  withholding  information
+  personal data  exempt     provisions                       national security
+              data protection principles 
+            b parts    
+  exemption       provisions  required   purpose 
+safeguarding national security
+        governor may   purpose mentioned  subsection  issue
+ certificate  respect   personal data exempting  data    
+  provisions referred    subsection   certificate shall 
+sufficient evidence   fact
+         exercise   discretion  issue  certificate  subsection
+  governor may consult   national security council
+        certificate issued  subsection  shall identify  personal
+data    applies
+          consideration   matter   commissioner   claimed
+  data controller   certificate   section applies   personal
+data  party    governor  data controller   data subject may
+make  application   commissioner contending   certificate  
+apply   personal data  respect    complaint  made
+       notwithstanding subsection  unless  commissioner makes 
+determination  subsection   certificate shall  conclusively presumed
+  apply
+         application  subsection   commissioner may
+determine   certificate   apply   personal data  respect 
+  complaint  made
+                                          
+
+ data protection law 
+                               document purporting    certificate   section  signed
+                         governor shall  received  evidence  taken     certificate
+                       unless  contrary  proved
+crime government fees   personal data processed     following purposes 
+ duties
+                                    prevention detection  investigation  crime
+                                  b  apprehension  prosecution  persons   suspected 
+                                         committed  offence anywhere 
+                                  c  assessment  collection   fees  duty   
+                                        imposition   similar nature   islands
+                        exempt   first data protection principle except   extent  
+                        requires compliance   conditions  schedules     non
+                       disclosure provisions  section    extent    application  
+                       provisions   data   likely  prejudice    matters referred 
+                        paragraphs   c
+                              personal data  
+                                      processed   purpose  discharging functions  
+                                        law 
+                                  b consist  information obtained    purpose   person
+                                          possession       purposes referred  
+                                        subsections   c
+                        exempt   subject information provisions    extent  personal
+                       data processed     purposes referred   subsections   c
+health education       cabinet may  regulations exempt   subject information
+social work
+                       provisions  modify  provisions  relation  personal data consisting 
+                       information    physical  mental health  condition   data subject
+                               cabinet may  regulations exempt   subject information
+                       provisions  modify  provisions  relation  personal data  respect 
+                         data controller   proprietor governor governing body director 
+                       manager    principal  teacher   school   personal data consist 
+                       information relating  persons      pupils   school
+                               cabinet may  regulations exempt   subject information
+                       provisions  modify  provisions  relation  personal data   
+                       descriptions  may  specified   regulations  information 
+                                     processed   public authority 
+                                                                 
+
+                                                                             data protection law 
+           b appearing   cabinet   processed   course   
+                  purposes  carrying  social work  relation   data
+                 subject   individuals
+  extent   cabinet consider   application   data  
+provisions    provisions without modification   likely 
+prejudice  carrying   social work
+  personal data   processed   purposes   monitoring           monitoring inspection
+                                                                                         regulatory function
+inspection  regulatory function connected   exercise   public function
+ cases  
+            public safety
+           b  prevention investigation detection  prosecution 
+                 criminal offences   breaches  ethics  regulated
+                 professions 
+           c  important economic  financial interest   islands
+                 including 
+                  compliance  international tax treaties  international
+                       cooperation purposes
+                 ii  monitoring inspection  regulatory function exercised
+                        official authorities including regulation   financial
+                       services industry 
+                 iii  monetary budgetary  taxation purposes  
+                       islands
+ exempt   subject information provisions   extent   
+application   provisions   data   likely  prejudice  proper
+discharge   function
+       subsection  applies  
+               public function conferred   person     law
+                  regulations
+           b  function   crown  governor  cabinet   public
+                 authority 
+           c   function   public nature
+  personal data   processed    special purposes              journalism literature 
+                                                                                        art
+exempt   provision    section relates  
+               processing  undertaken   view   publication  
+                 person   journalistic literary  artistic material
+           b  data controller reasonably believes   regard 
+                 particular   special importance   public interest 
+                 freedom  expression publication     public
+                 interest 
+                                          
+
+ data protection law 
+                                 c    data controller reasonably believes    
+                                       circumstances compliance   provision  incompatible
+                                         special purposes
+                             section relates   following provisions 
+                                     data protection principles except  seventh data protection
+                                       principle 
+                                 b section 
+                             considering   purposes  subsection b whether 
+                     belief   data controller  publication     public interest   
+                      reasonable one regard may     data controllers compliance  
+                       practice   relevant   publication  question
+research history      section relevant conditions means 
+statistics
+                                     condition   personal data   processed  support 
+                                       measure  decision  respect   particular data subject 
+                                 b  condition   personal data   processed   
+                                       way  substantial damage  substantial distress  likely  
+                                       caused   data subject
+                            personal data processed  statistical purposes    purposes 
+                     historical  scientific research  compliance   relevant conditions 
+                     exempt   first data protection principle   extent 
+                       requires compliance  paragraph b  part   schedule 
+                     schedule 
+                            subsection  applies  
+                                     provision   information proves impossible  
+                                       involve  disproportionate effort 
+                                 b processing  required     enactment
+                              purposes   second data protection principle  
+                     processing  personal data   purpose  research history  statistics 
+                     compliance   relevant conditions     regarded  incompatible
+                       purposes     obtained
+                            personal data processed solely   purposes  scientific research
+                      kept   form  identifies  data subject   period    exceed
+                      period necessary   sole purpose  creating statistics  exempt 
+                     section 
+                            subsection  applies  
+                                                                
+
+                                                                          data protection law 
+               data  processed  compliance   relevant
+                 conditions
+           b    risk  breaching  rights  freedoms   data
+                 subject 
+           c  results   research   resulting statistics   made
+                 available   form  identifies one     data
+                 subjects
+       personal data processed  historical statistical  scientific purposes
+ compliance   relevant conditions  exempt   fifth data
+protection principle   extent   compliance   likely 
+prejudice  purposes
+ personal data  exempt                                                    information available 
+                                                                                     public   
+                                                                                     enactments
+             subject information provisions
+           b  fourth data protection principle  section    
+           c  nondisclosure provisions
+  data consist  information   data controller  obliged   
+ enactment  make available   public including  inspection
+gratuitously   payment   fee
+  personal data  exempt   nondisclosure provisions             disclosures required 
+                                                                                     law  made 
+disclosure  required     enactment   law    order      connection  legal
+court                                                                               proceedings
+       personal data  exempt   nondisclosure provisions  
+disclosure  necessary 
+                purpose   connection    contemplation 
+                  quasijudicial  legal proceedings
+           b   purpose  obtaining legal advice 
+           c otherwise   purposes  establishing exercising 
+                 defending  legal right
+ personal data processed   individual    purposes             personal family 
+                                                                                     household affairs
+individuals personal family  household affairs  exempt   data
+protection principles  parts   
+ personal data  exempt   subject information provisions               honours
+processed   purposes   conferring   crown   premier  
+honour  dignity
+                                          
+
+ data protection law 
+corporate finance     personal data  processed   purposes    connection
+                     corporate finance service provided   relevant person 
+                                 data  exempt   subject information provisions 
+                                    extent   either 
+                                     application   provisions   data  affect
+                                          price   instrument already  existence    
+                                           may  created 
+                                   ii  data controller reasonably believes   application
+                                           provisions   data  affect  price  
+                                          instrument 
+                              b   extent   data   exempt   subject
+                                   information provisions  virtue  paragraph   
+                                   exempt   provisions   exemption  required  
+                                   purpose  safeguarding  important economic  financial
+                                   interest   islands
+                            purposes  subsection b  cabinet may  regulations
+                   specify 
+                                matters   taken  account  determining whether
+                                   exemption   subject information provisions  required 
+                                    purpose  safeguarding  important economic  financial
+                                   interest   islands 
+                              b circumstances   exemption   provisions   
+                                      taken   required   purpose
+                            section 
+                   corporate finance service means  service consisting  
+                                underwriting  respect  issues    placing  issues 
+                                    instrument
+                              b advice  undertakings  capital structure industrial strategy
+                                    related matters  advice  service relating  mergers
+                                     purchase  undertakings 
+                              c services relating   underwriting  mentioned  paragraph
+                                   
+                   instrument means  instrument representing investment within  meaning 
+                    law   islands
+                   price includes value
+                   relevant person means 
+                                                             
+
+                                                                                 data protection law 
+                     registered person within  meaning   law providing 
+                       investment business   person   exempted  
+                       respective law   obligation   registered  respect 
+                        investment business
+                  b  person    authorized person   law providing
+                        investment business    exempt person   law
+                        respect   investment business
+                  c  person  may  prescribed  regulations   purposes
+                         section
+                  d  person    course   persons employment provides
+                         employer  service falling within paragraph b  c 
+                        definition  corporate finance service 
+                  e  partner  provides   partners   partnership  service
+                       falling within  provisions  either paragraph b  c  
+                       definition  corporate finance service
+       personal data  consist  records   intentions   data              negotiations
+      controller  relation   negotiations   data subject  exempt 
+       subject information provisions   case   extent   
+      application   provisions   likely  prejudice  negotiations
+                                                                                            legal professional
+       personal data  exempt   subject information provisions   data      privilege  trusts
+      consist  information 
+                    respect   legal professional privilege applies
+                  b  relation  
+                         structure  arrangement    ordinary trust
+                                        ii  structure  arrangement    trust
+ revision                               established pursuant   trusts law 
+                                              revision 
+ revision                         iii  will made pursuant   wills law
+                                               revision
+        subject  subsection   cabinet may  consultation         exemptions 
+                                                                                            regulations
+      commissioner  regulations 
+                    exempt  subject information provisions personal data
+                       consisting  information  disclosure    prohibited 
+                       restricted     enactment 
+                  b exempt   nondisclosure provisions personal data
+                       consisting  information  disclosure    made 
+                       circumstances specified   regulations
+                                                 
+
+ data protection law 
+                                  cabinet shall  grant  exemption  subsection  unless
+                           considers  exemption   necessary   purpose  safeguarding 
+                          interests  data subjects   rights  freedoms    individual
+                                 part   functions  information commissioner
+independence              commissioner shall   powers direct  incidental  
+powers
+                          necessary  convenient  undertake  commissioners functions  provided
+                             law   purposes   section  word functions includes
+                          power authority  duty
+                                   exercise   commissioners functions   law 
+                          commissioner shall  independent  shall   subject   direction 
+                          control    person  authority
+                                  commissioner may appoint  officers  employees  
+                          necessary  enable  performance   commissioners functions  
+                          law
+                                  commissioner shall  moneys appropriated   legislative
+                          assembly meet operational expenses   office   provision   reserve
+                          fund      balance separate   reserve fund pay 
+                          balance   general revenues   islands
+                                  cabinet may  regulations provide   operation  
+                          reserve fund
+commissioner           except  otherwise stated   law   freedom  information law
+subject  public service
+management law        revision  commissioner shall  subject   public service
+revision                 management law  revision
+ revision
+functions 
+commissioner                principal functions   commissioner include 
+                                        hear investigate  rule  complaints made   law
+                                      b  monitor investigate  report   compliance  data
+                                            controllers   obligations   law
+                                      c  intervene  deliver opinions  orders related  processing
+                                            operations
+                                      d  order  rectification blocking erasure  destruction  data
+                                      e  impose  temporary  permanent ban  processing
+                                      f  make recommendations  reform    general nature
+                                             directed  specific data controllers
+                                                                     
+
+                                                                          data protection law 
+            g    engage  proceedings   provisions   law 
+                   violated  refer  violations   appropriate
+                  authorities
+            h    cooperate   data protection supervisory authorities
+                publicize  promote  requirements   law  
+                  rights  data subjects   
+            j     anything  appears   commissioner  
+                  incidental  conducive   carrying   
+                  commissioners functions   law
+  document  appears    signed    behalf                 documents signed 
+                                                                                     commissioner
+commissioner shall  presumed     signed   admissible  
+proceedings unless  contrary  shown
+  commissioner shall  soon  reasonably practicable   end        reports  legislative
+                                                                                     assembly  budget
+ year lay   legislative assembly 
+                report   operation   law   year  may
+                   time  time submit   reports   commissioner
+                  thinks appropriate 
+            b accounts audited  accordance   public management 
+                                                                                      revision
+                  finance law  revision
+   commissioner   designated authority   islands            international
+                                                                                     cooperation
+purposes  international cooperation related  data protection
+        commissioner shall also carry   data protection functions
+  functions relating   protection  individuals  respect  
+processing  personal information  may  prescribed  regulations  
+purpose  enabling  islands  give effect     international
+obligations
+ neither  commissioner   member  staff   commissioners           protection 
+                                                                                     commissioner
+office shall  liable  damages  anything done  omitted   discharge 
+purported discharge   respective functions   law unless  
+shown   act  omission  negligent   bad faith
+     defence   proceedings  libel  slander  information      defamation
+supplied   commissioner  communicated   commissioner pursuant
+  law
+          defence   proceedings  libel  slander  information
+communicated   data controller   person   law 
+communicated   data controller   first instance   third person unless
+ communication     data controller  made maliciously
+                                           
+
+ data protection law 
+consultation            public authority   drawing  administrative measures  rules
+commissioner            relating   protection  data subjects rights  freedoms  regard  data
+                        processing shall consult  commissioner   content   measures 
+                        rules
+promotion   law     commissioner shall promote good practice  observance  
+commissioner
+                        law  data controllers
+                                commissioner may arrange   dissemination  information
+                          operation   law  good practice    matters
+                        within  scope   commissioners functions   law  may give
+                        advice   person      matters
+codes  practice          cabinet may  consulting   commissioner make
+                        regulations   preparation  dissemination  codes  practice  may
+                         specific   particular industry  processing operation
+                                guidance  subsection  shall describe  personal data 
+                        processing      practice shall relate  may also describe 
+                        persons  classes  persons    shall relate
+                                commissioner shall also 
+                                        commissioner considers  appropriate    encourage
+                                         trade associations  prepare   disseminate  
+                                         members codes  practice  guidance   good practice 
+                                    b   trade association submits    practice  
+                                         commissioners consideration consider     
+                                         consultation  data subjects  persons representing data
+                                         subjects  appears   commissioner   appropriate notify
+                                          trade association whether   commissioners opinion 
+                                          promotes good practice
+                                commissioner may   consent   relevant data
+                        controller assess  processing  personal data   adherence  good
+                        practice  shall inform  data controller   results   assessment
+                                commissioner may charge  fees  may  considered fit 
+                         services provided   commissioner   law
+                                 section 
+                                                                  
+
+                                                                          data protection law 
+good practice means  practice   processing  personal data  appears
+  commissioner   desirable  regard   interests  data subjects
+ others  includes compliance   requirements   law 
+trade association includes  body representing data controllers
+        commissioner shall also provide  cabinet   copy  
+  practice prepared  subsection  unless    included  
+report provided   cabinet
+        commissioner shall cause   laid  copy   report   
+ provided  subsection    legislative assembly  soon 
+practicable   cabinet receives  report   copy   
+                              part   enforcement
+   complaint may  made   commissioner    behalf             complaints
+person   processing  personal data        
+carried   compliance   provisions   law  anything required 
+ done pursuant   law
+        person submitting  complaint  behalf  another  subsection
+ shall provide written authorization   aggrieved person
+        receiving  complaint referred   subsection    
+commissioners  motion  commissioner may conduct  investigation
+        matters    commissioner may  regard 
+determining whether    conduct  investigation referred   subsection
+ include 
+               extent    complaint appears   commissioner 
+                 raise  matter  substance
+            b  undue delay  making  complaint
+            c whether  complaint  frivolous  vexatious 
+            d whether    person making  complaint  entitled 
+                 make  request  section   respect   personal data 
+                 question
+        commissioner may consult   information 
+communications technology authority  regards   enforcement
+functions   law   matters   commissioner relate  
+operation  information  communications technology networks  provision
+ related services    application   seventh data protection principle
+                                          
+
+ data protection law 
+                           information  communications technology authority shall
+                   comply   reasonable request made   commissioner  accordance
+                     commissioners enforcement functions  advice  technical 
+                   similar matters relating   operation  information  communications
+                   technology networks  provision  related services    application  
+                   seventh data protection principle
+information orders    commissioner may require  person  provide 
+                   information   commissioner may reasonably consider appropriate  
+                   purpose  carrying   commissioners functions   law including
+                    information  respect    exemption  claimed
+                           person   required  provide information   section
+                   shall provide     manner form  within  reasonable period  
+                   commissioner may specify
+                           information requirement   section shall also contain
+                   particulars   right  seek judicial review conferred  section 
+                           person  refuses  without reasonable excuse fails  supply
+                   information required  subsection  commits  offence   liable 
+                   conviction   fine  one hundred thousand dollars   imprisonment  
+                   term  five years  
+                           person  intentionally alters suppresses  destroys information
+                     required   produced  subsection  commits  offence  
+                   liable  conviction   fine  one hundred thousand dollars   imprisonment
+                     term  five years  
+                           person commits  offence   purported compliance  
+                   requirement made  subsection   person 
+                                 makes  false statement   person knows   false  
+                                    material respect 
+                              b recklessly makes  statement   false   material respect
+                     liable  conviction   fine  one hundred thousand dollars  
+                   imprisonment   term  five years   
+enforcement orders     commissioner  satisfied    reasonable grounds 
+                   believing   data controller  contravened  contravening   likely 
+                   contravene  provision   law  commissioner may   view 
+                   effecting  data controllers compliance   provision  way   order
+                   served   data controller require  data controller  
+                                                              
+
+                                                                           data protection law 
+               take specified steps within  specified time   refrain 
+                  taking specified steps   specified time
+            b refrain  processing  personal data   personal data 
+                   specified description
+            c refrain  processing data   specified purpose   
+                  specified manner   specified time 
+            d  anything  appears   commissioner   incidental
+                   conducive   carrying    commissioners functions
+                    law
+        enforcement order shall include 
+                statement   provision   commissioner  satisfied
+                       contravened   reasons  reaching
+                   conclusion 
+            b particulars   right  seek judicial review conferred 
+                  section 
+        
+                order requires  data controller  rectify block erase 
+                  destroy  personal data 
+            b  commissioner  satisfied  personal data   
+                  rectified blocked erased  destroyed   processed 
+                  contravention     data protection principles
+ order may    reasonably practicable require  data controller  notify
+third parties    data   disclosed   rectification blocking
+erasure  destruction
+        commissioner shall  determining whether   reasonably
+practicable  require  enforcement order  subsection   regard 
+particular   number  persons      notified
+  subject  subsections     person  fails  comply           failure  comply 
+                                                                                       order
+information requirement enforcement order  monetary penalty order  
+law commits  offence   liable  conviction   fine  one hundred
+thousand dollars   imprisonment   term  five years  
+          defence   person charged   offence  subsection
+  prove   due diligence   exercised  comply  
+information requirement enforcement order  monetary penalty order 
+question
+  person   received  information requirement enforcement order            right  seek judicial
+                                                                                       review
+ monetary penalty order   law may within fortyfive days  receipt
+                                           
+
+ data protection law 
+                         upon notice   commissioner seek judicial review   information
+                        requirement   order   grand court
+commissioner  certify     person concerned   sought judicial review upon 
+                        expiry   fortyfive day period referred   section   commissioner
+                        may certify  writing   court  failure  comply   information
+                        requirement enforcement order  monetary penalty order made  sections
+                              court may consider  failure   rules relating 
+                        contempt  court
+                                rules committee referred   section             revision
+                        grand court law  revision may make rules providing  
+                                       effect  proceedings referred   subsection    person
+                                         obtaining leave  seek judicial proceedings    time
+                                         referred   section  
+                                    b   matters relating  proceedings   section
+disclosure              except  provided   law  enactment  law prohibiting 
+information
+                        restricting  disclosure  information shall preclude  person  furnishing
+                         commissioner   information required   discharge  
+                        commissioners functions   law
+                               subsection  shall   read    compel  individual  utter
+                        anything  tends  incriminate  individual
+confidentiality          current  former commissioner current  former member  
+information
+                        commissioners staff current  former agent   commissioner  current 
+                        former consultant   commissioner shall  knowingly  wilfully disclose
+                         information 
+                                          obtained   furnished   commissioner
+                                             purposes   law  
+                                         freedom  information law  revision           revision
+                                    b relates   identified  identifiable person 
+                                    c     time   disclosure    previously 
+                                         available   public   sources
+                        unless  disclosure  made  lawful authority
+                                 purposes  subsection   disclosure  information  made
+                         lawful authority  
+                                                                  
+
+                                                                          data protection law 
+               disclosure  made   consent   person  
+                  information relates
+           b  information  provided   purpose    made
+                 available   public  whatever manner   provision
+                   law
+           c  disclosure  made   purposes   discharge  
+                  functions   law   freedom  information
+                       law  revision 
+                 ii  european union obligation   united kingdom 
+                         extended   islands
+           d  disclosure  made   purposes   proceedings
+                 whether criminal  civil  whether arising    virtue
+                   law  otherwise 
+           e  regard   rights  freedoms  legitimate interests 
+                  person  disclosure  necessary   public interest
+        person  knowingly  recklessly discloses information 
+contravention  subsection  commits  offence
+    part                                                                 entry  search 
+                                                                                      premises
+occupier  relation  premises includes  person  charge  premises
+premises includes 
+             ship aircraft vessel   vehicle 
+           b  hovercraft   floating  airborne contrivance
+registered   islands
+         judge  satisfied  information  oath supplied  
+commissioner    reasonable grounds  believing 
+                data controller  contravened  contravening   likely
+                  contravene    data protection principles 
+           b   offence   law      committed
+    reasonable grounds  believe  evidence  
+contravention    commission   offence    found   premises
+specified   information  judge may grant  warrant   commissioner
+        warrant granted  subsection  may authorize 
+commissioner     commissioners staff   time 
+               enter  premises  search 
+                                          
+
+ data protection law 
+                                   b  inspect examine operate  test  equipment found 
+                                            used  intended   used   processing 
+                                          personal data 
+                                   c  inspect examine  seize  documents equipment  
+                                          thing found   may  evidence   contravention 
+                                          subsection 
+warrant  exercisable
+                           powers  inspection  seizure conferred   warrant shall 
+                         exercisable  respect  personal data   exempt  section 
+                                powers  inspection  seizure conferred   warrant shall 
+                         exercisable  respect  information   legal professional privilege 
+                        claimed   event    claim  relevant material shall  sealed held
+                          neutral party   party claiming privilege shall bring  matter 
+                         grand court  later  five days following  claim   time 
+                        grand court shall determine  matter   costs   procedure shall  
+                        accordance   order   grand court
+offences  respect     person  
+warrants
+                                       obstructs  person   execution   warrant granted 
+                                           law
+                                   b fails without reasonable excuse  give  person executing 
+                                           warrant  assistance  may  reasonably required  
+                                          execution   warrant
+                                   c makes  statement  response   requirement   law
+                                            person knows   false   material respect 
+                                   d recklessly makes  statement  response    requirement
+                                            false   material respect
+                        commits  offence   liable 
+                                              summary conviction   fine  twenty thousand
+                                                dollars 
+                                          ii  conviction  indictment   fine  one hundred
+                                                thousand dollars   term  imprisonment  four years 
+                                                 
+unlawful obtaining etc    person shall  knowingly  recklessly without  consent  
+ personal data
+                        data controller 
+                                    obtain  disclose personal data 
+                                   b procure  disclosure  another person   personal data
+                               subsection    apply   person  shows  
+                        obtaining disclosing  procuring 
+                                                                  
+
+                                                                         data protection law 
+               necessary   purpose  preventing  detecting  crime
+                 
+           b  required  authorized     enactment  
+                 law    order   grand court
+        person  contravenes subsection  commits  offence  
+liable upon conviction   fine  one hundred thousand dollars
+        person  sells personal data commits  offence   person 
+obtained  data  contravention  subsection    liable upon
+conviction   fine  one hundred thousand dollars
+        person  offers  sell personal data commits  offence  
+               person  obtained  data  contravention  subsection
+                  
+           b  person subsequently obtains  data  contravention  
+                 subsection
+         purposes  subsection   advertisement indicating 
+personal data   may   sale   offer  sell  data
+   commissioner may serve  data controller   monetary                power  
+                                                                                    commissioner  impose
+penalty order   commissioner  satisfied   balance  probabilities   monetary penalty
+                  serious contravention   law   data
+                 controller 
+           b  contravention    kind likely  cause substantial
+                 damage  substantial distress   data subject
+        monetary penalty order   order requiring  data controller 
+pay  monetary penalty   amount determined   commissioner 
+specified   order
+        amount   monetary penalty determined   commissioner
+shall  exceed two hundred  fifty thousand dollars
+        monetary penalty order shall  paid   general revenues 
+ islands within  period specified   order
+        commissioner  serving  monetary penalty order shall
+serve  data controller   notice  intent   commissioner proposes 
+serve  monetary penalty order
+                                          
+
+ data protection law 
+                                notice  intent shall state   data controller may make written
+                        representations  relation   commissioners proposal within  period 
+                        twentyone days    information  may  prescribed
+                                commissioner may  serve  monetary penalty order  
+                        period specified  subsection   expired
+guidance              commissioner shall prepare  issue guidance  consultation
+monetary penalty orders
+                         cabinet   exercise   commissioners functions  section 
+                                guidance shall  particular deal  
+                                        circumstances    commissioner  consider 
+                                          appropriate  issue  monetary penalty order 
+                                    b   commissioner will determine  amount   penalty
+general provisions         person  commits  offence   law  liable except
+relating  offences
+                          law otherwise provides 
+                                      summary conviction   fine  ten thousand dollars 
+                                    b  conviction  indictment   fine  twenty thousand dollars
+                                fine ordered   law shall   addition   monetary
+                        penalty imposed   commissioner  section 
+                                grand court      person  convicted  
+                                      offence  section    
+                                    b  offence  section  relating   enforcement order
+                        may order  document   material used  connection   processing
+                         personal data  appearing   court   connected   commission
+                          offence   forfeited destroyed  erased
+                                grand court shall  make  order  subsection  
+                        relation   material   person    offender claiming   
+                        owner   otherwise interested   material applies   heard   court
+                        unless  opportunity  given   person  show cause   order 
+                          made
+liability  offences      offence   law   committed   body
+                        corporate   proved    committed   consent  connivance
+                            attributable   neglect   part  
+                                      director secretary  similar officer   body corporate 
+                                    b  person   purporting  act    capacity
+                                                                   
+
+                                                                             data protection law 
+ director secretary similar officer   body corporate   person
+purporting  act    capacity  well   body corporate commit 
+offence   liable   proceeded   punished accordingly
+         affairs   body corporate  managed   members
+subsection  applies  relation   acts  defaults   member 
+connection   members functions  management    member  
+director   body corporate
+                                  part   general
+  law binds  crown                                                           law binds crown
+   notice required   law   given   commissioner shall             service  orders etc
+  regarded  given     fact received   commissioner
+        notice   document   required  authorized  
+law   given   commissioner may  given  electronic   means
+  condition   commissioner  able  obtain  recreate  notice 
+document  intelligible form
+        order notice direction   document required  authorized
+    law   given   served   person   
+commissioner may  given  served 
+             delivering    person
+           b  leaving    persons address
+           c  sending   registered post   person   persons
+                 address 
+           d  sending    person  electronic   means  
+                 persons given facsimile number  electronic mail address 
+                   given address    order notice direction 
+                 document may  obtained  recreated  intelligible form
+       without limiting  generality  subsection    order
+notice direction   document may  given   served   partnership
+company incorporated outside  islands  unincorporated association  
+given   served 
+                case   person    purports  whatever
+                 description  act   secretary clerk   similar officer
+           b   case   partnership   person   control 
+                 management   partnership business
+           c   case   partnership  company incorporated outside 
+                 islands   local representative referred   section  
+                                           
+
+ data protection law 
+                              d   delivered   registered  administrative office  
+                                    person referred   paragraph  b  c   person  
+                                    body corporate
+                            person      order notice direction  
+                   document referred   subsection     given  served  notified 
+                   commissioner   address within  islands   one    person 
+                   someone   persons behalf will accept documents    description 
+                    order notice direction   document  address shall also  treated
+                     purposes   section   persons address
+                            name   address   owner lessee  occupier  premises
+                      order notice direction   document referred   subsection
+                       served   reasonable enquiry  ascertained  may 
+                   served  
+                                 addressing    person       served  
+                                    description  owner lessee  occupier   premises
+                              b specifying  premises   
+                              c delivering    responsible person resident  appearing  
+                                    resident   premises      person    can
+                                     delivered  affixing    copy     conspicuous part
+                                      premises
+                          upon  service   notice   document   section 
+                   person carrying   service shall  required provide  affidavit 
+                   service  accordance  order  rule    grand court rules  
+                   proof  service
+regulations           cabinet may make regulations prescribing  matters  
+                   required  permitted   law   prescribed   necessary  convenient
+                     prescribed  giving effect   purposes   law
+                          regulations made   law may 
+                                 make different provisions  relation  different cases 
+                                    circumstances
+                              b apply  respect  particular persons  particular cases 
+                                    particular classes  persons  particular classes  cases 
+                                    define  class  reference   circumstances whatsoever
+                              c contain  transitional consequential incidental 
+                                    supplementary provisions  appear   cabinet  
+                                    necessary  expedient   purposes   law 
+                              d create  offence punishable   fine  one hundred thousand
+                                    dollars
+                                                             
+
+                                                                          data protection law 
+                                   schedule 
+                                                              section   
+            data protection principles  
+                               interpretation
+                                      part 
+                           data protection principles
+first principle
+ personal data shall  processed fairly  addition personal data may 
+processed   
+               every case  least one   conditions set   paragraphs
+                     schedule   met 
+           b   case  sensitive personal data  least one  
+                 conditions  paragraphs     schedule   also met
+second principle
+ personal data shall  obtained   one   specified lawful
+purposes  shall    processed   manner incompatible  
+purpose   purposes
+third principle
+ personal data shall  adequate relevant   excessive  relation  
+purpose  purposes     collected  processed
+fourth principle
+   personal data shall  accurate   necessary kept   date
+fifth principle
+ personal data processed   purpose shall   kept  longer  
+necessary   purpose
+sixth principle
+ personal data shall  processed  accordance   rights  data
+subjects   law
+seventh principle
+ appropriate technical  organizational measures shall  taken 
+unauthorized  unlawful processing  personal data   accidental loss
+ destruction   damage  personal data
+eighth principle
+                                          
+
+ data protection law 
+                    personal data shall   transferred   country  territory unless 
+                   country  territory ensures  adequate level  protection   rights 
+                   freedoms  data subjects  relation   processing  personal data
+                                                          part 
+                                     interpretation  data protection principles
+                   first principle source
+                      determining   purposes   first principle whether personal
+                   data  processed fairly regard      
+                                 method     obtained including  particular
+                                   whether  person     obtained  deceived 
+                                   misled    purpose  purposes      
+                                   processed 
+                              b whether  information contained   personal data 
+                                   previously  made public   result  steps deliberately
+                                   taken   data subject
+                          subject  paragraph    purposes   first principle personal
+                   data  prima facie   treated  obtained fairly   consist  information
+                   obtained   person   required  supply      enactment 
+                     convention   instrument imposing  international obligation  
+                   islands
+                   first principle specified information  relevant time
+                      purposes   first principle personal data shall   treated 
+                   processed fairly unless  data subject   soon  reasonably practicable
+                    provided    minimum 
+                                 identity   data controller 
+                              b  purpose    data    processed
+                   seventh principle processing contract  ensure reliability
+                     processing  personal data  carried    data processor  behalf 
+                    data controller  data controller shall    regarded  complying 
+                    seventh principle unless  processing  carried    contract 
+                                 made  evidenced  writing
+                              b    data processor   act   instructions 
+                                    data controller 
+                                                             
+
+                                                                           data protection law 
+            c    requires  data processor  comply  obligations
+                  equivalent   imposed   data controller   seventh
+                  principle
+eighth principle   adequate protection  foreign country
+   purposes   eighth principle  adequate level  protection 
+one   adequate    circumstances   case  regard among
+ things  
+              nature   personal data
+            b  country  territory  origin   information contained 
+                   data
+            c  country  territory  final destination   information
+            d  purposes    period    personal data
+                   intended   processed
+            e  law  force   country  territory  question
+            f  international obligations   country  territory
+            g  relevant codes  conduct   rules   enforceable
+                    country  territory whether generally   arrangement
+                   particular cases 
+            h  security measures taken  respect   data   country
+                   territory
+exceptions  eighth principle
+  eighth principle   apply   transfer falling within schedule 
+except   circumstances    extent  may  prescribed 
+regulations
+eighth principle european union finding decisive
+     proceedings   law  question arises   whether
+ requirement   eighth principle    adequate level  protection  met
+ relation   transfer   personal data   country  territory outside 
+islands    member state   european union   respect   
+european union finding   made  relation  transfers   kind 
+question  question shall  determined  accordance   finding
+         paragraph european union finding means  finding  
+european commission   procedure provided     
+directive ec    provision  instrument  may   time
+   force   protection  data subjects  regard   processing
+ personal data    free movement   data   country  territory
+outside  european economic area     ensure  adequate level
+ protection within  meaning      directive   
+provision  instrument  may   time    force   purpose
+                                           
+
+ data protection law 
+                                                         schedule 
+                                                                                           section 
+                    first principle  conditions  processing  personal
+                                                          data
+                   consent
+                        data subject  given consent   processing
+                   processing necessary  contract
+                        processing  necessary  
+                                  performance   contract    data subject   party
+                                    
+                              b  taking  steps   request   data subject   view
+                                     entering   contract
+                   processing  legal obligation
+                     processing  necessary  compliance   legal obligation 
+                     data controller  subject    obligation imposed  contract
+                   processing  protect vital interests
+                     processing  necessary  order  protect  vital interests   data
+                   subject
+                   processing necessary  exercise  public functions
+                        processing  necessary  
+                                administration  justice
+                              b  exercise   functions conferred   person   
+                                     enactment
+                              c  exercise   functions   crown   public
+                                    authority 
+                              d  exercise    functions   public nature exercised 
+                                     public interest   person
+                   processing  legitimate interests
+                     processing  necessary   purposes  legitimate interests pursued
+                     data controller    third party  parties    data 
+                   disclosed except   processing  unwarranted   particular case  reason
+                    prejudice   rights  freedoms  legitimate interests   data subject
+                   regulations  legitimate interests
+                     cabinet may  regulations specify particular circumstances  
+                    condition set   paragraph  shall  shall   taken   satisfied
+                                                             
+
+                                                                             data protection law 
+                                       schedule 
+                                                                          section 
+ first principle  conditions  processing  sensitive
+                                 personal data
+consent
+     data subject  given consent   processing   personal data
+employment
+  processing  necessary   purposes  exercising  performing 
+right  obligation conferred  imposed  law   data controller 
+connection   data subjects employment
+vital interests
+     processing  necessary 
+                order  protect  vital interests   data subject  another
+                  person   case  consent   given    behalf
+                    data subject   data controller  reasonably 
+                  expected  obtain  consent   data subject 
+            b  order  protect  vital interests  another person   case
+                   consent    behalf   data subject  
+                  unreasonably withheld
+nonprofit associations
+     processing 
+                carried    course   legitimate activities   body
+                   association    established  conducted  profit 
+                  exists  political philosophical religious  trade union
+                  purposes
+            b  carried   appropriate safeguards   rights 
+                  freedoms  data subjects
+            c relates   data subjects   members   body 
+                  association   regular contact    connection  
+                  purposes 
+            d   involve disclosure   personal data   third party
+                  without  consent   data subject
+information made public  data subject
+  information contained   personal data   made public  
+result  steps taken   data subject
+                                           
+
+ data protection law 
+                   legal proceedings etc
+                       processing 
+                                 necessary   purpose    connection   legal
+                                   proceedings
+                              b  necessary   purpose  obtaining legal advice 
+                              c  otherwise necessary   purposes  establishing
+                                   exercising  defending legal rights
+                   public functions
+                       processing  necessary  
+                                administration  justice
+                              b  exercise   functions conferred   person   
+                                    enactment 
+                              c  exercise   functions   crown   public
+                                   authority
+                   medical purposes
+                      processing  necessary  medical purposes   undertaken
+                   
+                                health professional 
+                              b  person    circumstances owes  duty 
+                                   confidentiality equivalent     arise   person
+                                     health professional
+                           paragraph medical purposes includes  purposes 
+                   preventative medicine medical diagnosis  provision  care  treatment 
+                    management  healthcare services
+                   circumstances prescribed  regulations
+                     personal data  processed   circumstances  may  prescribed
+                    regulations
+                   regulations relating  paragraph   
+                     cabinet may  regulations 
+                                exclude  application  paragraph      cases  may
+                                    specified 
+                              b provide    cases  may  specified  conditions 
+                                   paragraph    shall   regarded  satisfied unless 
+                                                           
+
+                                                                           data protection law 
+                 conditions  may  specified   regulations  also
+                satisfied
+                                     schedule 
+                                                                       section 
+   transfers   eighth principle   apply
+consent
+    data subject  consented   transfer
+contract  data subject  data controller
+    transfer  necessary  
+              performance   contract   data subject  
+                data controller 
+           b  taking  steps   request   data subject   view
+                  data subjects entering   contract   data
+                controller
+thirdparty contract  interest  data subject
+    transfer  necessary  
+              conclusion   contract   data controller  
+                person    data subject   contract   entered
+                   request   data subject     interests  
+                data subject 
+           b  performance    contract
+public interest
+    transfer  necessary  reasons  substantial public interest
+legal proceedings etc
+    transfer 
+              necessary   purpose    connection   legal
+                proceedings
+           b  necessary   purpose  obtaining legal advice 
+           c  otherwise necessary   purposes  establishing
+                exercising  defending legal rights
+vital interests
+  transfer  necessary  order  protect  vital interests   data
+subject
+                                         
+
+ data protection law 
+                   public register
+                     transfer  part   personal data   public register  
+                   conditions subject    register  open  inspection  complied 
+                     person    data   may  disclosed   transfer
+                   transfer made  terms approved  commissioner
+                     transfer  made  terms   kind approved   commissioner 
+                   ensuring adequate safeguards   rights  freedoms  data subjects
+                   commissioner  authorized transfer
+                     transfer   authorized   commissioner   made 
+                     manner   ensure adequate safeguards   rights  freedoms 
+                   data subjects
+                   international cooperation  intelligence agencies  regulatory
+                   agencies
+                     transfer  required  international cooperation arrangements
+                    intelligence agencies   regulatory agencies  combat
+                   organized crime terrorism  drug trafficking   carry   cooperative
+                   functions
+                   regulations concerning  public interest
+                     cabinet may  regulations specify  broad nonexhaustive terms 
+                                 circumstances    transfer shall  taken   purposes
+                                    paragraph    necessary  reasons  substantial public
+                                    interest 
+                              b circumstances    transfer  required    
+                                    enactment shall   taken   purposes  paragraph  
+                                     necessary  reasons  substantial public interest
+                                                     schedule 
+                                                                                         section  
+                                              conditions  consent
+                     data controller shall bear  burden  proving  data subjects
+                   consent   processing   data subjects personal data   specified
+                   purposes
+                      data subjects consent    given   form   written
+                   declaration  also concerns another matter  requirement  give consent
+                   shall  presented   appearance   distinguishable    matter
+                                                           
+
+                                                                        data protection law 
+  data subject shall   right  withdraw consent   time 
+withdrawal  consent shall  affect  lawfulness  processing based 
+consent   withdrawal
+       significant imbalance   position   data
+subject   data controller consent shall  provide  legal basis  
+processing
+                 passed   legislative assembly  th day  march 
+                                                            j oconnorconnolly
+                                                                         speaker
+                                                                zena merrenchin
+                                               clerk   legislative assembly
+                                        
+

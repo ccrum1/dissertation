@@ -1,0 +1,470 @@
+     <U+F0B7>     translations   site     provided  reference
+          purposes   translations  created  users  updated
+          continuously   free  use  attribution  required 
+          distribution    derivative translations
+ cybersecurity law
+ china law translate     comments
+httpchinalawtranslatecomcybersecuritylawlang=en
+title <U+4E2D><U+534E><U+4EBA><U+6C11><U+5171><U+548C><U+56FD><U+7F51><U+7EDC><U+5B89><U+5168><U+6CD5>
+promulgating entitiesstanding committee   national peoples congress
+reference number <U+4E3B><U+5E2D><U+4EE4>  <U+5C4A><U+7B2C>  <U+53F7>
+promulgation date  expiration date
+source  text httpwwwnpcgovcnnpcxinwencontenthtm
+table  contents
+  general provisions
+ ii support  promotion  network security
+ iii network operations security
+section  general provisions
+section  operations security  critical information infrastructure
+ iv network information security
+ v monitoring early warnings  emergency responses
+ vi legal responsibility
+ vii supplementary provisions
+  general provisions
+   law  formulated    ensure network security  preserve cyberspace sovereignty national security
+  societal public interest  protect  lawful rights  interests  citizens legal persons  
+organizations   promote  healthy development  economic  social informatization
+   law applies  respect   construction operation maintenance  usage  networks  well 
+network security supervision  management within  mainland territory   peoples republic  china
+   state persists  equally stressing network security  informatization development  abides  
+directives  active use scientific development management  accordance  law  ensuring security 
+advances  construction  network infrastructure  interconnectivity encouraging innovation  application 
+network technology supporting cultivation  network talent establishing  completing systems  safeguard
+network security  raising  capacity  protect network security
+   state formulates  continuously improves  network security strategy clarifies  fundamental
+requirements  primary goals  network security  puts forward network security policies work tasks 
+procedures  key fields
+   state takes measures  monitoring preventing  handling network security risks  threats arising
+ within  without  mainland territory   peoples republic  china protects critical information
+
+infrastructure  attacks intrusions interference  destruction  pushes unlawful  criminal network
+activities  accordance  law preserving cyberspace security  order
+   state advocates sincere honest healthy  civilized network conduct promoting dissemination  
+core socialist values adopting measures  raise  entire societys awareness  level  network security 
+forming  good environment   entire society  jointly participate  advancing network security
+   state actively carries  international exchange  cooperation   areas  cyberspace governance
+research  development  network technologies formulation  standards attacking cybercrime  illegality 
+  areas promoting  construction   peaceful secure open  cooperative cyberspace  establishing 
+network governance system   multilateral democratic  transparent
+   state network information departments  responsible  comprehensively planning  coordinating
+network security efforts  related supervision  management efforts  state council departments 
+telecommunications public security   relevant organs  responsible  network security protection
+supervision  management efforts within  scope   responsibilities  accordance   provisions  
+law relevant laws  administrative regulations
+network security protection supervision  management duties  relevant departments  peoples governments 
+ county level   will  determined  relevant national regulations
+  network operators carrying  business  service activities must follow  laws  administrative
+regulations obey social mores  obey commercial ethics  honest  credible perform obligations  protect
+network security accept supervision   government  public  bear social responsibility
+   construction  operation  networks   provision  services  networks shall  
+accordance   provisions  laws  administrative regulations    mandatory requirements  state
+standards adopting technical measures   necessary measures  safeguard network security  operational
+stability effectively responding  network security incidents preventing cybercrimes  unlawful activity 
+preserving  integrity secrecy  usability  online data
+  relevant network industry organizations   according   articles  association strengthen
+industry selfdiscipline formulate behavioral network security norms guide  members  strengthening network
+security protection according   law raise  protection levels  network security  stimulate  healthy
+development   industry
+   state protects  rights  citizens legal persons   organizations  use networks 
+accordance  law  promotes widespread network access raises  level  network services  provides secure
+ convenient network services  society  guarantees  lawful orderly  free circulation  network
+information
+ person  organization using networks shall abide   constitution  laws observe public order  respect
+social morality  must  endanger network security  must  use  network  engage  activities
+endangering national security national honor  interests inciting subversion  national sovereignty  overturn 
+ socialist system inciting separatism undermining national unity advocating terrorism  extremism inciting ethnic
+hatred  ethnic discrimination disseminating violent obscene  sexual information creating  disseminating false
+information  disrupt  economic  social order  well  infringing   reputation privacy intellectual property
+  lawful rights  interests  others    acts
+   state encourages research  development  network products  services conducive   healthy
+upbringing  minors lawfully punishing  exploitation   networks  engage  activities  endanger 
+psychological  physical wellbeing  minors  providing  safe  healthy network environment  minors
+   individuals  organizations   right  report conduct endangering network security  
+departments  network information telecommunications public security   forth departments receiving reports
+shall promptly process   accordance  law     fall within  responsibilities  
+department  shall promptly transfer  matters   department empowered  handle 
+relevant departments shall preserve  confidentiality   informants information  protect  lawful rights 
+interests   informant
+
+ ii support  promotion  network security
+   state establishes  improves  system  network security standards  state council
+administrative department  standardization   relevant state council departments   basis  
+individual responsibilities organize  formulation  timely revision  relevant national  industry standards 
+network security management  well    security  network products services  operations
+ state supports enterprises research institutions schools  higher learning  networkrelated industry
+organizations  participate   formulation  national  industry standards  network security
+   state council  peoples governments  provinces autonomous regions  directlygoverned
+municipalities shall make comprehensively plans expand  input support key network security technology
+industries  programs support network security technology research  development application 
+popularization spread safe  trustworthy network products  services protect  intellectual property rights 
+network technologies  support research  development institutions schools  higher learning   forth 
+participate  state network security technology innovation programs
+   state advances  establishment  socialized service systems  network security encouraging
+relevant enterprises  institutions  carry  network security certifications testing risk assessment   
+security services
+   state encourages  development  network data security protections  utilization technologies
+advancing  opening  public data resources  promoting technological innovation  economic  social
+development
+ state supports innovative methods  network security management utilizing new network technologies  enhance
+ level  network security protections
+   levels  peoples governments   relevant departments shall organize  carry  regular
+network security publicity  education  guide  stimulate relevant units   network security publicity 
+education work well
+ mass media shall conduct targeted network security publicity  education aimed   public
+   state supports enterprises  education  training institutions   schools  higher learning 
+vocational schools  carrying  network securityrelated education  training  employs multiple methods 
+cultivate talent  network security  promote interaction  network security professionals
+ iii network operations security
+section  ordinary provisions
+   state implements  tiered system  network security protections network operators shall perform 
+following security protection duties according   requirements   tiered network security protection system 
+ensure  network avoids interference damage  unauthorized visits   prevent network data leaks theft 
+falsification
+ formulate internal security management systems  operating rules determine persons responsible  network
+security  implement network security protection responsibility
+ adopt technological measures  prevent computer viruses network attacks network intrusions   actions
+endangering network security
+ adopt technological measures  monitoring  recording network operational statuses  network security
+incidents  follow relevant provisions  store network logs   least six months
+ adopt measures   data classification backup  important data  encryption
+  obligations provided  law  administrative regulations
+
+  network products  services shall comply   relevant national  mandatory requirements
+providers  network products  services must  install malicious programs  discovering   products
+ services  security flaws  vulnerabilities  shall immediately adopt remedial measures  follow
+provisions  promptly inform users  report   competent departments
+providers  network products  services shall provide security maintenance   products  services  must
+ terminate providing security maintenance   time limits  period agreed   clients
+providers  network products  services shall provide security maintenance   products  services  must
+ terminate providing security maintenance   time limits  period agreed   clients
+  critical network equipment  specialized network security products shall follow  national standards
+ mandatory requirements   safety certified   qualified establishment  meet  requirements   safety
+inspection   sold  provided  state network information departments together   relevant
+departments   state council formulate  release  catalog  critical network equipment  specialized network
+security products  promote reciprocal recognition  safety certifications  security inspection results  avoid
+duplicative certifications  inspections
+  network operators handling network access  domain registration services  users handling stationary
+ mobile phone network access  providing users  information publication  instant messaging services shall
+require users  provide real identity information  signing agreements  users  confirming provision 
+services  users   provide real identity information network operators must  provide   relevant
+services
+ state implements  network identity credibility strategy  supports research  development  secure 
+convenient electronic identity confirmation technologies promoting reciprocal acceptance among different electronic
+identity confirmations
+  network operators shall formulate emergency response plans  network security incidents promptly
+addressing system vulnerabilities computer virusesnetwork attacks network incursions    network
+security risks   network security incidents occur immediately initiate  emergency response plan adopt
+corresponding remedial measures  report   relevant competent departments  accordance  relevant
+provisions
+   carrying  network security certification testing risk assessment    activities 
+publicly publishing network security information   system vulnerabilities computer viruses network attacks 
+network incursions shall comply  relevant national provisions
+  individuals  organizations must  engage  illegal entry  others networks disruption   normal
+function  others networks theft  network data   activities endangering network security must  provide
+programs  tools specially used  network incursions disrupting normal network functions  protection measures
+stealing network data   acts endangering network security   clearly knowing  others will engage 
+actions endangering network security must  provide   help   technological support advertisements
+ promotion  paying expenses
+  network operators shall provide technical support  assistance  public security organs  state
+security organs lawful activities preserving national security  investigating crimes
+   state supports cooperation  network operators  areas   gathering analyzing reporting
+ responding  network security information increasing  security safeguard capacity  network operators
+relevant industry organizations   establish  complete mechanisms  regulation  coordination  network
+security   industry strengthen  analysis  assessment  network security  periodically conduct risk
+warnings  members  shall support  coordinate members responses  network security risks
+  information obtained  network information departments  relevant departments performing network
+security protection duties can   used  necessary   protection  network security  must   used 
+ ways
+section  operations security  critical information infrastructure
+
+   state implements key protection  public communication  information services power traffic
+water finance public service electronic governance   critical information infrastructure   destroyed
+losing function  leaking data might seriously endanger national security national welfare   peoples livelihood
+  public interest   basis   tiered protection system  state council will formulate  specific scope
+ security protection measures  critical information infrastructure
+ state encourages operators  networks outside  critical information infrastructure  voluntarily participate 
+ critical information infrastructure protection system
+   accordance   duties  division  labor provided   state council departments responsible
+ security protection work  critical information infrastructure   separately compile  organize
+implementation  security plans   industry  fields critical information infrastructure  guide  supervise
+security protection efforts   critical information infrastructure operations
+  construction  critical information infrastructure shall ensure    properties  supporting business
+stability  sustaining operations  ensures  technical security measures  planned established  used
+concurrently
+   addition   provisions      law critical information infrastructure operators shall also
+perform  following security protection obligations
+ set  specialized security management bodies  persons responsible  security management  conduct
+security background checks   responsible persons  personnel  critical positions
+ periodically conduct network security education technical training  skills evaluations  employees
+ conduct disaster recovery backups  important systems  databases
+ formulate emergency response plans  network security incidents  periodically organize drills
+  obligations provided  law  administrative regulations
+  critical information infrastructure information infrastructure operators purchasing network products 
+services  might impact national security shall go   national security review organized   state network
+information departments  relevant departments   state council
+  critical information infrastructure operators purchasing network products  services shall follow relevant
+provisions  sign  security  confidentiality agreement   provider clarifying duties  responsibilities 
+security  confidentiality
+  personal information   important data gathered  produced  critical information infrastructure
+operators  operations within  mainland territory   peoples republic  china shall store  within
+mainland china  due  business requirements   truly necessary  provide  outside  mainland  shall
+follow  measures jointly formulated   state network information departments   relevant departments 
+ state council  conduct  security assessment   laws  administrative regulations provide otherwise
+follow  provisions
+   least   year critical information infrastructure operators shall conduct  inspection  assessment
+  networks security  risks  might exists either personally   retaining  network security services
+establishment  submit  network security report   circumstances   inspection  assessment  well 
+improvement measures   sent   relevant department responsible  critical information infrastructure security
+protection efforts
+  state network information departments shall coordinate relevant departments  employing  following
+measures  critical information infrastructure security protection
+ conduct spot testing  critical information infrastructure security risks put forward improvement measures 
+ necessary may retain  network security service establishment  conduct testing  assessment  network
+security risks
+
+ periodically organize critical information infrastructure operators  conduct emergency network security response
+drills increasing  level coordination  capacity  responses  network security incidents
+ promote network security information sharing among relevant departments critical information infrastructure
+operators  also relevant research institutions network security services establishments
+ provide technical support  assistance  network security emergency management  recovery   forth
+ iv network information security
+  network operators shall strictly maintain  confidentiality  user information  collect establish 
+complete user information protection systems
+  network operators collecting  using personal information shall abide   principles  legality
+propriety  necessity make public rules  collection  use explicitly stating  purposes means  scope 
+collecting  using information  obtaining  consent   person whose data  gathered
+network operators must  gather personal information unrelated   services  provide must  violate 
+provisions  laws administrative regulations  agreements   parties  gather  use personal information
+ shall follow  provisions  laws administrative regulations  agreements  users  process personal
+information   stored
+  network operators must  disclose tamper   destroy personal information  gather  absent
+ consent   person whose information  collected must  provide personal information  others except
+however     processed    specific individual  unidentifiable    recovered
+network operators shall adopt technological measures   necessary measures  ensure  security  personal
+information  gather  prevent personal information  leaking  destroyed  lost   leak
+destruction  loss  personal information occur  might occur remedial measures shall  immediately taken 
+provisions followed  promptly inform users   make report   competent departments  accordance 
+regulations
+   individuals discover  network operators  violated  provisions  laws administrative
+regulations  agreements   parties  gather  use  personal information    right  request
+ network operators delete  personal information  discovering  personal information gathered  stored
+ network operators  errors    right  request  network operators make corrections network
+operators shall employ measures  deletions  corrections
+  individuals  organizations must  steal  use  illegal methods  acquire personal information 
+must  unlawfully sell  unlawfully provide others  personal information
+  departments lawfully  network security supervision  management duties   staffs must
+keep personal information private information  commercial secrets   learn   performing  duties
+strictly confidential  must  leak sell  unlawfully provide   others
+   individuals  organizations shall  responsible   use  websites  must  establish
+websites  communications groups  use  perpetrating fraud imparting criminal methods  creation  sale 
+prohibited  controlled items   unlawful activities  websites must   exploited  publish information
+related  perpetrating fraud  creation  sale  prohibited  controlled items   unlawful activities
+  network operators shall strengthen management  information published  users  upon discovering
+information   law  administrative regulations prohibits  publication  transmission   shall
+immediately stop transmission   information employ handling measures   deleting   prevent 
+information  spreading save relevant records  report    relevant competent departments
+  electronic information sent  application software provided   individual  organization must 
+install malicious programs  must  contain information  laws  administrative regulations prohibit 
+publication  transmission 
+
+electronic information distribution service providers  application software download service providers shall
+perform security management duties    know   users  conduct provided    preceding
+paragraph shall stop providing services  employ measures   removal store relevant records  report  
+relevant competent departments
+  network operators shall establish network information security complaint  reporting systems publicly
+disclose information    methods  making complaints  reports  promptly accept  handle complaints
+ reports relevant  network information security
+network operators shall cooperate  network information departments  relevant departments lawful
+implementation  supervision  inspections
+   state network information departments  relevant departments perform network information security
+supervision  management responsibilities  accordance  law   discovering information  release 
+transmission    prohibited  laws  administrative regulations shall request  network operators stop
+transmission employ disposition measures   deletion  store relevant records  information described 
+ comes  outside mainland peoples republic  china  shall notify  relevant organization  adopt
+technological measures   necessary measures  block transmission
+ v monitoring early warnings  emergency responses
+   state establishes systems  network security monitoring early warnings information communication
+ state network information departments shall  overall coordination  relevant departments  strengthen
+collection analysis  reporting efforts  network security information  follow regulations   unified release
+ network security monitoring  early warning information
+  departments responsible  critical information infrastructure security protection efforts shall establish 
+complete  industry   fields network security monitoring early warning  information reporting systems 
+report network security monitoring  early warning information  accordance  regulations
+   state network information departments coordinates relevant departments establishment  completion
+ mechanisms  network security risk assessment  emergency response efforts formulates network security
+incident emergency response plans  periodically organizes drills
+departments responsible  critical information infrastructure security protection efforts shall formulate  industry
+  fields network security incident emergency response plans  periodically organize drills
+network security incident emergency response plans shall rank network security incidents   basis  factors 
+  degree  threat   incident occurs   scope  impact  provide corresponding emergency response
+handling measures
+    risk  network security incidents increases  relevant departments  peoples governments 
+ provincial level   shall follow  scope  authority  procedures provided  employ  following
+measures   basis   network security risks characteristics   harms  might cause
+ require  relevant departments institutions  personnel promptly gather  report relevant information 
+strengthen monitoring   occurrence  network security risks
+ organize relevant departments institutions  specialist personnel  conduct analysis  assessment 
+information   network security risk  predict  likelihood   incidents occurrence  scope   impact
+  level  harm
+ publish network security risk warnings   public  publish measures  avoiding  reducing harms
+   occurrence   network security incident  network security incident emergency response plan shall
+ immediately initiated  evaluation  assessment   network security incident shall  conducted network
+operators shall  requested  adopt technological   necessary measures potential security risks shall 
+removed  threat shall  prevented  growing  warnings relevant   public shall  promptly published
+
+    performing network security supervision  management duties relevant departments 
+peoples governments   provincial level   discover  networks   relatively large security risk  
+occurrence   security incident  may call   legal representative  responsible party   operator  
+network   talking   accordance   scope  authority  procedures provided network operators shall
+follow requirements  employ procedures make corrections  eliminate hidden dangers
+   sudden emergencies  production safety accidents occur   result  network security incidents
+ shall  handled  accordance   provisions  emergency response law   peoples republic 
+china   production safety law   peoples republic  china   relevant laws  administrative
+regulations
+   fulfill  need  protect national security  social public order  respond  major social security
+incidents  state council   governments  provinces autonomous regions  municipalities  approval 
+ state council may take temporary measures regarding network communications  certain regions  
+restricting 
+ vi legal responsibility
+   network operators   perform network security protection duties provided   articles  
+   law  competent departments will order corrections  give warnings  corrections  refused  
+leads  endangerment  network security    consequences  fine   rmb    
+given   directly responsible management personnel  fined  rmb   
+ critical information infrastructure operators   perform network security protection duties provided  
+articles        law  competent departments will order corrections  give warnings 
+corrections  refused   leads  endangerment  network security    consequences  fine  
+rmb     give   directly responsible management personnel  fined  rmb 
+ 
+   paragraphs        paragraph       law  violated    
+following conduct  relevant competent departments order corrections  give warnings  corrections 
+refused   causes endangerment  network security   consequences  fine   rmb  
+  given   persons   directly  charge  fined  rmb   
+ installing malicious programs
+ failure  immediately take remedial measures  security flaws  vulnerabilities  exist  products  services
+  informing users  reporting    competent departments  accordance  provisions
+ unauthorized ending   provision  security maintenance   products  services
+  network operators violating paragraph   articles    law  failing  require users  provide
+truthful identity information  providing relevant services  users    provide truthful identity information 
+ordered  make corrections   relevant competent department  corrections  refused   circumstances
+ serious  fine   rmb     given   relevant competent department may order 
+temporary suspension  operations  suspension  business  corrections closing   websites cancellation 
+relevant operations permits  cancellation  business licenses persons   directly  charge   directly
+responsible personnel  fined  rmb   
+       law  violated  carrying  network security certifications testing  risk
+assessments  publishing network security information   system vulnerabilities computer viruses network
+attacks  network incursions corrections    ordered   warning given  corrections  refused  
+circumstances  serious  fine   rmb     given   relevant competent department
+may order  temporary suspension  operations  suspension  business  corrections closing   websites
+cancellation  relevant operations permits  cancellation  business licenses persons   directly  charge 
+ directly responsible personnel  fined  rmb   
+       law  violated  engaging  activities endangering national security  
+providing specialized software  tools used  engaging  activities endangering national security   providing
+others engaging  activities endangering network security  assistance   technical support advertising 
+
+promotions  payment  expenses   crime   constituted  public security organs   confiscate unlawful
+gains  impose    days detention  may give  fine      rmb  
+circumstances  serious impose     days detention  may give  fine    
+ rmb
+ units   conduct   preceding paragraph  public security organs   confiscate unlawful gains
+ give  fine    rmb    directly responsible persons  charge   directly responsible
+personnel  fined  accordance   preceding paragraph
+     law  violated persons  receive public security administrative sanctions must  engage
+ key network security management  network operations positions   years  receiving criminal punishments
+must  take  work  key network security management  network operations positions   lifetimes
+  network operators  network product  service providers violating paragraph     
+articles    law  infringing  personal information   protected  accordance  law  ordered 
+make corrections   relevant competent department  may either independently  concurrently  given
+warnings confiscation  unlawful gains andor fined     times  amount  unlawful gains  
+  unlawful gains  fine    rmb    fine   rmb     given 
+persons   directly  charge   directly responsible personnel   circumstances  serious  fine
+  rmb     given   relevant competent department may order  temporary
+suspension  operations  suspension  business  corrections closing   websites cancellation  relevant
+operations permits  cancellation  business licenses
+     law  violated  stealing  using  illegal means  obtain illegally sell  illegally
+provide others  personal information     constitute  crime  public security organs confiscate
+unlawful gains  give  fine      times  amount  unlawful gains     
+unlawful gains give  fine    rmb 
+   critical information infrastructure operators violate     law  using network products
+ services     safety inspections    pass safety inspections  relevant competent departments
+order  usage  stop  give  fine   amount     times  purchase price  persons   directly 
+charge   directly responsible personnel  fined  rmb   
+   critical information infrastructure operators violate     law  storing network data
+outside  mainland territory  provide network data  individuals  organizations outside   mainland territory
+without going   security assessment  relevant competent department orders corrections gives warnings
+confiscates unlawful gains gives fines  rmb     may order  temporary suspension 
+operations  suspension  business  corrections closing   websites revocation  relevant operations
+permits  cancellation  business licenses persons   directly  charge   directly responsible personnel
+ fined  rmb   
+       law  violated  establishing  website  communications group used  
+commission  illegal  criminal activities   networks  used  publish information related   commission
+ illegal  criminal activities   crime   constituted  public security organs   impose    days
+detention  may give  fine      rmb   circumstances  serious impose
+    days detention  may give  fine      rmb close websites  social
+groups used  illegal  criminal activities
+ units   conduct   preceding paragraph  fine     yuan  given   public security
+organs   principle responsible managers   directly responsible personnel  fined  accordance  
+preceding paragraph
+   network operators violate     law  failing  stop  transmission  information
+ laws  administrative regulations prohibit  publication  transmission  failing  employ disposition
+measures   deletion  failure  preserve relevant records  relevant competent department orders corrections
+gives warnings  confiscates unlawful gains  corrections  refused  circumstances  serious fines
+ rmb     given   temporary suspension  operations  suspension  business 
+corrections closing   websites cancellation  relevant operations permits  cancellation  business licenses
+may  ordered  persons   directly  charge   directly responsible personnel  fined 
+rmb   
+
+ electronic information service providers  application software download service providers   perform
+ security management duties provided   paragraph       law punishment   accordance
+  provisions   preceding paragraph
+  network operators violating  provisions   law  exhibit    following conduct will 
+ordered  make corrections   relevant competent departments  corrections  refused   circumstances
+ serious  fine     rmb   given  directly responsible management personnel 
+ directly responsible personnel    fined  rmb   rmb 
+  following  requirements  relevant departments  adopt disposition measures   stopping
+dissemination  deleting information  laws  administrative regulations prohibit  public  dissemination 
+ refusal  obstruction   competent departments   lawful supervision  inspection
+ refusing  provide technical support  assistance  public security organs  state security organs
+  publication  transmission  information  paragraph       law   laws 
+administrative regulations prohibit  publication  transmission   punished  accordance   provisions 
+ relevant laws  administrative regulations
+     conduct violating  provisions   law record    credit archives  make 
+public  accordance  relevant laws  administrative regulations
+   state organ government affairs network operators   perform network security protection duties
+ provided   law  organ   level   relevant department will order corrections sanctions  given
+  directly responsible managers   directly responsible personnel
+   network   relevant departments violate  provisions      law  using
+personal information acquired  performing network security protection duties   purposes  directly
+responsible persons  charge   directly responsible personnel  given sanctions
+ network information departments   relevant departments personnel neglect  duties abuse 
+authority  distort  law  personal gain     constitute  crime sanctions  given  accordance 
+law
+   violations   provisions   law cause harm  others civil liability  borne  accordance
+ law
+ provisions   law  violated constituting  violation  public security management public security
+administrative sanctions  given  accordance  law   crime  constituted criminal responsibility 
+pursued  accordance  law
+   foreign institutions organizations  individuals engage  attacks intrusions interference damage
+  activities endangering  critical information infrastructure   peoples republic  china  cause
+serious consequences legal responsibility    pursued  accordance  law  ministry  public security
+  state council  relevant departments may also decide  freeze assets  take  necessary punitive
+measures
+ vii supplementary provisions
+   language    following meanings   law
+ networks refers  systems comprised  computers   information terminals  related equipment 
+follow certain rules  procedures  information gathering storage transmission exchange  processing
+ network security refers  taking necessary measures  prevent network attacks incursions interference
+destruction   unlawful use  well  unexpected accidents  put  networks   state  stable  reliable
+operation  well  ensuring  capacity  network data   complete confidential  usable
+
+ network operators refers  network owners managers  network service providers
+ network data refers   kinds  electronic data collected stored transmitted processed  produced 
+networks
+ personal information refers   kinds  information recorded electronically    means  taken
+alone  together   information  sufficient  identify  natural persons identity including   limited 
+natural persons full names birth dates identification numbers personal biometric information addresses telephone
+numbers   forth
+  operations security protections  storing  processing networks involving state secret information shall
+follow  law  shall also uphold laws  administrative regulations  secrecy
+  security protections  military network  formulated   central military commission
+   law shall go  effect june  
+

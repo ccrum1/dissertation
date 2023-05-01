@@ -1,0 +1,751 @@
+                      law   protection  personal data
+                                         one
+                                purpose scope  definitions
+        purpose
+             purpose   law   protect fundamental rights 
+freedoms  people particularly  right  privacy  respect  processing  personal
+data   set forth obligations principles  procedures  shall  binding upon
+natural  legal persons  process personal data
+        scope
+             provisions   law shall apply  natural persons whose
+personal data  processed  well   natural  legal persons  process  data fully
+ partially  automatic means  provided   process   part   data registry
+system  nonautomatic means
+        definitions
+              purposes   law  following definitions shall apply
+         explicit consent freely given specific  informed consent
+        b anonymizing rendering personal data impossible  link   identified 
+identifiable natural person even  matching    data
+        c president president   personal data protection authority
+        ç data subject  natural person whose personal data  processed
+        d personal data   information relating   identified  identifiable natural
+person
+        e processing  personal data  operation performed upon personal data  
+collection recording storage retention alteration reorganization disclosure transferring
+taking  making retrievable classification  preventing  use thereof fully  partially
+ automatic means  provided   process   part   data registry system
+ nonautomatic means
+        f board  personal data protection board
+        g authority  personal data protection authority
+        g processor  natural  legal person  processes personal data  behalf  
+controller upon  authorization
+        h data registry system  registry system   personal data  registered 
+  structured according  certain criteria
+                                                                                                
+
+        i controller  natural  legal person  determines  purpose  means 
+processing personal data   responsible  establishing  managing  data registry
+system
+                                           two
+                                   processing  personal data
+        general principles
+            personal data may   processed  compliance  
+procedures  principles set forth   law   laws
+          following principles shall  complied within  processing  personal data
+         lawfulness  conformity  rules  bona fides
+        b accuracy     date  necessary
+        c  processed  specific explicit  legitimate purposes
+        ç  relevant  limited   proportionate   purposes    
+processed
+        d  retained   period  time stipulated  relevant legislation  
+purpose     processed
+        conditions  processing  personal data
+           personal data   processed without  explicit consent 
+ data subject
+         personal data may  processed without seeking  explicit consent   data
+subject   cases  one   following conditions  met
+           clearly provided    laws
+        b   mandatory   protection  life  physical integrity   person   
+ person   bodily incapable  giving  consent  whose consent   deemed
+legally valid
+        c processing  personal data belonging   parties   contract  necessary
+provided    directly related   conclusion  fulfilment   contract
+        ç   mandatory   controller   able  perform  legal obligations
+        d  data concerned  made available   public   data subject 
+        e data processing  mandatory   establishment exercise  protection  
+right
+        f   mandatory   legitimate interests   controller provided  
+processing shall  violate  fundamental rights  freedoms   data subject
+                                                                                                  
+
+         conditions  processing  personal data  special nature
+            personal data relating   race ethnic origin political opinion
+philosophical belief religion sect   belief clothing membership  associations
+foundations  tradeunions health sexual life convictions  security measures  
+biometric  genetic data  deemed   personal data  special nature
+            prohibited  process  personal data  special nature without explicit
+consent   data subject
+          personal data excluding  relating  health  sexual life listed   first
+paragraph may  processed without seeking explicit consent   data subject   cases
+provided   laws personal data relating  health  sexual life may   processed
+without seeking explicit consent   data subject   person  authorised public
+institutions  organizations   confidentiality obligation   purposes 
+protection  public health operation  preventive medicine medical diagnosis treatment
+ nursing services planning  management  healthcare services  well  
+financing
+             stipulated  adequate measures determined   board  also taken
+ processing  personal data  special nature
+         erasure destruction  anonymizing  personal data
+            despite  processed   provisions   law  
+related laws personal data shall  erased destructed  anonymized   controller ex
+officio  upon demand   data subject upon disappearance  reasons  require 
+process
+          provisions   laws concerning  erasure destruction  anonymizing 
+personal data  reserved
+          procedures  principles   erasure destruction  anonymizing  personal
+data shall  laid    bylaw
+         transfer  personal data
+            personal data   transferred without explicit consent  
+data subject
+          personal data may  transferred without seeking explicit consent  data subject
+upon  existence  one   conditions provided  
+           second paragraph   
+         b  third paragraph    provided  sufficient measures  taken
+          provisions   laws concerning transfer  personal data  reserved
+         transfer  personal data abroad
+                                                                                                  
+
+            personal data   transferred abroad without explicit consent
+  data subject
+          personal data may  transferred abroad without explicit consent   data
+subject provided  one   conditions set forth   second paragraph    
+ third paragraph    exist  
+          sufficient protection  provided   foreign country   data   
+transferred
+         b  controllers  turkey    related foreign country guarantee  sufficient
+protection  writing   board  authorized  transfer  sufficient protection
+  provided
+           board determines  announces  countries  sufficient level 
+protection  provided
+           board shall decide whether   sufficient protection   foreign country
+concerned  whether  transfer will  authorised   subparagraph b  second
+paragraph  evaluating  followings   receiving  opinions  related public
+institutions  organizations  necessary
+           international conventions   turkey   party
+         b  state  reciprocity concerning data transfer   requesting country 
+turkey
+         c  nature   data  purpose  duration  processing regarding 
+concrete individual case  data transfer
+         ç  relevant legislation   implementation   country    personal
+data    transferred
+         d  measures guaranteed   controller   country    personal data
+   transferred
+           cases  interest  turkey   data subject will seriously  harmed
+personal data without prejudice   provisions  international agreements may  
+transferred abroad upon  permission   given   board  receiving  opinions
+ related public institutions  organizations
+          provisions   laws concerning  transfer  personal data abroad 
+reserved
+                                             three
+                                           rights  obligations
+         obligation  controller  inform
+            whilst collecting personal data  controller   person
+authorised    obliged  inform  data subjects   following
+           identity   controller    representative  
+         b  purpose  data processing
+         c      purposes  processed data may  transferred
+         ç  method  legal reason  collection  personal data
+                                                                                                
+
+        d  rights referred    
+         rights  data subject
+            person   right  apply   controller 
+          learn whether  personal data  processed  
+        b  request information   personal data  processed
+        c  learn  purpose   data processing  whether  data  used  intended
+purposes
+        ç  know  third parties    personal data  transferred  home  abroad
+        d  request  rectification   incomplete  inaccurate data  
+        e  request  erasure  destruction   personal data   conditions laid
+   
+        f  request notification   operations carried   compliance  sub
+paragraphs d  e  third parties    personal data   transferred
+        g  object   processing exclusively  automatic means   personal data
+ leads   unfavourable consequence   data subject
+        g  request compensation   damage arising   unlawful processing  
+personal data
+        obligations concerning data security
+            controllers  obliged  take  necessary technical 
+administrative measures  provide  sufficient level  security  order 
+         prevent unlawful processing  personal data
+        b prevent unlawful access  personal data
+        c ensure  retention  personal data
+          case   processing  personal data   natural  legal person  behalf 
+ controller  controller shall jointly  responsible   persons  taking 
+measures laid    first paragraph
+          controller shall  obliged  conduct necessary inspections   
+conducted    institution  organization   aim  implementing  provisions
+  law
+          controllers  processors shall  disclose  personal data   learned
+ anyone  breach   law neither shall  use  data  purposes  
+processing  obligation shall continue even   end   term
+          case  processed data  collected   parties  unlawful methods
+ controller shall notify  data subject   board within  shortest time 
+necessary  board may announce  breach   official website   
+methods  deems appropriate
+                                              four
+                                                                                                
+
+                                 application complaint  registry
+        application   controller
+            data subject shall lodge  application  writing  
+controller   demands concerning  implementation   law  via  methods
+specified   board
+          data controller shall conclude  demands involved   applications within
+ shortest time possible depending   nature   demand  within thirty days  
+latest  free  charge however   action  question incurs another cost  price set
+  board may  collected
+          data controller shall accept  application  decline   justified grounds
+ communicate  response  data subject  writing   electronic media   demand
+involved   application found admissible  shall  indulged   data controller data
+subject shall  reimbursed   application fee provided   application  
+lodged due   mistake made   controller
+        complaint   board
+             application  declined  response  found unsatisfactory
+  response   given  due time  data subject may file  complaint   board
+within thirty days    learns   response   controller  within sixty days 
+  application date   case
+          complaint   filed  exhausting  remedy  application  
+controller   
+          right  compensation  general provisions   whose personal rights
+ violated  reserved
+        procedures  principles  examination ex officio  upon complaint
+            board shall make  necessary examination   matters
+falling within  scope  work upon complaint  ex officio   learnt   alleged
+violation
+          notices  complaints  meeting  requirements laid     
+ law       use  right  petition shall   examined
+         except   information  documents   status  state secret 
+controller shall  obliged  communicate within fifteen days  information  documents
+related   subject  examination   board  requested  shall enable 
+necessary onthespot examination
+                                                                                               
+
+            board shall finalise  examination upon complaint  give  answer 
+data subjects  case  board fails  answer  data subjects application  sixty days 
+  application date   deemed rejected
+           following  examination made upon complaint  ex officio  cases   
+understood   infringement exists  board shall decide   identified
+infringements shall  remedied   relevant controller  notify  decision   
+may concern  decision shall  implemented without delay  within thirty days 
+ notification   latest
+           following  examination made upon complaint  ex officio  cases   
+determined   infringement  widespread  board shall adopt  publish  resolution
+  regard  adopting  resolution  board may also refer   opinions 
+related institutions  organisations  needed
+            board may decide  processing  data   transfer abroad  
+stopped   operation may lead  damages   difficult  impossible  recover 
+   clearly unlawful
+          registry  controllers
+              presidency shall maintain  publicly accessible registry 
+controllers   supervision   board
+           natural  legal persons  process personal data shall  obliged  enrol  
+registry  data controllers  proceeding  data processing however  taking 
+account  objective criteria set   board    nature  quantity   data
+processed  legal requirement  data processing  transferring  data  third parties
+ board may provide exception   obligation  enrolment   registry  data
+controllers
+           application  enrolling   registry  data controllers shall  made  
+notification including
+           identity  address   controller    representative  
+          b purposes    personal data will  processed
+          c explanations  groups  personal data subjects  well    data
+categories belonging   people
+          ç recipients  groups  recipients    personal data may  transferred
+          d personal data   envisaged   transferred abroad
+          e measures taken   security  personal data
+          f maximum period  time required   purpose   processing  personal
+data
+            changes   information provided   third paragraph shall 
+immediately notified   presidency
+            procedures  principles governing  registry  data controllers shall
+ laid    bylaw
+                                                                                                
+
+                                         five
+                                  crimes  misdemeanours
+         crimes
+            articles   turkish penal     
+shall apply  terms   crimes concerning personal data
+            fail  erase  anonymize personal data  breach    herein
+shall  punished      law  
+         misdemeanours
+              purposes   law
+            fail  comply  obligation  inform provided     herein
+shall  required  pay  administrative fine     tl
+         b   fail  comply  obligations related  data security provided  
+  herein shall  required  pay  administrative fine     tl
+         c   fail  comply   decisions issued   board   
+herein shall  required  pay  administrative fine     tl
+         ç   fail  meet  obligations  enrolling   registry  data
+controllers  making  notification  provided     herein shall  required 
+pay  administrative fine     tl
+           administrative fines listed    shall  applicable  natural persons
+ private law legal persons   controllers
+            acts listed   first paragraph  committed within  public
+institutions  organizations  well  professional associations   status  public
+institution disciplinary procedures shall  applied   civil servants   public
+officers employed   relevant public institutions  organisations   employed 
+ professional associations   status  public institution upon  notice   board
+  result  communicated   board
+                                              six
+                      personal data protection authority   organization
+                                  personal data protection authority
+            personal data protection authority    public law body
+ public law legal personality  administrative  financial autonomy  
+established  carry  duties provided   law
+                                                                                                  
+
+          authority  affiliated   office   prime minister
+          headquarters   authority   ankara
+          authority  composed   board   presidency decision making
+body   authority   board
+        duties   authority
+             duties   authority   follows
+          follow  latest developments   legislation  practices make evaluations
+ recommendations conduct researches  analyses    conducted within 
+field  duty
+        b  cooperate  public institutions  organisations ngos professional
+associations  universities within  field  duty  needed
+        c  follow  evaluate  latest international developments  personal data 
+within  field  duty cooperate  international organisations  participate  
+meetings
+        ç  submit  annual activity report   office   president  turkish
+republic  committee  human rights inquiry  grand national assembly  turkey
+ office   prime minister
+        d  carry   duties provided  laws
+        personal data protection board
+             board shall perform  exercise  duties  powers
+conferred     law   laws independently     responsibility 
+body authority office  person shall give orders  instructions recommendations 
+suggestions   board  matters falling within  scope   duties  powers
+          board  composed  nine members five members   board shall 
+elected   grand national assembly  turkey two members shall  elected  
+president  turkey  two members shall  elected   council  ministers
+          following conditions shall  met  order   elected   board
+          informed    experienced   issues falling within authoritys
+field  duty
+        b complying   requirements set forth  points        sub
+paragraph   first paragraph      public servants law   
+
+        c    member   political party
+        ç   graduated   least  fouryear graduate program
+        d   employed  public institutions  organisations international
+organisations nongovernmental organisations  professional associations   status
+ public institution    private sector   least ten years  total
+                                                                                                
+
+            elected   membership  express  consent elections
+ held    pluralistical representation     informed   experienced 
+ issues falling within authoritys field  duty
+         board members shall  elected   grand national assembly  turkey  
+basis   following procedure
+         persons twice  many   number  members   determined  proportion 
+ number  deputies  political party groups shall  nominated  election  
+members   board shall  elected   plenary   grand national assembly 
+among  candidates   basis   number  deputies allocated   political
+party however political party groups shall  negotiate  decide   vote   
+elections   held   grand national assembly  turkey
+        b  board members shall  elected within ten days   designation 
+announcement   candidates   candidates designated   political party groups 
+composite ballot   form  separate lists shall  prepared voting shall  cast  ticking
+  specific space across  names   candidates  votes casted   
+numbers   members   elected   board   political party quotas
+determined  accordance  paragraph two shall  deemed invalid
+        c provided   quorum  ensured candidates  number   corresponds
+  number  vacancies   take    votes shall  deemed   
+elected
+        ç  election   renewal   members shall  held two months  
+expiration   term  office     vacancy   memberships  
+reason  shall   election within one month    date  vacancy    date 
+vacancy coincides   recess   grand national assembly  turkey  election
+shall take place within one month   end   recess  employing  
+procedure   elections  allocation   vacant memberships   political
+party groups shall  made  considering  number   elected members  
+political party groups quotas   first election   current proportions   political
+party groups
+         fortyfive days   expiration   term  office   case  expiration
+ term  office   reason   members elected   president  turkey  
+council  ministers  authority shall notify  situation  fifteen days   office  
+prime minister     submitted   office   president  turkey   council 
+ministers  new election shall take place one month   expiration  term  office 
+ members     vacancy   memberships   expiration  term
+ office  shall   election within fifteen days    date  notification
+          board shall designate  head   second head   board among 
+members  head   board  also  president   authority
+         term  office   board members  four years members may  reelected
+ expiration   term  office  person   elected instead   member
+whose post ends   expiration  hisher term  office   reason shall complete
+ remaining term  office
+         members   board shall take  following oath  court  cassations
+board  first presidency   solemnly swear   honour    dignity   will
+carry   duties  absolute impartiality bona fides fairness   sense  justice 
+                                                                                                 
+
+line   constitution   relevant legislation application  court  cassation 
+oath taking  deemed   one   pressing matters
+         unless provided    specific law  members shall  assume  public
+ private tasks    related  carrying   official duties   board
+shall  act  executives  associations foundations cooperatives   similar bodies
+shall  engage  commercial activities shall  engage  selfemployment shall  act
+ arbitrators  expert witnesses however board members may prepare scientific
+publications give lectures  attend conferences     hinder  primary duties 
+may receive copyrights  fees associated  
+         investigations   claims   crimes allegedly committed  
+members  connection   duties shall  conducted  per  law   
+  adjudication  public servants   public employees  permission
+ investigation shall  granted   prime minister
+         provisions   law   shall apply  disciplinary investigations 
+prosecutions   members   board
+         members shall   removed   office   reason  
+expiration   term  office however members   board may  removed 
+office   board decision 
+           found  subsequently     meet  conditions required  
+election
+        b  verdict   rendered  crimes committed    connection 
+ duties becomes final
+        c  medical report  issued  board  health  certify     suitable 
+office
+        ç   ascertained    absent  work  fifteen consecutive days  
+ total  thirty days within  year without legitimate permission  excuse
+        d   ascertained   fail  attend three board meetings  one month  ten
+board meetings  one year without  permission  excuse
+            appointed   members   board shall  removed 
+ previous posts   term  office   board   condition    
+fail  meet  requirements   employed   civil servant    assigned 
+board members whilst  duty shall  appointed  posts   appropriate   vested
+positions  titles  one month  case  term  office ends   express  will 
+resign  lodge  application   regard   former institution within thirty days
+  assignment authority shall continue  make  payment   vested 
+  take another post  take  another employment authority shall continue  make
+ payment     appointed  board members despite   public servants
+ whose term  office terminated  stated hereinabove   payments   made
+  scope shall  exceed three months  regard  personal   rights
+terms spent   authority shall  deemed   spent   previous institutions 
+organisations
+        duties  powers   board
+            duties  powers   board   follows
+                                                                                                
+
+          ensure   personal data  processed  compliance  fundamental rights
+ freedoms
+        b  conclude  complaints   claiming   rights  regard 
+personal data protection   violated
+        c  examine whether  personal data  processed  compliance   laws
+upon complaint  ex officio   learnt   alleged violation   take
+temporary measures  necessary
+        ç  determine  adequate measures   necessary   processing  
+data  special nature
+        d  ensure  registry  controllers  maintained
+        e  draft regulatory acts   matters concerning  boards field  duty 
+operation   authority
+        f  draft regulatory acts  order  lay   liabilities concerning data security
+        g  draft regulatory acts   matters concerning duties powers  responsibilities
+  controller    representative
+        g  decide   administrative sanctions provided    law
+        h  deliver  opinion   legislation drafted   institutions 
+organizations  contain provisions  personal data
+        i  conclude  strategic plan   authority  determine  purpose targets
+service quality standards  performance criteria   authority
+          discuss  decide  strategic plan   budget proposal   authority
+  prepared  compliance   purposes  targets
+        j  approve  publish  draft reports   performance financial situation
+annual activities   matters related   authority
+        k  discuss  decide   recommendations  regards  purchase sale 
+lease  immovable properties
+        l  carry   tasks provided   laws
+        working principles   board
+            head   board shall determine  dates  agenda  
+meetings  board may  called   extraordinary meeting   head  necessary
+          board shall convene  least  six members including  head  
+board  shall take decisions  simple majority   total members members  
+board shall  cast abstaining vote
+         members shall  attend  cast vote  meetings  concern issues
+regarding   relatives  blood   third degree  relatives  affinity 
+marriage   second degree  adopted children   spouses even   marriage
+ ended
+         members   board shall  disclose  secrets  learned   data subjects
+ third parties   work  anyone   legally authorized bodies neither
+shall  use  secrets   benefits  obligation shall apply even   end 
+ term  office
+          outcome   agenda   board shall  written   decisions 
+dissenting opinions   shall  written within  days   latest  board shall
+announce  public  decisions  deems necessary
+                                                                                                  
+
+          meetings   board  confidential unless decided otherwise
+         working procedures  principles   board   writing procedure  
+decisions   issues shall  laid    bylaw
+         president
+             president   head    authority   board 
+ highestlevel official   authority  organises  conducts  services  
+authority  accordance   legislation authoritys purpose  policies strategic plan
+performance criteria  service quality standards   ensures coordination  service
+units  well
+          president  responsible   general management  representation  
+authority  responsibility entails  duties  powers concerning regulation execution
+inspection evaluation  authoritys work   announcement   public 
+necessary
+          duties   president   follows
+          chair  boards meetings
+        b  ensure  notification  board decisions  public announcement  
+ deemed necessary   board   monitor  implementation
+        c  appoint deputy president heads  departments  authoritys personnel
+        ç  finalize  recommendations communicated  service units  submit  
+ board
+        d  ensure  implementation   strategic plan   establish  human
+resources  working policies  line  service quality standards
+        e  prepare  annual budget  financial tables   authority  line  
+determined strategies annual purposes  targets
+        f  ensure coordination  order   board  service units  work  harmony
+  efficient disciplined  wellordered manner
+        g  maintain  relations   authority   institutions
+        g  determine  scope   duties  powers   personnel authorized  sign
+ behalf   president
+        h  carry   duties related   management  operation   authority
+          second president  entitled  act  behalf   president   absence
+        composition  duties   presidency
+             presidency  composed  deputy president  service
+units  presidency shall fulfill  duties listed  paragraph four   service units
+  organized  departments  number  departments shall    
+seven
+          deputy president shall  appointed   president  order  assist   
+administrative duties
+                                                                                               
+
+           deputy president  heads  departments shall  appointed  
+president among     graduated   least  fouryear higher education
+institution  worked   public institutions   least ten years
+           duties   presidency   follows
+           maintain  registry  controllers
+         b  carry  clerical services   authority   board
+         c  represent  authority  lawyers   lawsuits  execution
+proceedings    authority   party  follow   lawsuits   
+followed   carry   legal services
+         ç  carry  personnelrelated services   board members  authoritys
+personnel
+         d  perform  duties foreseen  laws  regard  financial services  strategy
+development units
+         e  ensure   information systems  established  used  order  carry 
+acts  actions   authority
+         f  draft reports   annual activities   authority    issues  
+deemed necessary  submit    board
+         g  draft  strategic plan   authority
+         g  determine  personnel policy   authority prepare  implement 
+education  careerbased plans   personnel
+         h  carry   appointment transfer discipline performance promotion
+retirement   similar procedures regarding  personnel
+         i  determine  ethical principles   personnel  give necessary training
+           carry   services  regard  purchasing leasing maintenance repair
+construction archive health  social issues  similar ones within  framework  
+public financial management  control law    
+         j  keep record   movable  immovable property   authority
+         k  fulfill  duties conferred     board   president
+          service units   working procedures  principles shall  laid 
+  bylaw   put  force   council  ministers upon authoritys
+proposal drafted  per  field  activity duties  powers stated   law herein
+          personal data protection experts   assistant experts
+              personal data protection experts   assistant experts
+may  recruited   authority  experts  assistant experts   appointed 
+personal data protection expert within  framework  additional     law 
+ shall receive one extra grade   
+         provisions   personnel  personnel rights
+            personnel   authority shall  subject   law  
+excluding  matters regulated   law herein
+          head  members   board  personnel   authority shall receive
+remunerations determined   paid   precedent personnel within  scope  financial
+                                                                                                 
+
+ social rights  per additional     decree law     within
+ framework    procedures  principles applicable among  remunerations
+paid   precedent personnel    exempt  taxes   legal deductions
+shall also  exempt  taxes  deductions  per  law herein
+          head  members   board  personnel   authority  subject  
+subparagraph c   first paragraph      social insurance  universal
+health insurance law     head  members   board  personnel
+  authority shall  considered equal   precedent personnel  terms  retirement
+rights among  personnel   appointed  head  members   board 
+insured  subparagraph c   first paragraph      law   terms
+ office   duties shall  considered  ascertaining acquired rights salaries grades
+ steps   whose term  office ends   express  will  resign  relevant
+term  office    fall within  scope  provisional     law  
+  duty shall  deemed   period   position  representation
+compensation   paid removal  previous institutions  organisations  
+  appointed  head  members   board  insured  subparagraph
+   first paragraph      law   shall  entail receiving 
+severance pay  termination pay    case term  office qualified   severance pay
+ termination pay shall  added   service periods spent  head  member  
+board  accepted   period    retirement bonus
+          civil servants working  public administrations attached   centralized
+government social security institutions local administrations administrations attached 
+local administrations local administrative unions revolving fund enterprises funds
+established  laws public entities organizations     whose capital belongs
+ public public economic enterprises stateowned economic enterprises  associations
+ establishments attached    well   public officials may  seconded  
+authority upon  consent    institution provided   salaries allowances
+ increases thereof compensations   social  financial rights  aids  paid 
+  institution requests   authority   regard shall  concluded  priority
+  related institutions  organizations personnel assigned accordingly shall  deemed
+ paid leave   leave rights   personnel   connection  civil service
+shall  maintained  period  leave shall  taken  account  promotions 
+retirement   shall  promoted  due time without  need   action periods
+spent   authority   assigned    shall  deemed    spent
+   institutions number   personnel assigned accordingly shall  exceed ten
+per cent   total number  posts  personal data protection experts  personal data
+protection assistant experts   term  assignment shall  exceed two years
+however  deemed necessary  term may  extended  oneyear periods
+          titles  numbers  posts regarding  personnel   employed  
+authority  presented   annexed table  changes  titles  grade addition  new
+titles  annulment  vacant posts shall  realized upon  decision   board provided
+  shall  exceed  total number  posts  shall  limited   titles  
+annexed tables   decree law     general posts  procedures dated
+
+                                                                                                
+
+                                            seven
+                                              miscellaneous
+        exceptions
+            provisions   law shall   applied   following
+cases 
+         personal data  processed  natural persons within  scope  purely personal
+activities   data subject   family members living together     
+dwelling provided       disclosed  third parties   obligations  data
+security    complied 
+        b personal data  processed   purpose  official statistics   research
+planning  statistical purposes    anonymized
+        c personal data  processed  artistic historical literary  scientific purposes 
+within  scope  freedom  expression provided  national defence national security
+public security public order economic security right  privacy  personal rights  
+violated    processed     constitute  crime
+        ç personal data  processed within  scope  preventive protective 
+intelligence activities carried   public institutions  organizations duly authorised 
+assigned  maintain national defence national security public security public order 
+economic security
+        d personal data  processed  judicial authorities  execution authorities 
+regard  investigation prosecution criminal proceedings  execution proceedings
+         provided     compliance   proportionate   purpose 
+fundamental principles   law   regarding  data controllers obligation 
+inform   regarding  rights   data subject excluding  right  demand
+compensation    regarding  requirement  enrolling   registry  data
+controllers shall   applied   following cases  personal data processing
+          required   prevention   crime  crime investigation
+        b  carried    data   made public   data subject 
+        c  required  inspection  regulatory duties  disciplinary investigation 
+prosecution   carried    public institutions  organizations   professional
+associations   status  public institution assigned  authorised   actions
+ accordance   power conferred     law
+        ç  required  protection  states economic  financial interests  regard 
+budgetary taxrelated  financial issues
+         budget   revenues   authority
+             budget   authority shall  prepared  adopted 
+accordance  procedures  principles provided    law  
+          revenues   authority   follows
+         treasury grants   general budget
+        b  revenues   movable  immovable properties   authority
+                                                                                                   
+
+        c donations  grants received
+        ç  revenues   utilization   revenues
+        d  revenues
+        amended  inserted provisions
+             following line  inserted   table iii attached  
+law  
+         personal data protection authority
+          phrase  person   second paragraph      law 
+  amended   personal data  person   phrase  person 
+records  information  personal data shall  punished according   provisions  
+ subsection   punishment   given  accordance   first paragraph 
+aggravated  half 
+          expression children  third paragraph      law  
+ amended  children symbolic images  children  persons   juvenile image
+          expression   first paragraph      law   
+amended     following paragraph  added
+         person   employing technical means illegally monitors  data transfer
+carried  within  information system   information systems without entering 
+ system shall  punished  imprisonment  one year  three years
+          following   inserted  follow     law 
+        prohibited device  programmes
+           case  device computer programme password   security 
+ produced  commit  crimes inscribed exclusively within  part    may
+ committed  using information system   means  person  produces imports
+dispatches transfers stores accepts sells supplies purchases lends another person 
+possesses  shall  punished  imprisonment  one  three years   
+punitive fine   five thousand days
+         subparagraph f   first paragraph      health services
+fundamental law      amended  follows
+        f   aim  tracking  medical condition  everybody   ensure 
+healthcare services  carried     effective  rapid way ministry  health 
+ associated institutions shall establish  required registration  notification system 
+system may also  established  electronic environment  line   estate practices 
+ end  nationwide information system may  established   ministry  health
+             decree law       organization 
+duties   ministry  health   associated institutions  amended  follows
+             applying   public  private health organizations 
+health professionals  receive health service personal data provided compulsorily  
+requirement  health service  provided  relation   service  received may 
+processed
+          ministry may process  data obtained within  framework   first
+paragraph  order  provide  health services protect  public health maintain 
+                                                                                                 
+
+services  preventive medicine medical diagnosis treatment  care   plan  health
+services  calculate  cost  data shall   transferred except   conditions
+stipulated   law   protection  personal data
+          ministry shall establish  system  will enable  persons  
+ third person authorized    access  personal data gathered  processed
+pursuant   second paragraph
+         standards relating   security  reliability   systems established  per
+ third paragraph shall  determined   ministry  compliance   principles
+determined   personal data protection board  ministry shall take  necessary
+measures  ensure  security   personal health data obtained pursuant   law
+herein   end  ministry shall establish  security system enabling  supervision 
+ official   purpose  using  registered data   system
+         public institutions  organizations natural persons  legal entities  
+private law employing health personnel shall  obliged  inform  ministry  
+personnel employed   personnel movements
+          matters relating   processing  security  personal health data  
+implementation    herein shall  governed   bylaw   put  force
+  ministry
+        bylaw
+           bylaws related   implementation   law shall  put 
+force   authority
+        transitional provisions
+        provisional    members   board shall  selected  
+organizational structure   presidency shall  established within six months following 
+date  publication   law  per  procedure stipulated   
+         data controllers  obliged  enrol   registry  data controllers within 
+time specified  announced   board
+          personal data   processed   publication date   law shall
+ rendered compatible   provisions   law within two years    date 
+publication  personal data   found    breach   provisions   law
+shall  immediately erased destroyed  anonymized however consents duly taken 
+ publication date   law shall  deemed compatible   provisions   law
+unless  declaration  intent  made   contrary within one year
+          bylaws provided    law shall  put  force within one year  
+ date  publication   law
+          highlevel executive  ensure coordination  regard   implementation
+  law  public institutions  organisations shall  appointed  notified  
+presidency within one year    date  publication   law
+                                                                                               
+
+            term  office   first elected president  deputy president  two
+members   determined  ballot shall  six years  period shall  four years 
+ remaining five members
+             budget   authority  allocated
+            expenditures   authority shall  reimbursed   budget   office 
+ prime minister
+          b  necessary support services    premises equipment furnishing  
+hardware shall  provided   office   prime minister  order   authority 
+fulfill  duties
+            clerical services   authority shall  carried    office   prime
+minister   service units   authority  become fully functional
+          entry  force
+                purposes   law
+           articles           shall enter  force  six months 
+  date   publication
+          b  articles shall enter  force   date   publication
+          enforcement
+               provisions   law shall  enforced   council 
+ministers
+                                                                                                    
+

@@ -1,0 +1,882 @@
+translation  ronaldo lemos sofia lima franco ramon alberto dos santos 
+natalia langenegger lawyers  pereira neto | macedo advogados wwwpnmadvbr
+final version  presidential vetoes
+                                               provides   protection  personal data
+                                                changes law    april 
+                                                 brazilian internet law
+                           national congress decrees
+                                        
+                              preliminary provisions
+        art   law provides   processing  personal data including  digital
+means   natural person   legal entity  public  private law   purpose 
+protecting  fundamental rights  freedom  privacy   free development  
+personality   natural person
+        art   discipline  personal data protection  grounded   following
+          respect  privacy
+        ii  informed selfdetermination
+        iii  freedom  expression information communication  opinion
+        iv  inviolability  intimacy honor  image
+        v  economic  technological development  innovation
+        vi  free enterprise free competition  consumer defense
+        vii  human rights free development  personality dignity  exercise 
+citizenship  natural persons
+        art   law applies   processing operation carried    natural
+person   legal entity  public  private law irrespective   mean  country 
+  headquarter  located   country   data  located provided 
+           processing operation  carried    national territory
+
+         ii   purpose   processing activity   offer  provide goods  services
+  processing  data  individuals located   national territory 
+         iii   personal data  processed  collected   national territory
+          data collected   national territory  considered    whose data
+subject    national territory   time  collection
+          data processing  provided  item iv   lead sentence  art   
+law  exempted   provisions  item    
+         art   law   apply   processing  personal data 
+            done   natural person exclusively  private  noneconomic purposes
+         ii   done exclusively
+           journalistic  artistic purposes 
+         b academic purposes  arts      law  applicable  
+cases
+         iii   done exclusively  purposes 
+          public safety
+         b national defense
+         c state security 
+         d activities  investigation  prosecution  criminal offenses 
+         iv    origin outside  national territory     object 
+communication shared data use  brazilian processing agents   object 
+international transfer  data  another country     country  origin since
+ country  origin provides  level  personal data protection adequate  
+established   law
+          processing  personal data  provided  item iii shall  governed 
+specific legislation  shall provide proportional  strictly necessary measures 
+fulfilling  public interest subject  due legal process  general principles 
+protection   rights   data subjects  provided   law
+          processing   data referred   item iii   lead sentence   
+ forbidden  legal entity  private law except  procedures   authority 
+legal entity  public law    national authority shall  specifically informed
+
+  shall observe  limitation imposed     
+          national authority shall issue technical opinions  recommendations
+regarding  exceptions provided  item iii   lead sentence     shall
+request   responsible parties impact reports  protection  personal data
+           circumstances  entirety   personal data   database 
+provided  item iii   lead sentence    may  processed   legal entity
+ private law
+        art   purposes   law  following definitions apply
+          personal data information regarding  identified  identifiable natural
+person
+        ii  sensitive personal data personal data concerning racial  ethnic origin
+religious belief political opinion trade union  religious philosophical  political
+organization membership data concerning health  sex life genetic  biometric data
+ related   natural person
+        iii  anonymized data data related   data subject    identified
+considering  use  reasonable  available technical means   time  
+processing
+        iv  database structured set  personal data kept  one  several locations 
+electronic  physical support
+        v  data subject  natural person    personal data    object 
+processing refer 
+        vi  controller natural person  legal entity  public  private law  
+competence  make  decisions regarding  processing  personal data
+        vii  processor natural person  legal entity  public  private law 
+processes personal data   name   controller
+        viii  officer natural personal appointed   controller  acts  
+communication channel   controller   data subjects   national
+authority
+        ix  processing agents  controller   processor
+        x  processing  operation carried   personal data   collection
+
+production receipt classification use access reproduction transmission distribution
+processing filing storage deletion evaluation  control   information
+modification communication transfer dissemination  extraction
+        xi  anonymization use  reasonable  available technical means   time
+  processing   data loss  possibility  direct  indirect association
+  individual
+        xii  consent free informed  unambiguous manifestation whereby  data
+subject agrees  herhis processing  personal data   given purpose
+        xiii  blocking temporary suspension   processing operation  means 
+retention   personal data   database
+        xiv  deletion exclusion  data   set  data stored   database irrespective
+  procedure used
+        xv  international data transfer transfer  personal data   foreign country 
+  international entity    country   member
+        xvi  shared use  data communication dissemination international transfer
+interconnection  personal data  shared processing  banks  personal data  public
+agencies  entities  compliance   legal competences    
+private entities reciprocally  specific authorization  one   types 
+processing allowed   public entities  among private entities
+        xvii impact report  protection  personal data documentation  
+controller  contains  description   proceedings  processing   personal
+data   generate risks  civil liberties  fundamental rights  well  measures
+safeguards  mechanisms  mitigate  risk
+        xviii  research body body  entity   direct  indirect public
+administration   nonprofit legal entity  private law legally organized  
+brazilian law  headquarter  jurisdiction  brazil  includes   institutional
+mission    corporate  statutory purposes basic  applied research  historic
+scientific technological  statistical nature
+        xix  national authority body   indirect public administration responsible
+ supervising implementing  monitoring  compliance   law
+
+        art  activities  processing  personal data shall  done  good faith  
+subject   following principles
+          purpose processing done  legitimate specific  explicit purposes 
+  data subject  informed   possibility  subsequent processing  
+incompatible   purposes
+        ii  suitability compatibility   processing   purposes communicated
+  data subject  accordance   context   processing
+        iii  necessity limitation   processing   minimum necessary  achieve
+ purposes covering data   relevant proportional  nonexcessive  relation 
+ purposes   data processing
+        iv  free access guarantee   data subjects  facilitated  free  charge
+consultation   form  duration   processing  well    integrity
+  personal data
+        v  quality   data guarantee   data subjects   accuracy clarity
+relevancy  updating   data  accordance   need   achieving 
+purpose   processing
+        vi  transparency guarantee   data subjects  clear precise  easily
+accessible information   carrying    processing   respective
+processing agents subject  commercial  industrial secrecy
+        vii  security use  technical  administrative measures   able 
+protect personal data  unauthorized accesses  accidental  illegal situations 
+destruction loss alteration communication  dissemination
+        viii  prevention adoption  measures  prevent  occurrence  damages due
+  processing  personal data
+        ix  nondiscrimination impossibility  carrying   processing  illegal 
+abusive discriminatory purposes 
+        x  accountability demonstration   agent   adoption  measures 
+ efficient  capable  proving  compliance   rules  personal data
+protection including  efficacy   measures
+
+                                        ii
+                          processing  personal data
+                                          section 
+                   requirements   processing  personal data
+        art  processing  personal data shall   carried    following
+circumstances
+            consent   data subject
+        ii   compliance   legal  regulatory obligation   controller
+        iii    public administration   processing  shared use  data 
+ necessary   execution  public policies provided  laws  regulations  based
+ contracts agreements  similar instruments subject   provisions   iv
+  law
+        iv   carrying  studies  research entities ensuring whenever possible 
+anonymization  personal data
+        v   necessary   execution   contract  preliminary procedures
+related   contract    data subject   party   request   data subject
+        vi    regular exercise  rights  judicial administrative  arbitration
+procedures  last pursuant  law    september    brazilian
+arbitration law
+        vii    protection  life  physical safety   data subject   third
+party
+        viii   protect health   procedure carried   health professionals  
+health entities
+        ix   necessary  fulfill  legitimate interests   controller   third
+party except   data subjects fundamental rights  liberties  require
+personal data protection prevail 
+        x    protection  credit including  provided   pertinent legislation
+           provisions  items ii  iii   lead sentence    
+
+applicable  except   situations provided  art    law  data subject
+shall  informed   situations   processing  herhis data will  allowed
+          way   information  made available  provided    item 
+  lead sentence  art    law may  specified   national authority
+          processing  publicly accessible personal data shall consider  purpose
+ good faith   public interest  justify   made available
+          consent requirement provided   lead sentence     waived
+ data manifestly made public   data subject safeguarding  rights   data
+subject   principles provided   law
+          controller   obtained  consent referred   item    lead
+sentence     needs  communicate  share personal data  
+controllers shall obtain specific consent   data subject   purpose except
+  need   consent  waived  provided   law
+          eventual waiver   consent requirement   release processing
+agents    obligations provided   law especially   obeying 
+general principles  guarantees   data subjects rights
+        art   consent provided  item   art    law shall  given 
+writing   another means  demonstrates  manifestation   will   data
+subject
+          consent  given  writing  must appear highlighted    stand  
+  contractual clauses
+          burden  proof    controller  show  consent  obtained 
+compliance   provisions   law
+           prohibited  process personal data   consent  defective
+         consent shall refer  particular purposes  generic authorizations 
+processing personal data shall  void
+         consent may  revoked   time  express manifestation   data
+subject   facilitated  free  charge procedure  processing carried 
+ previously given consent remaining valid  long     request  deletion
+pursuant  item vi   lead sentence  art    law
+
+             change   information  referred   items  ii iii  v 
+art    law  controller shall inform  data subject  specific highlight 
+ content   changes   case  data subject   cases  herhis
+consent  required may revoke   shehe disagrees   change
+        art   data subject   right  facilitated access  information
+concerning  processing  herhis data  much  made available   clear
+adequate  ostensible manner concerning among  characteristics provided 
+regulation  complying   principle  free access
+           specific purpose   processing
+        ii   type  duration   processing  observed commercial 
+industrial secrecy
+        iii  identification   controller
+        iv   controllers contact information
+        v  information regarding  shared use  data   controller   purpose
+        vi  responsibilities   agents  will carry   processing 
+        vii   data subjects rights  explicit mention   rights provided  art
+   law
+          situations  consent  required  shall  considered void  
+information provided   data subject contains misleading  abusive content  
+ previously presented   transparent clear  unambiguous way
+           situation  consent  required    changes   purpose 
+ processing  personal data    compatible   original consent 
+controller shall previously inform  data subject   changes  purpose   data
+subject may revoke herhis consent  shehe disagrees   changes
+           processing  personal data   condition   provision  
+product  service    exercise   right  data subject shall  informed 
+special highlight   fact    means   shehe may exercise herhis data
+subjects rights  listed  art    law
+        art  controllers legitimate interest can   grounds  processing
+personal data  legitimate purposes based  particular situations  include 
+
+  limited 
+          support  promotion   controllers activity 
+        ii  protection  data subjects regular exercise  herhis rights  provision 
+services  benefit herhim subject   legitimate expectations  fundamental
+rights  freedoms  accordance   law
+          processing  based   controllers legitimate interest  
+personal data   strictly necessary   intended purpose may  processed
+          controller shall adopt measures  ensure transparency  data processing
+based  herhis legitimate interests
+          national authority may request   controller  impact report 
+protection  personal data  processing  based  herhis legitimate interest 
+observed commercial  industrial secrecy
+                                         section ii
+                          processing  sensitive personal data
+        art   processing  sensitive personal data shall  occur  
+following situations
+            data subject  herhis legal representative specifically  distinctly
+consents   specific purposes
+        ii  without consent   data subject   situations   
+indispensable 
+         controllers compliance   legal  regulatory obligation
+        b shared data processing   public administration  necessary data  
+execution  public policies provided  laws  regulations
+        c studies carried    research entity whenever possible ensuring 
+anonymization  sensitive personal data
+        d  regular exercise  rights including   contract    judicial
+administrative  arbitration procedure  last  accordance   terms  law
+   september    brazilian arbitration law
+
+        e protecting life  physical safety   data subject   third party
+        f  protection  health   procedure carried   health professionals  
+health entities 
+        g ensuring  prevention  fraud   safety   data subject  processes
+ identification  authentication  registration  electronic systems respecting 
+rights mentioned  art    law  except  fundamental rights  liberties
+  data subject  require protection  personal data prevail
+          provisions    apply   processing  personal data 
+reveals sensitive personal data   may cause harm   data subject subject  
+provisions  specific legislation
+           provisions  lines   b  item ii   lead sentence  
+  applied  public agencies  entities said waiver  consent shall 
+publicized pursuant  item    lead sentence  art    law
+         communication  shared use  sensitive personal data  controllers
+  purpose  obtaining  economic advantage may  prohibited  regulated 
+ national authority  heard  sectoral entities   public authority within 
+competences
+         communication  shared use  controllers  sensitive personal data
+referring  health   purpose  obtaining  economic advantage  prohibited
+except  cases  portability  data  consented   data subject
+        art  anonymized data shall   considered personal data  purposes 
+ law except   process  anonymization    data  submitted
+  reversed using exclusively   means    can  reversed applying
+reasonable efforts
+          determination    reasonable shall take objective factors 
+account   cost  time necessary  reverse  process  anonymization
+depending   available technology   exclusive use    means
+         data can  considered personal  purposes   law    used
+ formulate behavioral profiles   particular natural person   person  identified
+          national authority may provide  standards  techniques   used 
+
+processes  anonymization  carry  security checks  opinions  
+national board   protection  personal data
+         art   carrying  public health studies research entities may 
+access  personal databases  shall  processed exclusively within  entity 
+strictly   purpose  carrying  studies  research  shall  kept  
+controlled  secure environment  accordance  security practices provided 
+specific regulation   include whenever possible anonymization                      
+pseudonymization   data  well  taking  account  proper ethical standards
+related  studies  research
+          disclosure   results    portion   study   research 
+mentioned   lead sentence    shall   circumstances reveal
+personal data
+           research entity shall  liable   security   information provided
+  lead sentence       forbidden   circumstances  transfer
+ data   third party
+          access  data  provided    shall   object  regulation 
+ national authority    authorities   area  health  sanitation within 
+scope   competences
+           purposes    pseudonymization  processing  means  
+data can  longer  directly  indirectly associated   individual except  using
+additional information kept separately   controller   controlled  secure
+environment
+                                           section iii
+                processing  children  adolescents personal data
+         art   processing  personal data belonging  children  adolescents
+shall  done   best interest pursuant     pertinent legislation
+       processing  childrens personal data shall  done  specific 
+highlighted consent given   least one   parents   legal representative
+
+          processing data  mentioned      controllers shall make
+public  information   types  data collected  way   used  
+procedures  exercising  rights referred   art    law
+         childrens personal data may  collected without  consent mentioned 
+     collection  necessary  contact  parents   legal
+representative used one single time   stored    protection   
+circumstances shall  data  passed   third parties without consent  provided 
+   
+         controllers shall  condition  participation  data subjects  referred 
+      games internet applications   activities  providing
+personal information beyond   strictly necessary   activity
+          controller shall use  reasonable efforts  verify   consent referred
+       given   childs representative considering available
+technologies
+         information   processing  data referred     shall 
+provided   simple clear  accessible manner taking  account  physicalmotor
+perceptive sensorial intellectual  mental characteristics   user using audiovisual
+resources  appropriate  order  provide  necessary information   parents
+  legal representative    appropriate   childrens understanding
+                                         section iv
+                             termination  data processing
+        art   processing  personal data shall  terminated   following
+circumstances
+          verification   purpose   achieved    data   longer
+necessary  pertinent  achieve  specific purpose intended
+        ii  end   processing period
+        iii  communication   data subject including  exercising herhis right
+ revoke consent  provided    art    law subject   public interest
+
+
+        iv  determination   national authority      violation 
+ provisions   law
+        art  personal data shall  deleted following  termination  
+processing within  scope  technical limits   activities   storage
+authorized   following purposes
+          compliance   legal  regulatory obligation   controller
+        ii  study   research entity ensuring whenever possible  anonymization 
+ personal data
+        iii  transfer  third parties provided   requirements  data processing
+ provided   law  obeyed 
+        iv  exclusive use   controller  access  third parties  prohibited
+ provided  data   anonymized
+                                         iii
+                                data subjects rights
+        art   natural person  assured ownership  herhis personal data  
+fundamental rights  freedom intimacy  privacy  guaranteed   terms
+  law
+        art   personal data subject   right  obtain  following  
+controller regarding  data subjects data  processed   controller   time
+  means  request
+          confirmation   existence   processing
+        ii  access   data
+        iii  correction  incomplete inaccurate  outofdate data
+        iv  anonymization blocking  deletion  unnecessary  excessive data  data
+processed  noncompliance   provisions   law
+        v  portability   data  another service  product provider  means  
+express request  subject  commercial  industrial secrecy pursuant  
+
+regulation   controlling agency
+         vi  deletion  personal data processed   consent   data subject
+except   situations provided  art    law
+         vii  information  public  private entities    controller 
+shared data
+         viii  information   possibility  denying consent   consequences
+  denial
+         ix  revocation  consent  provided    art    law
+           personal data subject   right  petition regarding herhis data
+  controller   national authority
+           data subject may oppose  processing carried  based  one  
+situations  waiver  consent    noncompliance   provisions   law
+           rights provided    shall  exercised  means  express
+request   data subject  herhis legally constituted representative   processing
+agent
+             impossible  immediately adopt  measure mentioned    
+  controller shall send  reply   data subject   shehe may
+           communicate  shehe    data processing agent  indicate
+whenever possible   agent  
+         ii  indicate  reasons  fact   law  prevent  immediate adoption 
+ measure
+           request  mentioned      shall  fulfilled without costs 
+ data subject within  time periods    terms  provided  regulation
+           responsible shall immediately inform  processing agents  
+shehe  carried   shared use  data   correction deletion anonymization 
+blocking  data    can repeat  identical procedure
+           portability  personal data referred   item v   lead sentence 
+    include data   already  anonymized   controller
+           right referred       may also  exercised 
+consumerdefense entities
+
+        art  confirmation   existence   access  personal data shall 
+provided  means  request   data subject
+            simplified format immediately 
+        ii   means   clear  complete declaration  indicates  origin  
+data  nonexistence  record  criteria used   purpose   processing
+subject  commercial  industrial secrecy provided within  period  fifteen  days
+   date   data subjects request
+         personal data shall  stored   format  facilitates  exercise   right
+ access
+         information   data may  provided   data subjects discretion
+            electronic mean   safe  suitable   purpose 
+        ii   printed form
+          processing originates   consent   data subject   
+contract  data subject may request  complete electronic copy  herhis personal data
+subject  commercial  industrial secrecy  accordance  regulations  
+national authority   format  allows  subsequent use including  
+processing operations
+          national authority may provide differently regarding  time periods
+provided  items   ii   lead sentence     specific sectors
+        art   data subject   right  request review   natural person 
+decisions taken solely   bases  automated processing  personal data  affects
+herhis interests including decisions intended  define herhis personal professional
+consumer  credit profile  aspects  herhis personality
+         whenever requested     controller shall provide clear  adequate
+information regarding  criteria  procedures used   automated decision subject
+ commercial  industrial secrecy
+             offer  information  provided      based 
+commercial  industrial secrecy  national authority may carry   audit  verify
+discriminatory aspects  automated processing  personal data
+        art  personal data concerning  regular exercise  rights   data subject
+
+  used  herhis detriment
+        art   defense   interests  rights  data subjects may  carried 
+ court individually  collectively  provided  pertinent legislation regarding 
+instruments  individual  collective protection
+                                        iv
+          processing  personal data  public authorities
+                                          section 
+                                           rules
+        art  processing  personal data  legal entities  public law referred  
+sole paragraph  art   law    november    brazilian access
+ information law shall  done  fulfillment   public purpose  benefit  
+public interest   purpose  performing legal competences  discharging legal
+attributions   public service provided 
+           communicate  situations     exercise   competences
+ carry  processing  personal data supplying clear  uptodate information
+  legal base purpose procedures  practices used  carry   activities
+ easily accessible media preferably   websites 
+        ii   officer  appointed  carrying  personal data processing operations
+ accordance  art    law
+          national authority may provide   forms  publicity regarding
+processing operations
+          provisions   law   release  legal entities mentioned  
+lead sentence     establishing  authorities  provided  law 
+  november    brazilian access  information law
+          time periods  procedures  exercising data subjects rights  
+public authorities shall obey  provisions  specific legislation especially 
+provisions  law    november    brazilian habeas data law
+ law    january    federal administrative procedure law
+
+  law    november    brazilian access  information
+law
+          notarial  registry services carried   private law  delegation 
+public authorities shall receive   treatment given  legal entities  provided 
+ lead sentence     accordance   terms   law
+         o notarial  registry bodies shall provide access  data  electronic means
+  public administration  view   purposes mentioned   lead sentence 
+ 
+         art  public companies  mixedcapital companies  operate  
+competing market subject   provisions  art    federal constitution shall
+receive   treatment given  private legal entities  private law   terms
+  law
+         sole paragraph public  mixedcapital companies    carrying 
+public policies  within  scope   execution shall receive   treatment
+given   bodies  entities   public authorities   terms   
+         art  data shall  kept   interoperable format  structured  shared
+use intended   execution  public policies provision  public services
+decentralization  public activity dissemination  access  information   general
+public
+         art   shared use  personal data  public authorities shall fulfill 
+specific purposes  execution  public policies  legal attributions  agencies 
+public entities subject   principles  personal data protection listed  art   
+law
+            forbidden  public authorities  transfer  private entities personal data
+contained  databases     access except
+            cases  decentralized execution  public activity  requires transfer
+exclusively   specific  distinct purpose subject   provisions  law 
+  november    brazilian access  information law 
+         ii   cases    data  publicly accessible subject   provisions 
+ law
+
+         contracts  agreements  mentioned      shall 
+communicated   national authority
+        art  communication  shared use  personal data   legal entity 
+public law   legal entity  private law shall  communicated   national authority
+ shall rely   consent   data subject except
+           situations   consent  waived  provided   law
+        ii     shared use  data  will  publicized pursuant  item 
+  lead sentence  art    law 
+        iii    exceptions contained    art    law
+        art   national authority may request   time  entities   public
+authority carry  operations  processing  personal data specific report  
+scope  nature   data   details   processing  may issue
+complementary technical opinion  ensure compliance   law
+        art   national authority may establish complementary rules 
+communication  shared used  personal data activities
+                                          section ii
+                                       accountability
+        art      infringement   law   result  personal data
+processing  public agencies  national authority may send  report  applicable
+measures  stop  violation
+        art   national authority may request agents   public authorities 
+publish impact reports  protection  personal data  may suggest  adoption 
+standards  good practices  processing personal data   public authorities
+                                         v
+                        international transfer  data
+        art  international transfer  personal data   allowed   following
+
+cases
+           countries  international organizations  provide  level  protection 
+personal data   adequate   provisions   law
+        ii    controller offers  proves guarantees  compliance  
+principles   rights   data subject   regime  data protection provided 
+ law   form 
+         specific contractual clauses   given transfer
+        b standard contractual clauses
+        c global corporate norms
+        d regularly issued stamps certificates  codes  conduct
+        iii    transfer  necessary  international legal cooperation 
+public intelligence investigative  prosecutorial agencies  accordance  
+instruments  international law
+        iv    transfer  necessary  protect life  physical safety   data
+subject   third party
+        v    national authority authorizes  transfer
+        vi    transfer results   commitment undertaken  international
+cooperation
+        vii    transfer  necessary   execution   public policy  legal
+attribution  public service  shall  publicized pursuant  item    lead
+sentence  art    law
+        viii    data subject  given herhis specific consent  distinct  
+transfer  prior information   international nature   operation  
+ clearly distinct   purposes 
+        ix     necessary  satisfy  situations provided  items ii v  vi
+ art    law
+        sole paragraph  purposes  item      legal entities  public
+law referred    sole paragraph  art   law    november  
+ brazilian access  information law within  legal competences  
+parties accountable within  scope   activities may request  national authority
+
+ evaluate  level  protection  personal data provided   country  international
+organization
+        art   level  data protection   foreign country  international
+organization referred   item    lead sentence  art    law shall 
+evaluated   national authority  shall take  consideration
+           general  sectorial rules  legislation  force   receiving country
+ international organization
+        ii   nature   data
+        iii  compliance   general principles  personal data protection  data
+subjects rights  provided   law
+        iv   adoption  security measures  provided  regulation
+        v   existence  judicial  institutional guarantees  respecting  rights
+ personal data protection 
+        vi   specific circumstances relating   transfer
+        art   definition   content  standard contractual clauses  well 
+ verification  specific contractual clauses   particular transfer global corporate
+rules  stamps certificates  codes  conduct referred   item ii   lead
+sentence  art    law will  done   national authority
+          verify  provision   lead sentence    requirements
+conditions  minimum guarantees   transfer  obey  rights guarantees 
+principles   law must  considered
+          analyzing contractual clauses documents  global corporate rules
+submitted   national authority  approval supplementary information  due
+diligences performed  verification   processing operations may  required 
+necessary
+          national authority may designate certification entities  carry  
+provisions   lead sentence     shall remain   inspection
+subject   terms defined  regulation
+         acts carried   certification entities may  reviewed   national
+authority       compliance   law submitted  revision 
+
+voided
+         guarantees sufficient  compliance   general principles  protection
+ data subjects rights referred    lead sentence    shall also 
+analyzed  accordance   technical  organizational measures adopted  
+processor according   provisions      art    law
+        art  changes  guarantees presented  sufficient  compliance  
+general principles  protection    data subjects rights referred   item ii 
+art    law shall  communicated   national authority
+                                        vi
+                     personal data processing agents
+                                          section 
+                                controller  processor
+        art   controller   processor shall keep records  personal data
+processing operations carried    especially  based  legitimate interest
+        art   national authority may determine   controller must prepare 
+impact report  protection  personal data including sensitive data referring   data
+processing operations pursuant  regulations subject  commercial  industrial
+secrecy
+        sole paragraph subject   provisions   lead sentence    
+report must contain  least  description   types  data collected  methodology
+used  collection   ensuring  security   information   analysis 
+ controller regarding  adopted measures safeguards  mechanisms  risk
+mitigation
+        art   processor shall carry   processing according   instructions
+provided   controller  shall verify  obedience    instructions 
+  rules governing  subject
+        art   national authority may provide standards  interoperability 
+purposes  portability free access  data  security  well  regarding time records
+
+must  kept especially  view   need   transparency
+                                          section ii
+                                   data protection officer
+         art   controller shall appoint  officer    charge  processing
+personal data
+           identity  contact information   officer shall  publicly disclosed
+  clear  objective manner preferably   controllers website
+          officers activities consist 
+           accepting complaints  communications  data subjects providing
+explanations  adopting measures
+         ii  receiving communications   national authority  adopting measures
+         iii  orienting entitys employees  contractors regarding practices   taken
+ relation  personal data protection 
+         iv  carrying   duties  determined   controller  set forth 
+complementary rules
+           national authority may establish complementary rules   definition
+  duties   officer including situations    appointment   person
+may  waived according   nature   size   entity   volume  data
+processing operations
+                                          section iii
+                              liability  loss compensation
+         art   controller   processor    result  carrying  
+activity  processing personal data cause material moral individual  collective
+damage  others  violation  legislation   protection  personal data 
+obligated  redress 
+           order  ensure  actual indemnification   data subject
+
+            processor jointly answers   damages caused   processing 
+   comply   obligations  data protection legislation   shehe 
+ followed controllers lawful instructions   case  processor  deemed
+equivalent   controller except  cases  exclusion  provided  art   
+law
+         ii  controllers   directly involved   processing   damages
+resulted   data subject shall jointly answer except  cases  exclusion  provided
+ art    law
+           judge   civil lawsuit may reverse  burden  proof  favor  
+data subject   herhis discretion  allegation appears   true   
+funds   purpose  producing evidence   production  evidence   data
+subject   overly burdensome
+          lawsuits  compensation  collective damages  objective   
+liability pursuant   terms   lead sentence    may  filed collectively
+ court subject   provisions  pertinent legislation
+          anyone  pays compensation  damage   data subject   right
+ recourse   liable parties   extent   participation   damaging
+event
+         art  processing agents shall    held liable   prove 
+              carry   processing  personal data   attributed  
+         ii  although   carry   processing  personal data   attributed
+     violation   data protection legislation 
+         iii   damage arises  exclusive fault   data subject   third party
+         art  processing  personal data shall  irregular     obey 
+legislation      provide  security   data subject can expect  
+considering  relevant circumstances among  
+            way     done
+         ii   result   risks  one can reasonably expect  
+         iii   techniques  processing personal data available   time   done
+         sole paragraph  controller   processor  neglect  adopt  security
+
+measures provided  art    law shall  held liable   damages caused 
+ violation   security   data  caused  damage
+        art     violation  data subjects right   scope  consumer
+relations  rules  liability provided  pertinent legislation shall apply
+                                         vii
+                           security  good practices
+                                           section 
+                                security  secrecy  data
+        art  processing agents shall adopt security technical  administrative
+measures able  protect personal data  unauthorized accesses  accidental 
+unlawful situations  destruction loss alteration communication   type 
+improper  unlawful processing
+          national authority may provide minimum technical standards  make 
+provisions   lead sentence    applicable taking  account  nature 
+ processed information  specific characteristics   processing   current
+state  technology especially   case  sensitive personal data  well  
+principles provided   lead sentence  art    law
+          measures mentioned   lead sentence    shall  complied
+    conception phase   product  service    execution
+        art  processing agents    person  intervenes  one  
+processing phases undertake  ensure  security   information  provided  
+law regarding personal data even following conclusion thereof
+        art   controller must communicate   national authority    data
+subject  occurrence   security incident  may create risk  relevant damage 
+ data subjects
+          communication shall  done   reasonable time period  defined 
+ national authority  shall contain   minimum
+           description   nature   affected personal data
+
+        ii  information   data subjects involved
+        iii   indication   technical  security measures used  protect  data
+subject  commercial  industrial secrecy
+        iv   risks related   incident
+        v   reasons  delay  cases   communication   immediate
+
+        vi   measures    will  adopted  reverse  mitigate  effects
+  damage
+          national authority shall verify  seriousness   incident  may 
+necessary  safeguard  data subjects rights order  controller  adopt measures
+ 
+          broad disclosure   event  communications media 
+        ii  measures  reverse  mitigate  effects   incident
+          judging  severity   incident eventual demonstration 
+adequate technical measures  adopted  render  affected personal data
+unintelligible will  analyzed within  scope   technical limits   services
+ third parties    authorized  access 
+        art   systems used  processing personal data shall  structured  order
+ meet  security requirements standards  good practice  governance general
+principles provided   law   regulatory rules
+                                          section ii
+                             good practice  governance
+        art  controllers  processors within  scope   competence
+concerning processing  personal data individually   associations may formulate
+rules  good practice  governance  set forth conditions  organization  regime
+ operation procedures including  complaints  petitions  data subjects
+security norms technical standards specific obligations   various parties involved
+  processing educational activities internal mechanisms  supervision  risk
+
+mitigation   aspects related   processing  personal data
+          establishing rules  good practice  controller   processor shall
+take  consideration regarding  processing   data  nature scope purpose
+ probability  seriousness   risks   benefits  will result 
+processing  data subjects data
+          applying  principles mentioned  items vii  viii   lead
+sentence  art    law  subject   structure scale  volume  herhis
+operations  well   sensitivity   processed data   probability 
+seriousness   damages  data subjects  controller may
+          implement governance program  privacy    minimum
+         demonstrate  controllers commitment  adopt internal processes 
+policies  ensure broad compliance  rules  good practices regarding 
+protection  personal data
+        b  applicable   entire set  personal data  herhis control
+irrespective   means used  collect 
+        c  adapted   structure scale  volume  herhis operations  well 
+  sensitivity   processed data
+        d establish adequate policies  safeguards based   process  systematic
+evaluation   impacts   risks  privacy
+        e   purpose  establishing  relationship  confidence  data subjects
+ means  transparent operations   ensure mechanisms   data subject 
+participate
+        f  integrated   general governance structure  establish  apply
+internal  external mechanisms  supervision
+        g  plans  response  incidents  solution 
+        h  constantly updated based  information obtained  continuous
+monitoring  periodic evaluations
+        ii  demonstrate  effectiveness  herhis privacy governance program 
+appropriate  especially   request   national authority   entity
+responsible  promoting compliance  good practices  codes  conduct 
+
+independently promote compliance   law
+         rules  good practice  governance shall  published  updated
+periodically  may  recognized  disclosed   national authority
+        art   national authority shall encourage  adoption  technical standards
+ facilitate data subjects control   personal data
+                                         viii
+                                        monitoring
+                                            section 
+                                  administrative sanctions
+        art  data processing agents  commit infractions   rules provided 
+ law  subject   following administrative sanctions   applied  
+national authority
+          warning   indication   time period  adopting corrective
+measures
+        ii  simple fine    two percent    private legal entitys group 
+conglomerate revenues  brazil   prior financial year excluding taxes    total
+maximum  fifty million reais r$  per infraction
+        iii  daily fine subject   total maximum referred   item ii
+        iv  publicizing   infraction     duly ascertained  
+occurrence   confirmed
+        v  blocking  personal data    infraction refers   
+regularization
+        vi  deletion   personal data    infraction refers 
+          sanctions shall  applied following  administrative procedure  will
+provide opportunity   full defense   gradual single  cumulative manner 
+accordance   peculiarities   particular case  taking  consideration 
+following parameters  criteria
+           severity   nature   infractions    personal rights affected
+
+         ii   good faith   offender
+         iii   advantage realized  intended   offender
+         iv   economic condition   offender
+         v  recidivism
+         vi   level  damage
+         vii   cooperation   offender
+         viii  repeated  demonstrated adoption  internal mechanisms 
+procedures capable  minimizing  damage  secure  proper data processing 
+accordance   provisions  item ii    art    law
+         ix  adoption   good practice  governance policy
+         x   prompt adoption  corrective measures 
+         xi   proportionality   severity   breach   intensity  
+sanction
+           provisions      substitute  application  administrative
+civil  criminal sanctions defined  specific legislation
+           provisions  items  iv v  vi   lead sentence    may
+ applied  public entities  bodies without prejudice   provisions  laws nos
+  december    law  legal framework  public servants 
+ june    administrative improbity law    november 
+  brazilian access  information law
+           calculating  amount   fine provided  item ii   lead
+sentence     national authority may consider total revenues   company
+ group  companies       amount  revenues   business
+activity    infraction occurred defined   national authority   
+amount  presented   incomplete form    demonstrated unequivocally 
+reputably
+         art   national authority shall define  methodologies  will  used
+  calculation   base value  fines  means    regulations concerning
+administrative sanctions  violations   law  must   object   public
+consultation
+
+          methodologies referred    lead sentence    shall 
+previously published   information   processing agents  shall objectively
+present  forms  methods  calculating  base value   fines  shall
+contain detailed grounds    elements demonstrating obedience   criteria
+provided   law
+          regulation  sanctions  corresponding methodologies shall establish
+ circumstances  conditions  adopting simple  daily fines
+        art   amount  daily fines applied  infractions   law shall 
+subject   severity   infraction   extent   damage  losses caused 
+ grounded reasoning   national authority
+        sole paragraph  notice  imposition   daily fine shall contain  
+minimum information  description   obligation  imposed  reasonable
+timeframe stipulated   body  compliance   amount   daily fine  
+applied  noncompliance
+                                         ix
+                      final  transitional provisions
+        art  law    april    brazilian internet law shall
+henceforth contain  following alterations
+        art  
+        x  permanent deletion  personal data    provided   internet
+application upon request   termination   relationship   parties
+except   situations   storage  records  obligatory  provided   law
+    governs personal data protection reviewers note
+        art 
+        ii   personal data   excessive  relation   purpose  
+consent  given   data subject except  situations provided   law 
+governs personal data protectionreviewers note
+        art   foreign company shall  notified  summonsed   procedural
+acts provided   law irrespective  power  attorney  contractual  statutory
+
+provisions   person   agent  representative  person responsible  
+subsidiary agency branch establishment  office located  brazil
+        art   national authority   anísio teixeira national institute 
+educational studies  research inep within  scope   competences shall
+enact specific regulations  accessing data processed   union  compliance 
+ provisions    art   law    december    directive
+ bases  national education act   relating   national higher
+education evaluation system sinaes  provided  law    april  
+        art   national authority shall establish rules   progressive suitability
+ databases established    date  law comes  force taking  account 
+complexity   data processing operations   nature   data
+        art   rights  principles expressed   law   exclude others
+provided   brazilian legal system related   matter   international treaties 
+  federative republic  brazil   party
+        art   law shall come  force eighteen  months following  official
+publication
+

@@ -1,0 +1,585 @@
+preamble
+  national information technology development agency nitda
+hereinafter referred    agency  statutorily mandated   nitda act  
+ inter alia develop regulations  electronic governance  monitor  use 
+electronic data interchange   forms  electronic communication transactions 
+ alternative  paperbased methods  government commerce education 
+private  public sectors labour   fields   use  electronic
+communication may improve  exchange  data  information
+recognizing  many public  private bodies  migrated  respective
+businesses   information systems online information solutions   
+private  public sectors now drive service delivery   country  digital
+systems        information    systems        thus   become critical information
+infrastructure  must  safeguarded regulated  protected  atrocious
+breaches
+cognizant  emerging data protection regulations within  international community
+geared towards security  lives  property  fostering  integrity  commerce
+ industry   volatile data economy
+conscious   concerns  contributions  stakeholders   issue  privacy
+ protection  personal data   grave consequences  leaving personal data
+processing unregulated
+ agency hereby issues  nigeria data protection regulation  shall come
+ effect   date issued  nitda
+                                                                                        
+                              nigeria data protection regulation
+
+part one
+       objectives   regulation
+          objectives   regulation   follows
+     safeguard  rights  natural persons  data privacy
+   b  foster safe conduct  transactions involving  exchange  personal data
+   c  prevent manipulation  personal data 
+   d  ensure  nigerian businesses remain competitive  international trade
+           safeguards afforded   just  equitable legal regulatory
+         framework  data protection     tune  best practice
+      scope   regulation
+      regulation applies   transactions intended   processing  personal
+          data   processing  personal data notwithstanding  means  
+           data processing   conducted  intended   conducted  respect 
+          natural persons  nigeria
+    b  regulation applies  natural persons residing  nigeria  residing outside
+          nigeria   citizens  nigeria
+    c  regulation shall  operate  deny  nigerian   natural person 
+          privacy rights   entitled    law regulation policy contract  
+          time   force  nigeria    foreign jurisdiction
+       definitions
+            regulation unless  context otherwise requires
+            act means  national information technology development agency act 
+              
+      ii     computer means information technology systems  devices networked
+               
+     iii     consent   data subject means  freely given specific informed 
+              unambiguous indication   data subjects wishes     
+                statement   clear affirmative action signifies agreement  
+              processing  personal data relating    
+                                                                                             
+                                 nigeria data protection regulation
+
+ iv  data means characters symbols  binary   operations 
+      performed   computer  may  stored  transmitted   form 
+      electronic signals stored   format   device
+viii   database means  collection  data organized   manner  allows
+       access retrieval deletion  processing   data  includes  
+       limited  structured unstructured cached  file system type databases
+ix    data administrator means  person   organization  processes data
+x     data controller means  person  either alone jointly   persons
+         common   persons   statutory body determines 
+       purposes    manner   personal data  processed    
+       processed
+xi    database management system means  software  allows  computer 
+       create  database add change  delete data   database allows data 
+        database   processed sorted  retrieved
+xii   data portability means  ability  data   transferred easily  one
+        system  computer  another   safe  secured means  
+       standard format
+xiii  data protection compliance organization dpco means  entity duly
+       licensed  nitda   purpose  training auditing consulting 
+       rendering services  products   purpose  compliance  
+       regulation   foreign data protection law  regulation  effect 
+       nigeria
+xiv   data subject means  person  can  identified directly  indirectly
+        reference   identification number   one   factors specific 
+        physical physiological mental economic cultural  social identity
+xv    data subject access request means  mechanism   individual 
+       request  copy   data   formal process  may include
+       payment   fee
+xvi   filing system means  structured set  personal data  
+       accessible according  specific criteria whether centralized decentralized 
+       dispersed   functional  geographical basis
+                                                                                      
+                          nigeria data protection regulation
+
+xvii  foreign country means  sovereign states autonomous  semi
+       autonomous territories within  international community
+xviii regulation means  regulation   subsequent amendments 
+        circumstance requires  shall also mean   regulations  
+       processing  information relating  identifiable individuals including 
+       obtaining holding use  disclosure   information  protect 
+       information  inappropriate access use  disclosure
+xix   personal data means  information relating   identified  identifiable
+       natural person data subject  identifiable natural person  one  can
+        identified directly  indirectly  particular  reference   identifier
+          name  identification number location data  online identifier
+         one   factors specific   physical physiological genetic
+       mental economic cultural  social identity   natural person  can 
+       anything   name address  photo  email address bank details
+       posts  social networking websites medical information   unique
+       identifier     limited  mac address ip address imei number
+       imsi number sim personal identifiable information pii  others
+xx    personal identifiable information pii means information  can  used
+             information  identify contact  locate  single
+       person   identify  individual   context
+xxi   processing means  operation  set  operations   performed 
+       personal data   sets  personal data whether    automated
+       means   collection recording organisation structuring storage
+       adaptation       alteration   retrieval consultation   use  disclosure   
+       transmission dissemination  otherwise making available alignment 
+       combination restriction erasure  destruction
+xxii  personal data breach means  breach  security leading   accidental
+        unlawful destruction loss alteration unauthorised disclosure   access
+        personal data transmitted stored  otherwise processed
+xxiii recipient means  natural  legal person public authority  accepts
+       data
+                                                                                        
+                          nigeria data protection regulation
+
+     xxiv relevant        authorities   means         national  information   technology
+             development agency nitda    statutory body  establishment
+              governments mandate  deal solely  partly  matters relating 
+             personal data
+     xxv    sensitive personal data means data relating  religious   beliefs
+             sexual orientation health race ethnicity political views trades union
+             membership criminal records    sensitive personal information
+     xxvi  agency means  national information technology development
+             agency
+     xxvii   third party means  natural  legal person public authority
+             establishment    body    data subject  data
+             controller  data administrator   persons   engaged  
+             data controller   data administrator  process personal data
+part two
+     governing principles  data processing
+      addition   procedures laid    regulation    instrument
+          time   force personal data shall 
+         collected  processed  accordance  specific legitimate  lawful
+            purpose consented    data subject provided 
+                   processing may  done   archiving scientific research
+                   historical research  statistical purposes  public interest
+               ii  person  entity carrying   purporting  carry  data
+                   processing   provision   paragraph shall  transfer 
+                   personal data   person
+        b adequate accurate  without prejudice   dignity  human person
+        c stored    period within    reasonably needed 
+        d secured   foreseeable hazards  breaches   theft
+            cyberattack viral attack dissemination manipulations   kind damage 
+            rain fire  exposure   natural elements
+                                                                                             
+                                  nigeria data protection regulation
+
+     anyone   entrusted  personal data   data subject    
+        possession   personal data   data subject owes  duty  care  
+        said data subject
+     anyone   entrusted  personal data   data subject    
+        possession   personal data   data subject shall  accountable  
+        acts  omissions  respect  data processing   accordance  
+        principles contained   regulation
+     lawful processing
+without prejudice   principles set    regulation processing shall  lawful 
+ least one   following applies
+          data subject  given consent   processing     personal
+            data  one   specific purposes
+        b processing  necessary   performance   contract    data
+            subject  party   order  take steps   request   data subject
+            prior  entering   contract
+        c processing  necessary  compliance   legal obligation   
+            controller  subject
+        d processing  necessary  order  protect  vital interests   data
+            subject   another natural person 
+        e processing  necessary   performance   task carried   
+            public interest   exercise  official public mandate vested  
+            controller
+     procuring consent
+             data shall  obtained except  specific purpose  collection 
+               made known   data subject
+            data controller   obligation  ensure  consent   data
+               subject   obtained without fraud coercion  undue influence
+               accordingly
+               processing  based  consent  controller shall  able 
+                 demonstrate   data subject  consented  processing   
+                  personal data   legal capacity  give consent
+                                                                                            
+                                nigeria data protection regulation
+
+        b   data subjects consent  given   context   written
+             declaration  also concerns  matters  request  consent
+             shall  presented   manner   clearly distinguishable  
+              matters   intelligible  easily accessible form using clear
+              plain language  part    declaration  constitutes 
+             infringement   regulation shall   binding   data subject
+        c prior  giving consent  data subject shall  informed   right
+              method  withdraw  consent   given time however 
+             withdrawal  consent shall  affect  lawfulness  processing based
+              consent   withdrawal
+        d  assessing whether consent  freely given utmost account shall 
+             taken  whether  performance   contract including  provision
+               service  conditional  consent   processing  personal data
+                necessary  excessive   performance   contract
+             
+        e  data may  transferred   third party   reason
+             whatsoever
+ due diligence  prohibition  improper motives
+        consent shall  sought given  accepted   circumstance 
+          may engender direct  indirect propagation  atrocities hate child rights
+          violation criminal acts  antisocial conducts
+      b  party   data processing contract    individual data
+          subject shall take reasonable measures  ensure   party 
+             record  violating  principles set   part    
+          accountable  nitda   regulatory authority  data protection within 
+          outside nigeria accordingly every data processor  controller shall 
+          liable   actions  inactions  third parties  handle  personal
+          data  data subjects   regulation
+      c   part  party shall include directors shareholders servants 
+          privies   contracting party  record shall include report  public
+                                                                                       
+                           nigeria data protection regulation
+
+            records  reports  credible news media accordingly  distinction
+             legal  natural persons   purpose  limiting due diligence
+             irrelevant
+ publicity  clarity  privacy policy
+    notwithstanding anything contrary   regulation   instrument  
+    time   force  medium   personal data   collected
+     processed shall display  simple  conspicuous privacy policy   class
+     data subject  targeted can understand  privacy policy shall 
+    addition    relevant information contain  following
+         constitutes  data subjects consent
+       b description  collectable personal information
+       c purpose  collection  personal data
+       d technical methods used  collect  store personal information cookies
+           jwt web tokens etc
+       e access    third parties  personal data  purpose  access
+       f  highlight   principles stated  part 
+       g available remedies   event  violation   privacy policy
+       h  time frame  remedy 
+          provided   limitation clause shall avail  data controller  acts
+            breach   principles set    regulation
+ data security
+    anyone involved  data processing   control  data shall develop security
+    measures  protect data  measures include   limited  protecting
+    systems  hackers setting  firewalls storing data securely  access 
+    specific    authorized  individuals   employing     data   encryption technologies
+    developing organizational policy  handling personal data   sensitive
+     confidential data protection  emailing systems  continuous capacity
+    building  staff
+ third party data processing contract
+    data processing   third party shall  governed   written contract 
+     third party   data controller accordingly  person engaging  third
+                                                                                      
+                           nigeria data protection regulation
+
+      party  process  data obtained  data subjects shall ensure adherence 
+       regulation
+   objections   data subject
+      right   data subject  object   processing   data shall always 
+     safeguarded accordingly  data subject shall   option 
+      object   processing  personal data relating     data
+         controller intend  process   purpose  marketing
+     b  expressly  manifestly offered  mechanism  objection   form
+          data processing free  charge
+   advancement  right  privacy
+      notwithstanding anything   contrary   regulation  privacy right  
+      data subject shall  interpreted   purpose  advancing  never  
+      purpose  restricting  safeguards data subject  entitled    data
+      protection instrument made  furtherance  fundamental rights   nigerian
+      laws
+  penalty  default
+       person subject   regulation   found    breach   data
+      privacy rights   data subject shall  liable  addition    criminal
+      liability   following
+            case   data controller dealing     data
+               subjects payment   fine    annual gross revenue  
+               preceding year  payment   sum   million naira whichever 
+               greater
+         b   case   data controller dealing  less   data
+               subjects payment   fine     annual gross revenue  
+               preceding year  payment   sum   million naira whichever 
+               greater
+  transfer   foreign country
+       transfer  personal data   undergoing processing   intended 
+      processing  transfer   foreign country    international organisation
+      shall take place subject    provisions   regulation  
+                                                                                         
+                                nigeria data protection regulation
+
+supervision   honourable attorney general   federation hagf
+accordingly
+     transfer  personal data   foreign country   international
+      organization may take place   agency  decided  
+      foreign country territory  one   specified sectors within 
+      foreign country   international organization  question ensures 
+      adequate level  protection
+   b  hagf shall take  consideration  legal system   foreign
+      country particularly   areas  rule  law respect  human rights
+       fundamental freedom relevant legislation  general  sectoral
+      including public security defence national security  criminal law 
+       access  public authorities  personal data
+   c implementation   legislation data protection rules professional
+      rules  security measures including rules   onward transfer 
+      personal data  another foreign country  international organization
+        complied    country  international organization case
+      law  well  effective  enforceable data subject rights  effective
+      administrative  judicial redress   data subjects whose personal
+      data   transferred
+   d  existence  effective functioning  one   independent
+      supervisory authorities   foreign country     international
+      organization  subject  responsibility  ensuring  enforcing
+      compliance   data protection rules including adequate enforcement
+      powers  assisting  advising  data subjects  exercising 
+      rights   cooperation   relevant authorities  nigeria 
+   e  international commitments   foreign country  international
+      organization concerned  entered    obligations arising 
+      legally binding conventions  instruments  well    participation
+       multilateral  regional systems particularly  relation   protection
+       personal data
+                                                                                    
+                      nigeria data protection regulation
+
+    exceptions  respect  transfer   foreign country
+          absence   decision   agency  hagf    adequacy 
+        safeguards   foreign country  transfer   set  transfers  personal data
+          foreign country   international organisation shall take place   one
+          following conditions
+                  data subject  explicitly consented   proposed transfer
+                      informed   possible risks   transfers
+               b  transfer  necessary   performance   contract  
+                   data subject   controller   implementation  pre
+                   contractual measures taken   data subjects request
+               c  transfer  necessary   conclusion  performance   contract
+                   concluded   interest   data subject   controller
+                    another natural  legal person
+               d  transfer  necessary  important reasons  public interest
+               e  transfer  necessary   establishment exercise  defence 
+                   legal claims 
+               f  transfer  necessary  order  protect  vital interests  
+                   data subject    persons   data subject  physically
+                    legally incapable  giving consent provided   circumstances
+                     data subject   manifestly made  understand 
+                   clear warnings   specific principles  data protection  
+                   likely   violated   event  transfer   third country 
+                   proviso shall  apply   instance   data subject 
+                   answerable  duly established legal action   civil  criminal claim
+                     third country
+part three
+ rights  data subject
+      controller shall take appropriate measures  provide  information
+        relating  processing   data subject   concise transparent intelligible
+         easily accessible form using clear  plain language   
+        information relating   child  information shall  provided  writing  
+                                                                                             
+                                nigeria data protection regulation
+
+     means including  appropriate  electronic means 
+    requested   data subject  information may  provided orally provided
+      identity   data subject  proven   means
+   controller   act   request   data subject  controller
+    shall inform  data subject without delay    latest within one month 
+    receipt   request   reasons   taking action    possibility 
+    lodging  complaint   supervisory authority
+ except  otherwise provided   public policy  regulation information
+    provided   data subject   communication   actions taken shall
+     provided free  charge  requests   data subject  manifestly
+    unfounded  excessive  particular    repetitive character 
+    controller may either
+         charge  reasonable fee considering  administrative costs  providing
+            information  communication  taking  action requested 
+        b write  letter   data subject stating refusal act   request 
+           copy  agency  every  occasion   dedicated channel
+            shall  provided   purpose
+  controller shall bear  burden  demonstrating  manifestly unfounded
+     excessive character   request
+   controller  reasonable doubts concerning  identity  
+    natural person making  request  information  controller may request 
+    provision  additional information necessary  confirm  identity   data
+    subject
+  information   provided  data subject may  provided  combination
+     standardized icons  order  give   easily visible intelligible  clearly
+    legible manner  meaningful overview   intended processing  
+    icons  presented electronically  shall  machinereadable
+ prior  collecting personal data   data subject  controller shall provide
+     data subject    following information
+        identity   contact details   controller
+      b  contact details   data protection officer
+      c  purposes   processing    personal data  intended 
+         well   legal basis   processing
+                                                                                         
+                            nigeria data protection regulation
+
+     d  legitimate interests pursued   controller    third party
+     e  recipients  categories  recipients   personal data  
+     f  applicable  fact   controller intends  transfer personal
+         data   third country  international organization   existence 
+         absence   adequacy decision   agency
+     g  period    personal data will  stored      possible
+          criteria used  determine  period
+     h  existence   right  request   controller access  
+         rectification  erasure  personal data  restriction  processing
+         concerning  data subject   object  processing  well   right 
+         data portability
+       existence   right  withdraw consent   time without affecting
+          lawfulness  processing based  consent   withdrawal
+     j  right  lodge  complaint   relevant authority
+     k whether  provision  personal data   statutory  contractual
+         requirement   requirement necessary  enter   contract  well 
+         whether  data subject  obliged  provide  personal data   
+         possible consequences  failure  provide  data
+     l  existence  automated decisionmaking including profiling   least
+           cases meaningful information   logic involved  well 
+          significance   envisaged consequences   processing  
+         data subject
+    m   controller intends   process  personal data  
+        purpose       personal data  collected 
+        controller shall provide  data subject prior    processing 
+        information    purpose    relevant  information
+        
+     n  applicable   controller intends  transfer personal data  
+         recipient   foreign country  international organization   existence
+          absence   adequacy decision   agency
+  personal data  transferred   foreign country    international
+    organization  data subject shall   right   informed  
+                                                                                        
+                            nigeria data protection regulation
+
+      appropriate safeguards  data protection   foreign country  data
+      subject shall   right  obtain   controller without undue delay 
+      rectification  inaccurate personal data concerning    considering 
+      purposes   processing  data subject shall   right  
+      incomplete personal data completed including  means  providing 
+      supplementary statement
+    data subject shall   right  request  controller  delete personal
+      data without delay   controller shall delete personal data  one 
+       following grounds applies
+           personal data   longer necessary  relation   purposes 
+                 collected  processed
+         b  data subject withdraws consent    processing  based
+         c  data subject objects   processing     overriding
+              legitimate grounds   processing
+         d  personal data   unlawfully processed 
+         e  personal data must  erased  compliance   legal obligation 
+              nigeria
+  controller   made  personal data public   obliged  delete
+       personal data shall take  reasonable steps  inform controllers
+      processing  personal data   data subjects request
+  data subject shall   right  obtain   controller restriction 
+      processing  one   following applies
+                accuracy   personal data  contested   data subject 
+                  period enabling  controller  verify  accuracy   personal
+                 data
+          b      processing  unlawful   data subject opposes  erasure
+                   personal data  requests  restriction   use instead
+          c      controller  longer needs  personal data   purposes 
+                  processing    required   data subject  
+                 establishment exercise  defence  legal claims 
+                                                                                         
+                             nigeria data protection regulation
+
+            d    data subject  objected  processing pending  verification
+                 whether  legitimate grounds   controller override   
+                 data subject
+  processing   restricted  personal data shall except 
+     storage   processed   data subjects consent   
+     establishment exercise  defence  legal claims    protection   rights
+      another natural  legal person   reasons  important public interest 
+     nigeria
+  controller shall communicate  rectification  erasure  personal data 
+     restriction   recipient    personal data   disclosed
+     unless  proves impossible  involves disproportionate effort  controller
+     shall inform  data subject   recipients   data subject requests 
+  data subject shall   right  receive  personal data concerning 
+            provided   controller   structured commonly
+     used  machinereadable format    right  transmit  data 
+     another controller without hindrance   controller    personal data
+       provided 
+              processing  based  consent 
+            b   contract 
+            c  processing  carried   automated means
+    exercising  right  data portability  data subject shall   right 
+         personal data transmitted directly  one controller  another 
+       technically feasible provided   right shall  apply  processing
+       necessary   performance   task carried    public interest   
+       exercise  official authority vested   controller
+  exercise   foregoing rights shall   conformity  constitutionally
+     guaranteed principles  law   general protection  enforcement 
+     fundamental rights
+part four
+ implementation mechanisms
+                                                                                          
+                               nigeria data protection regulation
+
+  public  private organizations  nigeria  control data  natural persons
+    shall within three  months   date   issuance   regulation
+    make available   general public  respective data protection policies
+     policies shall  inconformity   regulation
+ every data controller shall designate  data protection officer   purpose 
+    ensuring adherence   regulation relevant data privacy instruments 
+    data protection directives   data controller provided   data controller
+    may outsource data protection   verifiably competent firm  person
+  data controller  processor shall ensure continuous capacity building  data
+    protection officers   generality   personnel involved   form 
+    data processing
+  agency shall   regulation register  license data protection
+    compliance organisations dpcos  shall  behalf   agency monitor
+    audit conduct training  data protection compliance consulting   data
+    controllers   regulation  dpcos shall  subject  regulations
+     directives  nitda issued  time  time
+ within six  months   date  issuance   regulations 
+    organization shall conduct  detailed audit   privacy  data protection
+    practices   least  audit stating
+         personally identifiable information  organization collects  employees
+             organization  members   public
+        b  purpose    personally identifiable information  collected
+        c  notice given  individuals regarding  collection  use  personal
+           information relating   individual
+        d  access given  individuals  review amend correct supplement 
+           delete personal information relating   individual
+        e whether   consent  obtained   individual  personally
+           identifiable information  collected used transferred  disclosed 
+            method used  obtain consent
+        f  policies  practices   organization   security  personally
+           identifiable information
+                                                                                       
+                            nigeria data protection regulation
+
+            g  policies  practices   organization   proper use 
+                personally identifiable information
+            h organization policies  procedures  privacy  data protection
+               policies  procedures   organization  monitoring 
+                reporting violations  privacy  data protection policies 
+            j   policies  procedures   organization  assessing  impact 
+                technologies   stated privacy  security policies
+       data controller processes  personal data      
+        period  six months  soft copy   summary   audit containing
+        information stated   shall  submitted   agency
+      annual basis  data controller  processed  personal data  
+          data subjects   period   months shall  later   th 
+        march   following year submit  summary   data protection audit  
+        agency  data protection audit shall contain information  specified  
+      mass media   civil society shall   right  uphold accountability
+         foster  objectives   regulation
+     administrative redress panel
+     without prejudice   right   data subject  seek redress   court 
+        competent jurisdiction  agency shall set   administrative redress panel
+          following terms  reference
+     investigation  allegations   breach   provisions   regulation
+     invitation   party  respond  allegations made   within seven
+        days
+     issuance  administrative orders  protect  subjectmatter   allegation
+        pending  outcome  investigation
+     conclusion  investigation  determination  appropriate redress within
+        twentyeight  working days 
+      breach   regulation shall  construed   breach   provisions 
+         national information technology development agency nitda act  
+                                                                                         
+                                nigeria data protection regulation
+
+ local  international cooperation
+     relation  foreign countries  international organizations  agency 
+    relevant authorities shall take appropriate steps 
+      develop international cooperation mechanisms  facilitate  effective
+         enforcement  legislation   protection  personal data
+     b provide international mutual assistance   enforcement  legislation 
+          protection  personal data including  notification complaint
+         referral investigative assistance  information exchange subject 
+         appropriate safeguards   protection  personal data  
+         fundamental rights  freedoms
+     c engage relevant stakeholders  discussion  activities aimed  furthering
+         international cooperation   enforcement  legislation   protection
+          personal data 
+     d promote  exchange  documentation  personal data protection
+         legislation  practice including  jurisdictional conflicts  third
+         countries
+      instrument  signed  th day  january 
+                   dr isa ali ibrahim pantami fncs fbcs fiim
+                                     director general
+           national information technology development agency nitda
+                                                                                      
+                            nigeria data protection regulation
+

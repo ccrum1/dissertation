@@ -1,0 +1,473 @@
+                                                             data protection act 
+ ls
+                                                   assent
+                                                                                louise laketack
+                                                                                 governorgeneral
+                                                                                 th october 
+                                     antigua  barbuda
+                                  data protection act 
+                                                 
+  act  promote  protection  personal data processed  public  private bodies
+   incidental  connected purposes
+ enacted   parliament  antigua  barbuda  follows
+                                                  part 
+                                             preliminary
+    short title
+  act may  cited   data protection act 
+    interpretation
+   act unless  context otherwise requires
+      alternative format means  respect  personal data  format  allows  person 
+       sensory disability  read  listen   personal data
+
+data protection act                                                              
+    chief executive officer means  officer   time  exercising  highest level 
+    administrative functions within  public body  private body
+     commercial transaction means  transaction   commercial nature whether contractual
+       includes  matters relating   supply  exchange  goods  services
+    agency investments financing banking  insurance
+     correct means  relation  personal data  alter  data  way  amendment deletion
+     addition
+     court means  eastern caribbean supreme court
+     data subject means  natural  legal person    subject  personal data
+     data user means  person  either alone  jointly   common   persons
+    processes  personal data   control   authorizes  processing   personal
+    data    include  data processor
+     document means  medium   data  recorded whether printed   tape  film
+      electronic means  otherwise  also means  map diagram photograph film
+    microfilm videotape sound recording  machine readable record   record  
+    capable   produced   machinereadable record  means  equipment  
+    program   combination     used   purpose   public body 
+    private body  holds  record equipment   program   combination  
+      used   purpose   public body  private body  holds  record
+     information commissioner means  commissioner appointed pursuant  section  
+     freedom  information act 
+     local authority means  city council  village council   town council
+     minister means  minister  responsibility  public information
+     personal data means  information  respect  commercial transactions 
+               processed wholly  partly  means  equipment operating
+                automatically  response  instructions given   purpose
+         b     recorded   intention    wholly  partly  processed 
+                means   equipment 
+         c     recorded  part   relevant filing system    intention   
+                form part   relevant filing system  relates directly  indirectly   data
+                subject   identified  identifiable   information    
+                 information   possession   data user including  sensitive personal
+                data  expression  opinion   data subject
+      private body means  body excluding  public body 
+
+                                                              data protection act 
+           carries   trade business  profession     capacity 
+          b  legal personality
+    processing  relation  personal data means collecting recording holding  storing 
+    personal data  carrying   operation  set  operations   personal data including
+    
+           organization adaptation  alteration  personal data
+          b retrieval consultation  use  personal data
+          c disclosure  personal data  transmission transfer dissemination  otherwise
+              making available 
+          d alignment combination correction erasure  destruction  personal data
+     public body includes
+           parliament
+          b  cabinet
+          c  ministry  department   division   ministry   constituency office  
+              minister wherever located
+          d  local authority
+          e  statutory corporation  body
+          f  body corporate   incorporated public body established   public purpose
+                owned  controlled   state
+          g  embassy consulate  mission   antigua  barbuda   office  
+              antigua  barbuda situated outside antigua  barbuda whose functions
+              include  provision  diplomatic  consular services    behalf  antigua
+               barbuda 
+          h   body designated   minister  regulations made   act 
+                public body   purposes   act
+    sensitive personal data means  personal data consisting  information    physical
+     mental health  condition   data subject    sexual orientation   
+    political opinions    religious beliefs   beliefs   similar nature 
+    commission  alleged commission       offence    personal data 
+     minister may determine  order published   gazette
+
+data protection act                                                               
+   objectives  act
+ objectives   act   safeguard personal data processed  public bodies  private
+bodies   era   technology increasingly facilitates  processing  personal data 
+balancing  necessity  processing personal data  safeguarding personal data  unlawful
+processing  public bodies  private bodies  promote transparency  accountability  
+processing  personal data
+   savings  certain laws
+ act shall  affect  operation   law  antigua  barbuda  makes provision 
+ processing  personal data   capable  operating concurrently   act
+                                               part ii
+                     privacy  data protection principles
+   general principle
+       data user shall 
+            case  personal data   sensitive personal data process personal data
+               data subject unless  data subject  given  consent   processing 
+              personal data 
+         b   case  sensitive personal data process sensitive personal data   data
+             subject except  accordance   provisions  section 
+      notwithstanding paragraph   subject  subsection   data user may process
+personal data   data subject   processing  necessary
+            performance   contract    data subject   party
+         b   taking  steps   request   data subject   view  entering  
+             contract
+         c  compliance   legal obligation    data user   subject 
+               obligation imposed   contract
+         d  order  protect  vital interests   data subject
+         e   administration  justice 
+         f   exercise   functions conferred   person     law
+      personal data shall   processed unless 
+          personal data  processed   lawful purpose directly related   activity  
+             data user
+
+                                                                 data protection act 
+          b processing   personal data  necessary   directly related   purpose
+               
+          c personal data  adequate   excessive  relation   purpose
+   notice  choice principle
+  data user shall inform  data subject upon  request  personal data
+            purposes    personal data       collected  
+               processed
+          b   information available   data user    source   personal data
+          c   data subjects right  request access    request correction  
+               personal data    contact  data user   inquiries  complaints 
+               respect   personal data
+          d   class  third parties    data user discloses  may disclose 
+               personal data
+          e whether   obligatory  voluntary   data subject  supply  personal data
+               
+          f    obligatory   data subject  supply  personal data 
+               consequences   data subject     fails  supply  personal data
+   disclosure principle
+subject  section   personal data shall without  consent   data subject  disclosed
+             purpose  
+                 purpose    personal data    disclosed   time 
+                    collection   personal data 
+               ii  purpose directly related   purpose referred   subparagraph 
+          b   party    third party   class  third parties  specified 
+               section  d
+   security principle
+       data user shall  processing personal data take practical steps  protect 
+personal data   loss misuse modification unauthorized  accidental access  disclosure
+alteration  destruction   regard 
+
+data protection act                                                               
+            nature   personal data   harm   result   loss misuse
+               modification unauthorized  accidental access  disclosure alteration 
+               destruction
+          b  place  location   personal data  stored
+          c  security measures incorporated   equipment    personal data 
+               stored
+          d  measures taken  ensuring  reliability integrity  competence  personnel
+                access   personal data 
+          e  measures taken  ensuring  secure transfer   personal data
+       processing  personal data  carried    data processor  behalf   data
+user  data user shall   purpose  protecting  personal data   loss misuse
+modification unauthorized  accidental access  disclosure alteration  destruction ensure 
+ data processor
+            provides sufficient guarantees  respect   technical  organizational security
+               measures governing  processing   carried  
+           b takes reasonable steps  ensure compliance   measures
+   retention principle
+       personal data processed   purpose shall   kept longer   necessary 
+ fulfilment   purpose
+       shall   duty   data user  take  reasonable steps  ensure   personal
+data  destroyed  permanently deleted     longer required   purpose    
+  processed
+ data integrity principle
+ data user shall take reasonable steps  ensure   personal data  accurate complete 
+misleading  kept uptodate   regard   purpose including  directly related
+purpose    personal data  collected   processed
+ access principle
+ data subject shall  given access     personal data held   data user   able 
+correct  personal data   personal data  inaccurate incomplete misleading   
+todate except  compliance   request   access  correction  refused  
+act
+
+                                                             data protection act 
+                                               part iii
+                                   rights  data subjects
+ right  access  personal data
+subject   provisions   act  public body   private body shall   written request
+   payment   prescribed fee   person  access  personal data
+          inform  person whether personal data    person   data subject 
+               processed    behalf   body
+         b  personal data   processed    behalf   body communicate  
+              person   intelligible form  description 
+                personal data    person   data subject
+              ii  purposes    personal data    will  processed
+              iii  recipients  classes  recipients   personal data   may 
+                    disclosed 
+              iv  information available   body    source   data
+ notice  time  access  requested
+      subject  section   access  personal data  requested  section  
+public body  private body    request  made shall subject  subsection  within
+thirty days   request  received 
+          give written notice   person  made  request   whether   access 
+               personal data   part thereof will  granted 
+         b  access  granted give   person  made  request access   personal
+              data   part thereof
+       chief executive officer may extend  time limit  compliance   request 
+access  personal data 
+            maximum  thirty days 
+               meeting  original time limit  unreasonably interfere   operations
+                      public body  private body 
+               ii consultations  necessary  comply   request    reasonably
+                     completed within  original time limit 
+
+data protection act                                                                 
+        b   period  time   reasonable   additional time  necessary 
+            converting  personal data   alternative format  giving notice  
+            extension   length   extension   person  made  request within
+            thirty days   request  received   statement   person   right 
+            make  complaint   information commissioner   extension
+ denial  access  personal data
+       public body   private body   obliged  comply   request  access 
+personal data
+         unless   supplied   information   may reasonably require  order 
+            satisfy     identity   person making  request   locate 
+            personal data   person seeks
+        b  compliance   request will   contravention   exemptions contained 
+            part iv    duty  confidentiality recognised  law
+        c  another person  can  identified   personal data consents  
+            disclosure     personal data   person making  request 
+        d   body obtains  written approval   information commissioner
+        public body   private body refuses  give access  personal data  chief
+executive officer shall state   notice given pursuant  section  
+           personal data   exist 
+        b  specific provision   act   refusal  based   provision 
+              refusal  reasonably  expected   based   personal data existed
+               person  made  request   right  make  complaint  
+            information commissioner   refusal
+        chief executive officer fails  give access  personal data requested 
+section  within  time limits set    act    shall   purposes   act 
+deemed   refused  give access
+ form  access
+        data subject  granted access  personal data requested pursuant  section 
+ public body  private body shall
+         permit  data subject  examine  personal data 
+        b provide  data subject   copy   personal data
+
+                                                               data protection act 
+       access  personal data  given   act   data subject  
+access  granted   sensory disability  requests  access  given   alternative
+format access shall  given   alternative format  
+            personal data already exists   control   public body   private body
+                alternative format   acceptable   person 
+          b  chief executive officer considers    reasonable  cause  personal data
+                converted   alternative format
+ right  rectification  personal data
+       personal data   processed   public body   private body   access
+  given contains personal data   data subject claims
+            incomplete incorrect misleading  excessive
+          b   relevant   purpose    document  held  body shall upon
+              application   data subject cause  data   amended upon  satisfied 
+               claim
+       application  subsection  shall
+             writing 
+          b  far  practicable specify
+                document containing  record  personal data   claimed  require
+                     amendment
+              ii  personal data   claimed   incomplete incorrect misleading 
+                    irrelevant
+              iii  reasons   claim 
+              iv  amendment requested   data subject
+        extent    practicable     public body  private body shall 
+making  amendment  personal data   document pursuant   section ensure   
+ obliterate  text   document   existed prior   amendment
+        public body   private body   satisfied   reasons   application
+pursuant  subsection   may refuse  make  amendment   personal data  inform
+ data subject   refusal   reasons   refusal  inform  data subject  heshe
+may lodge  complaint  writing   information commissioner
+
+data protection act                                                                 
+       data subject   aggrieved   decision   public body   private body pursuant
+ subsection  may lodge  complaint  writing   information commissioner within
+twentyeight days   date   receipt   communication  refusal
+ extent  disclosure  personal data
+notwithstanding section  personal data   data subject may  disclosed   data user  
+purpose    purpose    personal data    disclosed   time  
+collection    purpose directly related   purpose    following
+circumstances 
+      data subject  given    consent   disclosure
+     b disclosure 
+            necessary   purpose  preventing  detecting  crime    purpose 
+                investigations 
+           ii  required  authorized     law    order   court
+     c data user acted   reasonable belief     law  right  disclose 
+          personal data    person
+     d data user acted   reasonable belief         consent  
+          data subject   data subject  known   disclosing   personal data  
+          circumstances   disclosure 
+     e disclosure  justified     public interest  circumstances  determined 
+           minister
+ processing  sensitive personal data
+      subject  subsection   part ii  data user shall  process  sensitive personal
+data   data subject except  accordance   following conditions
+       data subject  given    explicit consent   processing   personal
+          data
+     b  processing  necessary
+             purposes  exercising  performing  right  obligation  
+                conferred  imposed  law   data user  connection  employment
+          ii  order  protect  vital interests   data subject  another person   case
+                
+                 consent   given    behalf   data subject 
+
+                                                                 data protection act 
+               b  data user  reasonably  expected  obtain  consent   data
+               subject
+               iii  order  protect  vital interests  another person   case  consent
+                        behalf   data subject   unreasonably withheld
+               iv  medical purposes   undertaken 
+                        healthcare professional 
+                      b  person    circumstances owes  duty  confidentiality  
+                     equivalent     arise   person   healthcare profession
+                     
+               v  purpose    connection   legal proceedings
+               vi  purpose  obtaining legal advice
+               vii  purposes  establishing exercising  defending legal rights
+               viii  administration  justice
+               ix  exercise   functions conferred   person     written
+                     law 
+               x   purposes   minister thinks fit 
+          c  information contained   personal data   made public   result 
+               steps deliberately taken   data subject
+       minister may  order published   gazette exclude  application 
+subparagraph bi viii  ix   cases  may  specified   order  provide 
+  cases  may  specified   order  condition  subparagraph bi viii  ix
+    regarded  satisfied unless   conditions  may  specified   order
+ also satisfied
+       person  contravenes subsection  commits  offence  shall  conviction 
+liable   fine  exceeding two hundred thousand dollars   imprisonment   term 
+exceeding three years   
+        purposes   section
+     medical purposes includes  purposes  preventive medicine medical diagnosis medical
+     research rehabilitation   provision  care  treatment   management 
+     services relating  health care
+     healthcare professional means  medical practitioner dental practitioner pharmacist
+     clinical psychologist nurse midwife medical assistant physiotherapist occupational
+     therapist   allied healthcare professionals    person involved   giving
+      medical health dental pharmaceutical    healthcare services  
+     jurisdiction   ministry  health
+
+data protection act                                                               
+                                              part iv
+                                          exemptions
+ exemption
+       shall  exempted   provisions   act personal data processed  
+individual    purposes   individuals personal family  household affairs
+including recreational purposes
+      subject  section  personal data
+      processed  
+          prevention  detection  crime    purpose  investigations
+         ii apprehension  prosecution  offenders 
+         iii assessment  collection   tax  duty    imposition   similar
+               nature shall  exempted   general principle notice  choice principle
+               disclosure principle  access principle   related provisions   act
+     b processed  relation  information   physical  mental health   data subject
+         shall  exempted   access principle   related provisions   act 
+           application   provisions   data subject   likely  cause
+         serious harm   physical  mental health   data subject    individual
+     c processed  preparing statistics  carrying  research shall  exempted  
+         general principle notice  choice principle disclosure principle  access
+         principle   related provisions   act provided   personal data  
+         processed    purpose    resulting statistics   results  
+         research   made available   form  identifies  data subject
+     d   necessary   purpose    connection   order  judgment   court
+         shall  exempted   general principle notice  choice principle disclosure
+         principle  access principle   related provisions   act
+     e processed   purpose  discharging regulatory functions shall  exempted  
+         general principle notice  choice principle disclosure principle  access
+         principle   related provisions   act   application   provisions 
+          personal data   likely  prejudice  proper discharge   functions 
+     f processed   journalistic literary  artistic purposes shall  exempted  
+         general principle notice  choice principle disclosure principle retention principle
+         data integrity principle  access principle   related provisions   act
+         provided  
+
+                                                              data protection act 
+            processing  undertaken   view   publication   person  
+               journalistic literary  artistic material
+         ii  data user reasonably believes  taking  account  special importance 
+               public interest  freedom  expression  publication     public
+               interest 
+         iii data user reasonably believes     circumstances compliance  
+               provision  respect    exemption  claimed  incompatible  
+               journalistic literary  artistic purposes
+ power  make  exemptions
+ minister may upon  recommendation   information commissioner  order
+published   gazette exempt
+       application     personal data protection principles   act  
+         data user  class  data users 
+     b  data user  class  data users       provisions   act
+                                                   part vi
+                             information commissioner 
+                                    miscellaneous provisions
+ information commissioner  data protection
+  purposes   act  powers functions  duties conferred   information
+commissioner pursuant   freedom  information act  particularly  parts v vi
+ vii shall  applicable  relevant  carrying   enforcing  protection  data
+pursuant   provisions   act
+ intentional disclosure  information
+       person  intentionally discloses personal information  another person 
+contravention   act commits  offence
+       person  collects stores  disposes  personal information  another person  
+manner  contravenes  act commits  offence
+ general penalty
+       person  commits  offence   act    penalty   specifically
+provided   liable 
+
+data protection act                                                             
+      summary conviction   fine     fifty thousand dollars   imprisonment
+            term  three years 
+     b conviction  indictment   fine     one hundred thousand dollars  
+          imprisonment   term     five years
+        offences   act  committed   body corporate  body corporate
+shall  liable upon
+      summary conviction   fine  exceeding two hundred thousand dollars 
+     b conviction  indictment   fine  exceeding five hundred thousand dollars
+ appeals  court
+      appeal lies   court 
+       requirement specified   enforcement notice   information notice
+     b  decision   information commissioner  relation   complaint 
+     c  decision   information commissioner  respect   conduct   duties 
+          powers utilized pursuant   provisions   act
+ protection  criminal  civil proceedings
+       criminal  civil proceedings shall lie   information commissioner  
+ person acting  behalf    direction   information commissioner  anything
+done reported  said  good faith   course   exercise  performance  purported
+exercise discharge  performance   power duty  function   information
+commissioner   act
+        purpose   law relating  libel  slander
+       words spoken  information supplied   document  thing produced  good
+          faith   course   investigation carried     behalf   information
+          commissioner   act  absolutely privileged 
+     b  report made  good faith   information commissioner   act 
+          absolutely privileged
+ confidentiality
+subject   act  information commissioner  every person acting  behalf   
+direction   information commissioner shall  disclose  information  comes  
+knowledge   conduct   functions   act
+
+                                                             data protection act 
+ report  parliament
+ information commissioner shall include   annual report  parliament pursuant  section
+   freedom  information act   report   activities   information
+commissioner  respect  data protection   provisions   act
+ regulations
+       minister may make regulations  giving effect   provisions   act  
+prescribing anything required  authorised   act   prescribed
+      notwithstanding  generality  subsection  regulations made   section
+may prescribe 
+      guidelines   disposal  personal data held   public body   private body
+     b special procedures  giving  person access  personal data pursuant  section  
+     c codes  practice
+       regulations made   act shall  laid  parliament  shall  subject
+ negative resolution
+passed  house  representatives               passed  senate   th september 
+ th august 
+           d gisele isaacarrindell                             hazlyn m francis
+                     speaker                                           president
+                 ramona small                                      ramona small
+      clerk   house  representatives                      clerk   senate
+

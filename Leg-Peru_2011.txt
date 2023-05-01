@@ -1,0 +1,665 @@
+machine translated   google
+             law                                                            personal data protection law
+                                                      congress   republic
+                                          personal data protection law
+                                                                    law  
+              president   republic
+              much
+              congress   republic  passed  following law
+              congress   republic
+               given  following law
+             personal data protection law
+                       preliminary title general provisions
+                       title  guiding principles
+                       title ii processing  personal data
+                       title iii rights   owner  personal data
+                       title iv obligations   owner  manager   personal data bank
+                       title v personal data banks
+                       title vi national authority   protection  personal data
+                       title vii infractions  administrative sanctions
+                       final supplementary provisions
+                                                              preliminary title
+                                                        general disposition
+               object   law
+              law   purpose  guaranteeing  fundamental right   protection  personal data
+             provided     numeral    political constitution  peru   adequate treatment
+             within  framework  respect    fundamental rights recognized therein
+               definitions 
+              purposes   law   understood 
+                   bank  personal data organized set  personal data automated   regardless  
+                       support   physical magnetic digital optical  others   created whatever  form
+                        modality   creation formation storage organization  access
+                   bank  personal data  private administration bank  personal data whose ownership
+                       corresponds   natural person   legal person  private law  long   bank 
+                        strictly linked   exercise  powers  public law
+                   public administration personal data bank personal data bank
+                       whose ownership corresponds   public entity
+                   personal data  information   natural person  identifies   makes 
+                       identifiable  means  can  reasonably used
+                   sensitive data personal data constituted  biometric data    can identify
+                        owner data referring  racial  ethnic origin economic income opinions  political
+                       religious philosophical  moral convictions union membership  information related 
+                       health  sexual life
+                    charge   personal data bank  natural person private legal entity  public entity
+                        alone  acting jointly  another carries   processing  personal data  behalf
+                         owner   personal data bank
+                   public entity entity included      preliminary title  law  law  general
+                       administrative procedure   one  takes  place
+                   crossborder flow  personal data international transfer  personal data   recipient
+                       located   country    country  origin   data
+                                                                           
+
+machine translated   google
+             law                                                 personal data protection law
+                      personal data regardless   medium     found  means  
+                       transfer  made   treatment  receive
+                  sources accessible   public banks  personal data  public  private
+                      administration  can  consulted   person prior payment   corresponding
+                      consideration  applicable  sources accessible   public  determined  
+                      regulations
+                  sufficient level  protection  personal data level  protection  includes 
+                      least  consignment  respect   guiding principles   law  well 
+                      technical security  confidentiality measures appropriate according   category 
+                      data  question
+                  legal person  private law   purposes   law  legal person 
+                      included   scope      preliminary title  law  law  general
+                      administrative procedure
+                  anonymization procedure processing  personal data  prevents identification 
+                         make  owner   data identifiable  procedure  irreversible
+                  dissociation procedure processing  personal data  prevents identification  
+                        make  owner   data identifiable  procedure  reversible
+                  holder  personal data natural person    data corresponds
+                      personal
+                  owner   personal data bank natural person legal person  private law 
+                      public entity  determines  purpose  content   personal data bank 
+                      treatment  security measures
+                  transfer  personal data  transmission supply  manifestation  personal data
+                        national  international nature   legal person  private law  public entity 
+                       natural person    owner  personal data
+                  processing  personal data  operation  technical procedure automated  
+                       allows  collection registration organization storage preservation processing
+                      modification extraction consultation use blocking deletion communication  transfer
+                        diffusion    form  processing  facilitate  access correlation 
+                      interconnection  personal data
+              regulation   law can carry    development   existing definitions
+               scope  application
+              law  applicable  personal data contained  intended   contained  personal data
+             banks  public administration  private administration whose treatment  carried   
+             national territory sensitive data  subject  special protection
+              provisions   law   applicable   following personal data
+                    contents  intended   contained  personal data banks created  natural
+                      persons  purposes exclusively related   private  family life
+                    contents  intended   contained  public administration data banks  
+                      long   treatment  necessary  strict compliance   powers assigned 
+                      law   respective public entities  national defense public security   
+                      development  activities  criminal matters   investigation  repression  crime
+                                                             title 
+                                                    guiding principles
+               principle  legality 
+             processing  personal data  done  accordance   provisions   law  collection
+              personal data  fraudulent unfair  illegal means  prohibited
+               principle  consent  
+             processing  personal data  consent   owner must  mediated
+               principle  purpose
+             personal data must  collected   specific explicit  lawful purpose  processing 
+             personal data must   extended  another purpose     
+                                                                
+
+machine translated    google
+             law                                                   personal data protection law
+             unequivocally established     time   collection excluding cases  activities 
+             historical statistical  scientific value   disassociation  anonymization procedure  used
+               principle  proportionality 
+             processing  personal data must  adequate relevant   excessive   purpose 
+                collected
+               principle  quality
+              personal data   processed must  truthful exact    extent possible uptodate
+             necessary pertinent  adequate  respect   purpose     collected
+              must  kept    way   security  guaranteed     time necessary
+              fulfill  purpose   treatment
+               principle  security 
+             owner   personal data bank   person  charge   treatment must adopt 
+             necessary technical organizational  legal measures  guarantee  security  personal
+             data security measures must  appropriate  consistent   processing   carried 
+                category  personal data  question
+               principle  provision  appeal every
+             owner  personal data must   necessary administrative  jurisdictional channels  claim
+              enforce  rights    violated   processing   personal data
+               principle  adequate level  protection 
+              crossborder flow  personal data  sufficient level  protection must  guaranteed  
+             personal data   going   processed   least comparable    provided  
+             law    international standards   matter
+               value   principles
+              actions   owners  managers  personal data banks   general    
+             intervene  relation  personal data must comply   guiding principles referred   
+             title  list  guiding principles  illustrative
+              aforementioned guiding principles also serve  interpretative criteria  resolve issues 
+             may arise   application   law   regulations  well   parameter  
+             preparation   provisions   fill gaps   legislation   matter
+                                                                title ii
+                                            processing  personal data
+               scope  personal data processing  
+                  processing  personal data must  carried   full respect   fundamental rights 
+                             owners   rights   law confers     rule applies  
+                            use  third parties
+                    limitations   exercise   fundamental right   protection  personal
+                            data can   established  law respecting  essential content   justified
+                             respect   fundamental rights  constitutionally protected assets
+                    regulations special measures  issued   treatment  personal data 
+                            children  adolescents  well    protection  guarantee   rights
+                              exercise   rights   law recognizes children  adolescents act
+                              legal representatives   regulations may determine  applicable
+                            exceptions  applicable taking  account  best interest   child 
+                            adolescent 
+                   communications telecommunications computer systems   instruments 
+                                private nature  private use can   opened seized intercepted 
+                            intervened  reasoned order   judge    authorization   owner 
+                             guarantees provided  law secret  kept  matters unrelated   fact 
+                            motivates  examination  personal data obtained  violation   precept lack
+                            legal effect
+                   personal data can   processed   consent   owner except   case
+                              authoritative law   regard consent must  prior informed express 
+                            unequivocal
+                                                                    
+
+machine translated    google
+             law                                                    personal data protection law
+                      case  sensitive data  consent   purposes   treatment must also 
+                           made  writing even   owners consent   mediated  processing  sensitive
+                           data can  carried   authorized  law  long   meets important reasons
+                            public interest
+                     owner  personal data may revoke  consent   time observing  
+                           requirements   granting 
+                     processing  personal data related   commission  criminal  administrative
+                           offenses can   carried    competent public entities except  
+                           management order agreement  accordance  law  law  general
+                           administrative procedure   one  takes  place   criminal judicial
+                           police  administrative records   cancelled  data   provided
+                           unless required   judiciary   public ministry  accordance   law
+                     marketing  personal data contained  intended   contained  personal data
+                           banks  subject   principles set forth   law
+               limitations  consent   processing  personal data  consent  
+             owner  personal data   required   purposes   processing   following cases 
+              personal data  collected 
+                  transferred   exercise   functions  public entities within  scope   powers
+                     case  personal data contained  intended   contained 
+                       sources accessible   public
+                    case  personal data related  patrimonial  credit solvency
+                       according  law
+                      norm   promotion  competition  regulated markets issued  
+                       exercise   normative function   regulatory bodies referred   law 
+                       framework law  regulatory bodies  private investment  public services   one
+                        takes  place provided   information provided   used   detriment 
+                        users privacy
+                     personal data  necessary   execution   contractual relationship  
+                        owner  personal data   party    case  personal data  derives  
+                       scientific  professional relationship   owner   necessary   development 
+                       compliance
+                     case  personal data related  health    necessary  circumstances  risk 
+                        prevention diagnosis  medical  surgical treatment   holder provided  said
+                       treatment  carried   health establishments   professionals  health sciences
+                       health observing professional secrecy     reasons  public interest provided
+                        law    must  treated  reasons  public health  reasons must 
+                       qualified     ministry  health   carrying  epidemiological  similar
+                       studies  long  appropriate dissociation procedures  applied
+                     treatment  carried   nonprofit organizations whose purpose  political
+                       religious  union  refers   personal data collected   respective members
+                        must  related   purpose    activities  limited   can 
+                       transferred without  consent
+                     anonymization  dissociation procedure   applied
+                     processing  personal data  necessary  safeguard  legitimate interests  
+                       owner  personal data   owner  personal data    person  charge  personal
+                       data
+                   others established  law    regulations granted  accordance  
+                       present law
+               crossborder flow  personal data  owner
+              manager   personal data bank must carry   crossborder flow  personal data  
+              recipient country maintains adequate levels  protection  accordance   law
+               event   recipient country     adequate level  protection  issuer 
+              crossborder flow  personal data must guarantee   processing  personal data  carried
+               accordance   provisions   law
+              provisions   second paragraph   apply   following cases
+                                                                  
+
+machine translated    google
+             law                                                            personal data protection law
+                    agreements within  framework  international treaties   subject   
+                        republic  peru  part
+                    international judicial cooperation
+                    international cooperation  intelligence agencies   fight  terrorism illicit drug
+                        trafficking money laundering corruption human trafficking   forms  organized crime
+                      personal data  necessary   execution   contractual relationship   
+                        owner  personal data   party including   necessary  activities   user
+                        authentication service improvement  support service quality monitoring support  
+                        maintenance  billing   account   activities   management  
+                        contractual relationship requires
+                      case  bank  stock transfers  relation   respective transactions  
+                        accordance   applicable law
+                      crossborder flow  personal data  carried    protection prevention
+                        diagnosis  medical  surgical treatment   owner   necessary  carry 
+                        epidemiological  similar studies  long  appropriate dissociation procedures  applied
+                      owner   personal data  given  prior consent
+                        informed express  unequivocal
+                    others established   regulations   law subject   provisions 
+                         
+               security  personal data processing   purposes
+              processing personal data  owner   personal data bank must adopt technical organizational
+              legal measures  guarantee  security  prevent  alteration loss treatment  unauthorized
+             access
+              security requirements  conditions  personal data banks must meet  established  
+             national authority   protection  personal data except   existence  special provisions
+             contained   laws
+              processing  personal data  data banks    meet  requirements  security
+             conditions referred      prohibited
+               confidentiality  personal data  owner
+               personal data bank  person  charge    intervene   part   treatment
+              obliged  keep confidentiality regarding    background  obligation subsists even
+               relationship   owner   personal data bank  ended
+              obligor may  relieved   obligation  confidentiality    prior informed express
+              unequivocal consent   owner   personal data consented  executed judicial decision
+                 wellfounded reasons related  national defense public security  public health 
+             without prejudice   right  keep professional secrecy
+                                                                   title iii
+                                      rights   holder  personal data
+               right  information   owner  personal data  owner
+              personal data   right   informed   detailed simple express unequivocal manner 
+             prior   collection   purpose    personal data will  processed   
+             may   recipients  existence   data bank    will  stored  well  
+             identity  address   owner   applicable  person  charge  processing  personal
+             data  mandatory  optional nature   answers   questionnaire   proposed  
+             especially  terms  sensitive data  transfer  personal data  consequences  providing 
+             personal data   refusal     time    personal data  kept  
+             possibility  exercising  rights granted  law   means provided  
+              personal data  collected online  electronic communications networks  obligations  
+              can  satisfied  publishing privacy policies  must  easily accessible  identifiable
+                                                                        
+
+machine translated   google
+             law                                                 personal data protection law
+               right  access   owner  personal data 
+             owner  personal data   right  obtain information     subject  treatment
+              public  private administration data banks  way    data  collected 
+             reasons  motivated  collection    request    collection  made 
+             well   transfers made    expected   made  
+               right  update include rectify  delete  owner  personal
+             data   right  update include rectify  delete  personal data subject  treatment
+                partially  totally inaccurate incomplete     warned omission
+             error  falsehood     longer necessary  relevant   purpose   
+              collected    period established   treatment  expired
+               personal data   previously transferred  person  charge   personal data
+             bank must communicate  update inclusion rectification  deletion     
+             transferred   event   treatment  maintained   latter  must also proceed 
+              update inclusion rectification  deletion  appropriate
+               process  updating including rectifying  deleting personal data  person 
+             charge   personal data bank orders  blocking  prevented  allowing third parties
+              access  said blocking   applicable  public entities  require  information  
+             proper exercise   powers according  law  must inform     aforementioned
+             processes   progress
+              deletion  personal data contained  public administration personal data banks  subject
+               provisions      single ordered text  law  law  transparency
+              access  public information  whatever takes  place
+               right  prevent  supply 
+             holder  personal data   right  prevent    supplied especially  
+             affects  fundamental rights  right  prevent  supply   apply   relationship
+               owner   personal data bank   person  charge   personal data bank
+               purposes   treatment
+               right  opposition
+             whenever  law  contrary   provided   consent    given  owner
+              personal data may oppose  treatment    wellfounded  legitimate reasons
+             related   specific personal situation  case  justified opposition  owner  manager 
+              personal data bank  appropriate must proceed  delete   accordance   law
+               right  objective treatment 
+             owner  personal data   right    subjected   decision  legal effects   
+              affects    significant way based solely   processing  personal data aimed 
+             evaluating certain aspects   personality  conduct unless  occurs within  framework
+               negotiation celebration  execution   contract    cases  evaluation  
+             purpose  incorporation   public entity  accordance   law without prejudice  
+             possibility  defending  point  view view  safeguard  legitimate interest
+               right  guardianship
+               event   owner  person  charge   personal data bank denies  owner 
+             personal data  whole   part  exercise   rights established   law  latter may
+             appeal   national authority  protection  personal data  process  claim   
+             judiciary   effects   corresponding action  habeas data
+              procedure  follow   national authority   protection  personal data 
+             subject   provisions  articles  et seq  law  law  general administrative
+             procedure   one  takes  place
+              resolution   national authority   protection  personal data exhausts 
+             administrative route  enables  imposition   administrative sanctions provided  
+                regulation determines  corresponding instances
+                                                                
+
+machine translated    google
+             law                                                  personal data protection law
+               resolutions   national authority   protection  personal data proceeds 
+             contentiousadministrative action
+               right   compensated 
+             owner  personal data   affected   result   breach   law   owner   
+             person  charge   personal data bank   third parties   right  obtain 
+             corresponding compensation  accordance   law 
+               consideration 
+             consideration  must  paid   owner  personal data   exercise   rights
+             contemplated  articles         public administration personal data banks
+              subject   provisions set forth   law  law  general administrative procedure
+               personal data banks  private administration  exercise   aforementioned rights
+              subject   provisions   special regulations   matter
+               limitations
+              owners  managers  public administration personal data banks may deny  exercise 
+              rights  access deletion  opposition  reasons based   protection  rights 
+             interests  third parties    may hinder legal proceedings  ongoing administrative
+             investigations  compliance  tax  social security obligations criminal investigations  
+             commission  misdemeanors  crimes development  health  environmental control functions
+             verification  administrative offences    provided  law
+                                                              title iv
+                      obligations   holder   data bank manager
+                                                           personal
+               obligations
+              owner   person  charge   personal data bank   case may   
+             following obligations 
+                   carry   processing  personal data    prior informed express  unequivocal
+                       consent   owner   personal data except authoritative law   exception 
+                        cases set forth      law
+                     collect personal data  fraudulent unfair  illegal means
+                    collect personal data   updated necessary pertinent  adequate  relation 
+                       specific explicit  lawful purposes     obtained
+                      use  personal data subject  processing  purposes     
+                         collected unless    anonymization  dissociation procedure
+                    store personal data    way   exercise   rights  possible
+                       rights   owner
+                    delete  replace   appropriate complete  personal data subject  treatment
+                         becomes aware   inaccurate  incomplete nature without prejudice  
+                       rights   owner   regard
+                    delete  personal data subject  treatment     longer necessary  relevant
+                         purpose     collected   term   treatment  expired
+                       unless    anonymization  dissociation procedure
+                    provide  national authority   protection  personal data   information
+                       related   processing  personal data   requires  allow  access   personal
+                       data banks  manages   exercise   functions within  framework   procedure
+                       administrative procedure  progress requested   affected party
+                    others established   law   regulations
+                                                               title v
+                                               personal data banks
+               creation modification  cancellation  personal data banks  creation
+             modification  cancellation  personal data banks  public administration  private administration
+              subject    established   regulation except   existence  special provisions
+             contained   laws    case   guaranteed
+                                                                   
+
+machine translated     google
+             law                                                     personal data protection law
+             publicity   existence purpose identity   address   owner   applicable  
+             manager
+               provision  personal data processing services   behalf 
+             third parties personal data processing services  provided    applied  used  
+             purpose    contained   contract  agreement entered    transferred  
+             people  even   preservation
+               provision    subject   contract  agreement   executed   case
+             may   personal data processed must  deleted unless   express authorization  
+             person  whose behalf  services  provided   possibility  subsequent orders 
+             reasonably presumed    case  can  kept   proper security conditions   
+             term determined   regulations   law
+               codes  conduct 
+             representative entities   owners  managers  personal data banks  private administration can
+             elaborate codes  conduct  establish norms   treatment  personal data  tend  ensure
+              improve  operating conditions   information systems information based   guiding
+             principles established   law
+                                                                title vi
+                            national authority   protection  personal data
+               competent body  legal regime 
+             ministry  justice   national directorate  justice   national authority   protection
+              personal data   proper performance   functions  can create offices throughout 
+             country
+              national authority   protection  personal data  governed   provisions   law 
+             regulations   pertinent articles   organization  functions regulations   ministry 
+             justice
+              corresponds   national authority   protection  personal data  carry    necessary
+             actions   fulfillment   object   provisions   law   regulations  
+             purpose  enjoys sanctioning power  accordance  law  law  general administrative
+             procedure   one  takes  place  well  coercive power  accordance  law 
+             law  coercive execution procedure   one    times
+              national authority   protection  personal data must periodically submit  report  
+             activities   minister  justice
+               fulfillment   functions  national data protection authority
+             personales   support  technical advice   national government office
+             electronic  informatics ongei   presidency   council  ministers   one  makes
+              times
+               functions   national authority   protection  personal data 
+             national authority   protection  personal data exercises  following administrative guiding
+             normative decisive supervisory  sanctioning functions
+                    represent  country  international instances regarding  protection  personal data
+                    cooperate  foreign personal data protection authorities  fulfill  powers  generate
+                        bilateral  multilateral cooperation mechanisms  assist    provide due mutual
+                        assistance  required
+                    manage  keep updated  national data protection registry
+                        personal
+                    publicize   institutional portal  updated list  data banks
+                        public  private administration personnel
+                    promote dissemination  promotion campaigns   protection  personal data
+                    promote  strengthen  culture  protection   personal data  children 
+                         adolescents
+                    coordinate  inclusion  information   importance  private life   protection 
+                        personal data   curricula   educational levels  promote likewise  training 
+                        teachers   issues
+                                                                     
+
+machine translated    google
+             law                                                    personal data protection law
+                   supervise compliance   requirements set forth   law   crossborder flow 
+                       personal data
+                   issue authorizations  appropriate  accordance   regulations   law
+                   resolve queries   protection  personal data   meaning   regulations 
+                       force   matter particularly     issued
+                   issue  technical opinion regarding draft standards  refer totally 
+                       partially  personal data   binding
+                   issue  corresponding directives   best application   provisions   law 
+                        regulations especially regarding  security  personal data banks  well  supervise
+                        compliance  coordination   sectors involved
+                   promote  use  selfregulation mechanisms   complementary instrument  
+                       protection  personal data
+                   enter  interinstitutional  international cooperation agreements  order  ensure 
+                       rights  people  terms  protection  personal data   processed inside  outside
+                        national territory
+                   respond  requests  particular interest   company  general interest  
+                       community  well  requests  information
+                   know instruct  resolve  claims made   holders  personal data   violation
+                         rights  concern   issue  precautionary  corrective measures
+                       established   regulation
+                   ensure compliance  legislation related  data protection
+                       personal    respect   guiding principles
+                   within  framework   ongoing administrative procedure requested   affected
+                       party obtain   owners   personal data banks  information  deems necessary
+                        compliance   regulations  personal data protection   performance  
+                       functions 
+                   supervise  subjection   processing  personal data carried    owner  
+                       person  charge   personal data bank   technical provisions   issues  
+                       case  contravention order  corresponding actions  accordance   law
+                   initiate audits ex officio   complaint   party  alleged acts contrary   
+                       established   law   regulations  apply  corresponding administrative
+                       sanctions without prejudice   precautionary  corrective measures established  
+                       regulations
+                     functions assigned   law   regulations
+               national registry   protection  personal data 
+             national registry   protection  personal data  created   administrative registry 
+             charge   national authority   protection  personal data   purpose  registering
+               differentiated manner   national level  following  
+                 personal data banks  public  private administration  well   data related   
+                        necessary   exercise   rights  correspond   holders  personal data
+                        accordance   provisions   law   regulation
+                      exercise   function   allow  knowledge   content   personal
+                       data banks   national authority   protection  personal data except  
+                       administrative procedure  progress
+                  authorizations issued  accordance   regulations   law
+                   sanctions precautionary  corrective measures imposed   national authority  
+                       protection  personal data  accordance   law   regulations
+                   codes  conduct   representative entities   owners  managers
+                       privately managed personal data banks
+                   acts  registration  accordance   regulations
+             anyone can consult  national registry   protection  personal data   existence 
+             personal data banks  purposes  well   identity  address   owners  
+             applicable  managers
+               confidentiality 
+             personnel   national authority   protection  personal data  subject   obligation
+              keep confidentiality regarding  personal data   know   result   functions 
+             obligation subsists even   end   relationship  said national authority 
+             responsibility
+               resources   national authority   protection  personal data 
+             following  resources   national authority   protection  personal data
+                                                                    
+
+machine translated     google
+             law                                                                personal data protection law
+                    fees   right  process administrative procedures 
+                         services   competition
+                     amounts collected  way  fines
+                    resources  nonreimbursable international technical cooperation
+                     bequests  donations  receive
+                     resources   transferred according  law
+              resources   national authority   protection  personal data  destined  finance  necessary
+             expenses   development   operations    functioning
+                                                                       title vii
+                                           infringements  administrative sanctions
+               sanctioning procedure  sanctioning
+             procedure  initiated ex officio   national authority   protection  personal data   complaint  
+             party   alleged commission  acts contrary   provisions   law   regulations without prejudice
+               procedure followed within  framework   provisions   
+              resolutions   national authority   protection  personal data exhaust  administrative channels
+               resolutions   national authority   protection  personal data proceeds  contentious
+             administrative action
+               violations 
+             action  omission  contravenes  fails  comply     provisions contained   law    regulations
+             constitutes  punishable infraction
+             violations  classified  minor serious   serious
+                     minor infractions
+                        give treatment  personal data without obtaining  consent   owners
+                              necessary  accordance   provisions   law
+                       b failing  address impede  hinder  exercise   rights   data owner
+                            personal recognized  title iii  legally appropriate
+                       c obstructing  exercise   supervisory function   national protection authority
+                            personal data
+                     serious infractions
+                        give treatment  personal data  contravention   principles established   law   breach  
+                             provisions     regulations
+                       b failure  comply   obligation  confidentiality established    c failing 
+                       address impede  hinder   systematic way  exercise   rights   owner  personal data
+                           recognized  title iii  legally appropriate d systematically obstructing  exercise   supervisory
+                       function   authority
+                            national protection  personal data
+                          register  personal data bank   national registry   protection  personal data
+                    following   serious
+                       infractions  give treatment  personal data  contravention   principles established   law  
+                            breach    provisions     regulations   prevents  threatens  exercise 
+                           fundamental rights
+                       b create modify cancel  maintain personal data banks without complying  
+                           established   law   regulations
+                       c providing false  incomplete documents  information   national authority 
+                            personal data protection
+                       d   cease  illegal processing  personal data     prior requirement   national
+                            authority   protection  personal data     registering  personal data bank  
+                       national registry   protection  personal data despite   required      national
+                            authority   protection  personal data
+                                                                            
+
+machine translated   google
+             law                                                personal data protection law
+              classification  graduation   amount   fines  procedure   application 
+              classifications  made   regulations   law
+               administrative sanctions 
+             case  violation   norms   law   regulations  national authority   protection
+              personal data may apply  following fines
+                  minor infractions  penalized   minimum fine  zero point five   tax unit uit
+                        five tax units uit
+                  serious violations  penalized   fine    five tax units uit  fifty tax
+                      units uit
+                   serious offenses  penalized   fine    fifty tax units uit   one
+                      hundred tax units uit
+               case may  fine imposed exceed ten percent   annual gross income received  
+             alleged offender   previous year
+              national authority   protection  personal data determines  offense committed 
+              amount   taxable fine   duly reasoned resolution   graduation  
+             amount   fines  criteria established    numeral   law  law 
+             general administrative procedure   one  makes 
+             times
+              imposition   fine  carried  without prejudice   disciplinary sanctions  
+             personnel  public entities   cases  public administration personal data banks  well 
+             compensation  damages  criminal sanctions  may apply 
+               coercive fines 
+             application   provisions     law  general administrative procedure law
+               one  takes  place  national authority   protection  personal data may
+             impose coercive fines   amount    exceed  ten tax units uit  non
+             compliance   obligations accessory   penalty imposed   penalty procedure
+             periodic penalty payments  imposed   compliance period  expired
+              imposition  coercive fines   prevent  exercise  another means  forced
+             execution  accordance   provisions     law  law  general
+             administrative procedure
+              regulation   law regulates  concerns  application  coercive fines
+                                         final supplementary provisions
+             first regulation   law 
+              elaboration   draft regulation  multisectoral commission  constituted   presided
+                national authority   protection  personal data
+              draft regulation  prepared within  maximum period  one hundred  twenty business
+             days   installation   multisector commission  must occur within  period  
+               fifteen business days counted   day   publication    present law
+             second security directive 
+             national authority   protection  personal data prepares  security directive  
+             information managed   personal data banks within  period     one hundred
+              twenty business days counted   day   publication   law 
+               aforementioned directive  approved  enforced  sectoral provisions   matter
+             remain  force
+             third adaptation  management documents   single text  procedures
+             administrative staff   ministry  justice
+               creation   national authority   protection  personal data within  maximum
+             period  one hundred  twenty business days counted   day   publication  
+                                                               
+
+machine translated    google
+             law                                                personal data protection law
+              law  ministry  justice prepares  pertinent modifications   management
+             documents    single text  administrative procedures
+             quarter regulatory adaptation
+             within  period  sixty business days  executive branch submits   congress  
+             republic  bill  contains  necessary modifications   existing laws   purposes 
+              adaptation   law
+              lower rank standards  competent public entities review  corresponding regulations
+              prepare  necessary proposals   adaptation   provisions   law
+               cases  prior favorable technical opinion   national authority   protection 
+             personal data  required  accordance    numeral 
+             fifth preexisting personal data banks personal
+             data banks created prior   law   respective regulations must adapt   standard
+             within  term established   regulation notwithstanding   owners must declare
+                national authority   protection  personal data subject   provisions
+               
+             sixth habeas data
+              norms established   constitutional procedural    habeas data process 
+             applied   constitutional field regardless   administrative field    subject  
+             law  administrative procedure established   law   constitute  prior way  
+             exercise   right via constitutional process
+             seventh powers   national institute   defense  competition  protection
+              intellectual property indecopi
+              national authority   protection  personal data  competent  safeguard  rights
+               owners   information managed   private risk information centers cepirs 
+             similar  accordance   terms established   law
+             notwithstanding   matters  infringement  consumer rights  general  
+             provision  services  information provided  cepirs  similar within  framework 
+             consumer relations  rules  consumer protection  applicable   competent entity
+             exclusively  exclusively   supervision   compliance  consumer protection
+             commission   national institute   defense  competition   protection 
+             intellectual property indecopi  must ensure  suitability   goods  services
+             based  information provided  consumers
+             eighth sensitive information
+               purposes   provisions  law  law regulating private risk information
+             centers  protection   information owner sensitive information  understood   
+             defined  sensitive data   law
+             likewise   specified   confidential information referred   numeral     
+              single ordered text  law  law  transparency  access  public information
+             constitutes sensitive data  accordance   scope   law
+             ninth infringement   powers   tax administration 
+             provisions   law    interpreted   detriment   powers   tax
+             administration regarding  information   works  requires   records   
+             fulfillment   functions
+             tenth financing 
+             carrying    necessary actions   application   law  carried  charged  
+             institutional budget   ministry  justice   resources referred     without
+             demanding additional resources   public treasury
+             twelfth validity   law
+              law enters  force  accordance   following
+                                                                
+

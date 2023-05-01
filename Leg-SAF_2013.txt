@@ -1,0 +1,2904 @@
+                                          government gazette  november 
+act                                          protection  personal information act 
+general explanatory note
+                       words  bold type  square brackets indicate omissions 
+                         existing enactments
+                         words underlined   solid line indicate insertions 
+                         existing enactments
+                           english text signed   president
+                              assented   november 
+                                        act
+ promote  protection  personal information processed  public  private
+bodies  introduce certain conditions    establish minimum requirements
+  processing  personal information  provide   establishment  
+information regulator  exercise certain powers   perform certain duties
+ functions  terms   act   promotion  access  information act
+  provide   issuing  codes  conduct  provide   rights 
+persons regarding unsolicited electronic communications  automated decision
+making  regulate  flow  personal information across  borders  
+republic   provide  matters connected therewith
+                                       preamble
+recognising 
+  <U+25CF>  section    constitution   republic  south africa  provides 
+     everyone   right  privacy
+  <U+25CF>   right  privacy includes  right  protection   unlawful collection
+     retention dissemination  use  personal information
+  <U+25CF>   state must respect protect promote  fulfil  rights   bill  rights
+ bearing  mind 
+  <U+25CF>  consonant   constitutional values  democracy  openness  need 
+     economic  social progress within  framework   information society
+     requires  removal  unnecessary impediments   free flow  information
+     including personal information
+  order 
+  <U+25CF>  regulate  harmony  international standards  processing  personal
+     information  public  private bodies   manner  gives effect   right
+      privacy subject  justifiable limitations   aimed  protecting  rights
+      important interests
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                               
+p   arliament   republic  south africa therefore enacts  follows
+                                  contents  act
+                                        
+                            definitions  purpose                                                   
+        definitions
+        purpose  act
+                                        
+                            application provisions
+        application  interpretation  act                                                      
+        lawful processing  personal information
+        rights  data subjects
+        exclusions
+        exclusion  journalistic literary  artistic purposes
+                                                                                             
+conditions  lawful processing  personal information
+                                           part 
+                    processing  personal information  general
+                                        condition 
+                                      accountability                                                 
+        responsible party  ensure conditions  lawful processing
+                                        condition 
+                                  processing limitation
+        lawfulness  processing
+       minimality                                                                                 
+       consent justification  objection
+       collection directly  data subject
+                                        condition 
+                                  purpose specification
+       collection  specific purpose                                                            
+       retention  restriction  records
+                                        condition 
+                               processing limitation
+        processing   compatible  purpose  collection
+                                        condition                                                   
+                                   information quality
+       quality  information
+
+                                        government gazette  november 
+act                                        protection  personal information act 
+                                             
+                                       condition 
+                                        openness
+       documentation
+       notification  data subject  collecting personal information
+                                       condition                                                  
+                                   security safeguards
+       security measures  integrity  confidentiality  personal information
+       information processed  operator  person acting  authority
+       security measures regarding information processed  operator
+       notification  security compromises                                                    
+                                       condition 
+                               data subject participation
+       access  personal information
+       correction  personal information
+       manner  access                                                                        
+                                         part b
+                       processing  special personal information
+       prohibition  processing  special personal information
+       general authorisation concerning special personal information
+       authorisation concerning data subjects religious  philosophical beliefs              
+       authorisation concerning data subjects race  ethnic origin
+       authorisation concerning data subjects trade union membership
+       authorisation concerning data subjects political persuasion
+       authorisation concerning data subjects health  sex life
+       authorisation concerning data subjects criminal behaviour  biometric 
+          information
+                                         part c
+                     processing  personal information  children
+       prohibition  processing personal information  children
+       general authorisation concerning personal information  children                       
+                                       
+           exemption  conditions  processing 
+                             personal information
+       general
+       regulator may exempt processing  personal information                                 
+       exemption  respect  certain functions
+                                       
+                                     supervision
+                                         part 
+                                 information regulator                                            
+       establishment  information regulator
+       powers duties  functions  regulator
+
+                                        government gazette  november 
+act                                        protection  personal information act 
+                                              
+       appointment term  office  removal  members  regulator
+       vacancies
+       powers duties  functions  chairperson   members
+       regulator   regard  certain matters
+       conflict  interest                                                                     
+       remuneration allowances benefits  privileges  members
+       staff
+       powers duties  functions  chief executive officer
+       committees  regulator
+       establishment  enforcement committee                                                  
+       meetings  regulator
+       funds
+       protection  regulator
+       duty  confidentiality
+                                          part b                                                  
+                                    information officer
+       duties  responsibilities  information officer
+       designation  delegation  deputy information officers
+                                        
+                               prior authorisation                                                
+                                    prior authorisation
+       processing subject  prior authorisation
+       responsible party  notify regulator  processing  subject  prior
+          authorisation
+       failure  notify processing subject  prior authorisation                             
+                                        
+                                 codes  conduct
+       issuing  codes  conduct
+       process  issuing codes  conduct
+       notification availability  commencement    conduct                          
+       procedure  dealing  complaints
+       amendment  revocation  codes  conduct
+       guidelines  codes  conduct
+       register  approved codes  conduct
+       review  operation  approved   conduct                                         
+       effect  failure  comply    conduct
+                                        
+     rights  data subjects regarding direct marketing
+     means  unsolicited electronic communications
+             directories  automated decision making                                            
+       direct marketing  means  unsolicited electronic communications
+       directories
+       automated decision making
+
+                                       government gazette  november 
+act                                        protection  personal information act 
+                                             
+                                       
+                      transborder information flows
+       transfers  personal information outside republic
+                                      
+                                   enforcement                                                     
+       interference  protection  personal information  data subject
+       complaints
+       mode  complaints  regulator
+       action  receipt  complaint
+       regulator may decide  take  action  complaint                                     
+       referral  complaint  regulatory body
+       preinvestigation proceedings  regulator
+       settlement  complaints
+       investigation proceedings  regulator
+       issue  warrants                                                                       
+       requirements  issuing  warrant
+       execution  warrants
+       matters exempt  search  seizure
+       communication  legal adviser  client exempt
+       objection  search  seizure                                                         
+       return  warrants
+       assessment
+       information notice
+       parties   informed  result  assessment
+       matters referred  enforcement committee                                               
+       functions  enforcement committee
+       parties   informed  developments   result  investigation
+       enforcement notice
+       cancellation  enforcement notice
+       right  appeal                                                                         
+       consideration  appeal
+       civil remedies
+                                      
+             offences penalties  administrative fines
+      obstruction  regulator                                                                
+      breach  confidentiality
+      obstruction  execution  warrant
+      failure  comply  enforcement  information notices
+      offences  witnesses
+      unlawful acts  responsible party  connection  account number                    
+      unlawful acts  third parties  connection  account number
+      penalties
+      magistrates court jurisdiction  impose penalties
+      administrative fines
+                                                                                         
+                              general provisions
+      amendment  laws
+      fees
+      regulations
+      procedure  making regulations                                                        
+      transitional arrangements
+      short title  commencement
+
+                                          government gazette  november 
+act                                          protection  personal information act 
+                                                
+                                          schedule
+laws amended  section 
+                                           
+                              definitions  purpose
+definitions                                                                                          
+      act unless  context indicates otherwise
+      biometrics means  technique  personal identification   based 
+      physical physiological  behavioural characterisation including blood typing
+      fingerprinting dna analysis retinal scanning  voice recognition
+      child means  natural person   age   years    legally                 
+      competent without  assistance   competent person  take  action 
+      decision  respect   matter concerning   
+        conduct means    conduct issued  terms   
+      competent person means  person   legally competent  consent  
+      action  decision  taken  respect   matter concerning  child                   
+      consent means  voluntary specific  informed expression  will  terms
+        permission  given   processing  personal information
+      constitution means  constitution   republic  south africa 
+      data subject means  person   personal information relates
+      deidentify  relation  personal information   data subject means  delete       
+       information 
+       identifies  data subject
+      b can  used  manipulated   reasonably foreseeable method  identify 
+             data subject 
+      c can  linked   reasonably foreseeable method   information                 
+             identifies  data subject
+       deidentified   corresponding meaning
+      direct marketing means  approach  data subject either  person   mail
+       electronic communication   direct  indirect purpose 
+       promoting  offering  supply   ordinary course  business  goods            
+              services   data subject 
+      b requesting  data subject  make  donation   kind   reason
+      electronic communication means  text voice sound  image message sent
+        electronic communications network   stored   network   
+      recipients terminal equipment    collected   recipient                        
+      enforcement notice means  notice issued  terms  section 
+      filing system means  structured set  personal information whether
+      centralised decentralised  dispersed   functional  geographical basis 
+       accessible according  specific criteria
+      information matching programme means  comparison whether manually                     
+        means   electronic   device   document  contains
+      personal information  ten   data subjects  one   documents
+       contain personal information  ten   data subjects   purpose 
+      producing  verifying information  may  used   purpose  taking 
+      action  regard   identifiable data subject                                             
+      information officer    relation  
+       public body means  information officer  deputy information officer 
+             contemplated  terms  section    
+      b private body means  head   private body  contemplated  section 
+        promotion  access  information act                                                
+      minister means  cabinet member responsible   administration 
+      justice
+      operator means  person  processes personal information   responsible
+      party  terms   contract  mandate without coming   direct authority
+        party                                                                                
+      person means  natural person   juristic person
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+     personal information means information relating   identifiable living
+     natural person     applicable  identifiable existing juristic person
+     including   limited 
+      information relating   race gender sex pregnancy marital status
+            national ethnic  social origin colour sexual orientation age physical            
+            mental health wellbeing disability religion conscience belief culture
+            language  birth   person
+     b information relating   education   medical financial criminal 
+            employment history   person
+     c  identifying number symbol email address physical address telephone                 
+            number location information online identifier   particular assignment
+              person
+     d  biometric information   person
+     e  personal opinions views  preferences   person
+     f correspondence sent   person   implicitly  explicitly   private             
+             confidential nature   correspondence   reveal  contents
+              original correspondence
+     g  views  opinions  another individual   person 
+     h  name   person   appears   personal information relating 
+             person    disclosure   name   reveal information              
+              person
+     prescribed means prescribed  regulation      conduct
+     private body means
+       natural person  carries   carried   trade business 
+            profession     capacity                                                   
+     b  partnership  carries   carried   trade business  profession
+            
+     c  former  existing juristic person  excludes  public body
+     processing means  operation  activity   set  operations whether 
+       automatic means concerning personal information including                             
+       collection receipt recording organisation collation storage updating 
+            modification retrieval alteration consultation  use
+     b dissemination  means  transmission distribution  making available 
+              form 
+     c merging linking  well  restriction degradation erasure  destruction             
+            information
+     professional legal adviser means  legally qualified person whether 
+     private practice    lawfully provides  client       request
+      independent confidential legal advice
+     promotion  access  information act means  promotion  access                      
+     information act  act    
+     public body means
+       department  state  administration   national  provincial sphere
+             government   municipality   local sphere  government 
+     b   functionary  institution                                                   
+              exercising  power  performing  duty  terms   constitution 
+                   provincial constitution 
+            ii exercising  public power  performing  public function  terms  
+                  legislation
+     public record means  record   accessible   public domain                
+        possession     control   public body whether    
+     created   public body
+     record means  recorded information
+      regardless  form  medium including    following
+              writing   material                                                            
+            ii information produced recorded  stored  means   taperecorder
+                  computer equipment whether hardware  software    
+                  device   material subsequently derived  information 
+                  produced recorded  stored
+          iii label marking   writing  identifies  describes  thing             
+                    forms part      attached   means
+           iv book map plan graph  drawing
+
+                                           government gazette  november 
+act                                           protection  personal information act 
+                                                
+            v photograph film negative tape   device   one  
+                  visual images  embodied     capable   without  aid
+                     equipment   reproduced
+      b   possession    control   responsible party
+      c whether     created   responsible party                                    
+      d regardless    came  existence
+      regulator means  information regulator established  terms  section 
+      reidentify  relation  personal information   data subject means 
+      resurrect  information    deidentified 
+       identifies  data subject                                                               
+      b can  used  manipulated   reasonably foreseeable method  identify 
+            data subject 
+      c can  linked   reasonably foreseeable method   information 
+            identifies  data subject
+       reidentified   corresponding meaning                                             
+      republic means  republic  south africa
+      responsible party means  public  private body    person 
+      alone   conjunction  others determines  purpose   means 
+      processing personal information
+      restriction means  withhold  circulation use  publication  personal            
+      information  forms part   filing system    delete  destroy 
+      information
+      special personal information means personal information  referred  
+      section 
+       act includes  regulation    conduct made   act                
+      unique identifier means  identifier   assigned   data subject  
+      used   responsible party   purposes   operations   responsible
+      party   uniquely identifies  data subject  relation   responsible
+      party
+purpose  act                                                                                       
+     purpose   act  
+       give effect   constitutional right  privacy  safeguarding personal
+            information  processed   responsible party subject  justifiable
+            limitations   aimed 
+              balancing  right  privacy   rights particularly  right 
+                   access  information 
+            ii protecting important interests including  free flow  information
+                  within  republic  across international borders
+      b regulate  manner   personal information may  processed 
+            establishing conditions  harmony  international standards  
+            prescribe  minimum threshold requirements   lawful processing 
+            personal information
+      c provide persons  rights  remedies  protect  personal information
+             processing     accordance   act 
+      d establish voluntary  compulsory measures including  establishment  
+             information regulator  ensure respect    promote enforce 
+            fulfil  rights protected   act
+                                          
+                               application provisions
+application  interpretation  act                                                                
+      act applies   processing  personal information
+
+government gazette  november                                              
+wet op beskerming van persoonlike inligting                         wet   van 
+                                                  
+     c samesmelting koppeling asook inperking degradasie uitwissing 
+           vernietiging van inligting
+     reguleerder die inligtingsreguleerder ingevolge artikel  ingestel
+     rekord enige opgetekende inligting
+      ongeag vorm  medium met inbegrip van enige van die volgende                     
+             skrif op enige materiaal
+           ii inligting geproduseer opgeteken  gestoor  wyse van enige
+                 bandopnemer rekenaartoerusting hetsy hardeware  sagteware 
+                 beide  ander toestel en enige materiaal vervolgens verkry uit die
+                 inligting aldus geproduseer opgeteken  gestoor                         
+          iii etiket merk  ander skrif wat enige voorwerp waarvan dit deel uitmaak
+                  waaraan dit op enige wyse geheg  identifiseer  beskryf
+          iv boek kaart plan grafiek  tekening
+           v foto film negatief band  ander toestel waarin een  meer visuele
+                 beelde vervat  sodat dit geskik  met  sonder die hulp van ander     
+                 toerusting vir reproduksie
+     b  die besit  onder die beheer van n verantwoordelike party
+     c hetsy dit deur die verantwoordelike party geskep  al dan nie en
+     d ongeag wanneer dit tot stand gekom het
+     republiek die republiek van suidafrika                                           
+     spesiale persoonlike inligting persoonlike inligting soos  artikel  bedoel
+     toestemming enige vrywillige bepaalde en ingeligte wilsuitdrukking ingevolge
+     waarvan verlof tot die prosessering van persoonlike inligting gegee word
+     unieke identifiseerder enige identifiseerder wat aan n datasubjek toegewys
+     word en wat deur n verantwoordelike party vir doeleindes van die bedrywighede         
+     van daardie verantwoordelike party gebruik word en waarmee daardie
+     verantwoordelike party die datasubjek op unieke wyse identifiseer
+     verantwoordelike party n openbare  privaatliggaam  enige ander persoon
+     wat eiehandig   samewerking met andere die oogmerk van en middele van
+     prosessering van persoonlike inligting bepaal                                         
+     voorgeskryf voorgeskryf  regulasie   n gedragskode en
+     wet op bevordering van toegang tot inligting die wet op bevordering van
+     toegang tot inligting  wet   van 
+oogmerk van wet
+   die oogmerk van hierdie wet  om                                                     
+      gevolg te gee aan die grondwetlike reg op privaatheid deur persoonlike
+           inligting te beskerm wanneer dit deur n verantwoordelike party geprosesseer
+           word onderhewig aan regverdigbare beperkings wat gerig  op die
+             balansering van die reg op privaatheid teenoor ander regte  besonder
+                 die reg op toegang tot inligting en                                       
+           ii beskerming van belangrike belange met inbegrip van die vrye vloei van
+                 inligting binne die republiek en oor internasionale grense
+     b die wyse waarop persoonlike inligting geprosesseer mag word te reguleer
+           deur voorwaardes  harmonie met internasionale standaarde te vestig wat
+           die minimum vereistes vir die regmatige prosessering van persoonlike             
+           inligting voorskryf
+     c persone van regte en remedies te voorsien ten einde hul persoonlike inligting
+           teen prosessering wat nie  ooreenstemming met hierdie wet  nie te
+           beskerm en
+     d vrywillige en verpligte maatreëls met inbegrip van die instelling van n          
+           inligtingsreguleerder  te stel ten einde respek vir en die bevordering
+           afdwinging en verwesenliking van die regte wat  hierdie wet beskerm
+           word te verseker
+                                          hoofstuk 
+                               toepassingsbepalings                                         
+toepassing en uitleg van wet
+    hierdie wet  van toepassing op die prosessering van persoonlike inligting
+
+                                           government gazette  november 
+act                                           protection  personal information act 
+                                                
+        entered   record     responsible party  making use  automated
+              nonautomated means provided    recorded personal informa
+             tion  processed  nonautomated means  forms part   filing system 
+              intended  form part thereof 
+       b   responsible party                                                             
+               domiciled   republic 
+            ii  domiciled   republic  makes use  automated 
+                   nonautomated means   republic unless  means  used 
+                    forward personal information   republic
+       act applies subject  paragraph b   exclusion   provision          
+  legislation  regulates  processing  personal information   
+materially inconsistent   object   specific provision   act
+    b    legislation provides  conditions   lawful processing 
+personal information    extensive   set     
+extensive conditions prevail                                                                        
+      act must  interpreted   manner 
+        gives effect   purpose   act set   section  
+       b   prevent  public  private body  exercising  performing 
+             powers duties  functions  terms   law  far   powers duties
+              functions relate   processing  personal information                   
+             processing   accordance   act    legislation  referred
+               subsection   regulates  processing  personal information
+     automated means   purposes   section means  equipment
+capable  operating automatically  response  instructions given   purpose 
+processing information                                                                              
+lawful processing  personal information
+       conditions   lawful processing  personal information    
+responsible party   following
+        accountability  referred   section 
+       b processing limitation  referred   sections                               
+       c purpose specification  referred   sections   
+       d  processing limitation  referred   section 
+       e information quality  referred   section 
+       f openness  referred   sections   
+       g security safeguards  referred   sections                             
+       h data subject participation  referred   sections   
+      conditions  referred   subsection    applicable  
+processing  personal information   extent   processing 
+        excluded  terms  section      operation   act 
+       b exempted  terms  section     one     conditions                 
+             concerned  relation   processing
+      processing   special personal information   data subject  prohibited
+ terms  section  unless 
+        provisions  sections     applicable 
+       b regulator  granted  authorisation  terms  section                          
+  case subject  section     conditions   lawful processing 
+personal information  referred     must  complied 
+      processing   personal information   child  prohibited  terms 
+section  unless 
+        provisions  section   applicable                                             
+       b regulator  granted  authorisation  terms  section 
+  case subject  section   conditions   lawful processing  personal
+information  referred     must  complied 
+      processing   special personal information   child  prohibited  terms
+ sections    unless  provisions  sections     applicable              
+
+                                            government gazette  november 
+act                                            protection  personal information act 
+                                                 
+case subject  section   conditions   lawful processing  personal
+information  referred     must  complied 
+      conditions   lawful processing  personal information    
+responsible party   purpose  direct marketing   means  reflected 
+  read  section  insofar   section relates  direct marketing  
+means  unsolicited electronic communications
+     sections    provide   development  appropriate circumstances 
+codes  conduct  purposes  clarifying   conditions referred   subsection
+ subject   exemptions  may   granted  terms  section  
+  applied     complied  within  particular sector                                 
+rights  data subjects
+      data subject   right       personal information processed 
+accordance   conditions   lawful processing  personal information 
+referred     including  right
+          notified                                                                        
+               personal information        collected  provided
+                     terms  section  
+            ii     personal information   accessed  acquired  
+                   unauthorised person  provided   terms  section 
+       b  establish whether  responsible party holds personal information                  
+             data subject   request access      personal information 
+             provided   terms  section 
+       c  request  necessary  correction destruction  deletion   
+               personal information  provided   terms  section 
+       d  object  reasonable grounds relating      particular situation          
+               processing      personal information  provided  
+             terms  section 
+       e  object   processing      personal information
+                 time  purposes  direct marketing  terms  section b
+                                                                                                    
+            ii  terms  section c
+       f        personal information processed  purposes  direct
+             marketing  means  unsolicited electronic communications except 
+             referred   section 
+       g    subject  certain circumstances   decision   based               
+             solely   basis   automated processing      personal
+             information intended  provide  profile   person  provided  
+             terms  section 
+       h  submit  complaint   regulator regarding  alleged interference 
+              protection   personal information   data subject   submit             
+             complaint   regulator  respect   determination   adjudicator 
+             provided   terms  section  
+         institute civil proceedings regarding  alleged interference  
+             protection      personal information  provided   section 
+exclusions                                                                                            
+       act   apply   processing  personal information
+          course   purely personal  household activity
+       b    deidentified   extent     reidentified 
+       c    behalf   public body
+                involves national security including activities   aimed  
+                   assisting   identification   financing  terrorist  related
+                   activities defence  public safety 
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+            ii  purpose     prevention detection including assistance 
+                   identification   proceeds  unlawful activities  
+                  combating  money laundering activities investigation  proof 
+                  offences  prosecution  offenders   execution  sentences 
+                  security measures                                                                  
+              extent  adequate safeguards   established  legislation 
+             protection   personal information
+       d   cabinet   committees   executive council   province 
+       e relating   judicial functions   court referred   section   
+            constitution                                                                            
+     terrorist  related activities  purposes  subsection c means
+ activities referred   section    protection  constitutional democracy
+ terrorist  related activities act  act    
+exclusion  journalistic literary  artistic purposes
+       act   apply   processing  personal information solely            
+purpose  journalistic literary  artistic expression   extent    exclusion
+ necessary  reconcile   matter  public interest  right  privacy   right
+ freedom  expression
+       responsible party  processes personal information  exclusively
+journalistic purposes   virtue  office employment  profession subject              
+ ethics  provides adequate safeguards   protection  personal information
+  will apply   processing concerned   exclusion   act  
+alleged interference   protection   personal information   data subject 
+may arise   result   processing must  adjudicated  provided   terms 
+                                                                                            
+       event   dispute may arise  respect  whether adequate safeguards
+  provided      required  terms  subsection    regard
+may   
+         special importance   public interest  freedom  expression
+       b domestic  international standards balancing                                        
+              public interest  allowing   free flow  information   public
+                    media  recognition   right   public   informed
+                  
+            ii public interest  safeguarding  protection  personal information 
+                  data subjects                                                                     
+       c  need  secure  integrity  personal information
+       d domestic  international standards  professional integrity  journalists
+            
+       e  nature  ambit  selfregulatory forms  supervision provided  
+            profession                                                                              
+                                         
+conditions  lawful processing  personal information
+                                             part 
+                       processing  personal information  general
+                                         condition                                                  
+                                       accountability
+responsible party  ensure conditions  lawful processing
+      responsible party must ensure   conditions set      
+ measures  give effect   conditions  complied    time  
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+determination   purpose  means   processing    processing
+
+                                          condition 
+                                     processing limitation
+lawfulness  processing                                                                              
+     personal information must  processed
+        lawfully 
+       b   reasonable manner    infringe  privacy   data subject
+minimality
+     personal information may   processed  given  purpose     
+processed   adequate relevant   excessive
+consent justification  objection
+      personal information may   processed 
+         data subject   competent person   data subject   child
+             consents   processing                                                             
+       b processing  necessary  carry  actions   conclusion  performance
+               contract    data subject  party
+       c processing complies   obligation imposed  law   responsible
+             party
+       d processing protects  legitimate interest   data subject                            
+       e processing  necessary   proper performance   public law duty  
+             public body 
+       f processing  necessary  pursuing  legitimate interests   responsible
+             party    third party    information  supplied
+       responsible party bears  burden  proof   data subjects                 
+competent persons consent  referred   subsection 
+    b  data subject  competent person may withdraw     consent 
+referred   subsection    time provided   lawfulness  
+processing  personal information   withdrawal   processing  personal
+information  terms  subsection b  f will   affected                               
+      data subject may object   time   processing  personal information
+         terms  subsection d  f   prescribed manner  reasonable
+             grounds relating      particular situation unless legislation
+             provides   processing 
+       b  purposes  direct marketing   direct marketing  means                   
+             unsolicited electronic communications  referred   section 
+       data subject  objected   processing  personal information  terms 
+subsection   responsible party may  longer process  personal information
+collection directly  data subject
+      personal information must  collected directly   data subject except 
+ otherwise provided   subsection 
+        necessary  comply  subsection  
+         information  contained   derived   public record  
+             deliberately  made public   data subject
+       b  data subject   competent person   data subject   child  
+             consented   collection   information  another source
+
+                                           government gazette  november 
+act                                           protection  personal information act 
+                                                 
+       c collection   information  another source   prejudice 
+             legitimate interest   data subject
+       d collection   information  another source  necessary
+                avoid prejudice   maintenance   law   public body
+                   including  prevention detection investigation prosecution  
+                   punishment  offences
+             ii  comply   obligation imposed  law   enforce legislation
+                   concerning  collection  revenue  defined  section    south
+                   african revenue service act  act    
+            iii   conduct  proceedings   court  tribunal   
+                   commenced   reasonably contemplated
+            iv   interests  national security 
+             v  maintain  legitimate interests   responsible party    third
+                   party    information  supplied
+       e compliance  prejudice  lawful purpose   collection                          
+       f compliance   reasonably practicable   circumstances   particular
+             case
+                                          condition 
+                                     purpose specification
+collection  specific purpose                                                                      
+      personal information must  collected   specific explicitly defined 
+lawful purpose related   function  activity   responsible party
+     steps must  taken  accordance  section   ensure   data
+subject  aware   purpose   collection   information unless  provisions
+ section   applicable                                                                     
+retention  restriction  records
+      subject  subsections    records  personal information must  
+retained  longer   necessary  achieving  purpose   
+information  collected  subsequently processed unless
+        retention   record  required  authorised  law                                 
+       b  responsible party reasonably requires  record  lawful purposes
+             related   functions  activities
+       c retention   record  required   contract   parties thereto 
+       d  data subject   competent person   data subject   child 
+             consented   retention   record                                               
+     records  personal information may  retained  periods  excess  
+contemplated  subsection   historical statistical  research purposes  
+responsible party  established appropriate safeguards   records  used
+   purposes
+      responsible party   used  record  personal information   data subject         
+ make  decision   data subject must
+        retain  record   period  may  required  prescribed  law  
+               conduct 
+       b     law    conduct prescribing  retention period retain 
+             record   period  will afford  data subject  reasonable opportunity        
+             taking  considerations relating   use   personal information 
+             account  request access   record
+      responsible party must destroy  delete  record  personal information 
+deidentify   soon  reasonably practicable   responsible party   longer
+authorised  retain  record  terms  subsection                                      
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                               
+      destruction  deletion   record  personal information  terms 
+subsection  must  done   manner  prevents  reconstruction   intelligible
+form
+      responsible party must restrict processing  personal information 
+         accuracy  contested   data subject   period enabling  
+            responsible party  verify  accuracy   information
+       b  responsible party  longer needs  personal information  achieving
+             purpose    information  collected  subsequently
+            processed      maintained  purposes  proof
+       c  processing  unlawful   data subject opposes  destruction  
+            deletion  requests  restriction   use instead 
+       d  data subject requests  transmit  personal data  another automated
+            processing system
+     personal information referred   subsection  may   exception 
+storage   processed  purposes  proof    data subjects consent  
+  consent   competent person  respect   child    protection  
+rights  another natural  legal person    processing    public interest
+      processing  personal information  restricted pursuant  subsection 
+ responsible party must inform  data subject  lifting  restriction 
+processing                                                                                          
+                                         condition 
+                                processing limitation
+ processing   compatible  purpose  collection
+       processing  personal information must   accordance 
+compatible   purpose     collected  terms  section                        
+      assess whether  processing  compatible   purpose  collection
+ responsible party must take account 
+         relationship   purpose   intended  processing 
+             purpose    information   collected
+       b  nature   information concerned                                                  
+       c  consequences   intended  processing   data subject
+       d  manner    information   collected 
+       e  contractual rights  obligations   parties
+       processing  personal information   incompatible  
+purpose  collection                                                                             
+         data subject   competent person   data subject   child 
+            consented    processing   information
+       b  information  available   derived   public record  
+            deliberately  made public   data subject
+       c  processing  necessary                                                          
+               avoid prejudice   maintenance   law   public body
+                  including  prevention detection investigation prosecution 
+                  punishment  offences
+            ii  comply   obligation imposed  law   enforce legislation
+                  concerning  collection  revenue  defined  section    south          
+                  african revenue service act  act    
+           iii   conduct  proceedings   court  tribunal  
+                  commenced   reasonably contemplated 
+           iv   interests  national security
+       d   processing   information  necessary  prevent  mitigate            
+            serious  imminent threat 
+              public health  public safety 
+            ii  life  health   data subject  another individual
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                               
+      e  information  used  historical statistical  research purposes  
+            responsible party ensures    processing  carried  solely 
+             purposes  will   published   identifiable form 
+      f   processing   information   accordance   exemption
+            granted  section                                                                  
+                                          condition 
+                                     information quality
+quality  information
+      responsible party must take reasonably practicable steps  ensure  
+personal information  complete accurate  misleading  updated  
+necessary
+     taking  steps referred   subsection   responsible party must 
+regard   purpose   personal information  collected   processed
+                                          condition 
+                                           openness                                                  
+documentation
+     responsible party must maintain  documentation   processing operations
+  responsibility  referred   section      promotion  access 
+information act
+notification  data subject  collecting personal information                                    
+      personal information  collected  responsible party must take reasonably
+practicable steps  ensure   data subject  aware 
+        information  collected    information   collected
+              data subject  source     collected
+      b  name  address   responsible party                                             
+      c  purpose    information   collected
+      d whether    supply   information   data subject  voluntary
+             mandatory
+      e  consequences  failure  provide  information
+      f  particular law authorising  requiring  collection   information             
+      g  fact   applicable  responsible party intends  transfer 
+            information   third country  international organisation   level 
+            protection afforded   information   third country  international
+            organisation
+      h   information                                                          
+              recipient  category  recipients   information
+            ii nature  category   information
+           iii existence   right  access    right  rectify  information
+                  collected
+           iv existence   right  object   processing  personal information           
+                   referred   section  
+            v right  lodge  complaint   information regulator   contact
+                  details   information regulator
+              necessary  regard   specific circumstances   
+            information       processed  enable processing  respect           
+            data subject   reasonable
+     steps referred   subsection  must  taken
+         personal information  collected directly   data subject 
+             information  collected unless  data subject  already aware  
+            information referred    subsection                                            
+
+                                            government gazette  november 
+act                                             protection  personal information act 
+                                                 
+       b    case   information  collected   soon  reasonably
+             practicable     collected
+      responsible party   previously taken  steps referred   subsection 
+complies  subsection   relation   subsequent collection   data
+subject    information  information    kind   purpose                        
+collection   information remains  
+        necessary   responsible party  comply  subsection  
+         data subject   competent person   data subject   child 
+             provided consent   noncompliance
+       b noncompliance   prejudice  legitimate interests   data                     
+             subject  set   terms   act
+       c noncompliance  necessary
+                avoid prejudice   maintenance   law   public body
+                  including  prevention detection investigation prosecution 
+                  punishment  offences                                                              
+             ii  comply   obligation imposed  law   enforce legislation
+                  concerning  collection  revenue  defined  section    south
+                  african revenue service act  act    
+            iii   conduct  proceedings   court  tribunal   
+                  commenced   reasonably contemplated                                          
+            iv   interests  national security
+       d compliance  prejudice  lawful purpose   collection
+       e compliance   reasonably practicable   circumstances   particular
+             case 
+       f  information will                                                                       
+                 used   form    data subject may  identified 
+             ii  used  historical statistical  research purposes
+                                          condition 
+                                     security safeguards
+security measures  integrity  confidentiality  personal information                             
+       responsible party must secure  integrity  confidentiality  personal
+information   possession    control  taking appropriate reasonable
+technical  organisational measures  prevent
+        loss  damage   unauthorised destruction  personal information 
+       b unlawful access   processing  personal information                                   
+      order  give effect  subsection   responsible party must take reasonable
+measures 
+        identify  reasonably foreseeable internal  external risks  personal
+             information   possession    control
+       b establish  maintain appropriate safeguards   risks identified                 
+       c regularly verify   safeguards  effectively implemented 
+       d ensure   safeguards  continually updated  response  new risks 
+             deficiencies  previously implemented safeguards
+      responsible party must  due regard  generally accepted information
+security practices  procedures  may apply   generally   required  terms 
+ specific industry  professional rules  regulations
+
+                                         government gazette  november 
+act                                          protection  personal information act 
+                                               
+information processed  operator  person acting  authority
+      operator  anyone processing personal information  behalf   responsible
+party   operator must
+        process  information    knowledge  authorisation  
+            responsible party                                                                    
+       b treat personal information  comes   knowledge  confidential 
+            must  disclose 
+unless required  law    course   proper performance   duties
+security measures regarding information processed  operator
+       responsible party must  terms   written contract   
+responsible party   operator ensure   operator  processes personal
+information   responsible party establishes  maintains  security measures
+referred   section 
+      operator must notify  responsible party immediately   
+reasonable grounds  believe   personal information   data subject   
+accessed  acquired   unauthorised person
+notification  security compromises
+         reasonable grounds  believe   personal information 
+ data subject   accessed  acquired   unauthorised person  responsible
+party must notify                                                                                  
+         regulator 
+       b subject  subsection   data subject unless  identity   data
+            subject   established
+      notification referred   subsection  must  made  soon  reasonably
+possible   discovery   compromise taking  account  legitimate needs            
+ law enforcement   measures reasonably necessary  determine  scope  
+compromise   restore  integrity   responsible partys information system
+      responsible party may  delay notification   data subject   public
+body responsible   prevention detection  investigation  offences  
+regulator determines  notification will impede  criminal investigation   public           
+body concerned
+      notification   data subject referred   subsection  must   writing
+ communicated   data subject   least one   following ways
+        mailed   data subjects last known physical  postal address
+       b sent  email   data subjects last known email address                          
+       c placed   prominent position   website   responsible party
+       d published   news media 
+       e  may  directed   regulator
+      notification referred   subsection  must provide sufficient information
+ allow  data subject  take protective measures   potential consequences            
+  compromise including
+         description   possible consequences   security compromise
+       b  description   measures   responsible party intends  take  
+            taken  address  security compromise
+       c  recommendation  regard   measures   taken   data subject             
+             mitigate  possible adverse effects   security compromise 
+       d  known   responsible party  identity   unauthorised person 
+            may  accessed  acquired  personal information
+      regulator may direct  responsible party  publicise   manner
+specified  fact   compromise   integrity  confidentiality  personal               
+
+                                           government gazette  november 
+act                                            protection  personal information act 
+                                                
+information   regulator  reasonable grounds  believe   publicity
+ protect  data subject  may  affected   compromise
+                                          condition 
+                                 data subject participation
+access  personal information                                                                         
+       data subject  provided adequate proof  identity   right 
+        request  responsible party  confirm free  charge whether   
+             responsible party holds personal information   data subject 
+       b request   responsible party  record   description   personal
+             information   data subject held   responsible party including              
+             information   identity   third parties  categories  third parties
+                  access   information
+               within  reasonable time
+             ii   prescribed fee  
+            iii   reasonable manner  format                                               
+            iv   form   generally understandable
+       response   request  terms  subsection  personal information 
+communicated   data subject  data subject must  advised   right  terms 
+section   request  correction  information
+       data subject  required   responsible party  pay  fee  services                
+provided   data subject  terms  subsection b  enable  responsible party
+ respond   request  responsible party
+        must give  applicant  written estimate   fee  providing 
+             services 
+       b may require  applicant  pay  deposit    part   fee                     
+       responsible party may  must refuse   case may   disclose 
+information requested  terms  subsection     grounds  refusal 
+access  records set    applicable sections     part    
+ part    promotion  access  information act apply
+    b  provisions  sections      promotion  access  information                
+act  applicable  respect  access  health   records
+       request  access  personal information  made   responsible party 
+part   information may  must  refused  terms  subsection  every 
+part must  disclosed
+correction  personal information                                                                    
+       data subject may   prescribed manner request  responsible party 
+        correct  delete personal information   data subject   possession
+                control   inaccurate irrelevant excessive   date
+             incomplete misleading  obtained unlawfully 
+       b destroy  delete  record  personal information   data subject  
+              responsible party   longer authorised  retain  terms  section 
+      receipt   request  terms  subsection   responsible party must  soon
+ reasonably practicable
+        correct  information
+       b destroy  delete  information                                                         
+       c provide  data subject     satisfaction  credible evidence 
+             support   information 
+
+                                           government gazette  november 
+act                                             protection  personal information act 
+                                                
+       d  agreement   reached   responsible party  
+             data subject    data subject  requests take  steps  
+             reasonable   circumstances  attach   information    manner
+               will always  read   information  indication   correction
+               information   requested     made                               
+       responsible party  taken steps  subsection   result   change
+  information   changed information   impact  decisions  
+  will  taken  respect   data subject  question  responsible party
+must  reasonably practicable inform  person  body  responsible party 
+  personal information   disclosed   steps                                       
+      responsible party must notify  data subject   made  request  terms
+ subsection    action taken   result   request
+manner  access
+      provisions  sections      promotion  access  information
+act apply  requests made  terms  section    act                                         
+                                             part b
+                           processing  special personal information
+prohibition  processing  special personal information
+      responsible party may subject  section   process personal information
+concerning                                                                                            
+         religious  philosophical beliefs race  ethnic origin trade union
+             membership political persuasion health  sex life  biometric information
+               data subject 
+       b  criminal behaviour   data subject   extent   information
+             relates                                                                                
+                alleged commission   data subject   offence 
+             ii  proceedings  respect   offence allegedly committed   data
+                   subject   disposal   proceedings
+general authorisation concerning special personal information
+       prohibition  processing personal information  referred   section              
+   apply  
+        processing  carried    consent   data subject referred  
+             section 
+       b processing  necessary   establishment exercise  defence   right 
+             obligation  law                                                                        
+       c processing  necessary  comply   obligation  international public
+             law
+       d processing   historical statistical  research purposes   extent 
+                purpose serves  public interest   processing  necessary 
+                    purpose concerned                                                            
+             ii  appears   impossible   involve  disproportionate effort 
+                   ask  consent
+              sufficient guarantees  provided   ensure   processing 
+              adversely affect  individual privacy   data subject  
+             disproportionate extent                                                                  
+       e information  deliberately  made public   data subject 
+       f provisions  sections       case may  complied 
+      regulator may subject  subsection  upon application   responsible
+party   notice   gazette authorise  responsible party  process special
+
+                                           government gazette  november 
+act                                            protection  personal information act 
+                                                
+personal information   processing    public interest  appropriate
+safeguards   put  place  protect  personal information   data subject
+      regulator may impose reasonable conditions  respect   authorisation
+granted  subsection 
+authorisation concerning data subjects religious  philosophical beliefs                             
+       prohibition  processing personal information concerning  data
+subjects religious  philosophical beliefs  referred   section    apply 
+ processing  carried  
+        spiritual  religious organisations  independent sections  
+             organisations                                                                         
+                information concerns data subjects belonging   organisations
+                   
+             ii   necessary  achieve  aims  principles
+       b institutions founded  religious  philosophical principles  respect 
+              members  employees   persons belonging   institution            
+              necessary  achieve  aims  principles 
+       c  institutions provided   processing  necessary  protect 
+             spiritual welfare   data subjects unless   indicated  
+             object   processing
+       cases referred   subsection   prohibition   apply               
+processing  personal information concerning  religion  philosophy  life 
+family members   data subjects 
+         association concerned maintains regular contact   family
+             members  connection   aims 
+       b  family members   objected  writing   processing                         
+       cases referred   subsections    personal information concerning
+ data subjects religious  philosophical beliefs may   supplied  third parties
+without  consent   data subject
+authorisation concerning data subjects race  ethnic origin
+      prohibition  processing personal information concerning  data subjects 
+race  ethnic origin  referred   section    apply   processing 
+carried  
+        identify data subjects      essential   purpose 
+       b comply  laws   measures designed  protect  advance persons
+              categories  persons disadvantaged  unfair discrimination                        
+authorisation concerning data subjects trade union membership
+       prohibition  processing personal information concerning  data
+subjects trade union membership  referred   section    apply  
+processing   trade union    data subject belongs   trade union
+federation    trade union belongs   processing  necessary  achieve 
+ aims   trade union  trade union federation
+       cases referred   subsection   personal information may 
+supplied  third parties without  consent   data subject
+authorisation concerning data subjects political persuasion
+       prohibition  processing personal information concerning  data 
+subjects political persuasion  referred   section    apply  processing
+    institution founded  political principles   personal information 
+         members  employees   persons belonging   institution  
+             processing  necessary  achieve  aims  principles   institution 
+       b  data subject   processing  necessary   purposes                         
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+               forming  political party
+             ii participating   activities   engaging   recruitment 
+                  members   canvassing supporters  voters   political party 
+                   view 
+                  aa  election   national assembly   provincial legislature  
+                        regulated  terms   electoral act  act    
+                  bb municipal elections  regulated  terms   local government
+                        municipal electoral act  act     
+                  cc  referendum  regulated  terms   referendums act 
+                        act                                                         
+            iii campaigning   political party  cause
+       cases referred   subsection   personal information may 
+supplied  third parties without  consent   data subject
+authorisation concerning data subjects health  sex life
+       prohibition  processing personal information concerning  data                     
+subjects health  sex life  referred   section    apply   processing
+
+        medical professionals healthcare institutions  facilities  social services 
+              processing  necessary   proper treatment  care   data
+             subject    administration   institution  professional practice          
+             concerned
+       b insurance companies medical schemes medical scheme administrators 
+             managed healthcare organisations   processing  necessary 
+               assessing  risk   insured   insurance company  covered 
+                   medical scheme   data subject   objected                      
+                  processing
+             ii  performance   insurance  medical scheme agreement 
+            iii  enforcement   contractual rights  obligations
+       c schools   processing  necessary  provide special support  pupils
+              making special arrangements  connection   health  sex life             
+       d  public  private body managing  care   child   processing 
+             necessary   performance   lawful duties
+       e  public body   processing  necessary  connection  
+             implementation  prison sentences  detention measures 
+       f administrative bodies pension funds employers  institutions working                
+                processing  necessary 
+                implementation   provisions  laws pension regulations 
+                  collective agreements  create rights dependent   health  sex
+                  life   data subject 
+             ii  reintegration   support  workers  persons entitled  benefit         
+                   connection  sickness  work incapacity
+       cases referred   subsection   information may  
+processed  responsible parties subject   obligation  confidentiality  virtue 
+office employment profession  legal provision  established   written agreement
+  responsible party   data subject                                                  
+      responsible party   permitted  process information concerning  data
+subjects health  sex life  terms   section    subject   obligation 
+confidentiality  virtue  office profession  legal provision must treat 
+information  confidential unless  responsible party  required  law  
+connection   duties  communicate  information   parties                   
+authorised  process  information  accordance  subsection 
+      prohibition  processing    categories  personal information
+referred   section    apply    necessary  supplement  processing
+
+                                          government gazette  november 
+act                                          protection  personal information act 
+                                                
+ personal information concerning  data subjects health  referred  
+subsection    view   proper treatment  care   data subject
+     personal information concerning inherited characteristics may   processed 
+respect   data subject    information concerned   obtained
+unless                                                                                              
+         serious medical interest prevails 
+       b  processing  necessary  historical statistical  research activity
+      detailed rules may  prescribed concerning  application  subsection
+b  f
+authorisation concerning data subjects criminal behaviour  biometric informa 
+tion
+       prohibition  processing personal information concerning  data
+subjects criminal behaviour  biometric information  referred   section  
+ apply   processing  carried   bodies charged  law  applying
+criminal law   responsible parties   obtained  information  accordance 
+  law
+      processing  information concerning personnel   service  
+responsible party must take place  accordance   rules established  compliance
+ labour legislation
+      prohibition  processing    categories  personal information 
+referred   section    apply   processing  necessary  supplement 
+processing  information  criminal behaviour  biometric information permitted 
+ section
+                                             part c
+                      processing  personal information  children                                
+prohibition  processing personal information  children
+      responsible party may subject  section   process personal information
+concerning  child
+general authorisation concerning personal information  children
+       prohibition  processing personal information  children  referred           
+ section    apply   processing 
+        carried    prior consent   competent person
+       b necessary   establishment exercise  defence   right  obligation 
+            law
+       c necessary  comply   obligation  international public law                      
+       d  historical statistical  research purposes   extent 
+               purpose serves  public interest   processing  necessary 
+                   purpose concerned 
+            ii  appears   impossible   involve  disproportionate effort 
+                  ask  consent                                                                  
+             sufficient guarantees  provided   ensure   processing 
+             adversely affect  individual privacy   child   disproportionate
+            extent 
+       e  personal information   deliberately  made public   child
+              consent   competent person                                                 
+      regulator may notwithstanding  prohibition referred   section  
+subject  subsection  upon application   responsible party   notice  
+gazette authorise  responsible party  process  personal information  children 
+ processing    public interest  appropriate safeguards   put  place
+ protect  personal information   child                                                   
+      regulator may impose reasonable conditions  respect   authorisation
+granted  subsection  including conditions  regard    responsible
+party must
+
+                                          government gazette  november 
+act                                            protection  personal information act 
+                                                
+        upon request   competent person provide  reasonable means  
+             person 
+               review  personal information processed 
+             ii refuse  permit   processing
+       b provide notice                                                                             
+               regarding  nature   personal information  children  
+                   processed
+             ii   information  processed 
+            iii regarding   processing practices
+       c refrain   action   intended  encourage  persuade  child  
+             disclose  personal information       reasonably
+             necessary given  purpose     intended 
+       d establish  maintain reasonable procedures  protect  integrity 
+             confidentiality   personal information collected  children
+                                                                                              
+            exemption  conditions  processing 
+                               personal information
+general
+     processing  personal information    breach   condition  
+processing   information                                                                  
+        regulator grants  exemption  terms  section  
+       b processing   accordance  section 
+regulator may exempt processing  personal information
+       regulator may  notice   gazette grant  exemption  
+responsible party  process personal information even   processing   breach             
+ condition   processing   information   measure  gives effect 
+ condition   regulator  satisfied    circumstances   case
+         public interest   processing outweighs   substantial degree 
+             interference   privacy   data subject   result  
+             processing                                                                            
+       b  processing involves  clear benefit   data subject   third party 
+             outweighs   substantial degree  interference   privacy  
+             data subject  third party   result   processing
+      public interest referred   subsection  includes
+         interests  national security                                                        
+       b  prevention detection  prosecution  offences
+       c important economic  financial interests   public body
+       d fostering compliance  legal provisions established   interests referred
+               paragraphs b  c
+       e historical statistical  research activity                                            
+       f  special importance   interest  freedom  expression
+      regulator may impose reasonable conditions  respect   exemption
+granted  subsection 
+exemption  respect  certain functions
+      personal information processed   purpose  discharging  relevant 
+function  exempt  sections          case   extent
+   application   provisions   personal information   likely
+ prejudice  proper discharge   function
+     relevant function  purposes  subsection  means  function
+          public body                                                                        
+
+                                         government gazette  november 
+act                                          protection  personal information act 
+                                               
+     b conferred   person  terms   law
+  performed   view  protecting members   public 
+       financial loss due  dishonesty malpractice   seriously improper
+            conduct    unfitness  incompetence  persons concerned  
+            provision  banking insurance investment   financial services              
+             management  bodies corporate 
+     ii dishonesty malpractice   seriously improper conduct   
+            unfitness  incompetence  persons authorised  carry   profession 
+             activity
+                                                                                            
+                                       supervision
+                                            part 
+                                    information regulator
+establishment  information regulator
+      hereby established  juristic person   known   information 
+regulator 
+       jurisdiction throughout  republic
+     b  independent   subject    constitution    law  must
+             impartial  perform  functions  exercise  powers without fear
+            favour  prejudice                                                                    
+     c must exercise  powers  perform  functions  accordance   act
+              promotion  access  information act 
+     d  accountable   national assembly
+powers duties  functions  regulator
+      powers duties  functions   regulator  terms   act               
+       provide education 
+              promoting  understanding  acceptance   conditions  
+                  lawful processing  personal information    objects  
+                  conditions
+            ii undertaking educational programmes   purpose  promoting                
+                  protection  personal information   regulators  behalf  
+                  cooperation   persons  authorities acting  behalf  
+                  regulator
+          iii making public statements  relation   matter affecting 
+                  protection   personal information   data subject    class        
+                  data subjects
+           iv giving advice  data subjects   exercise   rights 
+            v providing advice upon request     initiative   minister  
+                  public  private body   obligations   provisions 
+                  generally   matter relevant   operation   act                   
+     b  monitor  enforce compliance 
+              public  private bodies   provisions   act
+            ii undertaking research   monitoring developments  information
+                  processing  computer technology  ensure   adverse effects 
+                   developments   protection   personal information  data           
+                  subjects  minimised  reporting   minister  results  
+                  research  monitoring
+          iii examining  proposed legislation including subordinate legislation 
+                  proposed policy   government   regulator considers may
+
+                                             government gazette  november 
+act                                               protection  personal information act 
+                                                  
+                  affect  protection   personal information  data subjects 
+                  reporting   minister  results   examination
+           iv reporting upon request     accord  parliament  time 
+                  time   policy matter affecting  protection   personal
+                  information   data subject including  need   desirability               
+                  taking legislative administrative   action  give protection 
+                  better protection   personal information   data subject
+            v submitting  report  parliament within five months   end  
+                  financial year    activities  terms   act   financial
+                  year                                                                                  
+           vi conducting  assessment    initiative   requested  
+                     public  private body  respect   processing  personal
+                  information   body   purpose  ascertaining whether  
+                   information  processed according   conditions   lawful
+                  processing  personal information                                                    
+          vii monitoring  use  unique identifiers  data subjects  reporting 
+                  parliament  time  time   results   monitoring including
+                   recommendation relating   need   desirability  taking
+                  legislative administrative   action  give protection  better
+                  protection   personal information   data subject                             
+         viii maintaining publishing  making available  providing copies 
+                   registers   prescribed   act 
+           ix examining  proposed legislation  makes provision  
+                       aa collection  personal information   public  private
+                             body                                                                     
+                       bb disclosure  personal information  one public  private
+                             body    public  private body    
+                             particular regard   course   examination  
+                             matters set   section    case  
+                             regulator considers   information might  used                
+                             purposes   information matching programme
+                         reporting   minister  parliament  results  
+                        examination
+     c  consult  interested parties 
+              receiving  inviting representations  members   public                     
+                   matter affecting  personal information   data subject
+            ii cooperating   national  international basis   persons 
+                  bodies concerned   protection  personal information 
+           iii acting  mediator  opposing parties   matter  concerns
+                   need    desirability  action   responsible party               
+                  interests   protection   personal information   data subject
+     d  handle complaints 
+              receiving  investigating complaints  alleged violations  
+                  protection  personal information  data subjects  reporting 
+                  complainants  respect   complaints                                            
+            ii gathering  information    regulators opinion will assist 
+                  regulator  discharging  duties  carrying   regulators
+                  functions   act
+           iii attempting  resolve complaints  means  dispute resolution
+                  mechanisms   mediation  conciliation                                      
+           iv serving  notices  terms   act   promoting 
+                  resolution  disputes  accordance   prescripts   act
+
+                                            government gazette  november 
+act                                            protection  personal information act 
+                                                 
+       e  conduct research   report  parliament
+                time  time   desirability   acceptance  south africa
+                    international instrument relating   protection   personal
+                  information   data subject 
+             ii    matter including necessary legislative amendments                     
+                  relating  protection  personal information    regulators
+                  opinion   drawn  parliaments attention
+       f  respect  codes  conduct 
+               issue  time  time codes  conduct amend codes   revoke
+                  codes  conduct                                                                   
+             ii make guidelines  assist bodies  develop codes  conduct   apply
+                  codes  conduct 
+            iii consider afresh upon application determinations  adjudicators 
+                  approved codes  conduct
+       g  facilitate crossborder cooperation   enforcement  privacy laws                
+             participating   initiative   aimed   cooperation 
+       h  general 
+                anything incidental  conducive   performance    
+                  preceding functions
+             ii exercise  perform   functions powers  duties                  
+                  conferred  imposed   regulator     act   
+                  legislation
+            iii require  responsible party  disclose   person affected  
+                  compromise   integrity  confidentiality  personal information
+                   compromise  accordance  section                                    
+            iv exercise  powers conferred upon  regulator   act  matters
+                  relating   access  information  provided   promotion 
+                  access  information act
+      regulator may  time  time   public interest    legitimate
+interests   person  body  persons publish reports relating generally                   
+exercise   regulators functions   act    case  cases investigated
+  regulator whether    matters   dealt     report  
+ subject   report   minister
+      provisions  sections      commissions act  act   
+ will apply   necessary changes   regulator                                      
+      powers  duties   regulator  terms   promotion  access 
+information act  set   parts      act
+appointment term  office  removal  members  regulator
+        regulator consists   following members
+          chairperson                                                                         
+       ii four  persons  ordinary members   regulator
+    b members   regulator must  appropriately qualified fit  proper
+persons
+          least one   must  appointed  account  experience  
+             practising advocate  attorney   professor  law   university                
+       ii  remainder   must  appointed  account   
+             qualifications expertise  experience relating   objects  
+             regulator
+    c  chairperson   regulator must  appointed   fulltime capacity 
+may subject  subsection   perform  undertake  perform                           
+remunerative work   period      holds office  chairperson
+    d  ordinary members   regulator must  appointed  follows
+         two ordinary members   fulltime capacity 
+       ii two ordinary members   fulltime  parttime capacity
+    e  members referred   paragraph d   appointed   fulltime                     
+capacity may subject  subsection   perform  undertake  perform  
+remunerative work   period    hold office
+
+                                         government gazette  november 
+act                                         protection  personal information act 
+                                              
+   f  chairperson must direct  work   regulator   staff  
+regulator
+   g  person may   appointed   member   regulator    
+            citizen   republic
+       ii   public servant                                                                    
+      iii   member  parliament  provincial legislature   municipal
+             council
+      iv   officebearer  employee   political party
+       v   unrehabilitated insolvent
+      vi   declared   court   mentally ill  unfit                             
+     vii    time  convicted whether   republic  elsewhere  
+             offence involving dishonesty
+      chairperson   members   regulator referred   subsection
+ must  appointed   president   recommendation   national
+assembly  recommendation must also indicate  ordinary members must                    
+appointed   fulltime  parttime capacity
+   b  national assembly must recommend persons
+         nominated   committee   assembly composed  members  parties
+             represented   assembly 
+       ii approved   assembly   resolution adopted   supporting vote              
+              majority   members   assembly
+     members   regulator will  appointed   period     five
+years  will   expiration   period  eligible  reappointment
+     chairperson   regulator   member    appointed  
+fulltime capacity may notwithstanding  provisions  subsection c  e            
+perform  undertake  perform   remunerative work   period  
+  holds office  chairperson  member   prior written consent  
+minister
+     person appointed   member   regulator may upon written notice  
+president resign  office                                                                     
+      member may  removed  office  
+          ground  misconduct incapacity  incompetence
+       ii  finding   effect   committee   national assembly 
+      iii  adoption   national assembly   resolution calling   persons
+             removal  office                                                                  
+   b  resolution   national assembly concerning  removal  office  
+member   regulator must  adopted   supporting vote   majority  
+members   assembly
+   c  president
+         may suspend  member  office   time   start                      
+             proceedings   committee   national assembly   removal  
+             member 
+       ii must remove  member  office upon adoption   assembly  
+             resolution calling   members removal
+vacancies                                                                                          
+   vacancy   regulator occurs   member
+        becomes subject   disqualification referred   section g
+       b tenders    resignation  contemplated  section   
+             resignation takes effect
+       c  removed  office  terms  section                                        
+       d dies 
+       e becomes permanently incapable      work
+       vacancy  arisen  contemplated  subsection   procedure
+contemplated  section  applies
+   b  member appointed   subsection holds office   rest   period 
+  predecessors term  office unless  president upon recommendation  
+national assembly appoints  member   longer period  may  exceed five
+years
+
+                                         government gazette  november 
+act                                          protection  personal information act 
+                                                
+powers duties  functions  chairperson   members
+       chairperson
+        must exercise  powers  perform  duties  functions conferred  
+             assigned       regulator  terms   act   promotion
+              access  information act                                                        
+       b    purposes  exercising  powers  performing  duties 
+             functions conferred   assigned       regulator  terms 
+              act   promotion  access  information act accountable  
+             regulator
+       members referred   section di must exercise  powers  
+perform  duties  functions  follows
+         one member  terms   act 
+       ii one member  terms   promotion  access  information act
+    b  members referred   section dii must exercise  powers 
+perform  duties  functions either  terms   act   promotion  access 
+ information act  
+    c  members referred   paragraphs   b    purposes 
+exercising  powers  performing  duties  functions accountable  
+chairperson
+regulator   regard  certain matters                                                         
+    performance   functions   exercise   powers   act
+ regulator must
+         due regard   conditions   lawful processing  personal
+             information  referred    
+       b  due regard   protection   human rights  social interests          
+             compete  privacy including  general desirability   free flow 
+             information   recognition   legitimate interests  public 
+             private bodies  achieving  objectives   efficient way
+       c take account  international obligations accepted  south africa 
+       d consider  developing general international guidelines relevant   better          
+             protection  individual privacy
+      performing  functions  terms  section bixbb  regard 
+information matching programmes  regulator must  particular regard 
+whether   
+        objective   programme relates   matter  significant public                     
+             importance
+       b use   programme  achieve  objective will result  monetary savings
+                significant  quantifiable    comparable benefits 
+             society
+       c use   alternative means  achieving  objective  give either           
+             results referred   paragraph b
+       d public interest  allowing  programme  proceed outweighs  public
+             interest  adhering   conditions   lawful processing  personal
+             information   programme  otherwise contravene 
+       e programme involves information matching   scale   excessive              
+             regard 
+                number  responsible parties  operators  will  involved  
+                  programme 
+            ii  amount  detail   data subject  will  matched  
+                  programme                                                                        
+      determining whether  processing  personal information  exclusively
+journalistic purposes   responsible party    virtue  office employment 
+profession  subject     ethics  referred   section  constitutes 
+interference   protection   personal information   data subject  terms
+ section   regulator must  particular regard   factors referred                
+section   d
+
+                                             government gazette  november 
+act                                              protection  personal information act 
+                                                  
+conflict  interest
+        member   regulator   person appointed   regulator 
+terms   act   material interest   matter   conflict  
+proper performance     duties  terms   act   promotion  access
+ information act    must disclose  interest  prescribed  soon                      
+practicable   relevant facts came     knowledge
+        member   regulator  person referred   subsection 
+          present   meeting   regulator  committee referred   section 
+                  matter contemplated   subsection    considered 
+             member  person concerned must disclose  nature     interest               
+              meeting   matter  considered 
+       ii fails  make  disclosure  required   subsection   present  
+             meeting   regulator  committee   case may     
+             manner participates   proceedings  proceedings  relation  
+             relevant matter must  soon   nondisclosure  discovered  reviewed             
+               varied  set aside   regulator   committee   case may
+              without  participation   member  person concerned
+    b  member   regulator  person referred   subsection    obliged
+ make  disclosure  terms   subsection may   present  
+deliberation  take part   decision  relation   matter  question                      
+    c  disclosure made  terms   subsection must  noted   minutes 
+ relevant meeting   regulator  committee
+      member   regulator  person referred   subsection   
+disclosed  conflict  interest  terms  subsection 
+        may perform  duties relating   matter  question   decision               
+             taken   interest  trivial  irrelevant 
+       b must  relieved   duties relating   matter  question   duties
+             must  performed  another member   regulator   another person
+             referred   subsection    case may      conflict 
+             interest                                                                                  
+remuneration allowances benefits  privileges  members
+       member   regulator   person referred   section b 
+b    subject   provisions   public service act 
+proclamation          judge   high court  south africa
+  magistrate will  entitled   remuneration allowances including allowances 
+ reimbursement  travelling  subsistence expenses incurred      
+performance     functions   act   promotion  access 
+information act benefits  privileges   minister  consultation   minister
+ finance may determine
+      remuneration allowances benefits  privileges  different members   
+regulator may differ according   different
+        positions held     regulator 
+       b functions performed whether   parttime  fulltime capacity  
+              time  time
+staff                                                                                                   
+       regulator must establish   administration  assist   
+performance   functions    end  regulator must appoint  secure 
+secondment  terms  subsection  
+         suitably qualified  experienced person  chief executive officer  
+             regulator   purpose  assisting  regulator subject   regulators 
+             direction  supervision   performance   financial  administra
+             tive functions  terms   act   promotion  access  information
+             act work arising   administration   act   promotion 
+
+                                           government gazette  november 
+act                                             protection  personal information act 
+                                                 
+             access  information act   exercise  power delegated  
+             regulator     
+       b   member  staff   regulator may deem necessary  assist 
+             regulator   chief executive officer   case may    
+             work  may arise   performance   functions                                
+       chief executive officer may appoint  senior member  staff  acting chief
+executive officer  perform  functions   chief executive officer    
+absence
+    b  member   regulator may   appointed  acting chief executive officer
+    c   event   vacancy occurs   office   chief executive officer             
+regulator must appoint  acting chief executive officer
+      regulator must   appointment   staff   regulator
+        provide   advancement  persons disadvantaged  unfair discrimina
+             tion   aim   staff  viewed collectively represents  broad
+             crosssection   population   republic                                       
+       b subject  paragraph  apply equal opportunity employment practices
+      regulator may pay   persons   employ  remuneration 
+allowances  provide    pension   employment benefits  
+consistent   paid   public sector
+      exercising  powers  terms  subsections     regulator must               
+consult   minister  finance
+      regulator may   performance   functions contemplated 
+subsection    request  assisted  officials   public service seconded  
+service   regulator  terms   law regulating  secondment provided 
+ secondment   official   service   regulator may  exceed  months                 
+   initial period  secondment may   extended    subsequent
+period  exceeding  months
+      regulator may  consultation   minister  finance   temporary
+basis    particular matter    investigated   employ  person 
+special knowledge   matter relating   work   regulator  obtain                    
+cooperation   body  advise  assist  regulator   performance  
+functions   act   promotion  access  information act  fix 
+remuneration including reimbursement  travelling subsistence   expenses
+  person  body
+powers duties  functions  chief executive officer                                                
+      chief executive officer
+          head  administration   accounting officer  referred  
+             section    regulator
+       b may appoint  senior member  staff  acting chief executive officer 
+             referred   section                                                              
+       c  responsible  
+               management   affairs  operations   regulator
+             ii formation  development   efficient administration
+            iii organisation  management   administrative control   
+                   members  staff appointed  terms  section b    
+                   persons seconded  terms  section 
+            iv maintenance  discipline  respect   members  staff 
+             v execution   decisions   regulator
+                 purposes accountable   regulator  must report thereon
+               regulator  often  may  required   regulator                         
+       d must exercise  powers  perform  duties  functions  
+             regulator may  time  time confer upon  assign      order
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                               
+              achieve  objects   regulator     purposes accountable
+               regulator
+committees  regulator
+       regulator may   considers  necessary   proper performance 
+ functions establish one   committees  must consist                                 
+         members   regulator   regulator may designate 
+       b  members   regulator   regulator may designate  
+             persons appointed   regulator  referred   section   
+             period determined   regulator
+      regulator may   time extend  period   appointment referred   
+subsection b     opinion good reasons exist therefor revoke  
+appointment
+      regulator must designate  chairperson    regulator deems 
+necessary  vicechairperson   committee established  subsection 
+       committee referred   subsection  must subject   directions   
+regulator perform  functions   regulator assigned     regulator
+    b  function  performed   committee referred   subsection  will 
+deemed    performed   regulator
+      regulator may   time dissolve  committee established  
+regulator                                                                                           
+      provisions  sections    will apply   necessary changes 
+ committee   regulator
+establishment  enforcement committee
+       regulator must establish  enforcement committee  must consist
+                                                                                                  
+         least one member   regulator 
+       b   persons appointed   regulator  referred   section 
+               period determined   regulator
+      regulator must
+         consultation   chief justice  minister appoint                            
+               judge   high court  south africa whether  active service  
+                   
+             ii magistrate   least  years appropriate experience whether 
+                   active service   
+       b appoint  advocate  attorney   least  years appropriate experience           
+ chairperson   enforcement committee
+      chairperson   enforcement committee must manage  work  
+preside  hearings   enforcement committee
+       member referred   subsection  may  participate  
+proceedings   regulator  terms    decision  taken  regard                    
+recommendation   enforcement committee  referred   section 
+    b  person referred   subsection b must   fit  proper person  must
+comply   criteria referred   section g  appointment   member 
+ regulator
+meetings  regulator                                                                                
+      meetings   regulator must  held   times  places determined 
+ chairperson   regulator
+     three members   regulator constitute  quorum   meeting
+       chairperson may regulate  proceedings  meetings     may
+think fit  must keep minutes   proceedings                                                  
+    b   chairperson  absent   meeting  members present shall elect one 
+ number  preside   meeting
+
+                                         government gazette  november 
+act                                          protection  personal information act 
+                                               
+      subject  subsection   decision   regulator  taken  resolution
+agreed    majority  members   meeting   regulator
+    b   event   equality  votes regarding  matter  chairperson  
+casting vote  addition     deliberative vote
+funds                                                                                                
+      funds   regulator consist 
+         sums  money  parliament appropriates annually   use  
+            regulator  may  necessary   proper exercise performance 
+            discharge   regulator   powers duties  functions   act
+              promotion  access  information act                                      
+       b fees  may  prescribed  terms  section 
+      financial year   regulator   period   april   year  
+march   following year except   first financial year   regulator begins
+  date    comes  operation  ends   march next following
+ date                                                                                          
+      chief executive officer   regulator   purposes   public finance
+management act  act      accounting officer  must execute 
+  duties  accordance   act
+     within six months   end   financial year  regulator must prepare
+financial statements  accordance  established accounting practice principles              
+procedures comprising
+         statement reflecting  suitable  sufficient particulars  income 
+            expenditure   regulator   preceding financial year 
+       b  balance sheet showing  state   assets liabilities  financial position
+               end   financial year                                                   
+      auditorgeneral must audit  regulators financial records  year
+protection  regulator
+      person acting  behalf    direction   regulator   civilly
+ criminally liable  anything done  good faith   exercise  performance 
+purported exercise  performance   power duty  function   regulator  
+terms   act   promotion  access  information act
+duty  confidentiality
+      person acting  behalf    direction   regulator must 
+      term  office  employment treat  confidential  personal
+information  comes     knowledge   course   performance   
+  official duties except   communication   information  required  law
+   proper performance     duties
+                                            part b
+                                      information officer
+duties  responsibilities  information officer                                                  
+       information officers responsibilities include
+         encouragement  compliance   body   conditions  
+            lawful processing  personal information
+       b dealing  requests made   body pursuant   act
+       c working   regulator  relation  investigations conducted pursuant  
+               relation   body
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                              
+       d otherwise ensuring compliance   body   provisions   act
+            
+       e  may  prescribed
+     officers must take   duties  terms   act    responsible
+party  registered    regulator                                                         
+designation  delegation  deputy information officers
+      public  private body must make provision   manner prescribed 
+section    promotion  access  information act   necessary changes
+  designation 
+          number  persons    deputy information officers   necessary 
+             perform  duties  responsibilities  set   section    act
+            
+       b  power  duty conferred  imposed   information officer   act
+              deputy information officer   public  private body
+                                                                                             
+                               prior authorisation
+                                     prior authorisation
+processing subject  prior authorisation
+       responsible party must obtain prior authorisation   regulator 
+terms  section  prior   processing   responsible party plans                      
+        process  unique identifiers  data subjects
+                purpose    one    identifier  specifically
+                  intended  collection 
+            ii   aim  linking  information together  information
+                  processed   responsible parties                                            
+       b process information  criminal behaviour   unlawful  objectionable
+            conduct  behalf  third parties
+       c process information   purposes  credit reporting 
+       d transfer special personal information  referred   section   
+            personal information  children  referred   section    third party        
+             foreign country    provide  adequate level  protection  
+            processing  personal information  referred   section 
+      provisions  subsection  may  applied   regulator   types 
+information processing  law  regulation   processing carries  particular risk
+  legitimate interests   data subject                                                    
+      section  section    applicable     conduct   issued
+  come  force  terms      specific sector  sectors  society
+      responsible party must obtain prior authorisation  referred   subsection 
+     time  personal information  received  processed except
+  processing departs      authorised  accordance                   
+ provisions  subsection 
+responsible party  notify regulator  processing  subject  prior authorisation
+      information processing  contemplated  section  must  notified 
+   responsible party   regulator
+     responsible parties may  carry  information processing    
+notified   regulator  terms  subsection    regulator  completed 
+investigation     received notice    detailed investigation will
+  conducted
+
+                                           government gazette  november 
+act                                            protection  personal information act 
+                                                 
+       case   notification  information processing   section  
+applicable  regulator must inform  responsible party  writing within four weeks
+  notification   whether    will conduct   detailed investigation
+       event   regulator decides  conduct   detailed investigation 
+must indicate  period within   plans  conduct  investigation  
+period must  exceed  weeks
+      conclusion    detailed investigation referred   subsection  
+regulator must issue  statement concerning  lawfulness   information
+processing
+      statement   regulator  terms  subsection    extent   
+information processing   lawful  deemed    enforcement notice served 
+terms  section    act
+      responsible party   suspended  processing  required  subsection
+     received  regulators decision within  time limits specified
+ subsections    may presume  decision   favour  continue   
+processing
+failure  notify processing subject  prior authorisation
+      section     contravened  responsible party  guilty   offence
+ liable   penalty  set   section 
+                                                                                              
+                                   codes  conduct
+issuing  codes  conduct
+       regulator may  time  time issue codes  conduct
+        conduct must
+        incorporate   conditions   lawful processing  personal informa              
+             tion  set  obligations  provide  functional equivalent   
+             obligations set    conditions 
+       b prescribe   conditions   lawful processing  personal informa
+             tion    applied     complied  given  particular features
+               sector  sectors  society    relevant responsible parties         
+             operating
+        conduct may apply  relation   one     following
+         specified information  class  information
+       b  specified body  class  bodies
+       c  specified activity  class  activities                                           
+       d  specified industry profession  vocation  class  industries
+             professions  vocations
+        conduct must also
+        specify appropriate measures
+                information matching programmes   programmes  used                     
+                  within  specific sector 
+            ii  protecting  legitimate interests  data subjects insofar 
+                  automated decision making  referred   section   concerned
+       b provide   review      regulator 
+       c provide   expiry                                                           
+process  issuing codes  conduct
+       regulator may issue    conduct  section 
+          regulators  initiative   consultation  affected
+             stakeholders   body representing  stakeholders 
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+       b   application   prescribed form   body     opinion
+              regulator sufficiently representative   class  bodies   
+            industry profession  vocation  defined     respect   class
+             bodies     industry profession  vocation
+      regulator must give notice   gazette   issuing     conduct 
+  considered  notice must contain  statement 
+         details     conduct  considered including  draft  
+            proposed  may  obtained   regulator 
+       b submissions   proposed  may  made  writing   regulator
+            within  period   specified   notice                                        
+      regulator may  issue    conduct unless   considered 
+submissions made   regulator  terms  subsection b     satisfied
+  persons affected   proposed     reasonable opportunity  
+heard
+      decision   whether  application   issuing      
+successful must  made within  reasonable period  must  exceed  weeks
+notification availability  commencement    conduct
+          conduct  issued  section   regulator must ensure
+
+          published   gazette  soon  reasonably practicable   
+              issued  notice indicating
+                   issued 
+            ii  copies     available  inspection free  charge 
+                   purchase 
+       b  long    remains  force copies    available                         
+                regulators website
+            ii  inspection  members   public free  charge   regulators
+                  offices 
+           iii  purchase  copying  members   public   reasonable price
+                    regulators offices                                                        
+        conduct issued  section  comes  force   th day 
+ date   notification   gazette    later date  may  specified  
+   binding  every class  classes  body industry profession  vocation
+referred  therein
+procedure  dealing  complaints                                                                
+         conduct may prescribe procedures  making  dealing 
+complaints alleging  breach       provision may limit  restrict 
+provision   
+        sets  procedures  making  dealing  complaints 
+regulator must  satisfied                                                                     
+         procedures meet 
+              prescribed standards 
+            ii guidelines issued   regulator  terms  section 
+            relating   making   dealing  complaints
+       b   provides   appointment   independent adjudicator                 
+            complaints may  made
+       c   provides   exercising    powers  performing  
+             functions     adjudicator    must  due
+            regard   matters listed  section 
+       d   requires  adjudicator  prepare  submit  report   form               
+            satisfactory   regulator   regulator within five months   end 
+             financial year   regulator   operation     
+            financial year 
+       e   requires  report prepared   year  specify  number 
+            nature  complaints made   adjudicator                         
+            relevant financial year
+
+                                         government gazette  november 
+act                                         protection  personal information act 
+                                              
+      responsible party  data subject   aggrieved   determination including
+ declaration order  direction   included   determination made  
+adjudicator   investigated  complaint relating   protection  personal
+information   approved   conduct may submit  complaint  terms 
+section    regulator   determination upon payment   prescribed             
+fee
+      adjudicators determination continues   effect unless   
+regulator makes  determination    relating   complaint  unless
+ regulator determines otherwise
+amendment  revocation  codes  conduct                                                       
+       regulator may amend  revoke    conduct issued  section
+
+      provisions  sections    apply  respect   amendment 
+revocation     conduct
+guidelines  codes  conduct                                                                  
+       regulator may provide written guidelines
+         assist bodies  develop codes  conduct   apply approved codes 
+            conduct
+       b relating  making  dealing  complaints  approved codes 
+            conduct                                                                            
+       c  matters  regulator may consider  deciding whether  approve 
+              conduct   variation  revocation   approved   conduct
+      regulator must  regard   guidelines  set   section  
+d  considering  approval     conduct   processing  personal
+information  exclusively journalistic purposes   responsible party   
+subject     ethics  referred   section 
+      providing guidelines   purposes  subsection b  regulator
+must give everyone  regulator considers   real  substantial legitimate interest
+  matters covered   proposed guidelines  opportunity  comment  
+      regulator must publish guidelines provided  subsection    
+gazette
+register  approved codes  conduct
+       regulator must keep  register  approved codes  conduct
+      regulator may decide  form   register       kept
+      regulator must make  register available   public   way   
+regulator determines
+      regulator may charge reasonable fees 
+        making  register available   public 
+       b providing copies   extracts   register
+review  operation  approved   conduct                                                    
+       regulator may    initiative review  operation   approved
+  conduct
+      regulator may  one     following   purposes   review
+        consider  process     making  dealing  complaints
+       b inspect  records   adjudicator                                        
+       c consider  outcome  complaints dealt    
+       d interview  adjudicator    
+       e appoint experts  review  provisions      regulator
+            believes require expert evaluation
+
+                                           government gazette  november 
+act                                           protection  personal information act 
+                                                
+      review may inform  decision   regulator  section   revoke 
+approved   conduct  immediate effect    future date   determined 
+ regulator
+effect  failure  comply    conduct
+        issued  section    force failure  comply                 
+deemed    breach   conditions   lawful processing  personal
+information referred       dealt   terms   
+                                          
+      rights  data subjects regarding direct marketing
+       means  unsolicited electronic communications                                             
+              directories  automated decision making
+direct marketing  means  unsolicited electronic communications
+       processing  personal information   data subject   purpose 
+direct marketing  means   form  electronic communication including
+automatic calling machines facsimile machines smss  email  prohibited unless               
+data subject
+         given     consent   processing 
+       b  subject  subsection   customer   responsible party
+       responsible party may approach  data subject
+         whose consent  required  terms  subsection                               
+      ii    previously withheld  consent
+   order  request  consent   data subject
+    b  data subjects consent must  requested   prescribed manner  form
+      responsible party may  process  personal information   data subject
+   customer   responsible party  terms  subsection b                            
+          responsible party  obtained  contact details   data subject 
+              context   sale   product  service
+       b   purpose  direct marketing   responsible partys  similar
+             products  services 
+       c   data subject   given  reasonable opportunity  object free             
+             charge    manner free  unnecessary formality   use   
+               electronic details
+                 time   information  collected 
+            ii   occasion   communication   data subject  
+                   purpose  marketing   data subject   initially refused  use      
+      communication   purpose  direct marketing must contain
+        details   identity   sender   person  whose behalf 
+             communication   sent 
+       b  address   contact details    recipient may send  request
+               communications cease                                                         
+     automatic calling machine  purposes  subsection  means  machine
+  able   automated calls without human intervention
+directories
+       data subject    subscriber   printed  electronic directory 
+subscribers available   public  obtainable  directory enquiry services  
+     personal information  included must  informed free  charge
+   information  included   directory
+          purpose   directory 
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+       b    uses    directory may possibly  put based 
+             search functions embedded  electronic versions   directory
+      data subject must  given  reasonable opportunity  object free  charge 
+  manner free  unnecessary formality   use      personal
+information   request verification confirmation  withdrawal   information  
+ data subject   initially refused  use
+     subsections      apply  editions  directories   produced
+ printed  offline electronic form prior   commencement   section
+       personal information  data subjects   subscribers  fixed  mobile
+public voice telephony services   included   public subscriber directory  
+conformity   conditions   lawful processing  personal information prior
+  commencement   section  personal information   subscribers may
+remain included   public directory   printed  electronic versions  
+received  information required  subsection 
+     subscriber  purposes   section means  person   party   
+contract   provider  publicly available electronic communications services 
+ supply   services
+automated decision making
+      subject  subsection   data subject may   subject   decision 
+results  legal consequences        affects                     
+substantial degree   based solely   basis   automated processing 
+personal information intended  provide  profile   person including   
+performance  work      credit worthiness reliability location health
+personal preferences  conduct
+      provisions  subsection    apply   decision                               
+          taken  connection   conclusion  execution   contract
+             
+                request   data subject  terms   contract   met 
+             ii appropriate measures   taken  protect  data subjects
+                   legitimate interests                                                           
+       b  governed   law    conduct   appropriate measures 
+             specified  protecting  legitimate interests  data subjects
+      appropriate measures referred   subsection aii must
+        provide  opportunity   data subject  make representations  
+             decision referred   subsection                                               
+       b require  responsible party  provide  data subject  sufficient
+             information   underlying logic   automated processing  
+             information relating      enable     make representations
+              terms  paragraph 
+                                                                                             
+                        transborder information flows
+transfers  personal information outside republic
+       responsible party   republic may  transfer personal information
+  data subject   third party     foreign country unless
+         third party    recipient   information  subject   law 
+             binding corporate rules  binding agreement  provide  adequate level
+              protection 
+               effectively upholds principles  reasonable processing   informa
+                   tion   substantially similar   conditions   lawful
+                   processing  personal information relating   data subject    
+                   natural person   applicable  juristic person 
+
+                                          government gazette  november 
+act                                            protection  personal information act 
+                                                
+            ii includes provisions   substantially similar   section relating
+                     transfer  personal information   recipient  third
+                  parties     foreign country
+       b  data subject consents   transfer
+       c  transfer  necessary   performance   contract   data 
+            subject   responsible party    implementation  precontractual
+            measures taken  response   data subjects request
+       d  transfer  necessary   conclusion  performance   contract
+            concluded   interest   data subject   responsible party 
+             third party                                                                          
+       e  transfer    benefit   data subject 
+                 reasonably practicable  obtain  consent   data subject 
+                   transfer 
+            ii    reasonably practicable  obtain  consent  data subject
+                    likely  give                                                          
+       purpose   section
+        binding corporate rules means personal information processing policies
+            within  group  undertakings   adhered    responsible party 
+            operator within  group  undertakings  transferring personal
+            information   responsible party  operator within   group  
+            undertakings   foreign country 
+       b group  undertakings means  controlling undertaking   controlled
+            undertakings
+                                         
+                                      enforcement                                                     
+interference  protection  personal information  data subject
+       purposes    interference   protection   personal
+information   data subject consists  relation   data subject 
+         breach   conditions   lawful processing  personal information
+             referred                                                                  
+       b noncompliance  section        
+       c  breach   provisions     conduct issued  terms  section 
+complaints
+       person may submit  complaint   regulator   prescribed manner
+ form alleging interference   protection   personal information   data 
+subject
+      responsible party  data subject may  terms  section  submit 
+complaint   regulator   prescribed manner  form       aggrieved
+  determination   adjudicator
+mode  complaints  regulator                                                                       
+       complaint   regulator must  made  writing
+      regulator must give  reasonable assistance   necessary  
+circumstances  enable  person  wishes  make  complaint   regulator 
+put  complaint  writing
+action  receipt  complaint                                                                        
+       receiving  complaint  terms  section   regulator may
+        conduct  preinvestigation  referred   section 
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+       b act   time   investigation   appropriate  conciliator
+              relation   interference   protection   personal information
+               data subject   prescribed manner
+       c decide  accordance  section   take  action   complaint 
+               case may  require   action  respect   complaint               
+       d conduct  full investigation   complaint
+       e refer  complaint  terms  section    enforcement committee 
+       f take   action   contemplated   
+      regulator must  soon   reasonably practicable advise  complainant
+  responsible party    complaint relates   course  action   
+regulator proposes  adopt  subsection 
+      regulator may    initiative commence  investigation  
+interference   protection   personal information   data subject  referred
+  section 
+regulator may decide  take  action  complaint                                                  
+       regulator  investigating  complaint received  terms  section 
+may decide  take  action    case may  require   action  respect
+  complaint    regulators opinion
+         length  time   elapsed   date   subject matter
+               complaint arose   date   complaint  made               
+              investigation   complaint   longer practicable  desirable
+       b  subject matter   complaint  trivial
+       c  complaint  frivolous  vexatious    made  good faith
+       d  complainant   desire  action  taken    case may 
+             continued                                                                              
+       e  complainant     sufficient personal interest   subject
+             matter   complaint 
+       f  cases   complaint relates   matter  respect     
+             conduct   force     conduct makes provision   complaints
+             procedure  complainant  failed  pursue   pursue fully  avenue          
+              redress available   complaints procedure    
+             reasonable   complainant  pursue
+     notwithstanding anything  subsection   regulator may   discretion
+decide   take   action   complaint    course   investigation
+  complaint  appears   regulator   regard    circumstances           
+  case   action  unnecessary  inappropriate
+       case   regulator decides  take  action    action 
+ complaint  regulator must inform  complainant   decision   reasons
+ 
+referral  complaint  regulatory body                                                             
+        receiving  complaint  terms  section   regulator considers 
+ complaint relates  whole   part   matter    properly within 
+jurisdiction  another regulatory body established  terms   law  regulator
+must forthwith determine whether  complaint   dealt   whole  
+part   act  consultation   body concerned                                     
+       regulator determines   complaint   dealt   another
+body  regulator must forthwith refer  complaint   body   dealt 
+accordingly  must notify  complainant   referral
+preinvestigation proceedings  regulator
+      proceeding  investigate  matter  terms     
+regulator must   prescribed manner inform
+
+                                          government gazette  november 
+act                                            protection  personal information act 
+                                                
+         complainant  data subject    investigation relates   
+             complainant   person alleged   aggrieved    complainant
+               regulators intention  conduct  investigation 
+       b  responsible party    investigation relates  
+               details   complaint    case may   subject matter             
+                   investigation 
+            ii right   responsible party  submit   regulator within 
+                   reasonable period  written response  relation   complaint  
+                    case may   subjectmatter   investigation
+settlement  complaints                                                                              
+       appears   complaint   written response made  relation  
+complaint  section bii   may  possible  secure
+         settlement     parties concerned 
+       b  appropriate  satisfactory assurance   repetition   action 
+               subject matter   complaint      actions   
+             similar kind   person concerned
+ regulator may without investigating  complaint    case may 
+investigating  complaint    prescribed manner use  best endeavours 
+secure   settlement  assurance
+investigation proceedings  regulator                                                                
+       purposes   investigation   complaint  regulator may
+        summon  enforce  appearance  persons   regulator 
+             compel   give oral  written evidence  oath   produce 
+             records  things   regulator considers necessary  investigate 
+             complaint    manner     extent   high court                  
+       b administer oaths
+       c receive  accept  evidence   information whether  oath 
+             affidavit  otherwise   regulator sees fit whether      
+              admissible   court  law
+       d   reasonable time subject  section  enter  search  premises 
+             occupied   responsible party
+       e conduct  private interview   person   premises entered 
+             section  subject  section  
+       f otherwise carry    premises  inquiries   regulator sees fit
+              terms  section                                                                   
+issue  warrants
+       judge   high court  regional magistrate   magistrate  satisfied 
+information  oath supplied   regulator    reasonable grounds 
+suspecting 
+         responsible party  interfering   protection   personal 
+             information   data subject 
+       b  offence   act      committed
+  evidence   contravention    commission   offence    found
+  premises specified   information   within  jurisdiction   judge
+ magistrate may subject  subsection  grant  warrant  enter  search  
+premises
+      warrant issued  subsection  authorises    regulators members
+ staff members subject  section    time within seven days   date  
+warrant  enter  premises  identified   warrant  search   inspect
+examine operate  test  equipment found    used  intended   
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                                
+used   processing  personal information   inspect  seize  record
+ material  equipment found   may   evidence   mentioned 
+ subsection
+requirements  issuing  warrant
+       judge  magistrate must  issue  warrant  section  unless satisfied 
+
+         regulator  given seven days notice  writing   occupier  
+             premises  question demanding access   premises
+       b either
+               access  demanded   reasonable hour   unreasonably 
+                  refused 
+             ii although entry   premises  granted  occupier unreasonably
+                  refused  comply   request     regulators members 
+                  staff  permit  members   members  staff     
+                  things referred   section                                             
+       c   occupier    refusal  notified   regulator  
+             application   warrant     opportunity   heard  
+             question whether  warrant   issued
+     subsection    apply   judge  magistrate  satisfied   case 
+one  urgency   compliance   subsection  defeat  object   
+entry
+      judge  magistrate  issues  warrant  section  must also issue two
+copies    certify  clearly  copies
+execution  warrants
+       police officer   assisting  person authorised  conduct  entry             
+search  terms   warrant issued  section  may overcome resistance  
+entry  search  using  force   reasonably necessary
+      warrant issued   section must  executed   reasonable hour unless
+ appears   person executing     reasonable grounds  suspecting 
+ evidence  question    found     executed                                  
+       person  occupies  premises  respect    warrant  issued
+ section   present   warrant  executed    must  shown 
+warrant  supplied   copy      person   present  copy  
+warrant must  left   prominent place   premises
+      person seizing anything  pursuance   warrant  section  must give              
+receipt   occupier  leave  receipt   premises
+     anything  seized may  retained   long   necessary   circumstances
+  person  occupation   premises  question must  given  copy  
+documentation   seized      requests   person executing 
+warrant considers   can  done without undue delay                                           
+      person authorised  conduct  entry  search  terms  section  must 
+accompanied  assisted   police officer
+      person  enters  searches  premises   section must conduct
+ entry  search  strict regard  decency  order   regard  
+persons right  dignity freedom security  privacy                                            
+      person  enters  searches premises   section must 
+questioning  person
+        advise  person   right   assisted   time   advocate 
+             attorney 
+       b allow  person  exercise  right                                                 
+      selfincriminating answer given  statement made   person  conducts
+ search  terms   warrant issued  section   admissible  evidence 
+ person  gave  answer  made  statement  criminal proceedings except
+ criminal proceedings  perjury     person  tried   offence
+
+                                             government gazette  november 
+act                                              protection  personal information act 
+                                                  
+contemplated  section       extent   answer  statement 
+relevant  prove  offence charged
+matters exempt  search  seizure
+       regulator  granted  exemption  terms  section   information
+  processed  terms   exemption   subject  search  seizure                        
+empowered   warrant issued  section 
+communication  legal adviser  client exempt
+      subject   provisions   section  powers  search  seizure
+conferred   warrant issued  section  must   exercised  respect 
+         communication   professional legal adviser     client 
+              connection   giving  legal advice   client  respect  
+               obligations liabilities  rights 
+       b  communication   professional legal adviser     client
+                 adviser     client    person made 
+             connection    contemplation  proceedings   arising   
+              act including proceedings   court    purposes  
+             proceedings
+     subsection  applies also 
+         copy   record    communication   mentioned therein
+                                                                                                     
+       b  document   enclosed   referred     communica
+             tion  made  connection   giving   advice    case may 
+              connection    contemplation     purposes  
+             proceedings   mentioned therein
+objection  search  seizure                                                                         
+       person  occupation   premises  respect    warrant  issued
+  act objects   inspection  seizure   warrant   material 
+ ground  
+        contains privileged information  refuses  inspection  removal  
+               document  person executing  warrant  search must    
+                 opinion     document contains information  
+              bearing   investigation    information  necessary  
+             investigation request  registrar   high court   jurisdiction 
+                delegate  attach  remove    document  safe
+             custody   court  law  made  ruling   question whether  
+             information concerned  privileged   
+       b consists partly  matters  respect    powers   exercised
+                must   person executing  warrant  requests furnish 
+             person   copy   much   material    exempt  
+             powers                                                                                    
+return  warrants
+      warrant issued  section  must  returned   court    
+issued
+          executed 
+       b   executed within  time authorised   execution                                
+  person   executed  warrant must make  endorsement   stating
+ powers   exercised       warrant
+
+                                           government gazette  november 
+act                                            protection  personal information act 
+                                                
+assessment
+       regulator    initiative    request    behalf  
+responsible party data subject    person must make  assessment  
+prescribed manner  whether  instance  processing  personal information
+complies   provisions   act                                                              
+      regulator must make  assessment   appears   appropriate unless
+  assessment  made  request  regulator    supplied  
+information   may reasonably require  order 
+        satisfy     identity   person making  request 
+       b enable   identify  action  question                                              
+      matters    regulator may  regard  determining whether  
+appropriate  make  assessment include
+         extent    request appears    raise  matter  substance
+       b  undue delay  making  request 
+       c whether    person making  request  entitled  make  application 
+              terms  section     respect   personal information  question
+       regulator  received  request   section  must notify 
+requester
+        whether   made  assessment   result   request 
+       b   extent   considers appropriate  regard  particular   
+             exemption    granted   regulator  terms  section 
+              section    applying  relation   personal information
+             concerned   view formed  action taken   result   request
+information notice
+        regulator                                                                         
+         received  request  section   respect   processing 
+             personal information 
+       b reasonably requires  information   purpose  determining whether
+              responsible party  interfered   interfering   personal
+             information   data subject                                                           
+ regulator may serve  responsible party   information notice requiring 
+responsible party  furnish  regulator within  specified period   form specified
+  notice   report indicating   processing  taking place  compliance
+  provisions   act    information relating   request  
+compliance   act    specified                                                           
+      information notice must contain particulars   right  appeal conferred 
+section  
+          case falling within subsection   statement   regulator 
+             received  request  section   relation   specified processing 
+       b   case falling within subsection b  statement   regulator                 
+             regards  specified information  relevant   purpose  determining
+             whether  responsible party  complied   complying  
+             conditions   lawful processing  personal information   reasons
+              regarding   relevant   purpose
+     subject  subsection   period specified   information notice must              
+expire   end   period within   appeal can  brought  
+notice     appeal  brought  information need   furnished pending
+ determination  withdrawal   appeal
+       regulator considers   information  required   matter  urgency
+ may include   notice  statement   effect   statement   reasons             
+reaching  conclusion    event subsection    apply
+
+                                           government gazette  november 
+act                                            protection  personal information act 
+                                                
+      notice  terms  subsection  may  require  information   furnished
+  end   period  three days beginning   day    notice 
+served
+      information notice may  require  responsible party  furnish  regulator
+  communication                                                                        
+        professional legal adviser     client  connection   giving 
+            legal advice   clients obligations liabilities  rights   act 
+       b professional legal adviser     client     adviser 
+               client    person made  connection   
+            contemplation  proceedings   arising    act including 
+            proceedings   court    purposes   proceedings
+      subsection  references   client   professional legal adviser include 
+person representing   client
+      information notice may  require  responsible party  furnish  regulator
+ information    revealing evidence   commission   offence 
+   offence   act expose  responsible party  criminal
+proceedings
+      regulator may cancel  information notice  written notice  
+responsible party     served
+parties   informed  result  assessment                                                        
+       completing  assessment referred   section   regulator
+        must report   responsible party  results   assessment  
+            recommendations   regulator considers appropriate 
+       b may  appropriate cases require  responsible party within  specified
+            time  inform  regulator   action taken  proposed   taken  
+            implement  recommendations contained   report  reasons  
+             action     proposed   taken
+      regulator may make public  information relating   personal
+information management practices   responsible party     subject  
+assessment   section   regulator considers    public interest    
+      report made   regulator  subsection   deemed   
+equivalent   enforcement notice  terms  section 
+matters referred  enforcement committee
+       completing  investigation   complaint   matter  terms 
+ act  regulator may refer  complaint   matter   enforcement 
+committee  consideration  finding  respect   complaint   matter  
+recommendation  respect   proposed action   taken   regulator 
+referred   section 
+      regulator may prescribe  procedure   followed   enforcement
+committee including                                                                                 
+         manner    responsible party  data subject may make
+            submissions   enforcement committee
+       b  opportunity afforded   parties  make submissions  
+            enforcement committee  make use  legal   representation
+       c  period within   enforcement committee must make  finding  
+            submit  recommendation   regulator  respect   complaint 
+             matter 
+       d  manner    enforcement committee may finalise urgent matters
+
+                                          government gazette  november 
+act                                           protection  personal information act 
+                                               
+functions  enforcement committee
+      enforcement committee
+        must consider  matters referred     regulator  terms  section 
+               promotion  access  information act  make  finding  respect
+             thereof                                                                              
+       b may make  recommendation   regulator necessary  incidental 
+              action    taken 
+                responsible party  terms   act 
+             ii  information officer  head   private body   case may  
+                  terms   promotion  access  information act                               
+parties   informed  developments   result  investigation
+       investigation  made following  complaint 
+         regulator believes   interference   protection   personal
+             information   data subject  taken place  therefore   serve 
+             enforcement notice                                                                     
+       b  regulator  referred  complaint   enforcement committee 
+             consideration  terms  section 
+       c  enforcement notice  served  terms  section 
+       d  served enforcement notice  cancelled  terms  section 
+       e  appeal  lodged   enforcement notice  cancellation  
+             variation   notice  terms  section  
+       f  appeal   enforcement notice  allowed  notice  substituted 
+              appeal  dismissed  terms  section 
+ regulator must inform  complainant   responsible party  soon 
+reasonably practicable   manner prescribed   development mentioned  
+paragraphs   f   result   investigation
+enforcement notice
+        regulator   considered  recommendation  
+enforcement committee  terms  section   satisfied   responsible party 
+interfered   interfering   protection   personal information   data               
+subject  referred   section   regulator may serve  responsible party 
+ enforcement notice requiring  responsible party   either    
+following
+         take specified steps within  period specified   notice   refrain
+              taking  steps                                                               
+       b  stop processing personal information specified   notice   stop
+             processing personal information   purpose    manner specified  
+             notice within  period specified   notice
+      enforcement notice must contain
+         statement indicating  nature   interference   protection            
+             personal information   data subject   reasons  reaching 
+             conclusion 
+       b particulars   rights  appeal conferred  section 
+     subject  subsection   enforcement notice may  require   
+provisions   notice   complied    end   period within                
+ appeal may  brought   notice     appeal  brought  notice
+need   complied  pending  determination  withdrawal   appeal
+       regulator considers   enforcement notice   complied  
+ matter  urgency  may include   notice  statement   effect   statement
+  reasons  reaching  conclusion    event subsection                  
+apply
+      notice  terms  subsection  may  require    provisions  
+notice   complied    end   period  three days beginning  
+day    notice  served
+
+                                            government gazette  november 
+act                                             protection  personal information act 
+                                                 
+cancellation  enforcement notice
+       responsible party    enforcement notice   served may 
+ time   expiry   period    appeal may  brought 
+ notice apply  writing   regulator   cancellation  variation  
+notice   ground   reason   change  circumstances      
+provisions   notice need   complied   order  ensure compliance 
+ conditions   lawful processing  personal information
+       regulator considers       provisions   enforcement
+notice need   complied   order  ensure compliance   condition  
+lawful processing  personal information  conditions    relates  may cancel 
+ vary  notice  written notice   responsible party     served
+right  appeal
+       responsible party    information  enforcement notice  
+served may within  days  receiving  notice appeal   high court 
+jurisdiction   setting aside  variation   notice                                         
+      complainant    informed   result   investigation  terms
+ section    may within  days  receiving  result appeal   high
+court  jurisdiction   result
+consideration  appeal
+         appeal  section   court considers                                      
+          notice  decision    appeal  brought   
+            accordance   law 
+       b   notice  decision involved  exercise  discretion   regulator
+                 exercised differently
+ court must allow  appeal  may set aside  notice  substitute   
+notice  decision     served  made   regulator
+        appeal  court may review  determination  fact   
+notice  question  based
+civil remedies
+       data subject    request   data subject  regulator may institute        
+ civil action  damages   court  jurisdiction   responsible party 
+breach   provision   act  referred   section  whether    
+intent  negligence   part   responsible party
+       event   breach  responsible party may raise    following
+defences   action  damages                                                                
+        vis major
+       b consent   plaintiff
+       c fault   part   plaintiff
+       d compliance   reasonably practicable   circumstances  
+            particular case                                                                         
+       e  regulator  granted  exemption  terms  section 
+      court hearing proceedings  terms  subsection  may award  amount 
+ just  equitable including
+        payment  damages  compensation  patrimonial  nonpatrimonial
+            loss suffered   data subject   result  breach   provisions              
+            act
+       b aggravated damages   sum determined   discretion   court
+       c interest 
+
+                                           government gazette  november 
+act                                           protection  personal information act 
+                                                
+       d costs  suit   scale  may  determined   court
+      amount awarded   regulator  terms  subsection  must  dealt
+   following manner
+         full amount must  deposited   specifically designated trust account
+             established   regulator   appropriate financial institution                  
+       b   first charge   amount  regulator may recover  reasonable
+             expenses incurred  bringing proceedings   request   data subject 
+             terms  subsection    administering  distributions made   data
+             subject  terms  subsection  
+       c  balance     section referred    distributable balance       
+             must  distributed   regulator   data subject  whose request 
+             proceedings  brought
+      amount  distributed within three years   date   first distribution
+ payments  terms  subsection  accrue   regulator   regulators official
+capacity                                                                                            
+      distributable balance must  distributed   pro rata basis   data subject
+referred   subsection 
+      court issuing  order   section must order    published  
+gazette     appropriate public media announcement   court
+considers appropriate                                                                               
+      civil action instituted   section may  withdrawn abandoned 
+compromised   agreement  compromise must  made  order  court
+       civil action    instituted  agreement  settlement   may
+ application   court   regulator  due notice    party  made
+ order  court  must  published   gazette     public media                
+announcement   court considers appropriate
+                                         
+              offences penalties  administrative fines
+obstruction  regulator
+      person  hinders obstructs  unlawfully influences  regulator   
+person acting  behalf     direction   regulator   performance 
+ regulators duties  functions   act  guilty   offence
+breach  confidentiality
+      person  contravenes  provisions  section   guilty   offence
+obstruction  execution  warrant                                                                  
+      person 
+        intentionally obstructs  person   execution   warrant issued 
+             section  
+       b fails without reasonable excuse  give  person executing   warrant
+              assistance     may reasonably require   execution   
+             warrant
+ guilty   offence
+failure  comply  enforcement  information notices
+       responsible party  fails  comply   enforcement notice served
+ terms  section   guilty   offence                                                     
+      responsible party   purported compliance   information notice
+served  terms  section 
+        makes  statement knowing    false 
+
+                                        government gazette  november 
+act                                         protection  personal information act 
+                                              
+       b recklessly makes  statement   false   material respect
+ guilty   offence
+offences  witnesses
+       person summoned  terms  section   attend  give evidence 
+ produce  book document  object   regulator  without sufficient 
+cause fails
+         attend   time  place specified   summons
+       b  remain  attendance  conclusion   proceedings     
+             excused   chairperson   regulator   attendance
+       c  attended refuses   sworn   make  affirmation  witness  
+                 required   chairperson   regulator   
+       d   sworn   made  affirmation  answer fully 
+            satisfactorily  question lawfully put     
+       e  produce  book document  object     possession  custody
+                 control       summoned  produce 
+ guilty   offence
+      person     sworn   made  affirmation gives
+false evidence   regulator   matter knowing  evidence   false 
+ knowing  believing    true  guilty   offence
+unlawful acts  responsible party  connection  account number                               
+       responsible party  contravenes  provisions  section  insofar 
+ provisions relate   processing   account number   data subject 
+subject  subsections    guilty   offence
+      contravention referred   subsection  must
+           serious  persistent nature                                                
+       b likely cause substantial damage  distress   data subject
+      responsible party must
+         known     known 
+                 risk   contravention  occur 
+            ii  contravention  likely cause substantial damage  distress            
+                   data subject 
+       b  failed  take reasonable steps  prevent  contravention
+     whenever  responsible party  charged   offence  subsection  
+  valid defence    charge  contend      taken  reasonable steps
+ comply   provisions  section                                                         
+     account number  purposes   section  section  means 
+unique identifier    assigned
+         one data subject  
+       b jointly    one data subject
+  financial   institution  enables  data subject referred   paragraph       
+  access      funds   access credit facilities   enables 
+data subject referred   paragraph b  access joint funds   access joint credit
+facilities
+unlawful acts  third parties  connection  account number
+       person  knowingly  recklessly without  consent   responsible 
+party
+        obtains  discloses  account number   data subject 
+       b procures  disclosure   account number   data subject  another
+            person
+ subject  subsection  guilty   offence                                               
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                              
+    whenever  person  charged   offence  subsection     valid
+defence    charge  contend 
+        obtaining disclosure  procuring   account number 
+             necessary   purpose   prevention detection investigation 
+                  proof   offence                                                              
+           ii required  authorised  terms   law   terms   court order
+      b    acted   reasonable belief      legally entitled 
+           obtain  disclose  account number    case may   procure 
+           disclosure   account number    person
+      c    acted   reasonable belief         
+           consent   responsible party   responsible party  known  
+           obtaining disclosing  procuring   circumstances   
+      d   particular circumstances  obtaining disclosing  procuring  
+            public interest
+     person  sells  account number      obtained  
+contravention  subsection   guilty   offence
+     person  offers  sell  account number   data subject  
+person
+        obtained 
+      b subsequently obtained                                                                     
+ contravention  subsection   guilty   offence
+      purposes  subsection   advertisement indicating   account
+number   data subject   may   sale   offer  sell  information
+penalties
+     person convicted   offence  terms   act  liable   case  
+ contravention 
+       section           fine  
+           imprisonment   period  exceeding  years     fine  
+           imprisonment 
+      b section         fine   imprisonment   
+           period  exceeding  months     fine   imprisonment
+magistrates court jurisdiction  impose penalties
+    despite anything   contrary contained    law  magistrates court
+ jurisdiction  impose  penalty provided   section 
+administrative fines                                                                                 
+       responsible party  alleged   committed  offence  terms  
+act  regulator may cause   delivered  hand   person hereinafter referred
+   infringer  infringement notice  must contain  particulars
+contemplated  subsection 
+     notice referred   subsection  must                                                  
+       specify  name  address   infringer
+      b specify  particulars   alleged offence
+      c specify  amount   administrative fine payable  amount may
+           subject  subsection   exceed r million
+      d inform  infringer   later   days   date  service   
+           infringement notice  infringer may
+             pay  administrative fine
+           ii make arrangements   regulator  pay  administrative fine 
+                  instalments 
+          iii elect   tried  court   charge   committed  alleged 
+                  offence referred   terms   act 
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                                
+       e state   failure  comply   requirements   notice within 
+             time permitted will result   administrative fine becoming recoverable 
+             contemplated  subsection 
+      determining  appropriate fine  regulator must consider  following
+factors                                                                                              
+         nature   personal information involved
+       b  duration  extent   contravention
+       c  number  data subjects affected  potentially affected   contraven
+             tion
+       d whether    contravention raises  issue  public importance                    
+       e  likelihood  substantial damage  distress including injury  feelings 
+             anxiety suffered  data subjects
+       f whether  responsible party   third party   prevented 
+             contravention  occurring
+       g  failure  carry   risk assessment   failure  operate good policies         
+             procedures  practices  protect personal information 
+       h whether  responsible party  previously committed  offence  terms 
+              act
+       infringer elects   tried  court   charge   committed 
+alleged offence  terms   act  regulator must hand  matter    south           
+african police service  inform  infringer accordingly
+       infringer fails  comply   requirements   notice  regulator may
+file   clerk  registrar   competent court  statement certified   
+correct setting forth  amount   administrative fine payable   infringer 
+ statement thereupon    effects   civil judgment lawfully given                
+court  favour   regulator   liquid debt   amount specified   statement
+      regulator may  impose  administrative fine contemplated   section
+  responsible party concerned   charged   offence  terms   act
+ respect    set  facts
+      prosecution may  instituted   responsible party   responsible              
+party concerned  paid  administrative fine  terms   section  respect  
+ set  facts
+      administrative fine imposed  terms   section   constitute 
+previous conviction  contemplated      criminal procedure act 
+act                                                                                    
+      fine payable  terms   section must  paid   national revenue
+fund referred   section    constitution
+      minister may  time  time   consultation   regulator 
+notice   gazette adjust  amount referred   subsection c  accordance
+  average   consumer price index  published  time  time                    
+gazette   immediately preceding period   months multiplied   number 
+years   amount referred   subsection c  remained  
+                                         
+                                   general provisions
+amendment  laws                                                                                    
+     laws mentioned   schedule  amended   extent indicated  
+third column   schedule
+fees
+       minister may subject  section    consultation  
+regulator prescribe fees   paid  data subjects                                               
+         responsible parties  referred   section bii 
+       b   regulator  referred   section 
+
+                                       government gazette  november 
+act                                         protection  personal information act 
+                                              
+    different fees may  prescribed  respect  different categories  responsible
+parties  data subjects referred   subsection   b respectively
+regulations
+      minister may subject  section  make regulations relating 
+        establishment   regulator                                                    
+      b fees referred   section 
+     regulator may subject  section  make regulations relating 
+        manner  terms    data subject may object   processing 
+            personal information  referred   section 
+      b  manner    data subject may submit  request   responsible party           
+             referred   section 
+      c  processing  health information  certain responsible parties  referred
+              section 
+      d  responsibilities  information officers  referred   section e
+      e  form  terms    application     conduct must                   
+            submitted   regulator  referred   section b
+      f  manner  form within   data subjects consent must 
+            requested  referred   section 
+      g  manner  form  terms    complaint must  submitted 
+            terms  section                                                                    
+      h  regulator acting  conciliator  relation   interference  
+            protection  personal information  referred   section b
+        notification   parties concerned   investigation   conducted 
+            referred   section 
+      j  settlement  complaints  referred   section                                
+      k  manner    assessment   processing  personal information
+            will  made  referred   section 
+      l  manner  terms    parties concerned must  informed  
+            developments   result   investigation  referred   section 
+                                                                                                
+      m matters incidental   imposition  administrative fines  referred  
+            section 
+procedure  making regulations
+      minister  making  amending  regulations referred  
+section  must publish  notice   gazette                                              
+       setting   draft regulations   developed
+      b specifying   copy   draft regulations may  obtained 
+      c inviting written comments   submitted   proposed regulations within
+             specified period
+     complying  subsection    consultation   regulator             
+respect   draft regulations referred   section   minister may
+       amend  draft regulations 
+      b subject  subsection  publish  regulations  final form   gazette
+     regulator  making  amending  regulations referred   section
+ must publish  notice   gazette                                                      
+       setting   draft regulations   developed
+      b specifying   copy   draft regulations may  obtained 
+      c inviting written comments   submitted   proposed regulations within
+             specified period
+     complying  subsection   regulator may                                     
+       amend  draft regulations 
+
+                                         government gazette  november 
+act                                           protection  personal information act 
+                                               
+      b subject  subsection  publish  regulations  final form   gazette
+      minister   regulator   case may  must within  days 
+publication   regulations   gazette  referred   subsection b  b
+table   parliament
+   b subsection      apply  respect   amendment                          
+regulations   result   process referred   paragraph 
+transitional arrangements
+      processing  personal information must within one year  
+commencement   section  made  conform   act
+     period  one year referred   subsection  may  extended   
+minister  request       accord   consultation  
+regulator  notice   gazette  respect  different class  classes  information
+ bodies   additional period  period may  exceed three years
+    section    apply  processing referred   section   
+taking place   date  commencement   act   regulator determines 
+otherwise  notice  gazette
+     south african human rights commission must  consultation  
+information regulator finalise  conclude  functions referred   sections   
+  promotion  access  information act  soon  reasonably possible  
+amendment   sections  terms   act                                                    
+short title  commencement
+      act  called  protection  personal information act  
+commences   date determined   president  proclamation   gazette
+    different dates  commencement may  determined  respect  different
+provisions   act   respect  different class  classes  information  bodies 
+

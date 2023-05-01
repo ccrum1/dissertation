@@ -1,0 +1,2232 @@
+first     session    tenth parliament      republic   
+                   trinidad  tobago
+      republic  trinidad  tobago
+               act    
+        ls
+      act  provide   protection  personal
+                    privacy  information
+               assented  nd june 
+enacted   parliament  trinidad  tobago  enactment
+follows
+                          part 
+                        preliminary
+      act may  cited   data protection short title 
+act                                                commencement
+
+                                data protection                
+                      act shall come  operation   day
+                 fixed   president  proclamation
+interpretation      act
+                         commissioner means  information
+                             commissioner appointed  section 
+                          court means  high court  trinidad 
+                             tobago
+                         data means  document correspondence
+                             memorandum book plan map drawing
+                             pictoral  graphic work photograph film
+                             microfilm sound recording videotape
+                             machinereadable record   
+                             documentary material regardless 
+                             form  characteristics   copy 
+                              things
+                         data matching means  comparison
+                             whether naturally   means  
+                             electronic   device   data 
+                             contains personal information 
+                             individuals   documents containing
+                             personal information  individuals 
+                              purpose  producing new forms 
+                             information  individuals
+                         enterprise means  partnership  body
+                             corporate  unincorporated engaged 
+                             business
+                         head   public body means  president
+                              prime minister  president  
+                             senate  speaker   house 
+                             representatives  chief administrator
+                               tobago house  assembly  chief
+                             secretary   tobago house 
+                             assembly  permanent secretary  
+                             ministry  head   government
+                             department  head   judiciary
+                             chief executive officer   enterprise 
+                              chairman   agency   
+                             title   exist  person 
+                             performs  duties
+
+                  data protection                           
+       health care body means  regional health
+            authority established   regional
+            health authorities act  hospital extended chap 
+            care facility clinic psychiatric hospital 
+            defined   mental health act  chap 
+            private hospital  defined  
+            private hospitals act  similar bodies chap 
+            licensed   minister  responsibility
+             health
+       individual means  natural person
+       information sharing agreement means 
+            agreement  sets conditions  one 
+               following
+                   exchange  personal information
+                       public body  
+                     person  group  persons  
+                     organization
+                 b  disclosure  personal information
+                       public body   person 
+                     group  persons   organization
+                     
+                 c  collection  personal information
+                       public body   public body
+                      person   group  persons  
+                     organization
+       minister means  minister  
+            responsibility  data protection 
+            assigned  ministry shall  construed
+            accordingly
+       personal information means information
+              identifiable individual  
+            recorded   form including
+                  information relating   race
+                     nationality  ethnic origin
+                     religion age  marital status 
+                      individual
+
+                  data protection                
+                  b information relating  
+                      education   medical criminal
+                       employment history  
+                      individual  information relating
+                        financial transactions 
+                        individual  
+                      involved   refers  
+                      individual
+                  c  identifying number symbol 
+                       particular designed  identify
+                       individual
+                  d  address  telephone contact
+                      number   individual
+                  e  name   individual 
+                       appears   personal
+                      information relating  
+                      individual    disclosure
+                        name   reveal
+                      information   individual
+                  f correspondence       sent        
+                      establishment   individual
+                        explicitly  implicitly  
+                      private  confidential nature 
+                       replies   correspondence
+                        reveal  contents 
+                       original correspondence
+                  g  views  opinions   
+                      person   individual 
+                  h  fingerprints deoxyribonucleic
+                      acid blood type   biometric
+                      characteristics   individual
+         personal information bank means  collection
+              personal information   organized
+              retrievable   name   individual
+                identifying number symbol  
+             particulars assigned   individual
+
+                 data protection                             
+       premises includes land   vessel vehicle
+             aircraft  references   occupier 
+             premises include references  
+            person  charge   land   vessel
+            vehicle  aircraft
+       privacy impact assessment means 
+            assessment   conducted  determine 
+             proposed enactment system project
+            programme  activity meets 
+            requirements   general privacy
+            principles  section 
+       public body means
+                   office   president
+                 b parliament         joint   select
+                     committee  parliament  
+                     committee  either house 
+                     parliament
+                 c  court  appeal  high
+                     court  industrial court 
+                     tax appeal board   court 
+                     summary jurisdiction
+                 d  cabinet  constituted 
+                      constitution  ministry 
+                     department division  agency 
+                      ministry
+                 e  tobago house  assembly 
+                     executive council   tobago
+                     house  assembly   division 
+                      tobago house  assembly
+                 f  municipal corporation established
+                       municipal corporations
+                     act                                 chap 
+                 g  statutory body responsibility 
+                       assigned   minister 
+                     government
+
+                  data protection                  
+                   h  company incorporated  
+                       laws  trinidad  tobago  
+                       owned  controlled   state
+                     service commission established
+                         constitution  
+                       written law 
+                   j  body corporate   unincor
+                       porated entity  relation  
+                       function   exercises 
+                       behalf   state    sup
+                       ported directly  indirectly 
+                       government funds   
+                       government    position 
+                       exercise control
+         record means recorded information collected
+              created  received   initiation
+              conduct  completion   activity 
+               comprises sufficient content context
+               structure  provide evidence  proof
+                activity  transaction
+         sensitive personal information             means
+              information   persons
+                    racial  ethnic origins
+                   b political affiliations  trade union
+                       membership
+                   c religious beliefs   beliefs  
+                       similar nature
+                   d physical        mental   health    
+                       condition
+                   e sexual orientation  sexual life 
+
+                   data protection                                       
+                   f criminal  financial record
+         sensory disability means  disability 
+               relates  sight  hearing 
+         service provider means  person retained
+                 contract  perform services  
+               public body
+    act binds  state                               act binds  state
+    object   act   ensure  protection  object   act
+afforded   individuals right  privacy   right
+ maintain sensitive personal information  private
+ personal
+    act shall                                      inapplicability  act
+         limit information available  law   party
+               proceeding
+         b limit  power   court  tribunal 
+             compel  witness  testify   compel 
+             production   document   evidence
+             
+         c apply  notes prepared     individual
+             presiding   court  trinidad  tobago 
+               tribunal   notes  prepared 
+              individuals personal use  connection
+               proceedings
+    following principles   general privacy general
+principles   applicable   persons  privacy principles
+handle store  process personal information belonging
+ another person
+          organization shall  responsible  
+             personal information   control
+         b  purpose   personal information
+              collected shall  identified  
+             organization     time 
+             collection
+
+                  data protection                 
+          c knowledge  consent   individual 
+              required   collection use  disclosure
+               personal information
+         d collection  personal information shall 
+              legally undertaken   limited   
+              necessary  accordance   purpose
+              identified   organization
+          e personal information shall   retained
+                long   necessary   purpose
+              collected  shall   disclosed 
+              purposes    purpose 
+              collection without  prior consent  
+              individual
+          f personal information shall  accurate
+              complete  uptodate   necessary 
+               purpose  collection
+         g personal information    protected 
+               appropriate safeguards  regard
+                sensitivity   information
+         h sensitive personal information  protected
+               processing except  otherwise
+              provided   written law
+           organizations   make available 
+              individuals documents regarding  policies
+               practices related   management 
+              personal information except  otherwise
+              provided  written law
+          j organizations shall except  otherwise
+              provided  written law disclose  
+              request   individual  documents
+              relating   existence use  disclosure
+               personal information   
+              individual can challenge  accuracy 
+              completeness   information
+
+                    data protection                            
+         k  individual   ability  challenge
+               organizations compliance  
+               principles  receive timely 
+              appropriate      engagement         
+              organization 
+          l personal information   requested 
+               disclosed outside  trinidad  tobago
+              shall  regulated  comparable
+              safeguards     act shall
+              exist   jurisdiction receiving 
+              personal information
+                            part ii
+       office      information commissioner
+     hereby established  body corporate   office  
+                                                           information
+known   office   information commissioner commissioner
+     shall   information commissioner appointment 
+hereinafter referred    commissioner  information
+                                                           commissioner
+shall
+            head   office   information
+              commissioner
+         b  appointed   president 
+          c possess  qualifications  experience
+              set   subsection 
+       person appointed    information
+commissioner  subsection  shall   attorney
+atlaw within  meaning   legal profession act chap 
+  least ten years standing  shall  training
+ experience  economics finance information security
+technology audit  human resource management
+       person appointed  subsection  shall
+hold office  five years  may  reappointed
+
+                                data protection                 
+                    person appointed  subsection  shall
+               performs  functions  information
+             commissioner take  subscribe   oath  office
+schedule     set   part    schedule
+powers           commissioner shall monitor  administra
+information
+commissioner
+             tion   act  ensure  purposes  achieved
+                     carrying   powers  sub
+             section   commissioner may
+                        conduct audits  investigations  ensure
+                            compliance   provision   act
+                       b advise   privacy protection implications
+                             proposed legislative schemes  government
+                            programmes  receive representations 
+                             public concerning data protection 
+                            privacy matters
+                        c  hearing representations   head
+                              public body   organization subject
+                              mandatory   conduct   may
+                             engaged  processes  may  
+                            contravention   act order  public
+                            body  organization  cease collection
+                            practices  destroy collections  personal
+                            information  contravene  act
+                       d authorize  collection  personal information
+                            otherwise  directly   individual
+                             appropriate circumstances
+                        e make orders regarding  reasonableness
+                             fees required   organization subject 
+                             act
+                        f authorize data matching   public body 
+                            public bodies
+                       g make orders including  terms 
+                            conditions   commissioner considers
+                            appropriate following  appeal 
+                            complaint filed   individual pursuant 
+                            section    
+
+                   data protection                             
+       h make orders regarding compliance  
+            general privacy principles set  
+            section    public body   organization
+            subject   mandatory   conduct
+         publish guidelines regarding compliance
+              act including   limited 
+            guidelines   development  industry
+            codes  conduct firm compliance policies
+            procedures  handling complaints guidelines
+            dealing  conflict  interest  industry
+            bodies  individuals  mediate  deal 
+            complaint resolution guidelines dealing 
+            security  information  information
+            systems  guidelines  information
+            sharing agreements  data matching
+            agreements
+        j exercise  corporate powers  relation
+            thereto   manner   thinks fit 
+            accordance   act
+       k make  administrative arrangements 
+            may  necessary   proper conduct 
+             functions 
+        l exercise   powers  may 
+            assigned      written
+            law
+    commissioner appointed  section  functions 
+shall                                                     information
+                                                           commissioner
+        promote  development  codes  conduct
+             guidance   good practice
+       b promote  adherence  good practices 
+            persons subject   act
+        c disseminate information   act
+       d monitor compliance   act
+
+                                      data protection                 
+                              e cooperate  counterparts  
+                                  jurisdictions  promote  protection 
+                                  personal privacy   public  private
+                                  sectors
+                              f carry  special studies  research regarding
+                                  privacy  related issues
+                             g bring   attention   head  
+                                  public body  organization subject  
+                                  mandatory   conduct  failure 
+                                  meet  standards imposed   general
+                                  privacy principles set   section   
+                                  responsibilities established  part iii 
+                                  part iv   act
+                             h issue public reports   status 
+                                  compliance   act
+                               review  approve privacy impact
+                                  assessments  required   act 
+                              j exercise   functions  may 
+                                  assigned      written
+                                  law
+deputy information      president may appoint    two
+commissioner
+                   deputy information commissioners  shall meet 
+                    requirements  qualifications  experience 
+                   specified   information commissioner 
+                   section 
+                              one deputy information
+                   commissioner  appointed  president shall specify
+                    function  respective deputy information
+                   commissioner shall perform either   act 
+                     freedom  information act   
+                    written law
+                                 deputy     information       commissioner
+                   appointed  subsection  shall hold office  
+                   period  exceeding five years  may  reappointed
+
+                   data protection                                  
+        deputy information commissioner may 
+ absence  incapacity   commissioner act 
+ place
+         post  information commissioner 
+vacant  deputy information commissioner may act 
+ information commissioner   time  
+commissioner  appointed   vacant post
+         absence  incapacity   deputy
+information commissioner  president may appoint
+ acting deputy information commissioner
+        person appointed  subsection  shall
+  performs  functions  deputy information
+commissioner take  subscribe   oath  office
+set   part b   schedule
+      commissioner  deputy information resignation 
+commissioner may  removed  office   removal            
+                                                            information
+cause including misconduct  relation   duties  commissioner 
+physical  mental inability  fulfil  responsibilities deputy information
+                                                            commissioner
+  office
+         commissioner  deputy information
+commissioner may   time resign  office 
+letter addressed   president
+    section    constitution shall apply   remuneration 
+offices   commissioner   deputy information information
+                                                            commissioner 
+commissioner                                               deputy information
+                                                            commissioner
+      office   information commissioner seal  office  
+shall   seal  shall  kept   custody  information
+                                                            commissioner
+ commissioner  shall  judicially noticed 
+
+         seal   office   information
+commissioner may  affixed  documents 
+instruments   presence   commissioner 
+shall  attested   signature   commissioner
+  signature shall  sufficient evidence  
+seal  duly  properly affixed    lawful seal
+  office   information commissioner
+
+                                      data protection                  
+                             documents    required 
+                     law    seal made    decisions  
+                     commissioner may  signified   hand  
+                     commissioner
+                            notwithstanding  provisions  
+chap           conveyancing  law  property act   real
+chap           property act relating   matters thereunder
+                     required   performed    mode  
+                     performance prior   registration   deed document
+                       instrument  affixing   seal   office 
+                      information commissioner   signing  
+                     commissioner   manner set   subsection  shall
+                       shall  taken  sufficient evidence  
+                     purposes   acts   due execution   office
+                       information commissioner   deed
+                     document   instrument
+service  documents    service upon  commissioner   notice
+                     order   document shall  effected  delivering
+                         sending   registered post addressed
+                       commissioner   office   office  
+                     information commissioner
+execution               document required   executed  
+documents            office   information commissioner shall  deemed
+                       duly executed  signed
+                                  commissioner 
+                               b outside trinidad  tobago   person
+                                    persons authorized   commissioner
+                                     sign    case  instrument
+                                    authorizing  person  persons shall
+                                    attached   form part  
+                                   document
+                              cheque bill  exchange  order  
+                     payment  money required   executed  
+                     commissioner shall  deemed   duly executed 
+                     signed   person  persons authorized     
+                     commissioner
+
+                    data protection                                 
+      commissioner may employ  persons staff   office 
+  considers necessary   due  efficient information commissioner
+performance   duties  functions   act
+  terms  conditions   agreed  
+commissioner   person  subject  
+maximum limit  remuneration   minister may
+determine
+       subject  subsection    approval 
+ appropriate service commission  statutory
+authority    consent   officer  officer
+  public service   statutory authority may 
+seconded   service   office   information
+commissioner
+         secondment referred   subsection
+  effected arrangements shall  made  preserve
+ rights   officer  transferred   pension
+gratuity   allowance     
+ eligible     seconded    
+service   office   information commissioner
+        period  transfer  secondment shall  
+three years  may   extended    two
+years
+       subject   approval   commissioner
+ appropriate service commission   
+consent   officer  officer   public service 
+ statutory authority may  transferred   service
+  office   information commissioner  terms
+ conditions  less favourable   enjoyed 
+ officer   time  transfer   public service 
+statutory authority   case may 
+        commissioner shall establish  pension
+plan    establishment   plan  
+feasible  commissioner shall make arrangements
+ membership   existing plan
+       subject   rules   pension plan established
+ accordance  subsection   employees  
+office   information commissioner shall  eligible 
+become members   pension plan established 
+accordance  subsection 
+
+                   data protection                 
+          superannuation benefits   accrued 
+    person transferred  accordance  subsection 
+   shall  preserved    date   employment 
+    commissioner   benefits shall continue 
+   accrue   relevant pension law    date 
+   establishing  pension plan   date  
+   arrangements  made  membership   plan  
+   basis  pay pensionable emoluments  salary  
+   case may  applicable   time   transfer  
+   office held   immediately prior   employment 
+    commissioner
+            person   transferred 
+   accordance  subsection  dies retires   post 
+    office   information commissioner  abolished
+      retrenched   commissioner prior 
+   establishing  prior   arrangements  made
+    membership   pension plan     date 
+    service  terminated     abovementioned
+   methods    receipt   salary higher  
+   pay pensionable emoluments  salary referred  
+   subsection   superannuation benefits payable 
+    estate      case may  shall  based
+     higher salary
+           difference   superannuation
+   benefits payable   basis   higher salary
+   referred   subsection    superannuation
+   benefits payable   relevant pension law  
+   basis   pay pensionable emoluments  salary
+   referred   subsection  shall  paid  
+   commissioner
+            person   transferred 
+   accordance  subsection  dies retires   post 
+    office   information commissioner  abolished
+      retrenched   office   information
+   commissioner    member   pension
+   plan established  accordance  subsection  
+   shall  paid superannuation benefits   pension
+   plan   amount   combined 
+   superannuation benefits payable   relevant
+
+                   data protection                                   
+pension law  equivalent   benefits based  
+pensionable service   public service   statutory
+authority combined   service   office  
+information commissioner  calculated   final
+salary applicable     date   service 
+terminated     abovementioned methods
+        purpose  subsection  final
+salary shall   meaning assigned    
+pension plan
+     subject  subsection   commissioner delegation
+may authorize  person according   qualifications
+  purposes   act  exercise  perform
+subject   restrictions  limitations  
+commissioner may specify  powers duties 
+functions   commissioner
+       commissioner may delegate   
+deputy information commissioner responsibilities
+regarding review  personal information  deals
+ matters  may  exempt  disclosure
+pursuant  sections      freedom  chap 
+information act
+      commissioner may appoint officers within designation 
+ office   information commissioner   inspectors powers  inspectors
+according   qualifications   purposes  
+act  shall furnish   inspector   certificate
+  designation
+          commissioner  conducting 
+enquiry  inspection   act  officers
+appointed  subsection  shall act   behalf
+         inspector shall subject  sections  
+   power        following
+things   purpose   execution   act
+            considers necessary take  
+              entering  premises  police officer
+
+                                     data protection                 
+                            b  require  person   finds   
+                                  premises  give  information  
+                                   power  give      owner
+                                  occupier thereof   employer 
+                                 workers employed  work thereon
+                             c  make  examinations inspections
+                                 investigations  enquiries  may 
+                                 necessary  ascertain whether  act 
+                                  complied 
+                            d  require  production    seize
+                                 inspect  examine   copy registers
+                                 records   documents
+                             e  examine either alone    presence 
+                                   person   inspector deems
+                                 necessary   purposes   act 
+                                 respect   observance   provisions 
+                                  act   regulations  person 
+                                  finds  premises    
+                                 reasonable cause  believe     
+                                  within  preceding two months
+                                 employed thereon   require  
+                                 person    examined   sign 
+                                 declaration   truth   matters
+                                 respecting     examined 
+                                 however   person shall  required
+                                   provision  answer  question
+                                   give evidence tending  incriminate
+                                  
+                             f  seize  detain   time  may 
+                                 necessary    means   
+                                  relation    reasonably believes 
+                                 provision   act   contravened
+power                   information commissioner 
+commissioner 
+conduct  audit 
+                    conducting  audit  enquiry   practices  
+enquiry   public public body   purposes  ensuring compliance
+body pursuant 
+part iii
+                      general privacy principles set   part  
+
+                   data protection                 
+determining  appeal pursuant  part iii 
+commissioner may
+            permission   head   public
+             body   application   warrant 
+             subsection  enter  inspect  premises
+             occupied   public body   purposes 
+              audit  enquiry
+         b require  production   document 
+             record relevant   enquiry    
+             custody  control   public body 
+         c seize  detain relevant documents 
+             obtaining  warrant  subsection 
+       commissioner shall  retain 
+information obtained   audit  enquiry 
+subsection  beyond  period     required
+       commissioner may exercise  powers
+  section  respect   office  
+president parliament  joint select committee 
+parliament   committee  either house 
+parliament  cabinet  court  appeal  high
+court  industrial court  tax appeal board 
+ court  summary jurisdiction  tobago house 
+assembly  executive council   tobago house 
+assembly    consent   president 
+speaker   house  representatives  
+president   senate  head   cabinet 
+chief justice  presiding officer  chief
+administrator   tobago house  assembly 
+chief secretary   tobago house  assembly  
+head   executive council   case may 
+        head   public body refuses 
+          allow  information commissioner  
+             person acting      enter 
+             inspect premises  subsection  
+             information commissioner shall  
+             believes   entry  necessary apply
+               magistrate   warrant   enter
+             seize  inspect 
+
+                                        data protection                 
+                              b produce  document  record 
+                                   subsection b  information
+                                   c o m m  s s  o n e r shall   believes
+                                    request   reasonable apply  
+                                   court   order requiring  public body
+                                    produce  documents
+                           subsection  shall  apply   public
+                    body referred   subsection 
+                             head   public body referred  
+                    subsection  refuses 
+                               allow  information commissioner  
+                                   person acting      enter 
+                                   inspect premises  subsection 
+                              b produce  document  record 
+                                   subsection b
+                     information commissioner may apply   judge 
+                     order  direct  head   public body 
+                               c allow  information commissioner  
+                                   person acting      enter 
+                                   inspect premises  seize  document
+                                   found therein   purposes   audit 
+                                   enquiry 
+                              d produce  document  record
+power                   commissioner  conducting 
+commissioner 
+conduct audit 
+                    audit  enquiry   compliance practices   person
+enquiry pursuant  subject   provisions   enforceable   conduct
+part iv
+                    pursuant  part iv   act  commissioner may
+                    pursuant   authority provided  subsection 
+                      order   court
+                               require  production   document 
+                                    record     custody  control  
+                                    person subject   enforceable  
+                                    conduct 
+                              b enter  inspect  premises occupied 
+                                     person subject   enforceable  
+
+                    data protection                                    
+               conduct  seize  document  record
+               found therein relevant   audit 
+               enquiry
+          private enterprise refuses  allow
+ commissioner   person acting    
+ enter  inspect premises  subsection b
+ commissioner may apply   court   order
+  enter  inspect
+          private enterprise refuses  produce
+ document  record  subsection b 
+commissioner may apply   court   order
+requiring  private enterprise  produce 
+documents
+         commissioner shall  retain 
+information obtained   audit  enquiry 
+subsection  beyond  period     required
+     expenses   office   information expenses 
+commissioner shall  met   moneys provided  accounts            office
+                                                              information
+parliament                                                 commissioner
+         revenues   office   information
+commissioner shall  paid   consolidated fund
+         accounts   office   information
+commissioner shall  audited   auditor general
+ accordance   provisions   exchequer 
+audit act                                                  chap 
+    statement made    answer given   statements made 
+person   investigation  enquiry   commissioner
+                                                            admissible
+                                                                            
+commissioner  inadmissible  evidence  court 
+  proceeding except 
+           prosecution  perjury  respect  sworn
+              testimony made   commissioner
+          b  prosecution   offence   act
+              
+          c  application  judicial review  
+              act   appeal   decision  respect
+                application
+
+                                  data protection                 
+ privileged          anything said  information supplied  
+ information
+                  data produced   person   investigation 
+                  enquiry   commissioner  privileged   
+                  manner    investigation  enquiry  
+                  proceeding   court
+ restrictions        commissioner  anyone acting  
+ disclosure 
+ information 
+                    direction   commissioner shall 
+ commissioner  disclose  information obtained  performing 
+ staff            duties powers  functions   act
+                          notwithstanding        subsection        
+                  commissioner may disclose  may authorize anyone
+                  acting     direction   commissioner 
+                  disclose information
+                            necessary  conduct  investigation audit
+                                enquiry   act  establish
+                               grounds  findings  recommendations
+                               contained   report   act 
+                           b   course   prosecution   appeal
+                                 judicial review   decision  
+                               commissioner
+protection         proceedings shall  lie   commissioner
+commissioner 
+staff
+                    person acting     direction  
+                  commissioner  anything done reported  said 
+                  good faith   exercise  performance   intended
+                  exercise  performance   duty power  function
+                    part
+annual report        commissioner shall submit  report
+commissioner
+                  annually  parliament within three months  
+                  end   calendar year   activities   office 
+                   information commissioner   previous year
+                  commencing one year   coming  operation 
+                   act
+                           commissioner may submit  special
+                  report  parliament   time commenting  
+                  matters within  scope duties  functions  
+                  commissioner   matter    urgency 
+                  importance      deferred   time 
+                   next annual report  parliament
+
+                    data protection                                 
+     commissioner shall  order publish   commissioner 
+gazette   least two newspapers  daily circulation publish     list 
+                                                             equivalent
+ trinidad  tobago  list  countries   jurisdictions
+comparable safeguards  personal information 
+provided   act
+                          part iii
+    protection     personal data       public bodies
+      following information   individual personal information
+      employee  official   public
+body   personal information   purpose  
+act
+           fact   individual     
+              employee  official   public body
+          b  title business address  business
+              telephone number   individual
+          c  name   individual   document
+              prepared   individual   course 
+              employment 
+         d  professional opinions  views  
+              individual given   course  employment
+        information   individual    
+performing services  contract   public body
+ relates   services performed including 
+terms   performance  name   individual
+  opinions  views   individual given  
+course   performance   services  
+personal information   purposes   act
+        information relating   discretionary
+benefit   financial nature including  granting  
+licence  permit conferred   individual including
+ name   individual   exact nature  
+benefit   personal information   purposes 
+ act
+        information   individual   
+deceased    twenty years   personal
+information   purpose   act
+
+                                        data protection                 
+collection            personal information shall   collected  
+personal information
+                       public body unless
+                                collection   information 
+                                   expressly authorized    
+                                   written law
+                              b  information  collected   purposes
+                                    law enforcement 
+                               c  information relates directly   
+                                   necessary   operating programme 
+                                   activity   public body
+personal information       public body requires personal
+  collected
+directly
+                     information   individual  shall collect 
+                     personal information  cause  personal information
+                       collected directly   individual
+                             notwithstanding subsection  personal
+                     information may  collected   source  
+                      individual 
+                               another method  collection  authorized
+                                     individual   commissioner  
+                                     written law
+                              b  collection  information  necessary 
+                                   medical treatment   individual   
+                                    possible  collect  information directly
+                                     individual   collection 
+                                   necessary  obtain authority  
+                                   person  another method  collection 
+                               c  information  collected   purpose
+                                   
+                                           determining  suitability  
+                                              honour  award including 
+                                              honorary degree scholarship prize
+                                               bursary
+                                         ii proceedings   court  
+                                              judicial  quasijudicial tribunal
+                                        iii collecting  debt  fine  making 
+                                              payment 
+                                        iv law enforcement
+
+                    data protection                                   
+     public body shall ensure   individual individual  
+   collects personal information  causes informed  purpose
+personal information   collected  informed 
+           purpose  collecting 
+         b  legal authority  collecting  
+          c  title business address  business
+              telephone number   official  employee
+                public body  can answer 
+              individuals questions   collection
+       subsection  shall  apply  compliance
+ subsection  
+          result   collection  inaccurate
+              information
+         b defeat  purpose  prejudice  use 
+                information    collected
+          c prejudice  law enforcement matter 
+         d prejudice  defence  trinidad 
+              tobago    foreign state allied  
+              associated  trinidad  tobago  harm
+               detection prevention  suppression 
+              espionage sabotage  terrorism
+   personal information    used   retention  personal
+public body   administrative purpose shall  information          used 
+                                                              administrative
+retained   authority   period  time   purpose
+  used  may  prescribed  order  
+minister  ensure   individual   
+relates   reasonable opportunity  obtain access 
+ information
+     personal information   individual accuracy  personal
+   custody  control   public body   information
+personal information will  used    behalf  
+public body  make  decision  directly affects 
+individual  public body shall make every reasonable
+effort  ensure   personal information 
+accurate  complete
+
+                                       data protection                  
+protection              public body shall protect personal information
+personal information
+                        custody    control  making reasonable
+                      security arrangements   risks  unauthorized
+                      access collection use alteration disclosure  disposal
+storage  access      public body shall ensure  take steps  ensure
+personal information
+ trinidad 
+                       personal information   custody   
+tobago                control  stored   trinidad  tobago 
+                      accessed   trinidad  tobago unless
+                                 individual    information
+                                   relates  identified  information 
+                                    consented   prescribed manner 
+                                     stored   accessed  another
+                                   jurisdiction 
+                               b  information  stored   accessed 
+                                   another jurisdiction   comparable
+                                   safeguards  provided   act
+disposal  personal      public body shall dispose   personal information
+information
+                        control  custody  accordance  regulations
+                      made   minister   act
+use  personal          personal information   custody  control
+information
+                        public body shall  without  consent  
+                      individual    relates  used   authority
+                      except   purpose    information 
+                      obtained  compiled   public body    use
+                      consistent   purpose    purpose  
+                       information may  disclosed   public body
+                      pursuant  section 
+consistent purpose        use  personal information  consistent 
+                       purposes     obtained  compiled 
+                       use   reasonable  direct connection  
+                      purpose   necessary  performing  statutory
+                      duties    operating  legally authorized
+                      programme   public body  uses  discloses 
+                      information  causes  information   used 
+                      disclosed
+
+                     data protection                                    
+     public body shall  process sensitive limitation 
+personal information unless  obtains  consent   processing     
+                                                              sensitive personal
+person    sensitive personal information information 
+relates                                                      possession  public
+                                                              body
+            notwithstanding subsection  sensitive
+personal information may  processed
+            health care professional   employee
+               agent   health care body   direction
+                health care professional   purposes
+               health  hospital care   
+              necessary 
+                      preventative medicine  
+                         protection  public health
+                    ii medical diagnosis
+                   iii health care  treatment 
+                   iv  management  health 
+                         hospital care services
+         b     made public   person
+                 information relates
+          c  research  statistical purposes 
+              accordance  section 
+         d   interest  law enforcement 
+              national security
+          e   purposes  determining access 
+              social services 
+          f  accordance    authorized 
+                written law
+        purpose   section health care
+professional means  person registered  
+          medical board act                               chap 
+         b dental profession act                           chap 
+          c opticians registration act                     chap 
+         d pharmacy board act                              chap 
+          e nurses  midwives registration act           chap 
+          f professions related  medicine act         chap 
+         g emergency        ambulance       services    act    
+              emergency medical personnel act 
+
+                                          data protection                 
+                               person  contravenes  section commits
+                        offence
+disclosure  personal     personal information   custody  control
+information 
+trinidad  tobago
+                         public body shall   disclosed   public body
+                        trinidad  tobago without  consent  
+                       individual    relates except  accordance 
+                       sections     
+  personal             except  provided    written law
+ information may 
+ disclosed
+                       personal information   control   public body
+                       may   disclosed
+                                    purposes    information
+                                       collected  compiled   public body
+                                         use consistent   purpose
+                                 b   purpose  accordance  
+                                      written law   order made pursuant 
+                                       written law  authorizes 
+                                      disclosure
+                                  c   purpose  complying   subpoena
+                                       warrant issued  order made   court
+                                      person  body  jurisdiction  compel
+                                       production  information   
+                                      purpose  complying  rules  court
+                                      relating   production  information
+                                 d   attorney general  trinidad 
+                                      tobago   purpose    connection
+                                       legal proceedings involving  state
+                                        disclosure  reasonably
+                                      required   interests  fairness 
+                                      prior notice   disclosure  given  
+                                      person    information relates
+                                  e   investigative body specified  
+                                      minister  order   written request 
+                                       investigative body   purpose 
+                                      investigating compliance   written
+                                      law  carrying   lawful investigation 
+                                       request specifies  purpose 
+                                      describes  information   provided
+
+         f  one law enforcement agency  trinidad
+              tobago  another law enforcement
+             agency within trinidad  tobago  
+             purpose  enforcement   written law
+                                 agency   foreign
+        g   law enforcement                     data protection                     
+             country   written agreement treaty
+                authority   government 
+             trinidad  tobago
+        h   head   public body agrees  
+             compelling circumstance exists  affects
+              health  safety   person  
+             notice   disclosure  mailed   last
+             known address   individual  
+              information relates unless  head 
+              public body   reasonable belief 
+             providing notification  harm  health
+              safety   person
+             next  kin  friend  
+             injured ill  deceased person may 
+             contacted
+         j   purpose  collecting monies owing 
+              individual   government  trinidad
+              tobago    public body  
+             individual
+        k  statistical purposes   disclosure
+             meets  requirements  section  
+         l  archival purposes   disclosure
+             meets  requirements  section 
+   public body may disclose personal information
+r may cause personal information   custody 
+ontrol   disclosed   research purpose including
+tatistical research  
+          research purpose  reasonably 
+             accomplished unless  information 
+             provided  individually identifiable form                  disclosure 
+                                                                          research 
+                                                                          statistical purposes
+
+                                          data protection                 
+                                b  information  disclosed  condition
+                                         used   purpose 
+                                     contacting  person  participate 
+                                     research
+                                 c  record linkage   harmful  
+                                     individual    information 
+                                        benefits   derived  
+                                     record linkage  clearly   public
+                                     interest
+                                d  head   public body concerned 
+                                     approved conditions relating   following
+                                             security  confidentiality
+                                           ii  removal  destruction  
+                                                individual identifiers   earliest
+                                                reasonable time 
+                                          iii  prohibition   subsequent
+                                                use  disclosure   information
+                                                 individually identifiable form
+                                                without  express authorization
+                                                  public body 
+                                 e  person    information 
+                                     disclosed  signed  agreement  comply
+                                       approved conditions  act 
+                                        public bodys policies 
+                                     procedures relating   confidentiality 
+                                     personal information
+disclosure               archives   government  trinidad 
+archival  historical
+purposes
+                       tobago   archives   public body may disclose
+                       personal information  cause personal information 
+                        custody  control   disclosed  archival 
+                       historical purposes 
+                                  disclosure     unreasonable
+                                     invasion  professional  personal privacy
+                                b  disclosure   historical research 
+                                       accordance  section 
+
+                     data protection                                     
+          c  information concerns someone  
+               deceased  twenty   years 
+         d  information    record   
+               existence  one hundred   years
+   notwithstanding sections     medical disclosure  medical
+information shall   disclosed   public body informationrestricted
+                                                                             
+except
+            consent   person   
+              information relates 
+         b  order   court
+     personal information   disclosure 
+custody  control   public body    disclosed  personal     information
+                                                               outside  trinidad
+ party residing  another jurisdiction  public body  tobago
+shall inform  individual    relates 
+           purpose    information 
+               collected   purpose  known
+                public body 
+         b  identity 
+                      person requesting  information
+                        
+                   ii  relevant public body 
+                        responsibility  data protection
+                           jurisdiction
+ obtain            consent      disclosing    
+information
+        person  subsection   
+consent   release   personal information 
+public body shall   disclose
+      subsections    shall  apply 
+ circumstances set   section  exist 
+personal information may  limited   public
+body determines   jurisdiction   
+personal information   sent   
+comparable standards
+
+                      data protection                 
+            person  subsection  consents
+     release   information   public body 
+              satisfied   jurisdiction   
+                 information   sent  comparable
+                 safeguards  provided   act 
+                 public body shall disclose  personal
+                 information 
+             b  satisfied   jurisdiction   
+                 information   sent  comparable
+                 safeguards  public body shall refer 
+                 matter   commissioner   determination
+                   whether   jurisdiction 
+                 comparable safeguards  provided  
+                 act  inform  individual   
+                 personal information relates   referral
+           upon  referral  subsection b 
+   commissioner shall make  determination whether 
+    jurisdiction      comparable
+   safeguards  provided   act  inform 
+   public body accordingly
+             public body  informed  
+   jurisdiction    information   sent
+               comparable safeguards  public body
+                 shall inform  person concerned 
+                 disclose  personal information 
+             b    comparable safeguards 
+                 public body shall inform  person
+                 concerned  obtain  consent  
+                 disclosure
+                         without limitation 
+                       ii  limitation   information
+                            sharing   extent necessary 
+                            ensure  protection  personal
+                            privacy  information
+
+                    data protection                                
+    every public body shall prepare  privacy privacy impact
+impact assessment   form prescribed   assessment  mitigation
+                                                                        
+commissioner   proposed enactment system
+project programme  activity   enactment
+system project programme  activity   
+reasonably  expected  substantially  materially
+impact personal information
+        upon preparation   privacy impact assess
+ment every public body shall submit  privacy
+impact assessment   commissioner  approval
+          privacy impact assessment  
+submitted  accordance  subsection  
+commissioner shall evaluate  privacy impact
+assessment  accordance   general privacy
+principles set   section    necessary
+make recommendations   public body 
+amendments
+                   commissioner      makes      
+recommendation  subsection   public body
+shall make  necessary amendments   privacy
+impact assessment
+        every public body shall take  reasonable
+steps  accordance   privacy impact assessment
+ avoid unnecessary intrusions  personal privacy
+ designing implementing  enforcing enactments
+systems projects programmes  activities
+     head   public body shall cause   personal information
+included  personal information banks  personal banks
+information   control    custody  
+public body 
+            used   used   available
+               use   administrative purpose 
+          b  organized  intended   retrieved 
+              means   name   individual   
+              identifying number symbol   particular
+              assigned   individual
+
+                                     data protection                
+                            notwithstanding subsection  personal
+                    information   custody  control   archives
+                      government  trinidad  tobago  
+                     transferred     public body  historical 
+                    archival purposes shall   included  personal
+                    information banks
+information sharing        public body intends  share information
+                      public bodies  shall    pursuant 
+                     agreement   manner prescribed  
+                    commissioner  order
+                             order  subsection  shall 
+                    published   gazette  two newspapers  daily
+                    circulation  trinidad  tobago
+data matching shall      subject  subsection    public body
+ approved 
+commissioner
+                    matches personal information   set  data 
+                    personal information  another set  data whether
+                      pursuant   information sharing agreement
+                     public body shall obtain  written authorization 
+                     commissioner
+                            determining whether  authorize data
+                    matching   public body  public bodies using  data
+                    matching programme  commissioner shall consider
+                    whether  
+                                objective   matching programme
+                                  relates   matter  significant public
+                                  importance
+                              b  matching programme  achieve 
+                                  objective   way   achieve
+                                  monetary savings    significant
+                                   quantifiable  will achieve 
+                                  significant benefits  society
+                              c  public interest  allowing  matching
+                                  programme  proceed outweighs  public
+                                  interest  adhering   general privacy
+                                  principles set   section   
+                                  programme  otherwise contravene 
+
+                    data protection                             
+         d  programme involves data  information
+              matching   scale   excessive 
+              regard   number  public bodies 
+              will  involved   programme  
+              amount  details   individual 
+                matched   programme
+       information commissioner shall complete
+ determination  respect   data matching
+request within sixty days   request
+       approving data matching   public body 
+public bodies  commissioner may impose whatever
+terms  conditions   considers appropriate
+        information commissioner fails 
+complete  determination  respect   data matching
+request  subsection   public body may apply
+  minister   determination   matter
+       giving  authorization  subsection 
+ commissioner may give covering authorization 
+allow  matching  data   matching  part
+  system  practice approved  
+      commissioner shall publish periodically personal information
+  less  annually  index   personal index
+information   held   public bodies 
+includes  summary   following
+           personal information banks   
+               custody  control   public body
+          b  information sharing agreements entered
+                 public body  another public
+              body   person
+          c  data matching activities approved  
+              commissioner
+         d  contact information   official 
+               requests relating  personal information
+              contained   data bank   sent
+
+                                       data protection                
+                              e  statement   purposes  
+                                   personal information   data bank 
+                                   obtained  compiled   statement  
+                                   uses consistent   purposes 
+                                     information  used  disclosed
+                               f  statement   retention  disposal
+                                   standards  practices  apply  
+                                   personal information   data bank 
+                              g privacy impact assessments prepared  
+                                   ministry   government  trinidad 
+                                   tobago
+                             purpose   section contact
+                     information means  title business address business
+                     telephone  facsimile number  business email 
+                      official  employee   public body
+                             commissioner publishes  index
+                      personal information held  public bodies 
+                     subsection   publication shall  made  
+                     gazette   least two newspapers  daily circulation
+                      trinidad  tobago
+right  access        subject  section  every individual  
+personal information
+  public body      trinidad  tobago   right   shall 
+                     request  given access 
+                               personal information   individual
+                                   contained   personal information bank 
+                                    custody  control   public body 
+                              b   personal information  
+                                   individual   custody  control  
+                                   public body  respect   
+                                   individual  able  provide sufficiently
+                                   specific information   location  
+                                   information   render  reasonably
+                                   retrievable   public body
+
+                    data protection                                 
+         request  access  personal information
+shall  made   public body   control  
+personal information bank    information  
+case may    form approved   commissioner
+         head   public body may 
+reasonable   appropriate circumstances provide
+personal information  accordance   provisions
+  act  response   oral request
+      head   public body may refuse  disclose refusal  access 
+personal information   individual    personal information
+information relates 
+           disclosure  constitute  unjustified
+              invasion  another individuals personal
+              privacy
+          b  disclosure  reasonably  expected
+               reveal information supplied  confidence
+          c   evaluative  opinion material compiled
+              solely   purpose  determining
+              suitability eligibility  qualifications 
+              employment    awarding  government
+              contracts   benefits  
+              disclosure  reveal  identity  
+              source  furnished information  
+              institution  circumstances   may
+              reasonably  assumed   identity 
+               source   held  confidence 
+         d  disclosure  result  disclosure 
+              information   exempt  disclosure
+               part iv   freedom  information chap 
+              act
+         head   public body may disregard
+requests   individual  access   individuals
+personal information    unreasonably
+interfere   operations   public body 
+  repetitious  systematic nature   requests 
+ requests  frivolous  vexatious
+
+                                          data protection                 
+severance                 head   public body shall make every
+refusal  disclose
+existence 
+                       effort  sever information   exempt  disclosure
+information            pursuant  section   information  may 
+                       made available   individual requesting access  
+                       personal information  make  nonexempt
+                       information available
+                                acknowledgment   existence 
+                       information   exempt  disclosure  reveal
+                       critical information   nature  contents  
+                       information  head   public body may refuse 
+                       disclose  existence   information
+exercise  rights        right  power conferred   individual 
+deceased persons etc
+                        act may  exercised
+                                    individual  deceased  
+                                      individuals personal representative  
+                                      exercise   right  power relates  
+                                      administration   individuals estate
+                                 b   individuals attorney   power 
+                                      attorney
+                                  c   individuals guardian 
+                                 d   individual  less  eighteen
+                                      years  age   person   lawful
+                                      custody   individual
+responsibilities            request  made  access  personal
+public bodies
+                       information pursuant  section   head  
+                       public body shall within thirty days   request 
+                       received  access 
+                                  granted  whole   part give 
+                                      information   individual  made 
+                                      request 
+                                 b refused  whole   part give  individual
+                                       made  request  written response
+                                      stating
+                                               information   exist
+                                                
+
+                     data protection                                     
+                   ii  specific provision   act 
+                          refusal  reasonably 
+                        expected   based   information
+                        existed 
+          c refused  whole   part give  individual
+               made  request information regarding
+               right  appeal   commissioner
+         access  granted  whole   part 
+head   public body shall ensure   information
+ available   comprehensive form including 
+reasonable comprehensible   individual  
+sensory disability
+       individual believes    error right  request
+ omission   personal information  individual correction         
+                                                                personal information
+may request  head   public body   
+information   custody    control  correct
+ information
+          correction  made  response  
+request  subsection   head   public body
+shall annotate  information   correction 
+ requested   made  notify  individual
+ made  request   correction  made
+         correcting  annotating personal
+information   section  head   public
+body shall notify   public body   third
+party    information   disclosed
+  oneyear period   correction 
+requested   correction  annotation
+        upon  notified  subsection   
+correction  annotation  personal information  public
+body shall make  correction  annotation  
+record   information   custody  control
+     individual   filed  request   appeal 
+personal information pursuant  section     information
+                                                                commissioner
+requested correction  personal information pursuant
+ section  may appeal  decision   head  
+public body   commissioner
+
+                                     data protection                 
+time  application     appeal   commissioner  section 
+                     shall  made within six weeks   date  
+                     notice  given   decision appealed   filing
+                       commissioner  written notice  appeal
+complaints           individual   reasonable belief 
+commissioner
+                      public body   complying   provisions  
+                     act  may make  complaint   commissioner
+immediate dismissal      commissioner may dismiss
+                                appeal   notice  appeal  
+                                  present  reasonable basis  concluding
+                                    personal information   
+                                  notice relates exists   incorrect 
+                              b  complaint   written complaint 
+                                   contain sufficient particulars  make 
+                                  determination  noncompliance  
+                                  provisions   act
+informing  notice     upon receiving  notice  appeal 
+ appeal
+                     section    complaint  section  
+                     commissioner shall inform  head   public body
+                     concerned    affected person   notice 
+                     appeal   complaint
+mediation                commissioner may authorize  mediator 
+                     investigate  circumstances   appeal 
+                     section    try  effect  settlement   matter
+                      appeal
+enquiry              commissioner may conduct  enquiry 
+commissioner
+                     review  decision   head   public body  
+                     complaint  respect   public body   commissioner
+                     
+                                authorized  mediator  conduct 
+                                  investigation  section  
+                              b authorized  mediator  conduct 
+                                  investigation  section   
+                                  settlement   reached
+
+                      data protection                       
+          commissioner conducts  enquiry
+  section  may   conclusion  
+enquiry  respect 
+           request  access either
+                      affirm  decision   head  
+                         public body 
+                    ii order  head   public body 
+                         release  personal information 
+                         make  corrections requested 
+          b  complaint
+                      dismiss  complaint 
+                    ii order  head   public body
+                          comply   relevant
+                         provisions   act deemed  
+                          breach
+        enquiry  conducted  
+section  may  conducted   commissioner  
+    tribunal comprising  commissioner 
+one   deputy commissioners
+       person aggrieved   decision  
+commissioner   tribunal   section may
+apply   high court  judicial review
+    enquiry   commissioner   mediator enquiry  private
+  meetings held   mediator  parties  
+appeal may  conducted  private
+    individual  requested access   representations
+correction  personal information  head   public
+body concerned   affected party shall  given
+ opportunity  make representations  
+commissioner  none  entitled 
+                present 
+              b  access  
+              c comment 
+representations made   commissioner   
+person
+
+                                      data protection               
+right  counsel       individual  requests access  personal
+ agent
+                    information  head   public body concerned 
+                     affected party may  represented  counsel  
+                    agent
+burden  proof           public body refuses  give access 
+                    personal information  burden  proof  
+                    information lies within one   specified exemptions
+                      act    balance  probabilities  lies upon
+                     public body
+                                              part iv
+                     protection     personal data        private sector
+application            person 
+general privacy
+principles                    collects retains manages uses processes 
+                                 stores personal information  trinidad 
+                                 tobago
+                             b collects personal information  individuals
+                                  trinidad  tobago 
+                             c uses  intermediary  telecommunications
+                                 service provider located  trinidad 
+                                 tobago  provide  service  furtherance 
+                                 paragraph   b
+                    shall follow  general privacy principles set  
+                    section   dealing  personal information
+codes  practice        commissioner shall consult  industry 
+                    promote  application   general privacy
+                    principles   development  codes  practice
+                      means 
+                              providing guidance   development 
+                                 codes  practice
+                             b providing guidance  complaint resolution
+                                 mechanisms
+                             c fostering education   general privacy
+                                 principles
+
+                     data protection                                 
+          d working  government  private sector
+               bodies  promote awareness  codes 
+               conduct among consumers 
+           e taking  action  appears  
+               commissioner   appropriate
+    notwithstanding section     commissioner may
+opinion   commissioner  public interest require           development
+                                                              conduct
+warrants  immediate  mandatory development 
+codes  conduct dealing   application  
+general privacy principles   particular industry
+economic sector  activity  commissioner may 
+order require  development     conduct 
+set  time limit   development
+      subject  subsection     
+appropriate government regulator   industry
+economic sector  activity  commissioner may
+request  regulator  oversee  development  
+  conduct   industry economic sector 
+activity
+      mandatory   conduct  developed cross border
+pursuant  section   shall require   minimum disclosure      
+                                                           personal information
+ personal information   custody  control
+  organization shall   disclosed  
+organization   third party without  consent 
+ individual    relates except  general
+  information  disclosed   purposes
+              information  collected 
+                use consistent   purpose
+          b   court order 
+           c  complying   written law
+         personal information  
+custody  control   organization    disclosed
+  party residing  another jurisdiction 
+organization shall inform  individual   
+relates  
+           purpose    information  
+               collected   purpose  known  
+               organization 
+
+                     data protection                 
+            b identity 
+                         person requesting  information
+                           
+                      ii  relevant public body 
+                           responsibility  data protection
+                              jurisdiction
+    obtain  consent  disclosing  information
+           person  subsection   
+   consent   release   personal information 
+   organization shall   disclose
+           person  subsection  consents
+     disclosure   information   organization
+   
+             satisfied   jurisdiction   
+                information   sent  comparable
+                safeguards  provided   act 
+                organization shall disclose  personal
+                information 
+            b  satisfied   jurisdiction  
+                 information   sent  comparable
+                safeguards  organization shall refer 
+                matter   commissioner  
+                determination   whether  
+                jurisdiction  comparable safeguards 
+                provided   act  inform  individual
+                   personal information relates 
+                 referral
+         upon  referral  subsection  
+   commissioner shall make  determination whether 
+    jurisdiction      comparable
+   safeguards  provided   act  inform 
+   organization accordingly
+           organization  informed  
+   jurisdiction    information   sent
+              comparable safeguards  organization
+                shall inform  person concerned 
+                disclose  personal information 
+
+                     data protection                    
+         b    comparable safeguards 
+             organization shall inform  person
+             concerned  obtain  consent  
+             disclosure
+                     without limitation   personal
+                        information 
+                   ii  limitation   personal
+                        information sharing   extent
+                        necessary  ensure  protection
+                         personal privacy  information
+      mandatory   conduct  approval   
+developed  sector shall apply   commissioner conduct
+  approval    prior   use
+          voluntary   conduct 
+developed  sector may apply   commissioner 
+ approval    prior   use
+         commissioner may approve   
+conduct dealing  compliance   general
+privacy principles set   section  developed  
+industry sector  industry organization   profes
+sional body
+          commissioner  satisfied  
+  conduct submitted  approval  accordance
+ subsection    meets  requirements set 
+ subsection   shall approve    conduct
+         approving    conduct 
+commissioner shall consider
+           compliance   general privacy
+              principles set   section 
+          b use  adequacy  dispute resolution
+              mechanisms within  industry  well 
+              within individual firms
+          c  potential  development 
+              encouragement               anticompetitive
+              conduct
+          d  adequacy   process used  develop
+                 conduct including involvement
+               stakeholders   relevant
+              consumers suppliers   interested
+              groups
+
+                                       data protection                 
+                               e  role  industry sector regulators  
+                                   
+                               f   matters   commissioner
+                                   considers relevant
+mandatory codes           commissioner  approved  
+conduct
+                      conduct  minister may  order make compliance
+                        mandatory  respect    
+                        conduct applies   act
+                              order made   minister 
+                     subsection  shall  subject  negative resolution 
+                     parliament
+                                 conduct   made
+                     mandatory  subsection   persons 
+                     enterprises       applies shall comply
+                       provisions     conduct
+                             without limiting  generality  sub
+                     section    government regulator 
+                     jurisdiction   industry economic sector 
+                     activity      conduct dealing  
+                     application   general privacy principles can 
+                     made mandatory pursuant   legislation 
+                     regulator may make    conduct approved  
+                     commissioner mandatory
+                               industry regulator  mandated
+                     compliance  dealing   protection  personal
+                     privacy    approved   commissioner
+                       legislation      conduct 
+                      made mandatory  adequate provisions 
+                     complaint resolution  sanctions  noncompliance
+                       provisions     conduct 
+                     commissioner may forebear  exercising  powers
+                      respect  compliance
+right  access          individual   personal information
+personal information
+                     stored   organization   subject   mandatory
+                       conduct   right   shall  request 
+                     given access 
+                               personal information   individual
+                                     custody  control   organisation
+                                   
+
+                     data protection                                    
+          b   personal information  
+              individual   custody  control 
+               organization  respect   
+              individual  able  provide sufficiently
+              specific information   location  
+              information   render  reasonably
+              retrievable   organization
+         request  access  personal information
+shall  made   organization   control  
+personal information   form approved  
+commissioner
+         organization may  reasonable 
+ appropriate circumstances provide personal information
+ accordance   provisions   act  response
+  oral request
+     corporation shall  process sensitive limitation 
+personal information   possession unless  obtains processing      
+                                                              sensitive personal
+ consent   person    sensitive information  
+personal information relates                                 possession  
+                                                              corporation
+        notwithstanding subsection  sensitive
+personal information may  processed
+            health care professional   employee
+               agent   health care body   direction
+                health care professional   purposes
+               health  hospital care   
+              necessary 
+                      preventative medicine  
+                         protection  public health
+                    ii medical diagnosis
+                   iii health care  treatment 
+                   iv  management  health 
+                         hospital care services
+          b     made public   person
+                 information relates
+          c  research  statistical purposes 
+              accordance  section  
+         d   disclosure  required  written
+              law
+
+                                         data protection                   
+                               purpose   section health care
+                       professional means  person registered  
+chap                       medical board act
+chap                       b dental profession act
+chap                       c opticians registration act
+chap                      d pharmacy board act
+chap                       e nurses  midwives registration act
+chap                        f professions related  medicine act 
+act                    g emergency ambulance services 
+                                      emergency medical personnel act 
+                              person  contravenes  section commits
+                        offence
+refusal  request          head   organization subject  
+ access  personal
+information
+                       mandatory   conduct may upon  written
+                       authorization   commissioner disregard  request
+                         individual  access   individuals
+                       personal information    unreasonably
+                       interfere   operations   organization
+                          repetitious  systematic nature  
+                       requests   requests  frivolous  vexatious
+                                 organization disregards  request
+                        subsection   shall notify  individual
+                       making  request
+request  review          organization  subject   mandatory
+ complaint  
+commissioner
+                         conduct   individual   reasonable
+                       belief   organization  within  custody 
+                       control personal information regarding  individual
+                        individual may
+                                   individual  requested access 
+                                        correction  personal information
+                                      held   organization   organization
+                                       refused  request ask 
+                                      commissioner  conduct  review  
+                                      resulting decision act  failure  act  
+                                      organization 
+
+                     data protection                                       
+          b make  complaint   commissioner
+              regarding  alleged failure   organization
+               comply   provisions   mandatory
+                conduct
+     request   review    complaint   time  application
+commissioner shall  made within six weeks                  review 
+                                                                 complaint
+date   decision  six weeks    failure
+ comply   mandatory codes  conduct first
+became known    become known
+      individual   reasonable belief  complaint  
+ organization   complying   provisions  commissioner
+                                                                 noncompliance
+                                                                                 
+ act  may make  complaint   commissioner
+     commissioner may  entertain                       immediate dismissal
+                                                                  request  review
+           request   review   decision   complaint
+               written request   present 
+              reasonable basis  concluding  
+              personal information    request
+              relates exists 
+          b  complaint  section    
+               written complaint   contain
+              enough particulars  make  determination
+               noncompliance   mandatory 
+               conduct   part   organization 
+               act
+    upon receiving  written request  complaint notification 
+ section     commissioner shall inform request  complaint
+ head   organization concerned   
+affected person   request  complaint
+     subject  section   commissioner enquiry  request
+may conduct  enquiry   request  complaint  complaint
+ section   
+          commissioner conducts  enquiry
+  section  may   conclusion  
+enquiry  respect 
+           request  access  information  
+              correction  information
+                     affirm  decision   organization
+
+                                         data protection                
+                                          ii order  head   organization 
+                                               release  personal information 
+                                               make  correction requested 
+                                         iii make  correction requested 
+                               b  complaint
+                                            dismiss  complaint 
+                                         ii order  head   organization
+                                                comply   provisions 
+                                                mandatory   conduct
+                                                 act
+                                enquiry  conducted  
+                      section  may  conducted   commissioner
+                            tribunal comprising 
+                      commissioner  one   deputy commissioners
+                               person aggrieved   decision  
+                      commissioner   tribunal   section may
+                      apply   high court  judicial review
+mediation  request       commissioner may authorize  mediator
+                       investigate  circumstances   request 
+                      section   try  effect  settlement   matter
+                                commissioner 
+                                 authorized  mediator  conduct 
+                                    investigation  subsection  
+                                b authorized  mediator  conduct 
+                                    investigation  subsection   
+                                    settlement   reached
+                       may conduct  enquiry   request  section
+                      
+enquiry  request      enquiry   commissioner   mediator
+ conducted 
+private
+                        meetings held   mediator  parties  
+                      request may  conducted  private
+representations           individual  requested access  
+                      correction  personal information   made 
+                      complaint  head   organization concerned 
+
+                   data protection                                   
+ affected party shall  given  opportunity 
+make representations   commissioner  none
+ entitled 
+           present 
+          b  access  
+          c comment 
+representations made   commissioner   
+person
+ every director  officer   corporation shall take duties  directors
+reasonable care  ensure   corporation complies
+
+           act   regulations made thereunder
+              
+          b  orders imposed   commissioner 
+               delegate
+                          part v
+            contravention       enforcement
+     person  wilfully obstructs  information obstruction
+commissioner    person acting   
+ direction   commissioner   course 
+carrying   audit   investigation commits 
+offence
+      person  makes  request  access   false 
+                                                            misleading
+correction  personal information  false pre statements
+tences commits  offence
+         person  wilfully makes  false statement
+ mislead  attempts  mislead  commissioner
+  performance   functions   act
+commits  offence
+     person  fails  comply   order   failure  comply
+commissioner commits  offence                             order
+     person  contravenes  provisions  violation  whistle
+section  commits  offence                             blowing provisions
+
+                                       data protection                
+offence               person    mandatory  
+complying 
+mandatory       conduct applies  section  fails  comply 
+conduct                mandatory   conduct  commits  offence
+contravention  act        person  wilfully discloses personal
+                      information  contravention   act commits 
+                      offence
+                               person  collects stores  disposes 
+                      personal information   manner  contravenes 
+                      act commits  offence
+breach  obligations      person  breaches  confidentiality
+ confidentiality
+                      obligations established  section  commits 
+                      offence
+offences  directors       corporation commits  offence 
+ officers
+                       act  officer director  agent   corporation
+                       directed authorized assented   participated 
+                       commission   offence   party   commits
+                       offence   liable   punishment provided 
+                       offence
+                            person  commits  offence  
+penalties             act  liable upon
+                                  summary conviction   fine  
+                                       fifty thousand dollars  
+                                     imprisonment   term  three years
+                                     
+                                 b conviction  indictment   fine  
+                                       one hundred thousand dollars
+                                       imprisonment   term   
+                                      five years
+                                offences   act 
+                      committed   body corporate  body corporate shall
+                       liable upon
+                                  summary conviction   fine  two
+                                     hundred  fifty thousand dollars 
+                                 b conviction  indictment   fine  five
+                                     hundred thousand dollars
+
+                     data protection                               
+      corporation contravenes             penalties 
+provisions   act  court may impose  fine       corporations
+ ten per cent   annual turnover   enterprise
+         imposing  fine  subsection  
+court shall take  account
+           estimate   economic cost  
+              contravention   consumers users  
+              services  question    person
+              affected   contravention
+          b  estimate   economic benefit  
+              contravention   enterprise
+          c  time    contravention  
+              effect  continuing
+         d  number  seriousness   
+              contraventions   committed  
+              corporation 
+          e   matter  court may consider
+              appropriate   circumstances
+                           part vi
+                        miscellaneous
+    minister may order  public body   costs  audit
+corporation  pay  costs reasonably incurred  
+performance   audit pursuant  sections   
+     court shall  jurisdiction  hear  jurisdiction  
+determine                                                    court
+          applications                    information
+              commissioner   order  
+              court considers appropriate  facilitate 
+              enforcement   provisions   act
+              
+          b upon application   information
+              commissioner        cases      involving  
+              contravention   provisions   act
+               make  appropriate orders 
+              relation thereto
+
+                                       data protection                
+whistleblowing          employer whether    public body shall
+protection
+                     dismiss suspend demote discipline harass 
+                    otherwise disadvantage  employee  deny 
+                    employee  deny  employee  benefit 
+                                employee acting  good faith   
+                                  basis  reasonable belief 
+                                          notified  commissioner 
+                                              employer    person
+                                              contravened    
+                                             contravene  act
+                                        ii done  stated  intention 
+                                              anything   required 
+                                              done  order  avoid 
+                                              person contravene  act 
+                                       iii refused    stated  intention
+                                              refusing   anything   
+                                             contravention   act 
+                              b  employer believes   employee
+                                  will  anything described  paragraph 
+regulations               minister may make regulations  
+                    purpose 
+                                  prescribing anything required  
+                                     prescribed   act 
+                                 b giving effect   provisions   act
+                             regulations made   section shall 
+                    subject  negative resolution  parliament
+chap  amended      freedom  information act  amended 
+                                  section 
+                                           inserting   definition
+                                              applicant  following
+                                             definitions
+                                                decision   public authority
+                                                 means  refusal   public
+                                                 authority  grant access  
+                                                 official document   failure
+                                                   public authority  comply
+                                                  section    herein
+
+                   data protection                   
+                         information       commissioner
+                         means  person appointed
+                         pursuant  section    data
+                         protection act
+                 ii  deleting  definition  personal
+                      information  substituting 
+                      following definition
+                         personal information  
+                         meaning assigned    
+                         data protection act
+                iii   definition  public
+                      authority
+                            paragraph j  deleting
+                               word 
+                          b  inserting   words
+                              control  word 
+                          c  inserting  paragraph
+                              k  following new
+                              paragraph
+                              l  office  information
+                              commissioner  appointed
+                               section    data
+                              protection act
+       b section   paragraph d  deleting
+            words high court  judicial 
+           substituting  words information
+           commissioner 
+       c section   deleting subsections  
+              substituting  following
+           subsections
+                    document   exempt
+                 document   disclosure  
+                 act  involve  disclosure 
+                 personal information   manner
+                 inconsistent   data protection
+                 act
+                      provisions  subsectioon 
+                 shall  apply   request  
+                 individual    personal
+                 information  request shall 
+                 treated   rquest   data
+                 protection act
+
+                            data protection          
+                     request   person
+                 person referred  
+              subsection   made   public body
+               access   document containing
+              personal information  public body
+              shall proceed  accordance  
+              data protection act  deciding
+              whether  grant access  
+              request
+   d section   deleting subsection  
+        substituting  following subsection
+                        document whether
+                   one   access 
+                given   act contains
+               personal information   individual
+                 individual believes  
+               information  inaccurate  shall
+               proceed   public body shall
+               address  matter  accordance 
+               section    data protection act
+    e section 
+                   subsection   deleting 
+                     word ombudsman wherever 
+                     occurs  substituting  words
+                     information commissioner
+                ii  subsection   deleting
+                      word ombudsman 
+                     substituting                words
+                     information commissioner 
+               iii  deleting subsection  
+                     substituting  following subsection
+                           decisions          
+                     information commissioner 
+                     issues relating   act shall 
+                     binding  public bodies 
+
+                             data protection                      
+                           iv  inserting  subsection  
+                                 following new subsection
+                                        court     shall      
+                                 jurisdiction  hear  determine
+                                 applications   information
+                                 commissioner   order
+                                   court considers
+                                 appropriate  facilitate 
+                                 enforcement   provisions
+                                   act
+            f section   repealing subsection 
+           g section  
+                         subsections     deleting
+                               words  minister wherever
+                                   occur           substituting
+                                   words           information
+                              commissioner 
+                      ii subsection d  deleting 
+                             word ombudsman  substituting
+                              word commissioner
+                                  schedule
+                                     part 
+                                                               section 
+    form    oath affirmation        information  commissioner
+  b   appointed information commissioner 
+swear   solemnly affirm   bear true faith 
+allegiance  trinidad  tobago  will uphold  constitution
+  law   will conscientiously impartially    best
+  knowledge judgement  ability discharge  functions 
+ office   right   manner  people   laws 
+usages  trinidad  tobago without fear  favour affection 
+illwill
+
+                             data protection                       
+                                       part b
+                                                                  section 
+           form   oath affirmation  deputy information
+                                     commissioner
+     b   appointed deputy information commissioner
+    swear   solemnly affirm   bear true faith 
+   allegiance  trinidad  tobago  will uphold  constitution
+     law   will conscientiously impartially    best
+     knowledge judgement  ability discharge  functions 
+    office   right   manner  people   laws 
+   usages  trinidad  tobago without fear  favour affection 
+   illwill
+      passed   house  representatives  th day
+    february 
+                                              j sampson meiguel
+                                                            clerk   house
+       passed   senate  th day  may 
+                                                    n jaggassar
+                                                           clerk   senate
+       senate amendments agreed    house 
+   representatives   rd day  june 
+                                              j sampson meiguel
+                                                            clerk   house
+

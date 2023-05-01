@@ -1,0 +1,525 @@
+republic act  
+posted  august  
+                                                republic   philippines
+                                                congress   philippines
+                                                        metro manila
+                                                     fifteenth congress
+                                                  second regular session
+begun  held  metro manila  monday  twentyfifth day  july two thousand eleven
+                                               republic act  
+         act protecting individual personal information  information 
+    communications systems   government   private sector creating
+          purpose  national privacy commission    purposes
+  enacted   senate  house  representatives   philippines  congress assembled
+                                                          
+                                                 general provisions
+section  short title   act shall  known   data privacy act  
+  declaration  policy     policy   state  protect  fundamental human right  privacy 
+communication  ensuring free flow  information  promote innovation  growth  state recognizes 
+vital role  information  communications technology  nationbuilding   inherent obligation  ensure 
+personal information  information  communications systems   government    private sector 
+secured  protected
+  definition  terms  whenever used   act  following terms shall   respective meanings
+hereafter set forth
+ commission shall refer   national privacy commission created  virtue   act
+b consent   data subject refers   freely given specific informed indication  will whereby  data subject
+agrees   collection  processing  personal information  andor relating     consent shall 
+evidenced  written electronic  recorded means  may also  given  behalf   data subject   agent
+specifically authorized   data subject   
+c data subject refers   individual whose personal information  processed
+d direct marketing refers  communication  whatever means   advertising  marketing material  
+directed  particular individuals
+e filing system refers   act  information relating  natural  juridical persons   extent  although 
+information   processed  equipment operating automatically  response  instructions given   purpose
+ set  structured either  reference  individuals   reference  criteria relating  individuals    way
+ specific information relating   particular person  readily accessible
+f information  communications system refers   system  generating sending receiving storing  otherwise
+processing electronic data messages  electronic documents  includes  computer system   similar device
+   data  recorded transmitted  stored   procedure related   recording transmission  storage
+ electronic data electronic message  electronic document
+
+g personal information refers   information whether recorded   material form      identity
+  individual  apparent  can  reasonably  directly ascertained   entity holding  information  
+put together   information  directly  certainly identify  individual
+h personal information controller refers   person  organization  controls  collection holding processing
+ use  personal information including  person  organization  instructs another person  organization 
+collect hold process use transfer  disclose personal information     behalf  term excludes
+  person  organization  performs  functions  instructed  another person  organization 
+  individual  collects holds processes  uses personal information  connection   individuals
+personal family  household affairs
+ personal information processor refers   natural  juridical person qualified  act     act 
+  personal information controller may outsource  processing  personal data pertaining   data subject
+j processing refers   operation   set  operations performed upon personal information including  
+limited   collection recording organization storage updating  modification retrieval consultation use
+consolidation blocking erasure  destruction  data
+k privileged information refers     forms  data    rules  court   pertinent laws
+constitute privileged communication
+l sensitive personal information refers  personal information
+   individuals race ethnic origin marital status age color  religious philosophical  political
+affiliations
+   individuals health education genetic  sexual life   person    proceeding   offense
+committed  alleged    committed   person  disposal   proceedings   sentence  
+court   proceedings
+ issued  government agencies peculiar   individual  includes   limited  social security numbers
+previous  cmrent health records licenses   denials suspension  revocation  tax returns 
+ specifically established   executive order   act  congress   kept classified
+  scope   act applies   processing   types  personal information    natural  juridical
+person involved  personal information processing including  personal information controllers  processors
+ although  found  established   philippines use equipment   located   philippines  
+ maintain  office branch  agency   philippines subject   immediately succeeding paragraph provided
+  requirements  section   complied 
+ act   apply   following
+ information   individual      officer  employee   government institution  relates  
+position  functions   individual including
+  fact   individual     officer  employee   government institution
+  title business address  office telephone number   individual
+  classification salary range  responsibilities   position held   individual 
+  name   individual   document prepared   individual   course  employment  
+government
+
+b information   individual     performing service  contract   government institution 
+relates   services performed including  terms   contract   name   individual given   course
+  performance   services
+c information relating   discretionary benefit   financial nature    granting   license  permit
+given   government   individual including  name   individual   exact nature   benefit
+d personal information processed  journalistic artistic literary  research purposes
+e information necessary  order  carry   functions  public authority  includes  processing 
+personal data   performance   independent central monetary authority  law enforcement  regulatory
+agencies   constitutionally  statutorily mandated functions nothing   act shall  construed   
+amended  repealed republic act   otherwise known   secrecy  bank deposits act republic act 
+ otherwise known   foreign currency deposit act  republic act   otherwise known  
+credit information system act cisa
+f information necessary  banks   financial institutions   jurisdiction   independent central
+monetary authority  bangko sentral ng pilipinas  comply  republic act    republic act  
+ amended otherwise known   antimoney laundering act   applicable laws 
+g personal information originally collected  residents  foreign jurisdictions  accordance   laws  
+foreign jurisdictions including  applicable data privacy laws    processed   philippines
+  protection afforded  journalists   sources  nothing   act shall  construed   
+amended  repealed  provisions  republic act    affords  publishers editors  duly accredited
+reporters   newspaper magazine  periodical  general circulation protection   compelled  reveal 
+source   news report  information appearing  said publication   related   confidence  
+publisher editor  reporter
+  extraterritorial application   act applies   act done  practice engaged   outside  
+philippines   entity 
+  act practice  processing relates  personal information   philippine citizen   resident
+b  entity   link   philippines   entity  processing personal information   philippines 
+even   processing  outside  philippines  long     philippine citizens  residents    
+limited   following
+  contract  entered   philippines
+  juridical entity unincorporated   philippines   central management  control   country 
+  entity    branch agency office  subsidiary   philippines   parent  affiliate  
+philippine entity  access  personal information 
+c  entity   links   philippines     limited 
+  entity carries  business   philippines 
+  personal information  collected  held   entity   philippines
+                                                         ii
+                                        national privacy commission
+  functions   national privacy commission   administer  implement  provisions   act 
+ monitor  ensure compliance   country  international standards set  data protection   hereby
+created  independent body   known   national privacy commission winch shall   following
+functions
+
+ ensure compliance  personal information controllers   provisions   act
+b receive complaints institute investigations facilitate  enable settlement  complaints   use 
+alternative dispute resolution processes adjudicate award indemnity  matters affecting  personal information
+prepare reports  disposition  complaints  resolution   investigation  initiates   cases  deems
+appropriate publicize   report provided   resolving  complaint  investigation except 
+amicable settlement  reached   parties  commission shall act   collegial body   purpose 
+commission may  given access  personal information   subject   complaint   collect  information
+necessary  perform  functions   act
+c issue cease  desist orders impose  temporary  permanent ban   processing  personal information upon
+finding   processing will  detrimental  national security  public interest
+d compel  petition  entity government agency  instrumentality  abide   orders  take action   matter
+affecting data privacy
+e monitor  compliance   government agencies  instrumentalities   security  technical measures
+ recommend  necessary action  order  meet minimum standards  protection  personal information
+pursuant   act
+f coordinate   government agencies   private sector  efforts  formulate  implement plans 
+policies  strengthen  protection  personal information   country
+g publish   regular basis  guide   laws relating  data protection
+h publish  compilation  agency system  records  notices including index   finding aids
+ recommend   department  justice doj  prosecution  imposition  penalties specified  sections 
+    act
+j review approve reject  require modification  privacy codes voluntarily adhered   personal information
+controllers provided   privacy codes shall adhere   underlying data privacy principles embodied  
+act provided    privacy codes may include private dispute resolution mechanisms  complaints
+  participating personal information controller   purpose  commission shall consult  relevant
+regulatory agencies   formulation  administration  privacy codes applying  standards set    act
+ respect   persons entities business activities  business sectors  said regulatory bodies  authorized 
+principally regulate pursuant   law provided finally   commission may review  privacy codes 
+require changes thereto  purposes  complying   act
+k provide assistance  matters relating  privacy  data protection   request   national  local agency 
+private entity   person
+l comment   implication  data privacy  proposed national  local statutes regulations  procedures issue
+advisory opinions  interpret  provisions   act   data privacy laws
+m propose legislation amendments  modifications  philippine laws  privacy  data protection  may 
+necessary
+n ensure proper  effective coordination  data privacy regulators   countries  private accountability
+agents participate  international  regional initiatives  data privacy protection
+o negotiate  contract   data privacy authorities   countries  crossborder application 
+implementation  respective privacy laws
+p assist philippine companies  business abroad  respond  foreign privacy  data protection laws 
+regulations 
+q generally perform  acts  may  necessary  facilitate crossborder enforcement  data privacy protection
+
+  confidentiality   commission shall ensure   times  confidentiality   personal information 
+comes   knowledge  possession
+  organizational structure   commission   commission shall  attached   department 
+information  communications technology dict  shall  headed   privacy commissioner  shall also
+act  chairman   commission  privacy commissioner shall  assisted  two  deputy privacy
+commissioners one   responsible  data processing systems  one   responsible  policies  planning
+ privacy commissioner   two  deputy privacy commissioners shall  appointed   president  
+philippines   term  three  years  may  reappointed  another term  three  years vacancies  
+commission shall  filled    manner    original appointment  made
+ privacy commissioner must   least thirtyfive  years  age   good moral character unquestionable
+integrity  known probity   recognized expert   field  information technology  data privacy 
+privacy commissioner shall enjoy  benefits privileges  emoluments equivalent   rank  secretary
+ deputy privacy commissioners must  recognized experts   field  information  communications
+technology  data privacy  shall enjoy  benefits privileges  emoluments equivalent   rank 
+undersecretary
+ privacy commissioner  deputy commissioners   person acting   behalf    direction
+shall   civilly liable  acts done  good faith   performance   duties however    shall 
+liable  willful  negligent acts done       contrary  law morals public policy  good
+customs even     acted  orders  instructions  superiors provided   case  lawsuit  filed
+  official   subject   performance     duties   performance  lawful   
+shall  reimbursed   commission  reasonable costs  litigation
+   secretariat   commission  hereby authorized  establish  secretariat majority   members 
+ secretariat must  served   least five  years   agency   government   involved  
+processing  personal information including   limited   following offices social security system sss
+government service insurance system gsis land transportation office lto bureau  internal revenue bir
+philippine health insurance corporation philhealth commission  elections comelec department  foreign
+affairs dfa department  justice doj  philippine postal corporation philpost
+                                                        iii
+                                     processing  personal information
+  general data privacy principles   processing  personal information shall  allowed subject 
+compliance   requirements   act   laws allowing disclosure  information   public 
+adherence   principles  transparency legitimate purpose  proportionality
+personal information must 
+ collected  specified  legitimate purposes determined  declared    soon  reasonably practicable
+ collection  later processed   way compatible   declared specified  legitimate purposes 
+b processed fairly  lawfully
+c accurate relevant   necessary  purposes       used  processing  personal
+information kept   date inaccurate  incomplete data must  rectified supplemented destroyed   
+processing restricted
+d adequate   excessive  relation   purposes     collected  processed
+e retained    long  necessary   fulfillment   purposes    data  obtained   
+establishment exercise  defense  legal claims   legitimate business purposes   provided  law 
+f kept   form  permits identification  data subjects   longer   necessary   purposes 
+  data  collected  processed provided  personal information collected   purposes may lie
+processed  historical statistical  scientific purposes   cases laid   law may  stored  longer
+periods provided   adequate safeguards  guaranteed  said laws authorizing  processing
+
+ personal information controller must ensure implementation  personal information processing principles set 
+herein
+  criteria  lawful processing  personal information   processing  personal information shall 
+permitted    otherwise prohibited  law    least one   following conditions exists
+  data subject  given    consent
+b  processing  personal information  necessary   related   fulfillment   contract   data
+subject   order  take steps   request   data subject prior  entering   contract
+c  processing  necessary  compliance   legal obligation    personal information controller 
+subject
+d  processing  necessary  protect vitally important interests   data subject including life  health
+e  processing  necessary  order  respond  national emergency  comply   requirements  public
+order  safety   fulfill functions  public authority  necessarily includes  processing  personal data 
+ fulfillment   mandate 
+f  processing  necessary   purposes   legitimate interests pursued   personal information
+controller    third party  parties    data  disclosed except   interests  overridden 
+fundamental rights  freedoms   data subject  require protection   philippine constitution
+  sensitive personal information  privileged information   processing  sensitive personal
+information  privileged information shall  prohibited except   following cases
+  data subject  given    consent specific   purpose prior   processing    case 
+privileged information  parties   exchange  given  consent prior  processing
+b  processing     provided   existing laws  regulations provided   regulatory
+enactments guarantee  protection   sensitive personal information   privileged information provided
+   consent   data subjects   required  law  regulation permitting  processing  
+sensitive personal information   privileged information
+c  processing  necessary  protect  life  health   data subject  another person   data subject 
+ legally  physically able  express    consent prior   processing
+d  processing  necessary  achieve  lawful  noncommercial objectives  public organizations  
+associations provided   processing   confined  related   bona fide members  
+organizations   associations provided    sensitive personal information   transferred  third
+parties provided finally  consent   data subject  obtained prior  processing
+e  processing  necessary  purposes  medical treatment  carried    medical practitioner   medical
+treatment institution   adequate level  protection  personal information  ensured 
+f  processing concerns  personal information   necessary   protection  lawful rights  interests 
+natural  legal persons  court proceedings   establishment exercise  defense  legal claims  
+provided  government  public authority
+  subcontract  personal information   personal information controller may subcontract  processing 
+personal information provided   personal information controller shall  responsible  ensuring  proper
+safeguards   place  ensure  confidentiality   personal information processed prevent  use 
+unauthorized purposes  generally comply   requirements   act   laws  processing 
+personal information  personal information processor shall comply    requirements   act  
+applicable laws
+
+  extension  privileged communication  personal information controllers may invoke  principle 
+privileged communication  privileged information   lawfully control  process subject  existing laws
+ regulations  evidence gathered  privileged information  inadmissible
+                                                          iv
+                                             rights   data subject
+  rights   data subject   data subject  entitled 
+  informed whether personal information pertaining     shall       processed
+b  furnished  information indicated hereunder   entry     personal information  
+processing system   personal information controller    next practical opportunity
+ description   personal information   entered   system
+ purposes          processed
+ scope  method   personal information processing
+  recipients  classes  recipients      may  disclosed
+ methods utilized  automated access     allowed   data subject   extent   
+access  authorized
+  identity  contact details   personal information controller   representative
+  period    information will  stored 
+  existence   rights ie  access correction  well   right  lodge  complaint  
+commission
+ information supplied  declaration made   data subject   matters shall   amended without prior
+notification  data subject provided   notification  subsection b shall  apply   personal
+information  needed pursuant   subpoena    collection  processing   obvious purposes
+including    necessary   performance    relation   contract  service   necessary 
+desirable   context   employeremployee relationship   collector   data subject   
+information   collected  processed   result  legal obligation
+c reasonable access  upon demand  following
+ contents     personal information   processed
+ sources   personal information  obtained
+ names  addresses  recipients   personal information
+ manner    data  processed
+ reasons   disclosure   personal information  recipients
+ information  automated processes   data will  likely   made   sole basis   decision
+significantly affecting  will affect  data subject
+ date     personal information concerning  data subject  last accessed  modified 
+  designation  name  identity  address   personal information controller
+
+d dispute  inaccuracy  error   personal information    personal information controller correct 
+immediately  accordingly unless  request  vexatious  otherwise unreasonable   personal information
+  corrected  personal information controller shall ensure  accessibility    new   retracted
+information   simultaneous receipt   new   retracted information  recipients thereof provided 
+ third parties   previously received  processed personal information shall  informed   inaccuracy
+  rectification upon reasonable request   data subject
+e suspend withdraw  order  blocking removal  destruction     personal information  
+personal information controllers filing system upon discovery  substantial proof   personal information 
+incomplete outdated false unlawfully obtained used  unauthorized purposes    longer necessary  
+purposes     collected   case  personal information controller may notify third parties 
+ previously received  processed personal information 
+f  indemnified   damages sustained due   inaccurate incomplete outdated false unlawfully obtained
+ unauthorized use  personal information
+  transmissibility  rights   data subject   lawful heirs  assigns   data subject may invoke
+ rights   data subject        heir  assignee   time   death   data subject 
+  data subject  incapacitated  incapable  exercising  rights  enumerated   immediately preceding
+section
+  right  data portability   data subject shall   right  personal information  processed 
+electronic means    structured  commonly used format  obtain   personal information controller 
+copy  data undergoing processing   electronic  structured format   commonly used  allows 
+ use   data subject  commission may specify  electronic format referred    well  
+technical standards modalities  procedures   transfer
+  nonapplicability   immediately preceding sections   applicable   processed personal
+information  used    needs  scientific  statistical research    basis    activities 
+carried    decisions  taken regarding  data subject provided   personal information shall  held
+ strict confidentiality  shall  used    declared purpose likewise  immediately preceding
+sections   applicable  processing  personal information gathered   purpose  investigations  relation 
+ criminal administrative  tax liabilities   data subject
+                                                          v
+                                      security  personal information
+  security  personal information    personal information controller must implement reasonable 
+appropriate organizational physical  technical measures intended   protection  personal information 
+ accidental  unlawful destruction alteration  disclosure  well     unlawful processing
+b  personal information controller shall implement reasonable  appropriate measures  protect personal
+information  natural dangers   accidental loss  destruction  human dangers   unlawful access
+fraudulent misuse unlawful destruction alteration  contamination
+c  determination   appropriate level  security   section must take  account  nature  
+personal information   protected  risks represented   processing  size   organization 
+complexity   operations current data privacy best practices   cost  security implementation subject 
+guidelines   commission may issue  time  time  measures implemented must include
+ safeguards  protect  computer network  accidental unlawful  unauthorized usage  interference 
+ hindering   functioning  availability
+  security policy  respect   processing  personal information
+  process  identifying  accessing reasonably foreseeable vulnerabilities   computer networks  
+taking preventive corrective  mitigating action  security incidents  can lead   security breach 
+ regular monitoring  security breaches   process  taking preventive corrective  mitigating action
+ security incidents  can lead   security breach
+
+d  personal information controller must  ensure  third parties processing personal information  
+behalf shall implement  security measures required   provision
+e  employees agents  representatives   personal information controller   involved   processing 
+personal information shall operate  hold personal information  strict confidentiality   personal information
+  intended  public disclosure  obligation shall continue even  leaving  public service transfer 
+another position  upon termination  employment  contractual relations
+f  personal information controller shall promptly notify  commission  affected data subjects  sensitive
+personal information   information  may   circumstances  used  enable identity fraud 
+reasonably believed    acquired   unauthorized person   personal information controller  
+commission believes bat  unauthorized acquisition  likely  give rise   real risk  serious harm  
+affected data subject  notification shall  least describe  nature   breach  sensitive personal information
+possibly involved   measures taken   entity  address  breach notification may  delayed   
+extent necessary  determine  scope   breach  prevent  disclosures   restore reasonable integrity 
+ information  communications system
+  evaluating  notification  unwarranted  commission may take  account compliance   personal
+information controller   section  existence  good faith   acquisition  personal information
+  commission may exempt  personal information controller  notification    reasonable judgment
+ notification      public interest    interests   affected data subjects
+  commission may authorize postponement  notification   may hinder  progress   criminal
+investigation related   serious breach
+                                                         vi
+                       accountability  transfer  personal information
+  principle  accountability   personal information controller  responsible  personal information
+  control  custody including information    transferred   third party  processing whether
+domestically  internationally subject  crossborder arrangement  cooperation
+  personal information controller  accountable  complying   requirements   act  shall use
+contractual   reasonable means  provide  comparable level  protection   information  
+processed   third party
+b  personal information controller shall designate  individual  individuals   accountable  
+organizations compliance   act  identity   individuals  designated shall  made known  
+data subject upon request
+                                                        vii
+                                        security  sensitive personal
+                                           information  government
+  responsibility  heads  agencies   sensitive personal information maintained   government 
+agencies  instrumentalities shall  secured  far  practicable   use    appropriate standard
+recognized   information  communications technology industry   recommended   commission 
+head   government agency  instrumentality shall  responsible  complying   security requirements
+mentioned herein   commission shall monitor  compliance  may recommend  necessary action 
+order  satisfy  minimum standards
+  requirements relating  access  agency personnel  sensitive personal information   onsite 
+online access  except  may  allowed  guidelines   issued   commission  employee  
+government shall  access  sensitive personal information  government property   online facilities
+unless  employee  received  security clearance   head   source agency
+b offsite access  unless otherwise provided  guidelines   issued   commission sensitive personal
+information maintained   agency may   transported  accessed   location  government property
+
+unless  request   transportation  access  submitted  approved   head   agency  accordance
+  following guidelines
+ deadline  approval  disapproval    case   request submitted   head   agency  head 
+ agency shall approve  disapprove  request within two  business days   date  submission  
+request  case    action   head   agency   request  considered disapproved
+ limitation  one thousand  records    request  approved  head   agency shall limit  access
+    one thousand  records   time 
+ encryption   technology used  store transport  access sensitive personal information  purposes  
+site access approved   subsection shall  secured   use    secure encryption standard recognized
+  commission
+ requirements   subsection shall  implemented  later  six  months   date   enactment 
+ act
+  applicability  government contractors   entering   contract  may involve accessing 
+requiring sensitive personal information  one thousand    individuals  agency shall require 
+contractor   employees  register  personal information processing system   commission 
+accordance   act   comply    provisions   act including  immediately preceding
+section    manner  agencies  government employees comply   requirements
+                                                       viii
+                                                        penalties
+  unauthorized processing  personal information  sensitive personal information    unauthorized
+processing  personal information shall  penalized  imprisonment ranging  one  year  three  years 
+ fine   less  five hundred thousand pesos php     two million pesos
+php shall  imposed  persons  process personal information without  consent   data
+subject  without  authorized   act   existing law
+b  unauthorized processing  personal sensitive information shall  penalized  imprisonment ranging 
+three  years  six  years   fine   less  five hundred thousand pesos php   
+ four million pesos php shall  imposed  persons  process personal information without 
+consent   data subject  without  authorized   act   existing law
+  accessing personal information  sensitive personal information due  negligence   accessing
+personal information due  negligence shall  penalized  imprisonment ranging  one  year  three  years
+  fine   less  five hundred thousand pesos php     two million pesos
+php shall  imposed  persons  due  negligence provided access  personal information
+without  authorized   act   existing law
+b accessing sensitive personal information due  negligence shall  penalized  imprisonment ranging  three
+ years  six  years   fine   less  five hundred thousand pesos php    
+four million pesos php shall  imposed  persons  due  negligence provided access  personal
+information without  authorized   act   existing law
+  improper disposal  personal information  sensitive personal information    improper disposal
+ personal information shall  penalized  imprisonment ranging  six  months  two  years   fine 
+ less  one hundred thousand pesos php     five hundred thousand pesos
+php shall  imposed  persons  knowingly  negligently dispose discard  abandon  personal
+information   individual   area accessible   public   otherwise placed  personal information  
+individual   container  trash collection
+b  improper disposal  sensitive personal information shall  penalized  imprisonment ranging  one 
+year  three  years   fine   less  one hundred thousand pesos php     one
+million pesos php shall  imposed  persons  knowingly  negligently dispose discard 
+abandon  personal information   individual   area accessible   public   otherwise placed 
+personal information   individual   container  trash collection
+
+  processing  personal information  sensitive personal information  unauthorized purposes  
+processing  personal information  unauthorized purposes shall  penalized  imprisonment ranging  one 
+year  six  months  five  years   fine   less  five hundred thousand pesos php 
+   one million pesos php shall  imposed  persons processing personal information 
+purposes  authorized   data subject  otherwise authorized   act   existing laws
+ processing  sensitive personal information  unauthorized purposes shall  penalized  imprisonment ranging
+ two  years  seven  years   fine   less  five hundred thousand pesos php  
+  two million pesos php shall  imposed  persons processing sensitive personal information
+ purposes  authorized   data subject  otherwise authorized   act   existing laws
+  unauthorized access  intentional breach   penalty  imprisonment ranging  one  year  three
+ years   fine   less  five hundred thousand pesos php     two million pesos
+php shall  imposed  persons  knowingly  unlawfully  violating data confidentiality 
+security data systems breaks   way   system  personal  sensitive personal information  stored
+  concealment  security breaches involving sensitive personal information   penalty  imprisonment
+ one  year  six  months  five  years   fine   less  five hundred thousand pesos
+php     one million pesos php shall  imposed  persons   
+knowledge   security breach    obligation  notify  commission pursuant  section f intentionally
+  omission conceals  fact   security breach
+  malicious disclosure   personal information controller  personal information processor    
+officials employees  agents   malice   bad faith discloses unwarranted  false information relative 
+ personal information  personal sensitive information obtained     shall  subject  imprisonment
+ranging  one  year  six  months  five  years   fine   less  five hundred thousand pesos
+php     one million pesos php
+  unauthorized disclosure    personal information controller  personal information processor  
+  officials employees  agents  discloses   third party personal information  covered   immediately
+preceding section without  consent   data subject shall  subject  imprisonment ranging  one  year 
+three  years   fine   less  five hundred thousand pesos php     one million
+pesos php
+b  personal information controller  personal information processor     officials employees  agents
+ discloses   third party sensitive personal information  covered   immediately preceding section without
+ consent   data subject shall  subject  imprisonment ranging  three  years  five  years   fine
+  less  five hundred thousand pesos php     two million pesos php
+  combination  series  acts   combination  series  acts  defined  sections    shall make
+ person subject  imprisonment ranging  three  years  six  years   fine   less  one million
+pesos php     five million pesos php
+  extent  liability    offender   corporation partnership   juridical person  penalty shall 
+imposed upon  responsible officers   case may   participated     gross negligence allowed 
+commission   crime   offender   juridical person  court may suspend  revoke    rights 
+ act   offender   alien    shall  addition   penalties herein prescribed  deported without
+ proceedings  serving  penalties prescribed   offender   public official  employee  lie  
+ found guilty  acts penalized  sections      act    shall  addition   penalties
+prescribed herein suffer perpetual  temporary absolute disqualification  office   case may 
+  largescale   maximum penalty   scale  penalties respectively provided   preceding
+offenses shall  imposed   personal information   least one hundred  persons  harmed affected 
+involved   result    mentioned actions
+  offense committed  public officer    offender   person responsible   offense   public
+officer  defined   administrative    philippines   exercise     duties  accessory penalty
+consisting   disqualification  occupy public office   term double  term  criminal penalty imposed shall 
+applied
+
+  restitution  restitution   aggrieved party shall  governed   provisions   new civil 
+                                                        ix
+                                            miscellaneous provisions
+  interpretation   doubt   interpretation   provision   act shall  liberally interpreted  
+manner mindful   rights  interests   individual   personal information  processed
+  implementing rules  regulations irr  within ninety  days   effectivity   act 
+commission shall promulgate  rules  regulations  effectively implement  provisions   act
+  reports  information   commission shall annually report   president  congress  
+activities  carrying   provisions   act  commission shall undertake whatever efforts  may determine
+  necessary  appropriate  inform  educate  public  data privacy data protection  fair information
+rights  responsibilities
+  appropriations clause   commission shall  provided   initial appropriation  twenty million
+pesos php   drawn   national government appropriations   succeeding years shall 
+included   general appropriations act  shall likewise receive ten million pesos php per year 
+five  years upon implementation   act drawn   national government
+  transitory provision  existing industries businesses  offices affected   implementation   act
+shall  given one  year transitory period   effectivity   irr    period  may  determined
+  commission  comply   requirements   act
+ case   dict   yet  created   time  law takes full force  effect  national privacy
+commission shall  attached   office   president
+  separability clause    provision  part hereof  held invalid  unconstitutional  remainder  
+law   provision  otherwise affected shall remain valid  subsisting
+  repealing clause   provision  section   republic act   otherwise known   human
+security act    hereby amended except  otherwise expressly provided   act   laws decrees
+executive orders proclamations  administrative regulations  parts thereof inconsistent herewith  hereby
+repealed  modified accordingly
+  effectivity clause   act shall take effect fifteen  days   publication   least two  national
+newspapers  general circulation
+approved
+              sgd feliciano belmonte jr                                    sgd juan ponce enrile
+                       speaker   house                                          president   senate
+                         representatives
+ act    consolidation  senate bill    house bill    finally passed   senate
+  house  representatives  june  
+               sgd marilyn b baruayap                                     sgd emma lirioreyes
+                        secretary general                                            secretary   senate
+                     house  representatives
+approved aug  
+                                            sgd benigno s aquino iii
+                                                 president   philippines
+
+
