@@ -4,7 +4,7 @@ What is this?
 This is Chris Crum's dissertation repository where I (Chris) put files, R code, and occasional figures for reproducibility purposes
 
 Can I take Chris' code?
-Yes, but you do so at your own risk. I make no warranties about effectiveness outside its native environment. Use versionNEW.  
+Yes, but you do so at your own risk. I make no warranties about effectiveness outside its native environment. Use version New.  
 
 Can I use Chris' files?
 Yes, definitely! 
