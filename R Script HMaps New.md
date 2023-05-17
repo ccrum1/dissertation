@@ -149,7 +149,7 @@
 #cosine heatmap, labels as numbers
 > heatmap.2(distance_matrix_cosine, dendrogram = 'column', Rowv = TRUE, Colv = TRUE, symm = TRUE, trace = 'none', density.info = 'none', main = "Textual Similarity (cosine)", cexRow = 0.6, cexCol = 0.6)
 
-##miscelaneous Helpful Code
+##miscelaneous helpful code
 #in order to find row and column values of the N highest values in matrix; this will return duplicates for a cosine distance matrix, so make the # twice as high as you need it to be, FALSE will change to lowest values 
 > x <- which(distance_matrix_cosine >= sort(distance_matrix_cosine, decreasing = TRUE)[20], arr.ind = TRUE)
 > x.order <- order(distance_matrix_cosine[x], decreasing = TRUE)
